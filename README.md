@@ -2,7 +2,8 @@ Name: Shamayita Sarkar (student of University of Calcutta)
 - **Internship** from 15.06.2024 to 15.07.2024
 - **Supervisor**: Prof. Niloy Ganguly (Department of Computer Science and Engineering, IIT Kharagpur)
 - Title: **Exploring ICL Strategies in Patient Questions Summarization**
-- Here we have focused only on the Patient Questions portion from `chq`(Consumer/Patient Health Query) dataset of `data/` folder and implemented ICL(In-context Learning) examples for each of the 150 test samples. The ICL examples are taken from the training set(`data/chq/train.jsonl`) for each of 150 test samples(`data/chq/test.jsonl`). Examples are taken in the order of 1,2,4,8,16(i.e. 2^x where x = 0,1,2,....)
+- Here we have focused only on the Patient Questions portion from `chq`(Consumer/Patient Health Query) dataset of `data/` folder and implemented ICL(In-context Learning) examples for each of the 150 test samples. The ICL examples are taken from the training set(`data/chq/train.jsonl`) for each of 150 test samples(`data/chq/test.jsonl`). Examples are taken in the order of 1,2,4,8,16(i.e. 2^x where x = 0,1,2,....) and in two different methods, these examples are selected: Random & Similar.
+- Also, the ROUGE-L scores are evaluated for the Generated summaries of both Similar and Random samples.
   
 
 
