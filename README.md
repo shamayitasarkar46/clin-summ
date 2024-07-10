@@ -17,9 +17,8 @@ Official implementation from Stanford University<br>
 
 ## Datasets
 We use this pre-existing open-source datasets which are publicly accessible at the sources cited in our manuscript. Additionally, for datasets which do not require PhysioNet access, we provide our versions in `data/`: 
-- `opi`: Open-i (radiology reports)
 - `chq`: MeQSum (patient/consumer health questions)
-- `d2n`: ACI-Bench (dialogue)
+
 
 ## Models
 In addition to proprietary models GPT-3.5 and GPT-4, we adapt the following open-source model available from HuggingFace:
