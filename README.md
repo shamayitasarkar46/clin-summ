@@ -1,3 +1,10 @@
+Name: Shamayita Sarkar (student of University of Calcutta)
+Internship from 15.06.2024 to 15.07.2024
+Supervisor: Prof. Niloy Ganguly (Department of Computer Science and Engineering, IIT Kharagpur)
+Title: Exploring ICL Strategies in Patient Questions Summarization
+Here we have focused only on the Patient Questions portion from `chq`(Consumer/Patient Health Query) dataset of `data/` folder
+
+
 # Clinical Text Summarization by Adapting LLMs | Nature Medicine
 
 Official implementation from Stanford University<br>
@@ -9,18 +16,13 @@ Official implementation from Stanford University<br>
 
 
 ## Datasets
-We use six pre-existing open-source datasets which are publicly accessible at the sources cited in our manuscript. Additionally, for datasets which do not require PhysioNet access, we provide our versions in `data/`: 
+We use this pre-existing open-source datasets which are publicly accessible at the sources cited in our manuscript. Additionally, for datasets which do not require PhysioNet access, we provide our versions in `data/`: 
 - `opi`: Open-i (radiology reports)
 - `chq`: MeQSum (patient/consumer health questions)
 - `d2n`: ACI-Bench (dialogue)
 
 ## Models
-In addition to proprietary models GPT-3.5 and GPT-4, we adapt the following open-source models available from HuggingFace:
-- [FLAN-T5](https://huggingface.co/google/flan-t5-xl)
-- [FLAN-UL2](https://huggingface.co/google/flan-ul2)
-- [Alpaca](https://huggingface.co/chavinlo/alpaca-native)
-- [Med-Alpaca](https://huggingface.co/medalpaca/medalpaca-7b)
-- [Vicuna](https://huggingface.co/AlekseyKorshuk/vicuna-7b)
+In addition to proprietary models GPT-3.5 and GPT-4, we adapt the following open-source model available from HuggingFace:
 - [Llama-2](https://huggingface.co/meta-llama/Llama-2-7b-hf)
 
 ## Code
