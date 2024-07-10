@@ -1,8 +1,8 @@
 Name: Shamayita Sarkar (student of University of Calcutta)
-Internship from 15.06.2024 to 15.07.2024
-Supervisor: Prof. Niloy Ganguly (Department of Computer Science and Engineering, IIT Kharagpur)
-Title: Exploring ICL Strategies in Patient Questions Summarization
-Here we have focused only on the Patient Questions portion from `chq`(Consumer/Patient Health Query) dataset of `data/` folder
+- **Internship** from 15.06.2024 to 15.07.2024
+- **Supervisor**: Prof. Niloy Ganguly (Department of Computer Science and Engineering, IIT Kharagpur)
+- Title: **Exploring ICL Strategies in Patient Questions Summarization**
+- Here we have focused only on the Patient Questions portion from `chq`(Consumer/Patient Health Query) dataset of `data/` folder
 
 
 # Clinical Text Summarization by Adapting LLMs | Nature Medicine
