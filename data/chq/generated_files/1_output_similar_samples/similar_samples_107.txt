@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1156, "inputs": "where on site does it tell how diabetes and neuropathy causes other things like neck and knee pain and other ailments", "target": "What can diabetic neuropathy lead to?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 29, "inputs": "SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.", "target": "Does diabetes affect bowel movements? "}}
