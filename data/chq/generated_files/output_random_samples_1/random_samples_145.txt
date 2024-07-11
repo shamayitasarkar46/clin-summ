@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1194, "inputs": "I m looking for do it cordon blood stem cells. For my autism son he is 6 years old..I m preagnet now 7 months..I want give a new babys cordon blood to my autism boy.please help me..", "target": "Can umbilical cord blood cure autism?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 450, "inputs": "SUBJECT: sti. infection and circumcised MESSAGE: I have noticed that I have an Sti virus on my Penis called Warts human virus(Hpy) so I need a help", "target": "What are the treatments for HPV genital warts?"}}

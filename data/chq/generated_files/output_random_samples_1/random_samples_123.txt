@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1172, "inputs": "Hi my 4 year old son has uncomfortable hair syndrome is there a register that i should put him on. Regards", "target": "Is there a registry for children with uncomfortable hair syndrome?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 711, "inputs": "I have exercise induced asthma. Would any of these non drug devises be suitable please?", "target": "What nondrug devices are suitable for treating exercise induced asthma?"}}

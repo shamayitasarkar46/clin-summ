@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1153, "inputs": "Do they still use cow bone for a L5-S1 fusion, or what are the options. The disk is bulging and herniated and had to go.  Please advise. ", "target": "What bone graft materials are used for spinal fusion?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 869, "inputs": "SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?", "target": "What is the prognosis for someone with homozygous MTHFR A1298C?"}}

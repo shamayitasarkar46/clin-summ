@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1188, "inputs": "Im looking for a Dna test for mental illness. ", "target": "Are there DNA tests for mental illness?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 737, "inputs": "Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.", "target": "Where can I find information about Beckwith-Wieddeman Syndrome?"}}

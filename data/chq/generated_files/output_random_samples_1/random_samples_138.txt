@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1187, "inputs": "where do i go to find information on familial dysautonomia. is there  an organization out there on the subject. all the websites ive gone to say dns error...", "target": "Can you provide information on familial dysautonomia and support groups for it?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 73, "inputs": "SUBJECT: Psoriasis for past 7-8 years MESSAGE: I had psoriasis on my scalp for nearly 10 years. Please give suggestions and medications.", "target": "What are the treatments for psoriasis?"}}

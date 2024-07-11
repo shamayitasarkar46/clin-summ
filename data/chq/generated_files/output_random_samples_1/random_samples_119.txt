@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1168, "inputs": "I have fish smell disorder and i need as much as i could help. Please", "target": "Is there a cure for fish odor syndrome?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 671, "inputs": "SUBJECT: Hepatic hemangioma MESSAGE: What kind of food can I eat .. Because when ever I eat oily food my tummy can hurt or and I have bloating tummy and I want to know what kind of food I can eat because of my hemangioma", "target": "What kind of food can I eat with hepatic hemangioma?"}}

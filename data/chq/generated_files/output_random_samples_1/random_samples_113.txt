@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1162, "inputs": "Hi! I would like to know if I can have some  info mail to me on Sarcoidosis", "target": "Could you give me information on sarcoidosis?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 827, "inputs": "erection problems.  how to get rid of erections?", "target": "What are the treatments for erection problems?"}}

@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1178, "inputs": "I have ra in both knees, I want to get back to work and my normal life.", "target": "Can I have a normal life with rheumatoid arthritis in both knees?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 308, "inputs": "Was giving pudding loaded with steroids I am allergic to steroids need to know way to flush system of them since they attack organs like poison. [NAME] [LOCATION]", "target": "How can I flush steriods from my system?"}}

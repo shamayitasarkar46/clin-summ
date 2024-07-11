@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1174, "inputs": "I have stiff person syndrome.  How do I find out what is new in treatment  in this study?", "target": "What are the latest treatments for the stiff-person syndrome?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 844, "inputs": "SUBJECT: permanent cure for Nystagmus MESSAGE: For me from birth shaking of eyes disorder is there & in family nobody is having this kind of issuse. Pls. Tell me if any curable option for this disease.", "target": "What are the treatments for nystagmus and can it be cured?"}}

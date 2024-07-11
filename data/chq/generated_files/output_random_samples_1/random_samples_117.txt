@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1166, "inputs": "I am suffering from vitiligo patches (White spot) in my body. I am 57 years old. Kindly help me  to cure the disease  white spot due to this i am very depression.", "target": "What can cure vitiligo?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 972, "inputs": "Factor 12 defeincy. I have factor 12 defiency, my GP has told me it is linked to aboriginal/ TSI heritage, is this correct ?    Thanks [NAME]", "target": "Is factor 12 deficiency linked to aboriginal heritage?"}}
