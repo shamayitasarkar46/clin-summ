@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Gastroesophageal Reflux Disease MESSAGE: Can GERD BE CURED? I AM SUFFERING FROM THIS DISEASE FOR ALMOST THREE YEARS NOW.I HAVE GONE TO MANY HOSPITALS  BUT STILL CAN'T BE CURED.I HAVE BEEN GIVEN OMEPRAZOLE CAPSULES MANY TIMES.PLEASE HELP ME.
+summarized question 1: What are the treatments for GERD and can it be cured?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: SIR/MADAM I READ DETAILS OF MY PROBLEM FROM INTERNET THAT'S WHY I AM GOING TO HAVE IN TOUCH WITH YOUR SITE. I AM HAVING A PROBLEM IN WALKING AND CAN NOT PUT MY FEET PROPERLY FOR WALKING MY LEFT LEG FINGER'S LAYED FIRST ON FLOOR . I JUST HAVING THIS PROBLEM FROM LAST FIVE YEARS JUST BECAUSE I HAD WITH AN ACCIDENT AND I GOT A  INJURY IN HEAD ALSO. I EVEN HAD PHYSIOTHERAPY FOR ALL AROUND THREE YEARS BUT STILL I AM FACING THIS PROBLEM. PLEASE HELP ME .
+summarized question 2: What are the treatments for difficulty in walking after head injury?
+##
+query 3: SUBJECT: fluocinolone acetonide ointment tube MESSAGE: Is it possible to obtain this ointment (.25 mg) in anything other than a metal tube?  I travel a lot, and the tube constantly develops cracks, so the ointment squeezes out everywhere -- very messy.  My pharmacy doesn't know of any other packaging.  Thank you!
+summarized question 3: Does fluocinolone acetonide ointment .25 mg come in a non-metal tube or other packaging?
+##
+query 4: My age is 56 years. And i am suffering from non-toxic goiter on left neck of size about 13cm from 5 years. My thyroid test of T3,T4,T5 are normal,FNAC test is normal and i am having no complications right now.  1) Please suggest should i go for operation of my thyroid gland.? 2) Is Radioiodine treatment better then surgery for me? Thanks  [NAME]
+summarized question 4: What is the best treatment for non-toxic goiter?
+##
+query 5: SUBJECT: HELP TO LOCATE DRUG MESSAGE: Received instructions from the FDA in using this site to find an anti-depressant that DOES NOT contain soy in any ingredient.  No product found.  PLEASE HELP ME!!!!
+summarized question 5: What anti-depressant fdrugs do not contain soy as an inactive ingredient?
+##
+query 6: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 6: Who should get the MMR vaccine?
+##
+query 7: SUBJECT: please send me medical information about heart failer for care. MESSAGE: send me information about heart failer.
+summarized question 7: What are the treatments for heart failure?
+##
+query 8: SUBJECT: inversion of long arm chromasome7 MESSAGE: My son has been diagnosed with inversion of long arm chromasome 7 and down syndrome . please could you give me information on the chromasome 7 please because our doctors have not yet mentioned it
+summarized question 8: Where can I find information on chromosome 7?
+##
+query 9: my mother passed away Sunday from Sepsis-Bowel Perforation and I needed to know what it is. She wasn’t sick till the night before after she ate supper. She said her stomace was hurting. She feel the next moning and hit her head. She was ice cold with alittle sweat on her neck. Please, explain this to me.
+summarized question 9:

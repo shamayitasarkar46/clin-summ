@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Pneumococcal Polysaccharide - 23 MESSAGE: I received the Pnuemoccoal Polysaccharide 23 vaccine in 2009 at the age of 67 years. I was told I would never need the vaccine again. Is that still true or has the vaccine been updated? Should I get it again now at the age of 72?
+summarized question 1: What are the guidelines for updating pneumococcal polysaccharide 23 vaccine for persons 65 and over?
+##
+query 2: MESSAGE: My father has undergone braincancer operation and radiation Also.His left side hand and leg is very weak he cant hold a glass nor he cant walk .if he try to walk he falls down.pls suggest treatment for hand and his leg.we will d very gratefull for u.contact [CONTACT] from [LOCATION] u.
+summarized question 2: What are treatment options for recovery of limb use after a brain cancer operation?
+##
+query 3: SUBJECT: Home resources for AMD people MESSAGE: What specific resources are available for an elderly male living by himself at home?  My father in law is 85 years old, lives alone and has macular degeneration.  Looking for visual aids to assist him around the house.
+summarized question 3: What resources are available for elderly with age-related macular degeneration?
+##
+query 4: SUBJECT: NEUROFIBROMATOSIS MESSAGE: Hi:  I have neurofibromatosis handed down by my Mother, (from what we understand was from spontaneous mutation).  I was diagnosed with an Optic Giloma about 25 years ago.  I have also been getting MRI’s to keep an “eye” on it (excuse the pun please), along with visual fields.  The last MRI, according to the radiologist, said it was not there and my Neurologist told me that they do disappear.  My question is, do Optic Giloma go away?  Thanks
+summarized question 4: Can an optic glioma in an adult spontaneously disappear?
+##
+query 5: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 5: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 6: hello i am looking for information related to the above (myostatin-related muscular hypertrophy) genetic condition. can you direct me to a hospital or other genetic research institution that might be doing research on this genetic condition?
+summarized question 6: Where can I find information on myostatin-related muscular hypertrophy, and how can I find an organization doing research on it?
+##
+query 7: Hey I was just wanting to know how I can try to receive stem cell treatment for spinal cord injury using the stem cells I have banked from my newborn baby's umbilical cord tissue? If u have any information please tell me, you'll be helping to save my life!
+summarized question 7: How to receive stem cell treatment for spinal cord injury?
+##
+query 8: SUBJECT: MMR second dosage by mistake MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 8: Is an extra dose of MMR vaccine harmful?
+##
+query 9: SUBJECT: Small head. MESSAGE: I am [NAME], 17 years old girl my head size is small then average.  Enough small that everybody can  notice.  My question is that wall it grow to average.  Or i have to face this throughout my life
+summarized question 9:

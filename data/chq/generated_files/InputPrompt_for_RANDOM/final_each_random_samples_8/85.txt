@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bendectin MESSAGE: In 1964, I began taking Bendectin for morning sickness and with each subsequent pregnancy I continued to do so. My third child developed a meningioma of the brain at 11 years old and currently, my daughter, 47 years old, has been diagnosed with a lesion(?) of the brain. I am justifiably concerned about my daughter's condition and wonder if I contributed to her status. I am only interested in helping her and not for any litigious reason. If someone also had a similar situation and was treated positively, I would so appreciate knowing about it. Thank you and God bless.
+summarized question 1: What birth defects are associated with taking bendectin during pregnancy and are there any treatments?
+##
+query 2: I am interested in learning about treatments for intraductal papillary mucinous neoplasm (IPMN). I'm particularly interested in new treatments, perhaps less invasive surgery or alternative treatments.  It would be good to know who is conducting the research in this area and where it is being conducted. Thank you, [NAME] -- [CONTACT]
+summarized question 2: What is the latest research on and treatments for intraductal papillarymucinous neoplasm (IPMN)?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: chronic hypersensitivity pneumonitis. could this condition be caused by memory foam mattress'.?
+summarized question 3: What causes chronic hypersensitivity pneumonitis?
+##
+query 4: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 4: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 5: SUBJECT: My sister was told she has Breast Cancer MESSAGE:   Hello My Name is [NAME] My sister has been told that she has breast cancer. And I want to no if she could use Salinomycin to kill the breast cancer. [NAME]
+summarized question 5: Is Salinomycin a treatment for breast cancer?
+##
+query 6: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 6: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 7: SUBJECT: Eye muscle surgery as a result fo a TBI cycling accident MESSAGE: I had surgery on the muscles of two eyes as a result of a cycling accident in [LOCATION] in [DATE] 2012 resulted in hospitalized care for s Traumatic Brain Injury.  My eyes were given a year to heal but some double vision occurred and my vision was off center.  Recovery amazing but eyes were a problem (double vision),  Surgery 10 days ago (May) getting mixed opinions on when to go back to sports; cycling, lifting small weights.  Is it 2 week, 4 weeks or 8 weeks of doing nothing.
+summarized question 7: When can I resume exercising  after eye muscle surgery?
+##
+query 8: neurosyphilis.  how can someone have neurosyphilis and there partner not get syphilis
+summarized question 8: Are partners of people with neurosyphilis at risk for syphilis?
+##
+query 9: SUBJECT: INTESTINAL OBSTRUCTION WITHOUT SURGERY. MESSAGE: From Our Family, 35 years old female patient has been diagnosed adenocarcinoma with multiple metastases all over abdomen along with pancreatic tail bulky. Ovary and Uteruses has been removed. Patient has received TWO Cycles of Chemotherapy presently at 3rd Stage and is admitted with intestinal obstruction pancreas. Please Suggest for Intestinal Obstruction without Surgery. Please Reply Urgently.
+summarized question 9:

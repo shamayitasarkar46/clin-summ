@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 1: How is Huntington's disease transmitted?
+##
+query 2: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 2: What are the causes of severe body weakness?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dear Clinical Trials, I am searching for treatment for a disease called Baker, which  is related to Neurology Department. I did not get any  treatment before for this disease. I need to get treatment by Medical Researches if possible . Note: I will be in New York at May 11.
+summarized question 3: What are the treatments for baker disease?
+##
+query 4: medical articles.  I have been told that there are several medical case studies about Loin pain hematuria syndrome (aka LPHS) and Medtronic's Symplicity Renal Denervation medical equipment and that these cases have been published by PubMed.  However, I am unable to locate them.  Can you please recommend a way for me to locate and receive copies?  Thank you!
+summarized question 4: How do I find case studies in PubMed on loin pain hematuria syndrome and renal denervation?
+##
+query 5: SUBJECT: please send me medical information about heart failer for care. MESSAGE: send me information about heart failer.
+summarized question 5: What are the treatments for heart failure?
+##
+query 6: SUBJECT: fever in babies MESSAGE: My 9 month old has a fever of 103.5. What can I do to bring down her fever, and should I take her to the ER if her fever is this high?
+summarized question 6: What are the treatments for fever in an infant and when should we go to the ER?
+##
+query 7: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 7: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 8: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 8: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 9: My father is having cardiomyopathy through genes. He is 83 now. He was absoulutely normal till now. recently he is getting breathlessness. and he was admitted to the hospital twice. The doctors are telling that multi dieases are attacking his heart. I just want to know exactly what is happening and what precautions that he should take in future. What are the chances of survival? Please help.
+summarized question 9:

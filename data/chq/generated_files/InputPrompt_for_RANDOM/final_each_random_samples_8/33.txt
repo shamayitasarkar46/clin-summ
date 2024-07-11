@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: PAEDIATRIC AND GEATATIONAL NUTRITION.  I want detail information about pediatric and gestational nutrition.
+summarized question 1: Where can I find detailed information about pediatric and gestational nutrition?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am 48 years of age..i have had shingles  since i was just 7years..i have had them over 50 times  in my life  . I am also allergic to penicillin and valtrex..most antibiotics  and most pain pills  . I have now began having seizures for last year and half  . I have had testing  done. .waiting  on some results right now  . Any suggestions
+summarized question 2: What is the latest research on treatment for shingles?
+##
+query 3: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 3: How is Huntington's disease transmitted?
+##
+query 4: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 4: Can shingles affect the teeth and gums?
+##
+query 5: SUBJECT: ball and socket joint MESSAGE: sir, with due respect I would like to state that there is a pain in my ball and socket joint . I didn't feel and pain in normal or lower position as I up my hard there is a huge site of pain in my ball and socket joint. please prescribe a medicine for the cure .
+summarized question 5: What are the treatments for joint pain?
+##
+query 6: Achondroplasia research.  Hello, We are students from [LOCATION] and we are doing a biology project of genetic diseases. We chose Achondroplasia as our disease to research. We have a few question and we are hoping you could answer them. Our questions are, can you tell if your child will have Achondroplasia when you are pregnant? When do people usually come in when they think something isn't right with their child? what are the worse cases of Achondroplasia you've ever seen? Thank you in advance. sincerely, [NAME]
+summarized question 6: Where can I find information on achondroplasia, including prenatal diagnosis and prognosis?
+##
+query 7: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 7: What are the ingredients of Glyburide and is it gluten free?
+##
+query 8: SUBJECT: Definitions MESSAGE: Hi, An explaination of what is the difference between myelogenous and lymphocytic leukemia types would be helpful. Great work! Thanks
+summarized question 8: What are the differences between lymphocytic and myelogenous leukemia?
+##
+query 9: My friend is interested in a girl for marriage who is with congenital ptosis, but none of her family members had previously. Would like to know the frequency that it could effect the children in future.
+summarized question 9:

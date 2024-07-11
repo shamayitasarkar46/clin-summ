@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ClinicalTrials.gov - Question - specific study. my son is 17 years old he has omental panniculitis (weber cristian disease) can your institute help me to suggest what is this disear and how it care   if you need i can send the full detail
+summarized question 1: Where can I find information on weber christian disease, including treatment for it?
+##
+query 2: SUBJECT: Medical Diagnosis of Asbestosis MESSAGE: My doctors hint that I have asbestosis but do not say I have asbestosis.  All the medical information that I have read from the CDC, Medlin and NIH all say that the symptoms presented are related to a high level of asbestos.  Why won't the doctor say it?
+summarized question 2: How is asbestosis diagnosed?
+##
+query 3: SUBJECT: Shoulder,back and neck paim MESSAGE: My health care provider has done nothing for but give me shots and pain medication. What can you do to stop the pain? This has been going on 1 and half years.
+summarized question 3: What are the treatments of shoulder, back, and neck pain?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm 33 years old and got diagnosed with rhabdomyosarcoma stage 4 last December. I went through 13 weeks on intense chemotherapy and my last scan showed that I'm in remission. I'm looking for more guidence as far as a stem cell replacement goes.
+summarized question 4: Is stem cell therapy appropriate for stage 4 rhabdomyosarcoma in remission?
+##
+query 5: SUBJECT: downs syndrome daughter had a stroke MESSAGE: Where is there a rehab that can treat with physical therapy, from paralysis, with my 29 yr. old daughter with downs? We live in [LOCATION]. I would have to stay with her through out this ordeal, as she would not understand otherwise. We have run into this problem, but there has to be a rehab dedicated to people with disabilities. [NAME]
+summarized question 5: Where can I find facilities that offer physical therapy for special needs patients?
+##
+query 6: SUBJECT: Thoracic outlet syndrome MESSAGE: I was diagnose with TOS in my left shoulder was told surgery would help my problem. physical therapy did not help tired of the numbness in pain in hand just wondering if the stats our good percentage wise for surgery results Dr.[NAME] is my surgeon
+summarized question 6: What are the success rate and prognosis for thoracic outlet syndrome surgery?
+##
+query 7: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 7: Can shingles affect the teeth and gums?
+##
+query 8: SUBJECT: obese daughter MESSAGE: i'm a mother of 5 children. My son has leukemia who is the youngest. My daughter is 12yrs old and is obese. i dont know where to turn but i need some professional help. my daughter has always suffered  with weight issues. while i deal with my 11yr old son at [LOCATION] im so scared of loosing my daughter. Shes already been suicidal and her grades are so bad. please i need help. you can contact me anyt time
+summarized question 8: What resources are available for overweight children with suicidal behavior?
+##
+query 9: "SUBJECT: BREATHLESSNESS. MESSAGE: I am 77  , nown case of dibetes 2 & BP both under control with Medication viz Amryl M -1mg ( Sanofi) twice a day & Benitech A for BP .HbA1c being around 5.8-6.2 , sugar fasting around 80-90 , but PP is above 175 to 225, Bp is normal 140/75,pulse 50-64.However Amylase & Lipase are around 150. My TMT and Ultrasound Abdomon are normal , Chest X ray is clear I am 5'6"" , wt -70kg , girth at navel 40"" These days I am feeling problem of Breathlessness, even on slight exertion , I can walk but only at a very slow pace. Pl. advise can it be on account of any problem with my lungs pl & symptoms/tests for same  These days"
+summarized question 9:

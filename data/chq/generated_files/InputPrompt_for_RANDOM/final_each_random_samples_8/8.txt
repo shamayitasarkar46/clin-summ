@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 1: What are the treatments for erectile dysfunction?
+##
+query 2: "SUBJECT: is there any medicines for peristaltic movements? MESSAGE: I V[NAME] From [LOCATION] which is located at INDIA. I am a patient of less peristaltic movements which was digests the eaten food in 3 to 4 hours... In normal humans which was digests the eaten food in 2 to 3 hours...  I visited several hospitals in [LOCATION] which is located in INDIA...  When i was visited [LOCATION]"" Hospital at HYDERBAD in the year of 2010..  There Doctors has told there is no medicins for this problem..  Is  there any medicines to improve my  peristaltic movements?  Please Replay to My E-mail[CONTACT] and My Mobile Number is: [CONTACT]  Thanking You taking my request...."
+summarized question 2: What are the treatments for slow peristaltic movements?
+##
+query 3: ClinicalTrials.gov - Question - specific study. Do you have any more indepth information regarding pseudocholinesterace deficiency? My son 28 and myself 56 have this problem and we both have systemic muscle spasms. cramps contractions. Most seem to be caused by knots or trigger points. I assume this has something to do with this deficiency because it deals with neuro transmissions correct. Anyway we are looking for relief. The muscle relaxants help a bit but the knots do not go away and so the pain is still there at a deeper level. The doctors and neurologist have no idea. Thank you. [NAME]
+summarized question 3: Where can I find information on pseudocholinesterase deficiency icluding treatment?
+##
+query 4: SUBJECT: Letrozole MESSAGE: Can u please advise me what year Letrozole  was first used in the market. As I was not given this tablet after Breast surgery in 2007 and my tumour grew again. I had gone through the Menopause in 1990 so was not offered Tamoxin.
+summarized question 4: When was Letrozole approved for use?
+##
+query 5: SUBJECT: Small Intestine Died MESSAGE: My Father-in-law died recently after his Small intestine died. He was apparently in good health and ate dinner on Saturday and had to be rushed to the hospital on Sunday. Early on Tuesday they operated on him after his blood pressure dropped. They removed 70-80% of his small intestine and part of his large intestine (dead). Is this reasonable that they would find this % of his intestine dead -- again he appeared to be OK the day before.
+summarized question 5: What causes the small intestine to die and what are the symptoms?
+##
+query 6: SUBJECT: diabetes MESSAGE: It was really helpful after reading about type 1 diabetes but would like some more suggestions from you .my friend is 35 year old and its been 1 year of his diabetes n his sugar level is around 100 or 120 OR SO.. each time he tests his sugar level. is there ANY COMPLICATIONS? HE ALSO GO FOR EXERCISES AND BLOOD TEST EVERY 2 OR 3 MONTHS N TAKES A PROPER DIET LIKE GREEN JUICE,OLIVE OIL AND ALL. WAITING FOR YOUR FEED BACK. THANK YOU.
+summarized question 6: What are the complications of type 1 diabetes?
+##
+query 7: SUBJECT: Pilot and Lazy Eye MESSAGE: Dear MedlinePus  I started to fly at the age of 15 and have been flying for over 3,5 years and has logged over 120 hours in my time as pilot. My dream is to become a Comerical Pilot and recently I undertook a medical class 1 which I failed in [LOCATION] because of my Eye position and Eye movment, hence I have not experienced any problem with my vision in daily life nor when I have been flying..  The problem is that my binocular vision is not good enough and the eye-doctor meant it could be a problem if I sudden developed double vision.  Is there any operation that can fix this? The Orthoptics I went to meant there was a problem with one of the eye muscles which where to thight and the other too weak. She said it can be fixed, but this is not &quot;normal&quot; in [LOCATION] because it is not big enough error she meant.  Is there anyway to fix this? I appreciate all information!  Kind Regards  [NAME]
+summarized question 7: What are the treatments for lazy eye?
+##
+query 8: MESSAGE: Four years back my ankle had hit by the stone and there is small reddish pot from inside the ankle, due to which I can't walk properly and it pains and even gets swollen once I start walking. Is this pain temporary or life long or it will never get heel forever.  What type of pain is this? What treatment would you suggest me?
+summarized question 8: What are the causes and treatments for ankle swelling and pain?
+##
+query 9: Hi to whom this may concern: I have a non alcoholic fatty liver and when I seen my consultant he say I don't have to see Him again for 5 years and advised me to drink 3 cups of coffee a day, But I can't drink coffee at all, So I email a consultant asking if he new of a coffee tablet, So he email me back saying it properly glutathione-s-transferase enzymes in the coffee so am looking for a cheap tablet which contains.these enzymes to help repair my liver I also only have one kidney which am on long term antibiotics for I do hope you can help.  I look forward to your reply
+summarized question 9:

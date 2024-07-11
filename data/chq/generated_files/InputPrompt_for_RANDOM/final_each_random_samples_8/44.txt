@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: possible metoclopramide side effects MESSAGE: I started taking thismedication 3/27/14, two tablets by mouth twice daily. I have now developed mouth sores on the inside of my lower lip (almost at the bottom). Could these be a side of effect of this medicine?
+summarized question 1: Are mouth sores a side effect of metoclopramide?
+##
+query 2: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome I am wondering how does downs sydrome affect the daily routine of kids with downs sydrome such as using the. Bathroom or brushing their teeth? I look forward to hearing from you thank you.
+summarized question 2: How does Downs syndrome affect activities of daily living?
+##
+query 3: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 3: What are the treatments for neck lumps or neck tumors?
+##
+query 4: sepsis.  Can sepsis be prevented. Can someone get this from a hospital?
+summarized question 4: What are the causes and prevention of sepsis?
+##
+query 5: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 5: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 6: ClinicalTrials.gov - Question - general information.  where can I find someone or some place in Boston Massachusetts to get thahlidomide treatments for melanoma, skin cancer [NAME], [LOCATION]
+summarized question 6: How can I find physician(s) or hospital(s) in Boston who specialize in thalidomide treatments for melanoma?
+##
+query 7: SUBJECT: Subject MESSAGE: I'm calling because I would like to know more advice on crating Risperdoine medicine and gain experiences on the medication. And creating the medication
+summarized question 7: Where can I find information on risperidone, including how it is manufactured?
+##
+query 8: SUBJECT: burning rash MESSAGE: my left buttocks has painful sores a nurse at my work said to put cortisol10 cream on it but its not helping she thinks i got this by being in a dirty hottub! i hope its not something bad. please help
+summarized question 8: How can I get help for a burning rash on my buttocks that does not respond to OTC hydrocortisone cream?
+##
+query 9: I’m 30 years old and when I was 23 my period wasnt coming every month, and I still don’t get my period , last time I got it was 4 months ago and I’m really worried.
+summarized question 9:

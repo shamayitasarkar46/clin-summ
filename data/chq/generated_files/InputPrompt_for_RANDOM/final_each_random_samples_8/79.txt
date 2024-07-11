@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 1: What are the inheritance patterns for pierre robins syndrome?
+##
+query 2: Stiff neck.  I have a stiff neck that will not go away.
+summarized question 2: What are the treatments for stiff neck?
+##
+query 3: chromosome 3. chromosome 3 found in the bloods between the father and son,,,would this mean that my son,s blood is not the same as mine,,i was told it was all about learning problems,,,but i am woried that theres more involved,,can you send me a chart or some thing describeing ch 3 is all about and too what area of the body its being tested on espicaly a 9 year old child ,,thanks
+summarized question 3: What health conditions are associated with changes in chromosome 3?
+##
+query 4: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 4: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 5: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 5: What is the half life of Chlordiazepoxide?
+##
+query 6: MESSAGE: dear sir, my name is [NAME] from India. actually sir my sister is 27 year old accouding to doctor she is a anemia pasent. loss of blood.plz sir any drug for anti anemia.plzzzzzzzzzzzz sir
+summarized question 6: What are the treatments for anemia?
+##
+query 7: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 7: How do I stop taking oxycodone?
+##
+query 8: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 8: What are the risks of smoking?
+##
+query 9: SUBJECT: Low Potassium. MESSAGE: I have been taking Melitonion to help me sleep. My PC has prescribed 20 meq of potassium for low potassium level.  He has since increased it to 40 MEQ as my potassium level is still under the normal levels. Should I stop taking the Melitonin to help me get to sleep at night.
+summarized question 9:

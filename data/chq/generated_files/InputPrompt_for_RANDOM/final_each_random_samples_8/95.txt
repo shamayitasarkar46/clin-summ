@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 1: What are the treatments for mouth ulcers?
+##
+query 2: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 2: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 3: SUBJECT: Ear Infection Treatment MESSAGE: I was cleaning my ear with a pointed metal and mistakenly it got stock into my ear and I started seeing some blood from my ear,Since than I have being some pains in my ear and can I can be hearing some echo sound in my ear. I would be very glad to know the best medication for my ear treatment.
+summarized question 3: What are the treatments for punctured eardrum?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Sir. I am [NAME] from  [LOCATION]. My father is 61 years older suffering with Pancreatic cancer and it's in 3/4 Rd stage. All doctors are help less for us as they told my father can't leave more then 4 months. . I want to take your suggestions and help for my father's Pancreatic cancer. I want to save my father's life . If any type of treatment is available then please help me. Please contact me on my below mobile no.  [CONTACT]
+summarized question 4: What are the treatments for stage 3/4 pancreatic cancer?
+##
+query 5: SUBJECT: allopurinol and diuretics MESSAGE: I am presently taking 200mg Allopurinol daily for the treatment of Gout.  My feet swell.  How dangerous is it to take a diuretic.
+summarized question 5: Can a diuretic be taken with Allopurinol?
+##
+query 6: Name: [NAME] Date and Time of Contact: Thu, 1 Jan 2015 16:10:06 GMT Application: myncbi SessionId: CE9069DE4A56A0A1_0093SID MyNCBI UserName: Host: portal205 Snapshot: /projects/MyNCBI/myncbiPortal@2.45 Browser's user agent header: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2) Application Page Generation Time: 2015-01-01T11:03:27-05:00 Page: recentactivity Message Body: We live in [LOCATION] and my husband has been detected an insulinoma.Need further information on the matter as doctors have not seen one here. Greatly appreciate your reply. Happy New Year to you all and many many tahanks for your help.
+summarized question 6: Where can I find information on insulinoma?
+##
+query 7: SUBJECT: please send me medical information about heart failer for care. MESSAGE: send me information about heart failer.
+summarized question 7: What are the treatments for heart failure?
+##
+query 8: SUBJECT: MLC MESSAGE: My son is patient of MLC, can we plan to another baby. What is the % of 2nd baby would be MLC or NOT.
+summarized question 8: How is Megalencephalic leukoencephalopathy with subcortical cysts (MLC) inherited?
+##
+query 9: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 9:

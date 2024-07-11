@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: stomach pain.  My son of 13y is facing upper abdominal pain siverly in the mornig time and slightly after eating lunch and in the night time after dinner.kindly i went five doctors and ultra scan also but problem not resolved.pls advaice me what to do.
+summarized question 1: Where can I find information on upper abdominal pain, including diagnosis and treatment?
+##
+query 2: SUBJECT: are coleus and caladiums poisonous to pets MESSAGE: Are these two plants considered poisonous to pets?  The vet said to call you and check about this.
+summarized question 2: Are coleus and caladiums poisonous to pets?
+##
+query 3: SUBJECT: bowel movement MESSAGE: for the second time today I have seen matter moving as in swimming on the surface of the water after a loose bowel movement.  the first was small but today it was a larger chair or elongated mass that was moving on the surface of the still toilet water.   I thought I was seeing things the first time but this time I am sure.    what is this?
+summarized question 3: How are moving specimens in a loose bowel movement identified and treated?
+##
+query 4: SUBJECT: Health innformation MESSAGE: Please. Advise what can inhibit and disassemble genetic tau. Aggregation.  I suffer from a rare tau aggregation illness called pallido ponto nigral degeneration
+summarized question 4: Where can I find information about pallido ponto nigral degeneration, including treatments?
+##
+query 5: about Glucosamine Sulphate Will Glucosamine Sulphate affect Kidney?   Will it increase the Potassium content in a person?
+summarized question 5: What are the side effects of glucosamine sulphate?
+##
+query 6: SUBJECT: Lyme Disease MESSAGE: 12 years ago I was bitten by tick while deer hunting. The bite area contained the ring as described in Lyme Disease symptoms.  I was treated with antibiotics;  however, ever since that time I have many of the symptoms cited for Lyme.  Also, usually prior to, and during these symptoms I have a reddish-pink welt appear at the site of the bite on my groin.  Can you offer any enlightment on my condition?
+summarized question 6: What is the prognosis for post-treatment Lyme Disease symptoms?
+##
+query 7: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 7: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 8: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 8: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 9: Is sedation or some form of twilight sleep or something for relaxation normally used for pill capsule camera for GI issues test? I have difficulty swallowing large pills and do not think I can do this awake. My mother and sister have to have their esphophgus stretched so I could possibly have some genetic factors. I am very scared of choking with this test. What is the normal procedure and do you have any suggestions? Thanks
+summarized question 9:

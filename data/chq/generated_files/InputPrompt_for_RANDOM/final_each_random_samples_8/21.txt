@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: drugs for fat reduction MESSAGE: I'm about to do a movie in another one month and I need to shed a lot of weight for it especially on my arms and thighs. What would you recommend and can it be sent to Nigeria?
+summarized question 1: What treatments are available for rapid weight loss?
+##
+query 2: SUBJECT: taking medications options MESSAGE: If my doctor gives prescription for Inderal 40 mg  twice a day,  pharmacist says take 80mg time release once day.  Is it appropriate to follow pharmacists directions rather than doctors prescription 40 mg twice a day.  Does 40 MG twice day equal constant 40 mg,  or does it build to 80 and maintain 80 mg?
+summarized question 2: Is Inderal 40 mg  twice a day equivalent to 80mg time release once a day?
+##
+query 3: I have exercise induced asthma. Would any of these non drug devises be suitable please?
+summarized question 3: What nondrug devices are suitable for treating exercise induced asthma?
+##
+query 4: SUBJECT: foreskin MESSAGE: I want to regrow my foreskin back. When will stem cell be able to regrow foreskin.
+summarized question 4: Is stem cell therapy used to regrow foreskin?
+##
+query 5: SUBJECT: life expectancy after double lung transplant operation MESSAGE: Hello,  My husband has cystic fibrosis and he had the double lung transplant operation 3,5 years ago. He is 53 y.old. What is the life expectancy for people with cystic fibrosis after double lung transplant? Can he has another lung transplant in the future? Thank you, [NAME]
+summarized question 5: What is the prognosis for cystic fibrosis after double lung transplant?
+##
+query 6: Attachment disorder.  Ok I am 21 years old and I have Attachment disorder I had it all my life and I don't know what to do in my life. I don't let my girlfriend in or to close to me when I feel like the relationship is going good and she's getting to close I push her away or I leave and go to the next girl and my career as a pro boxer I don't want to keep doing this to her or to other people in my life. Can someone please help me. I am tried of dealing with this.
+summarized question 6: How can I get help for attachment disorder?
+##
+query 7: SUBJECT: drug nutrient interaction MESSAGE: Hello: I am looking for a resource that describes nutrient ( vitamin ) depletion that results from specific medications. Hope you can help. Thank you.
+summarized question 7: Can medications cause vitamin depletion?
+##
+query 8: SUBJECT: Homeostasis and hypothermia (mainly about hypothermia) MESSAGE: What is Homeostasis? Why is homeostasis so important? What technology do doctors use to cure hypothermia? What is the effectiveness of the technology? How is that technology effective to the economy and environmentally?
+summarized question 8: What is homeostasis and what are the treatments for hypothermia?
+##
+query 9: when you check your blood with the insulin meter what is a good number
+summarized question 9:

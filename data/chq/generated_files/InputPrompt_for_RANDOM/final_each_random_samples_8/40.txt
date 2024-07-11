@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: My grand child was born on [DATE] with Multicystic dysplastic kidneys.  After reading your article I would like to know whether the stem cell could bring hope to this child. Is this possible?  How to go about? Cloning? Please give me something to work on.
+summarized question 1: What are the latest treatments for multicystic dysplastic kidneys, including stem cell therapy?
+##
+query 2: I have Kerataconus but my insurance does not cover the cross linking procedure because it is not FDA approved. How long approximately will it take to get this approved? I also wanted to know how can I donate my self to be apart of this study?
+summarized question 2: How long will it take the FDA to approve the cross linking procedure for Keratoconus and are there any clinical trials?
+##
+query 3: SUBJECT: lymphedema MESSAGE: HelloI was suffering from filariasis before 6 month, then i observed that I started having leg swelling about 6 months ago.It's lymphedema of my left leg. I has seen many doctors for this problem. but nobody help me to cure this.Finally they answer me there is no treatment for this. i have to live with this disease. but i can't spend whole life with this disease. Better then i will comit or prefer sucide and say goodbye to life.So please suggest me treatment if any treatment available.please reply atleast if no solution.
+summarized question 3: What are the treatments for lymphedema?
+##
+query 4: hi. i'm a student that suffers from Pectus excavatum (funnel chest), and i need help to pass it. please give me some way to get the solution of this problem. waiting for your answer. please need help!
+summarized question 4: What are treatments for pectus excavatum?
+##
+query 5: Melanoma.  The doctor wants my father to take interferon Alfa-2b They did the surgery it was on his feet  know they want him to take the biological therapy he is very scared I just want some more info please can u get me info ASAP thank u
+summarized question 5: Where can I find information about interferon alfa-2B therapy for melanoma?
+##
+query 6: SUBJECT: Letrozole MESSAGE: Is there information available from women who have or are using it? I'd like to know what their reactions to the drug are.  Thank you for your help.
+summarized question 6: What are the side effects of letrozole?
+##
+query 7: SUBJECT: Cypress Pharmaceuticals MESSAGE: Just found out from my pharmacy that Cypress Pharmaceuticals is going out of business and after next month he will no longer be able to supply me with the Cytra-K Crystals.  Please help, do you no of any other company that makes them?
+summarized question 7: Is there an alternative source for Cytra-K Crystals besides Cypress Pharmaceuticals?
+##
+query 8: SUBJECT: Rubella MESSAGE: My grandson (4 yrs old) has contracted Rubella.  I know for sure he has had at least one of the vaccines.  They are living in Mexico right now.  Should we be worried?
+summarized question 8: What is the prognosis of rubella in a child?
+##
+query 9: Hello –  Do you know if there are blood or urine tests that can detect if an individual is taking Flomax??  Your assistance is appreciated. Thank you
+summarized question 9:

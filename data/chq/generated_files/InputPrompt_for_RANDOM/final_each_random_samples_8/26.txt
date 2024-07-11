@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Purpura MESSAGE: My brother has purpura disease since 2003. kindly gude us with the correct medicine and if you know any good doctor then please let us know.  Thank You
+summarized question 1: What are the treatments for purpura and how can I find physician(s) who specialize in it?
+##
+query 2: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 2: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Can you please tell me the results of any clinical trials investigating a correlation between Buproprion (Wellbutrin) and cancer?  Is there a greater incidence of cancer rates with patients who have taken Buproprion long term as opposed to a control group?
+summarized question 3: What are the side effects of bupropion, including an increased risk of cancer?
+##
+query 4: SUBJECT: Quary about PSA tests MESSAGE: My grand father have examined PSA test value is 0.430 ng/ml.His age is 86 years.My question is this value is normal for his health or harmful?
+summarized question 4: What are age-specific reference ranges for PSA?
+##
+query 5: Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.
+summarized question 5: Where can I find information about Beckwith-Wieddeman Syndrome?
+##
+query 6: Breast cancer at 84.  My mother was just diagnost with breast cancer. She is 84 years old, her tumor started in the milk duct and is small in size, their is a mass as well in the same breast. He is scheduled for a lumpectomy to remove both. Because of age we would like suggestions on treatment options after surgery.
+summarized question 6: What are the treatment options after breast cancer surgery in elderly?
+##
+query 7: Tailbone trauma - aftercare  I read the article, but what if the person hasn't falling or been bumped?  What could cause this?
+summarized question 7: What causes tailbone injury?
+##
+query 8: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 8: Is MRSA contagious, and how is it spread?
+##
+query 9: How to i get more information regarding the theraputics treatments that me be benificial. My sister-in-law suffers from myofibroma and I am trying to empower myself with as much knowledge as possible. I thank  you in advance for your help.
+summarized question 9:

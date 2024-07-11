@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 1: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 2: SUBJECT: FRIED FOODS AND HEART FAILURE. -  DOES THIS APPLY TO ALL OILS USED FOR FRYING? MESSAGE: THE RESEARCH CAUTIONS AGAINST CONCUMPTION OF FRIED FOODS.  DOES THIS CAUTION APPLIES TO ALL TYPES OF OIL USED FOR FRYING?  HOW ABOUT COCONUT OIL AND GINGELY OIL? THESE TWO OILS ARE LARGELY CONSUMED IN THE SOUTHERN STATES OF INDIA, AND SINCE I HAIL FROM [LOCATION], THIS QUESTION.
+summarized question 2: Do foods fried in coconut oil or sesame oil contribute to heart disease?
+##
+query 3: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 3: How can I find a doctor to perform tubal ligation?
+##
+query 4: Referral Vacationing in and near [LOCATION] Puerto Rico. How to I find a dentist for toothache?
+summarized question 4: How can I find dentist(s) to treat toothaches in Puerto Rico?
+##
+query 5: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 5: What are the treatments for brain tumors and spinal tumors?
+##
+query 6: SUBJECT: GERD MESSAGE: in reviewing some meds that treat GERD, i dont see much difference between Prilosec,Nexium,Tagament and Zantac. It is said that Prilosec and Nexium are proton pump inhibitors and Zantac and Tagamet H2 blockers. Their definitions of action are the the same that they reduce the amount of stomach acid.Are their really any big differences in these 4 medicnes?
+summarized question 6: What are the differences between GERD medications Prilosec, Nexium, Tagament, and Zantac?
+##
+query 7: SUBJECT: spg11 MESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,
+summarized question 7: What are the treatments and prognosis for spg11?
+##
+query 8: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 8: What are the treatments for strabismus, including stem cell therapies?
+##
+query 9: SUBJECT: vomiting blood and blood clots, ( pulmonary embolisms). MESSAGE: Is it possible to vomit blood, with abdominal pain, fatigue that caused them to sleep two days, left sided chest pain ( left upper ribcage area), and suffer from Bilateral Pulmonary Embolism with Left Lower Lobe Infarction four weeks later? The blood was bright red, about one cup.
+summarized question 9:

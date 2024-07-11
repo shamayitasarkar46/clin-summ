@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Attachment disorder.  Ok I am 21 years old and I have Attachment disorder I had it all my life and I don't know what to do in my life. I don't let my girlfriend in or to close to me when I feel like the relationship is going good and she's getting to close I push her away or I leave and go to the next girl and my career as a pro boxer I don't want to keep doing this to her or to other people in my life. Can someone please help me. I am tried of dealing with this.
+summarized question 1: How can I get help for attachment disorder?
+##
+query 2: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 2: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 3: Dear sir/madam I am 40 year old man  & have vericoceal on my left side .My wife is 24year old ,we are trying for a baby for the last 4 months with no positive result. doctor suggest me try for baby for at least 1 year. Please suggest me what i have to do for a baby. i will be highly obliged . thank you [NAME] [LOCATION]
+summarized question 3: What are treatments for male fertility issues and varicocele?
+##
+query 4: SUBJECT: Administration MESSAGE: Is there a reason that the lovenox has to be given in the SQ of the abdomen? Why not other SQ sites?
+summarized question 4: Why is lovenox administered in the abdomen?
+##
+query 5: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 5: Are there any precautions for mixing or administering Fomepizole?
+##
+query 6: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 6: How long will an insecticide application last in the house?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My daughter was recently diagnosed with a CTNNB1 mutation and there are only 4 published cases.   Can you tell me where I may be able to find more information
+summarized question 7: Where can I find information about CTNNB1 mutation?
+##
+query 8: SUBJECT: headache which can precede a stroke MESSAGE: Headaches are many and varied.  Could you describe the headache which precedes a stroke?
+summarized question 8: Could you describe the headache which precedes a stroke?
+##
+query 9: hi, can malarone turn  your tongue black? if so, do u know why?  and how to fix?  Thx
+summarized question 9:

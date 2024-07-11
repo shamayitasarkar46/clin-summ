@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: what can happen if you donot use your humifier or moisterizing equipment when  you have a thractoastamy tube? (forgive my spelling)
+summarized question 1: What are the adverse effects of not using a humidifier with a tracheostomy tube ?
+##
+query 2: In Vitro Fertilization Hi. I am interested to have In vitro Fertilization (Test Tube Baby). May I know the risk and the cost. Thanks
+summarized question 2: What are the risks of in vitro fertilization and how much does it cost?
+##
+query 3: SUBJECT: bone marrow transplation MESSAGE: my blood tests showing very low number of  blood platelets (16,100). according to the further tests no cancerous cells, no tb, no dengu is found.  but the count is drastically decreasing.  now my doctors advised me for bone marrow transplant.  kindly help me with proper treatment.
+summarized question 3: What causes low platelet count, and what treatments are available?
+##
+query 4: SUBJECT: Cardiomegaly with chronic chest pain MESSAGE: With cardiomegaly chest pain will the heart muscle continue to thicken? Most all the doctors have given up trying to find the cause of his pain.  It has changed his life, he enjoys work and spending time outdoors and now he can't.
+summarized question 4: What  are the causes  and treatments of chronic chest pain with cardiomegaly?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Are there any studies looking at familial/longetudnal fragile X or other related disorders? We are 4 generations of a family with similar traits in the males in each of those generations (only 1 male in each), My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder as a child (at [LOCATION]) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and very similar intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed?
+summarized question 5: Where can I find information on Fragile X sydrome and inheritance patterns?
+##
+query 6: MESSAGE: HI, THIS IS [NAME]. SUPPOSE WE REMOVED THE EYE DUCT DUE TO TEAR TUBE DAMAGE, IS IT ANY PROBLEM WILL COME??
+summarized question 6: What are the prognosis and complications of tear duct surgery?
+##
+query 7: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 7: Is Astigmatism related to Aarskog Syndrome?
+##
+query 8: SUBJECT: oleander poisoning MESSAGE: If oleandor was ingested by touching the plant stems inner part and then directly eating without washing hands, how long would u exspect symptoms would start? And how severe would you say symptoms may get.
+summarized question 8: When do symptoms of oleander poisoning appear after ingesting the plant, and how severe can they get?
+##
+query 9: Can IBS be cured with the patent Medicines      say Mebverine or others as prescribed the      Doctor.       Does Probiotics are helpful in controlling       the IBS. Some says Peeper Mint can also be       suitable. These are few general questions       as regards IBS and not personal.
+summarized question 9:

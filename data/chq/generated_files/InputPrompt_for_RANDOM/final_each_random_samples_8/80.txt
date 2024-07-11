@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: questions about the effect of L-Leucine.  Hello,do you have any introduction about L-Leucine on the effect of treat cancer?If so,could you kindly tell me details?
+summarized question 1: Where can I find information on L-Leucine and its use in cancer treatment?
+##
+query 2: SUBJECT: bone marrow transplation MESSAGE: my blood tests showing very low number of  blood platelets (16,100). according to the further tests no cancerous cells, no tb, no dengu is found.  but the count is drastically decreasing.  now my doctors advised me for bone marrow transplant.  kindly help me with proper treatment.
+summarized question 2: What causes low platelet count, and what treatments are available?
+##
+query 3: SUBJECT: shingles MESSAGE: I am having symptoms of shingles, no rash or blisters, is it too late to get the vaccine? I have had the chicken pox and take acylovir on a as needed basis for blisters I get on my buttocks
+summarized question 3: I am having symptoms of shingles; is it too late to get the vaccine?
+##
+query 4: Re: 16p-13.11 duplication of genes. Dear all, I am a health professional and have recently assessed a 9 year old boy on my caseload whose mother reported that he has been diagnosed with 16p-13.11 duplication of genes.  I have never come across it and when I looked on the internet I could not find anything coherent.  I have been in contact with the paediatrician who used to be in charge of that child but she is unfortunately on long term sick.  Would you be able to give me some information on this condition with key features please? Are there behavioural, coordination, sensory difficulties, etc...that can be associated with it?
+summarized question 4: Where can I find information on 16p-13.11 duplication, including symptoms?
+##
+query 5: Referral Vacationing in and near [LOCATION] Puerto Rico. How to I find a dentist for toothache?
+summarized question 5: How can I find dentist(s) to treat toothaches in Puerto Rico?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Sir. I am [NAME] from  [LOCATION]. My father is 61 years older suffering with Pancreatic cancer and it's in 3/4 Rd stage. All doctors are help less for us as they told my father can't leave more then 4 months. . I want to take your suggestions and help for my father's Pancreatic cancer. I want to save my father's life . If any type of treatment is available then please help me. Please contact me on my below mobile no.  [CONTACT]
+summarized question 6: What are the treatments for stage 3/4 pancreatic cancer?
+##
+query 7: SUBJECT: male with breast MESSAGE: I am a 51 year old male and I have enlarged breast. My mother told me that I have bird chest. I know that I don't have bird chest. My size is a 36 B. I have to wear oversized shirts. I would like to have them removed, but I don't have the money. I was abused because of my breast.  thank you for your time.
+summarized question 7: what are the treatments for gynecomastia?
+##
+query 8: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 8: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 9: SUBJECT: MMR second dosage by mistake. MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 9:

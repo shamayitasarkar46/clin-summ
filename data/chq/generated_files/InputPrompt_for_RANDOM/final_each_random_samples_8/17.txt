@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 1: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 2: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 2: What options are available for scar repair?
+##
+query 3: SUBJECT: gluten free status of Tolterodine Tartrate ER 4mg MESSAGE: You list starch as one of the ingredients. What is the source of the starch? Is this medication gluten free? Is it safe for someone with Celiac Disease to take?
+summarized question 3: What are the ingredients of Tolterodine Tartrate ER 4mg and is it gluten free?
+##
+query 4: SUBJECT: Mysthenia Gravis MESSAGE: hi i am 34 & a half years old, unmarried female.in 2011 i was diagnosed with MG ( early stage)when my right eyelid drooped a lot. the special blood test & enlarged thymus confirmed it. i was on prescribed medication since then till 3 months back when i discontinued the medicines assuming i am ok. but the drooping has again started though thymus is no longer enlarged ( as per latest CT scan ) so my doc has told me to continue the medicines lifelong. i am OK with it. but i dont want to pass on this disease to my kids. pls tell me if there is any way by which i can ensure that my kids dont get this disease during pregnancy? is it genetic or do the antobodies pass on from pregnant mother to the foetus? is there any way out to save the baby from this disease/ pls tell .
+summarized question 4: Is myasthenia gravis inherited and can it be passed from mother to fetus?
+##
+query 5: MESSAGE: Is it okay to drink alcohol in moderation when taking Ampicillin.  I was told it negates any medical effect of the drug
+summarized question 5: Can I drink alcohol while taking Amoxicillin?
+##
+query 6: SUBJECT: claw hand MESSAGE: I have a claw hand and I would like you to mail me information regarding treatments for it. My address is [LOCATION] Thank you.
+summarized question 6: What are the treatments for claw hand?
+##
+query 7: SUBJECT: I suspect tick bite.it is itching with rashes MESSAGE: How can it be treate? It almost 6 months old desease
+summarized question 7: What are the treatments for tick bites?
+##
+query 8: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 8: What are the treatments for mouth ulcers?
+##
+query 9: how do you know if you have sinus rhythm, what does it mean, is it good or bad?
+summarized question 9:

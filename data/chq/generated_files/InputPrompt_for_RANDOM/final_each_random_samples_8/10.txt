@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bleeding Gums MESSAGE: My brother has denture the lower denture hurts his gum and it makes it bleed and his gum is sore were he has a hard time to chew anything. He needs to know what can he do for it?
+summarized question 1: What are the treatments for bleeding gums under dentures?
+##
+query 2: MESSAGE: I have a fractured nose i need it fixed. its been broke for 3 years now
+summarized question 2: What are delayed treatments for nose fracture?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 3: What are the treatments for severe endometriosis in adolescents?
+##
+query 4: I was trying get more information on Pain associated with Polycythemia Vera and medications usually used to treat pain in Polycythemia vera. Thank you, [NAME]
+summarized question 4: What treatments are available for  pain associated with Polycythemia Vera?
+##
+query 5: SUBJECT: autonomic and arthritis . MESSAGE: Hi there , i have a few questions about autonomic disorders combined with arthritis ? My girlfriend has arthritis and autonomic disorder. I am really worried about her and want to help her, is there any new medications out there for treatment of autonomic disorder ? Also her autonomic disorder effects her heart lungs and blood pressure , is this condition fatal ? How long does someone live with this condition ?
+summarized question 5: Where can I find information on autonomic disorder, including symptoms, treatment, and prognosis?
+##
+query 6: SUBJECT: bowl movements question. MESSAGE: I have been having BM two or three times a day, that is not a problem, it seems natural, but the feeling that I have not finish is there every time. I feel that I have not finish and something is going back in, when I get up. I had back surgery 6 months ago.
+summarized question 6: What are the treatments for incomplete bowel emptying?
+##
+query 7: SUBJECT: tongue problem MESSAGE: I can speak every thing I have mistake some word like r,n I can n't speak.this is my problem .every person tell me..please give me suggestion..
+summarized question 7: What are the treatments for speech disorders?
+##
+query 8: "SUBJECT: intermittent breathing and coughing problem from over-use of steroids MESSAGE: My husband was a patient at [LOCATION].  If I understand correctly his room-mate (an older gentleman) had come up for help from West Virginia for what I believe to be the following problem:  he has taken steroids for a protracted period of time and the steroids have caused the following problems in his life: weakness of his leg muscles and additionally he has an intermittent problem with wheezing/coughing/breathing however the [LOCATION] specialists just could not find the cause or how to resolve it.  The ""lung symptoms"" if I understand correctly are suppressed by the steroids to some degree but the steroids are causing problem which I mention above.  Might you have a data base about such problems?   I also am asking if there are any antidotes to the muscle weakness he has from the steroids.  Thanks"
+summarized question 8: Can long term use of steriods cause muscle weakness, and what are the treatments for it?
+##
+query 9: what/why do flu-like symtoms such as: hot/cold sweats, chills, diarrhea, nausea, vommiting, runny nose, for longer than 13 days or more? could on-going stomach/flu symtoms that persist 13 days or more be something other than a bug or virus?
+summarized question 9:

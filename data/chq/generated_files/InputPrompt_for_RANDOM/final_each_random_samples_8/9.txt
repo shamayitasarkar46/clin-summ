@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 1: What are the treatments for pain after hemorrhoidectomy?
+##
+query 2: TMAU.  Please find a way to research TMAU And how to cure it with gene therapy. I'm tired kg smelling like fish/feces And getting talked about everyday of my life.
+summarized question 2: What is the latest research on TMAU and treatments for it?
+##
+query 3: SUBJECT: Pilot and Lazy Eye MESSAGE: Dear MedlinePus  I started to fly at the age of 15 and have been flying for over 3,5 years and has logged over 120 hours in my time as pilot. My dream is to become a Comerical Pilot and recently I undertook a medical class 1 which I failed in [LOCATION] because of my Eye position and Eye movment, hence I have not experienced any problem with my vision in daily life nor when I have been flying..  The problem is that my binocular vision is not good enough and the eye-doctor meant it could be a problem if I sudden developed double vision.  Is there any operation that can fix this? The Orthoptics I went to meant there was a problem with one of the eye muscles which where to thight and the other too weak. She said it can be fixed, but this is not &quot;normal&quot; in [LOCATION] because it is not big enough error she meant.  Is there anyway to fix this? I appreciate all information!  Kind Regards  [NAME]
+summarized question 3: What are the treatments for lazy eye?
+##
+query 4: SUBJECT: Apraxia and Dyspraxia MESSAGE: What are the basic differences between apraxia and dyspraxia?  I get different answers from different sources. One suggests that apraxia is a motor coordination disability acquired due to damage, head injury, stroke or leasions in the brain whereas dyspraxia is inherited.  Another says that the difference is absence of coordination (apraxia) versus a more mild impairment (dyspraxia).  It is very confusing to try to sort it all out.  Thank you!
+summarized question 4: What are the differences between apraxia and dyspraxia?
+##
+query 5: SUBJECT: Abnormal Growth MESSAGE: I have a 11 year old grandson that does not seem to be growing normally with his age group. He has 4 other brothers & sisters 3 girls and one brother that except for the oldest {girl} all seem to be having normal growth. The 11 I am referring to is very short and stumpy 5-7 inches shorter than his friends.His father is pretty short and stumpy also. The other brother seems to have normal growth. Is there any answer to this, he is having a hard time emotionally at school.
+summarized question 5: How is delayed growth diagnosed, and what are treatments for it?
+##
+query 6: SUBJECT: Homeostasis and hypothermia (mainly about hypothermia) MESSAGE: What is Homeostasis? Why is homeostasis so important? What technology do doctors use to cure hypothermia? What is the effectiveness of the technology? How is that technology effective to the economy and environmentally?
+summarized question 6: What is homeostasis and what are the treatments for hypothermia?
+##
+query 7: MESSAGE: What if someone throw up blood just a little got a little light headed and just laid down and went to sleep they said they will sleep it off but I want to take they said I'm fine. What should I do
+summarized question 7: Should someone who vomited blood and  felt lightheaded go to sleep?
+##
+query 8: Attachment disorder.  Ok I am 21 years old and I have Attachment disorder I had it all my life and I don't know what to do in my life. I don't let my girlfriend in or to close to me when I feel like the relationship is going good and she's getting to close I push her away or I leave and go to the next girl and my career as a pro boxer I don't want to keep doing this to her or to other people in my life. Can someone please help me. I am tried of dealing with this.
+summarized question 8: How can I get help for attachment disorder?
+##
+query 9: covid-19 how long to quarantine after being positive how long are you contagious if i tested positive for covid-19. how long before i can safely return to work after a positive covid 19 test
+summarized question 9:

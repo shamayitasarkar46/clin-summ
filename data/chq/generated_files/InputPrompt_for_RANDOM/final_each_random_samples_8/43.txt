@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Múltiple Misscarriage MESSAGE: I had 4 misscarriage before I had my healthy daugther. I had another misscarriage a month ago. The Kareotipe for the fetus show genetic problems. Trisomy 8 and 15. Im 39 years old. Is the first time that I know the reason for the lost. I had the Kareotipe for me and my husband and there is no problem. The infertility Dr told me that I have progesterone problems Because I dont know the reason for the four misscarriage I am scared thinking the reason for all the lost babies is for genetic causes. I want another baby. What are the chances of having a baby with genetic problems?
+summarized question 1: After a miscarriage of a fetus with trisomy 8 and 15, what are the chances of a successful pregnancy?
+##
+query 2: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 2: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 3: MESSAGE: I have a fractured nose i need it fixed. its been broke for 3 years now
+summarized question 3: What are delayed treatments for nose fracture?
+##
+query 4: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 4: What is the prognosis and course of recovery after stroke?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I HAVE A BOY 16 WHO JUST GOT OUT OF A PLACE THAT GAVE HIM MEDACATION,THES ARE THE MEDS.MONTELUKAST,LORATADINE,OXCARBAPINE. WHAT DISORDER ARE THEY FOR?
+summarized question 5: What are the indications for montelukast, loratadine, and oxcarbazepine?
+##
+query 6: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 6: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 7: SUBJECT: uncontrollable jerking movements MESSAGE: When I am exercising hard, the left side of my body will start to do strange things. When lifting weights overhead, my left upper lift will jerk up into sort of a sneer.  When doing core work, my left arm will start jerking so hard that it's impossible to hold onto anything. The jerking stops after the exercise ends; but my left arm feels worn out.  No pain. A few months ago, my left leg completely lost any strength for weeks. It first appeared when I was just trying to do a squat with a plastic pipe in my hand. Eventually was able to work strength back. Again - no pain.  Should I be alarmed?
+summarized question 7: What causes jerking movements during exercise?
+##
+query 8: In Vitro Fertilization Hi. I am interested to have In vitro Fertilization (Test Tube Baby). May I know the risk and the cost. Thanks
+summarized question 8: What are the risks of in vitro fertilization and how much does it cost?
+##
+query 9: Is it safe to take Relora if I seizure disorder? I had a Cavernoma removed from my brain that my drs believe caused me to have a seizure. I am now taking Keppra for seizure prevention. I would like to take Relora to combat the anxiety and to lift my mood. It seems no drs know much about supplements.
+summarized question 9:

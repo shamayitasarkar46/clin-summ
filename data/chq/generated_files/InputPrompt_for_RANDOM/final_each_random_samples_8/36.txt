@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 1: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 2: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 2: What are the causes of and treatment for scrotal rash?
+##
+query 3: SUBJECT: Hot Flashes for Male MESSAGE: I am a 79 year old male taking Eligard shots for prostate cancer.  I am having hot flashes from these shots.  Is it possible that Brisdelle would help me?
+summarized question 3: Will Brisdelle help hot flashes caused by prostate cancer therapy ?
+##
+query 4: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 4: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 5: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 5: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 6: SUBJECT: Stroke from high blood pressure MESSAGE: My mother is 90 yrs old recent high blood pressure minor stroke. She is sensitive w/ medication. Should she take Statin and Plavix?
+summarized question 6: What are drug treatments for high blood pressure and minor stroke in elderly?
+##
+query 7: SUBJECT: Second Hand Smoking MESSAGE: Dear Sir/Madam I am interested about Second Hand Smoking and the dangers for children and hope you can help me with the questions I have.  If two smokers are smoking every day in the house only on Saturday evening and Sunday morning do not smoke in the house and there are children visiting that house on Sunday morning and staying the whole day, is there a danger of second hand smoking for the children? If yes, what is the danger?  Is there danger of second hand smoking for the children if they stay for the whole weekend in that house? If yes, what is the danger?  Is there a danger  and what for the children if a person smokes in the car?  Thank you very much in advance. Best wishes [NAME]
+summarized question 7: What are the dangers to children of secondhand smoke residue?
+##
+query 8: SUBJECT: stage 5 kidney failure MESSAGE: father-in-law 84.now in hospice. is sweating normal?
+summarized question 8: Is sweating normal during stage five kidney failure?
+##
+query 9: Hi I am wondering what the chances are for ototoxicity and liver damage with the use of itraconazole. In case these occur are the side effects reversible? Also what are the risks of congestive heart failure in a person taking this medication if patient has a family history significant for Myocardial infarctions? Thank you for you time.
+summarized question 9:

@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: varicella  shingles MESSAGE: How can I determine whether or not I've had chicken pox.  If there is a test for it, what are the results of the tests I need to know that will tell me whether or not I have had chicken pox?  I want to know this to determine if I should have shingles vaccine  (Zostavax) Thank you.
+summarized question 1: How do i find out if i had chickenpox?
+##
+query 2: SUBJECT: Excessive Eye Water MESSAGE: Thank for your information on my earlier question regarding what is causing skin itching. I have another question on another problem that I'm having. This problem is excessive eye water (tears) occurring all the time and filling my nose up mostly at night and stops using my nose while in bed after a couple of hours. This there any medicine that would reduce all these excessive tears?
+summarized question 2: What are the treatments for watery eyes?
+##
+query 3: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 years old boy that was diagnose with Periventricular Heterotopia and long time ago I read something that say that the most someone last with that syndrome is 309years.Is that true. And do you know about someone interested in wanting to do research about it? I will like to lern more about it. But theres not much information.
+summarized question 3: Where can I find information on Periventricular Heterotopia, including prognosis?
+##
+query 4: "SUBJECT: Levalbuterol and Budesonide Inhalation Products MESSAGE: After calling TEVA Pharmaceuticals, they relayed that the stability and storage information printed on their Levalbuterol 1.25 mg/3 mL and 0.63 mg/3 mL Inhalation Solution, as well as their Budesonide 0.5 mg/2 mL and 0.25 mg/2 mL Inhalation Suspension packages is information directly pulled from DailyMed, hence NIH. I am trying to determine if there is any extended stability information for either product, as the nebs are not singly packaged, and therefore a significant amount of product is being wasted in our facility due to the information provided. When name brand Xopenex was still available, Sepracor was able to provide our facility with more stablity information that enabled us to refrigerate the product in the foil pouch, continuing to protect it from light: i.e., ""allows use of product through its labeled expiry."" It would be greatly appreciated if some additional information could be provided regarding the above situation. Thank you for your attention to this matter. [NAME] [LOCATION] [LOCATION] [LOCATION] [CONTACT]"
+summarized question 4: Where can I find extended stability information for Levalbuterol Inhalation Solution and Budesonide Inhalation Suspension?
+##
+query 5: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 5: What are the treatments for strabismus, including stem cell therapies?
+##
+query 6: SUBJECT: When do you know you should not take Tecfidera? MESSAGE: When do you know you should not take Tecfidera? I took Tecfidera 9 days. Day 1 my legs and feet felt normal for the first time in 5 years. day 2 my legs, thighs, feet, hands, arms, and middle became so swollen I can hardly walk, move, sit or sleep. I got the flushing day 7, foggy vision day 4, and more.
+summarized question 6: What are the side effects of tecfidera and when to stop taking it?
+##
+query 7: SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.
+summarized question 7: What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?
+##
+query 8: SUBJECT: saggy large breast MESSAGE: i have very huge breast i am only 25 and they cause me alot of pain on the neck chest and back. what can i do
+summarized question 8: What are the treatments for large breasts?
+##
+query 9: My grandson now 3yr6mo.dx at abt 9mons w/pehh and ger and bad reflux. surgery finally done and nissen has been in place ever since. Glad my daughter n son in law r both nurses. Behaviors entrenched from reflux discomfort --misery. His hand grip worries me, therapy in place for that. Visiting over Christmas I’m scared of disrupting his detailed feeding protocol. He’s finally on the wt. charts. So rare, lay people say: let him get hungry and he’ll eat. That’s so cruel it makes be angry so I don’t talk. Any info on what grama can do to ease my daughter’s workload. Read more abt? intimidating.
+summarized question 9:

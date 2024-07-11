@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: coal oil MESSAGE: My father at an early age was given coal oil when he was sick with a cold or flu, my family and I are just wondering if there could have been permanent damage done to his stomach, heart, or any other internal organs.  I'm not asking for a second opinion, just want some information on this matter for our own inquiries.
+summarized question 1: What are the adverse effects of coal oil?
+##
+query 2: Duchenne Muscular Dystrophy. I am doing a research project on this genetic disease and I would like to know more about it from a professional.  I am researching the mode of inheritance, symptoms, treatments/ support groups, and relative cost to family.
+summarized question 2: Where can I find information about Duchenne Muscular Dystrophy, specifically mode of inheritance, symptoms, treatments/ support groups, and relative cost to family?
+##
+query 3: SUBJECT: does fluocinonide contain tea tree oil?  An allergist determined I am allergic. MESSAGE: Tea tree oil is identified on a product as fragrance and I  used this product yesterday and my fingers are broken out  significantly and I'd like to know if I am allergic to fluocinonide.
+summarized question 3: Does tea tree oil contain fluocinonide?
+##
+query 4: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 4: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 5: erection problems.  how to get rid of erections?
+summarized question 5: What are the treatments for erection problems?
+##
+query 6: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 6: What are the treatments for mouth ulcers?
+##
+query 7: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 7: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 8: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 8: Are endometriosis and cysts possible complications of NF1?
+##
+query 9: my boyriend was taking tasigna and i became pregnant i want to know what kind of birth defects can it cause to my unborn child.
+summarized question 9:

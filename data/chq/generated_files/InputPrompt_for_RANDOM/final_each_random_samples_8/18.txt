@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: bowl movements question. MESSAGE: I have been having BM two or three times a day, that is not a problem, it seems natural, but the feeling that I have not finish is there every time. I feel that I have not finish and something is going back in, when I get up. I had back surgery 6 months ago.
+summarized question 1: What are the treatments for incomplete bowel emptying?
+##
+query 2: genetically inherited ability to low cholesterol. Is there a medical term used for genetically inherited ability to low cholesterol? I have it, I am told 1 in 3000, have this. I'm 64 y/o, LDL 74, HDL 78, TRI 91, CHOL 170. You'd thing that this is good but my veins & arteries are struggling to keep my B/P up the older I get. All cardiology test are good, can't find a cause for low B/P below 90/60 issues. There has to be a medical term for this, what is it, what gene is this? Since I never knew my parent, what country does this originate?
+summarized question 2: Is low cholesterol genetic?
+##
+query 3: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 3: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 4: SUBJECT: fever in babies MESSAGE: My 9 month old has a fever of 103.5. What can I do to bring down her fever, and should I take her to the ER if her fever is this high?
+summarized question 4: What are the treatments for fever in an infant and when should we go to the ER?
+##
+query 5: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 5: What causes fibroid tumors on the spine?
+##
+query 6: I have had Tourette syndrome since age seven. Recently at the age of 72, I had an implantation of a shunt for hydrocephalus.  *What is the probability of one having both hydrocephalus and Tourette syndrome? *Is there any evidence that indicates that the head and neck tics of Tourette syndrome may be a cause of hydrocephalus?
+summarized question 6: Is there a connection between tourette syndrome and hydrocephalus?
+##
+query 7: SUBJECT: Teen pregnancy MESSAGE: Good morning,   I am a student from Carver Military Academy on the far south side of Chicago. My fellow classmates and I are conducting a research project on social issues and problems we are affected by everyday mine is Teen Pregnancy. Since I am a teenager I know how having a child can really affect our young lives. They can stop our achievements in school, goals for the future,all our fun would stop,and our dreams. I would like to ask someone from your organization a few questions because it seems as though your organization could provide me with valuable information about teen pregnancy,statistics,facts, and your opinion about it. Your time and assistance would be greatly appreciated and I hope to hear from you soon.   Thank you,  [NAME]
+summarized question 7: Where can I find information on teen pregnancy?
+##
+query 8: Scleroderma (Systemic Sclerosis). i am 22yrs now and was 18th when i was detected with the disease in [DATE] 2010 after the conduction of Biopsy. there after i had taken PSS- Pulse for Systemic Sclerosis in which i was given Solumedrol for 9 months. and then after a gap of 6 months since the disease activity progressed i was given PSS again -Dexa for 3 months. along with this i am under medication with medicines as follows Depin, HCQS, Antoxid, Cyra, Omnacortil and Folitrax(weekly on saturdays and sundays). currently am under PSS which is done once in Every 6 months. but i am getting bad digital ulcers on my fingure tips on hands and legs both. i seriously need your help for this as to what else treatment can be done to it. please revert back soon
+summarized question 8: What new treatments are available for systemic sclerosis and scleroderma skin ulcers?
+##
+query 9: did anyone have this and does it require surgery? my mri says forminal stenosis from bone spurs c4,5,6. my nerve test shows severe nerve compression c7,8. i’m in so much pain, mostly my arm and shoulder and leg. waiting to see the pain specialist to see what’s next. would love to know what you guys think is required..
+summarized question 9:

@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 1: When is shingles contagious?
+##
+query 2: SUBJECT: Kidney disease diet MESSAGE: My aunty has a kidney disease, and wants to use a product that contains aloe. Is that ok?
+summarized question 2: Is aloe contraindicated for patients with kidney disease?
+##
+query 3: SUBJECT: affects from being molested MESSAGE: I was molested by my father when I was a child (over 45 years ago).  I've been working on recovery the past couple of years (the memories surfaced in 2010).  As part of my recovery, I'm exploring how being sodomized by my father may have damaged my rectum and surrounding areas.    What kinds of physical damage would have been done by a 22 year old male sodomizing a 5 year old boy?    I'm looking to see if that caused tears in the rectum that would have lead to having to have 9 surgeries as an adult to repair them.  I don't think they just happened.  thanks in advance.
+summarized question 3: Where can I find information on rectal damage caused by anal sex?
+##
+query 4: SUBJECT: Gastroesophageal Reflux Disease MESSAGE: Can GERD BE CURED? I AM SUFFERING FROM THIS DISEASE FOR ALMOST THREE YEARS NOW.I HAVE GONE TO MANY HOSPITALS  BUT STILL CAN'T BE CURED.I HAVE BEEN GIVEN OMEPRAZOLE CAPSULES MANY TIMES.PLEASE HELP ME.
+summarized question 4: What are the treatments for GERD and can it be cured?
+##
+query 5: SUBJECT: drug nutrient interaction MESSAGE: Hello: I am looking for a resource that describes nutrient ( vitamin ) depletion that results from specific medications. Hope you can help. Thank you.
+summarized question 5: Can medications cause vitamin depletion?
+##
+query 6: "SUBJECT: Vamousse head lice treatment labe claims MESSAGE: To the best of my knowledge, any head lice treatment that claims to ""Kill"" lice and/or eggs is considered by FDA to be a drug claim and therefore needs to contain an FDA-registered pediculicide (kills lice) or an FDA-approved ovicide (kills eggs).  Otherwise the product is considered to be misbranded and a ""new drug"" requiring appropriate testing.  The ""Vamousse"" head lice treatment claims ""Kills 100% lice and eggs"" and does not conform.  In addition, the claim ""kills 100%"" is in violation of FTC rulings which prohibit claiming ""100%"".  This company has also introduced a Head Lice Prevention product which is also in violation of FTC rulings (see FTC vs Lornamead).  I think that you should research these issues and publish your findings.  Thank you."
+summarized question 6: Does Vamoose head lice treatment conform to FDA and FTC labeling guidelines?
+##
+query 7: SUBJECT: hiatal hernia/exercise MESSAGE: i lost 24 lbs. do you have an exercise i can do to correct me hernia?
+summarized question 7: What exercises will help hiatal hernia?
+##
+query 8: SUBJECT: fluocinolone acetonide ointment tube MESSAGE: Is it possible to obtain this ointment (.25 mg) in anything other than a metal tube?  I travel a lot, and the tube constantly develops cracks, so the ointment squeezes out everywhere -- very messy.  My pharmacy doesn't know of any other packaging.  Thank you!
+summarized question 8: Does fluocinolone acetonide ointment .25 mg come in a non-metal tube or other packaging?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information. MESSAGE: I have a question about Lofexidine. do you have to be on suboxone and orbuprenorphine to use it and is it approved in the [LOCATION] yet?
+summarized question 9:

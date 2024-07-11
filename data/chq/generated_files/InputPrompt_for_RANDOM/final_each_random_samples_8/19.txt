@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: blind technology MESSAGE: Hello, I am a student doing a research project on blind technology. I am wondering if you have any contacts of people who have research information on this topic because I want to find out their opinions on certain technologies. Also, I would appreciate it if you could tell me ways to improve/cure blindness. For example, information on ' stem cell surgery', bionic eye', 'gene therapy to cure blindness' etc. Thankyou!
+summarized question 1: How can I find someone doing research on technologies for the blind, and what are the treatments for blindness?
+##
+query 2: SUBJECT: other uses for Phentermine MESSAGE: Hello, My name is [NAME]. I do not usually send comments or questions online. I am only doing this because I am trying to find an answer to a baffling situation I am experiencing. I started taking Phentermine about 3 years ago for weight loss. I lost weight successfully, but also found that the Phentermine substantially relieved my arthritis pain. Now my doctor has taken me off of the Phentermine. He will not prescribe it for pain relief as he does not believe there is any correlation between the Phentermine and relief of my arthritis pain. I have taken many pain relief medications over the years as my arthritis is acute. The Phentermine works the best. Is there any correlation between Phentermine and pain relief?  Sincerely, [NAME]
+summarized question 2: Can Phentermine be used for pain relief?
+##
+query 3: SUBJECT: Please send me information on the treatement of hypertension and diabetes. MESSAGE:  What causes hypertension and diabetes?
+summarized question 3: What causes hypertension and diabetes and what are the treatments for them?
+##
+query 4: pls guide us.  Dear sir/Madam pls guide us recently we found one of woman staying with us ,she coughing and blood coming from mouth so she went to doctor on 2012 they did blood test and sputm test ct scan also they didnt find anything ,recently she went to indonesia [LOCATION] ,they found repot was PROGRESSIVE DISEASE,ACTIVE LUNG TBINTHE RIGHT B2 AND B4 SEGMENS,THE EXUDATIVE LESIONS IS INCREASING WITH SMALL CAVITY .so what we have to do for her is this contages ,who is the pople staying with her need to do test ?pls guide me thank u my contact [CONTACT]
+summarized question 4: What are the treatments for tuberculosis, and is it contagious?
+##
+query 5: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 5: Is lincomycin still prescribed for human use?
+##
+query 6: SUBJECT: Platelet count and Infection MESSAGE: Hello,  My nephew is just 1 week old and from since his birth he is admitted in hospital due to less platelet count and some infection. As per the report the platelet counts are fluctuating. How much time it takes to increase the count to the normal (near 1,00,000 - 1,50,000) ?   2) And he is also affected by some infection and the count is 114 (as per the doctor's the count should be below 5). When will he come back to normal ?  3) Initially the platelet counts were 40k and then raised to 67k and suddenly came down to 20k.   Waiting for your feedback.  Thanks & Regards  [NAME]
+summarized question 6: How long does it take for Platelet count to return to normal after an Infection in a 1-week-old infant?
+##
+query 7: SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.
+summarized question 7: What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?
+##
+query 8: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 8: How long does swelling from sleep apnea take to heal?
+##
+query 9: i thought i needed a knee repalcement but after having a stent placed in my heart my knee doesn't hurt what happened
+summarized question 9:

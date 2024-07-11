@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: W What are the causes of pulmonary artery sling? Is it genetics or what?my 10 month granson is having surery on tuesday at little rock hospital in ar.
+summarized question 1: What causes pulmonary artery sling?
+##
+query 2: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 2: What does w/exertion mean on a prescription for oxygen?
+##
+query 3: SUBJECT: Health innformation MESSAGE: Please. Advise what can inhibit and disassemble genetic tau. Aggregation.  I suffer from a rare tau aggregation illness called pallido ponto nigral degeneration
+summarized question 3: Where can I find information about pallido ponto nigral degeneration, including treatments?
+##
+query 4: SUBJECT: Laparoscopic Splenectomy MESSAGE: Dear Sir/Madam My brother [NAME] is diagnosed ITP. His doctor advises Laparoscopic Splenectomy for him. Can you please mail me detail and cost of this surgery. His Platletts count is decreased to 12 and his doctors giving him Injection Mebthera today to increase plattlets count. We are form [LOCATION], [LOCATION]. Please mail us as soon possible. Thanks & Best Regards [NAME]
+summarized question 4: Where can I find information on laparoscopic splenectomy, including cost?
+##
+query 5: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 5: What are the treatments for drop foot?
+##
+query 6: Information please. Hi my name is [NAME] and im currently trying to write a book about a girl with ewings sarcoma, i need more information on ewings sarcoma and chemotherapy , radiation and surgical treatments. When i finish the book , i aim to have a portion of book sales to go towards cancer research as i lost my sister to cancer.By the way i am only 15, thanks heaps
+summarized question 6: Where can I find information on Ewing's sarcoma, including treatments?
+##
+query 7: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 7: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 8: ClinicalTrials.gov - Question - general information. I was diagnosised with mucha haberman, and I need to find someone who can treat it, I live in [LOCATION]. and I need some help
+summarized question 8: How can I find physician(s) or hospital(s) who specialize in mucha habermann disease?
+##
+query 9: my son s 20 years old and last year he told us he had GID. He never goes out except to work with me. rarely will he go anywhere unless he has to. i want to help my son find his life but i don’t know how to help him. i try to support him as best as i know how. i have suggested support groups and so forth but he is not willing. i fear for his mental health. please tell me what i can do to help my son. any groups, people i can contact that will help him with his GID, and that he can be able to somehow find a life for himself. Thanks
+summarized question 9:

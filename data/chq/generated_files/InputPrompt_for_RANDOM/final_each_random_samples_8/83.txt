@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Prosthetic foot.  Which prosthetic foot is better for a lower amp. The echelon or kinttera foot ?
+summarized question 1: What prosthetic foot is better for lower amputation: echelon prosthetic foot or  kinterra prosthetic foot?
+##
+query 2: SUBJECT: my husband had a simple retropubic prpostectomy 6 weeks ago. he can not walk wit MESSAGE: My husband had a simple retropubic prostectomy he can not walk without the walker, he can not mmove his right leg  alone yet. I don't  think is normal. What to expect in six weeks  his urinary track is still soar when he pees. I fear  is something wrong  not been able to push the leg forward the joint in the leg is painful
+summarized question 2: What is the normal time course and symptoms of recovery from simple retropubic prostatectomy?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am writing on behalf of my friend that is reading us in copy but doesn't speak english as good as me. His name is: [NAME] He was born in Italy, on [DATE] He lives in Milan, Italy. He is affected by HCV Genotype IIIA with a cirrhosis of the liver, in evolution, and his present desease does not permit to be attactd by regular medicines/therapies. (platelet minus of 50.000) He has a prescription, for Sovaldi treatment, from an italian doctor and he is ready to come to US or other country to get it also from an American Doctor, but the cost of such treatment is impossible for him. In italy the medicine is not available. He is followed by [LOCATION], one of the top italian hospital. His doctor is [NAME], that is ready to talk with you whenever needed. [NAME], suggested by his doctor, is interested to become one of your patient as a case study. [NAME] would like to enter into the research/trial program, in subject, with you in order not to pay the cost of Sovaldi that he cannot afford. According to his doctor his treatment should go on for 6 month with a conjunction of Sovaldi and Ribavirina. All my info you can find them below, and for [NAME] the email is the one in copy ([CONTACT]). You can send both to me directly and cc him or viceversa. Anyhow i will have to make the translation!!! In case, hopefully not, the treatment will not work, he is ready to change treatment with eventually other new products you are testing  and or new association. Looking forward in hearing from you soon. sincerely [NAME] [CONTACT]
+summarized question 3: Are there clinical trials for patients with Hepatitis C genotype 3A?
+##
+query 4: "SUBJECT: Levalbuterol and Budesonide Inhalation Products MESSAGE: After calling TEVA Pharmaceuticals, they relayed that the stability and storage information printed on their Levalbuterol 1.25 mg/3 mL and 0.63 mg/3 mL Inhalation Solution, as well as their Budesonide 0.5 mg/2 mL and 0.25 mg/2 mL Inhalation Suspension packages is information directly pulled from DailyMed, hence NIH. I am trying to determine if there is any extended stability information for either product, as the nebs are not singly packaged, and therefore a significant amount of product is being wasted in our facility due to the information provided. When name brand Xopenex was still available, Sepracor was able to provide our facility with more stablity information that enabled us to refrigerate the product in the foil pouch, continuing to protect it from light: i.e., ""allows use of product through its labeled expiry."" It would be greatly appreciated if some additional information could be provided regarding the above situation. Thank you for your attention to this matter. [NAME] [LOCATION] [LOCATION] [LOCATION] [CONTACT]"
+summarized question 4: Where can I find extended stability information for Levalbuterol Inhalation Solution and Budesonide Inhalation Suspension?
+##
+query 5: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 5: How is thalassemia inherited?
+##
+query 6: SUBJECT: hearing loss MESSAGE: have you experience in hearing loss due to autoimmune disorder called Cogan syndrome? If yes I will contact you for my 18year old son.
+summarized question 6: Can Cogan syndrome cause hearing loss?
+##
+query 7: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 7: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 8: SUBJECT: what are the chemicals or meds in lidocaine? MESSAGE: what are the chemicals or meds in lidocaine?
+summarized question 8: What are the ingredients of lidocaine?
+##
+query 9: SUBJECT: Alpha 1 normal ranges. MESSAGE: Hi I was wondering if you could help me. I am a student in which I have to complete a case study on a patient with severe COPD. The patient's alpha 1 ant-trips sin level is 1.33. I am aware the normal ranges is 0.075-0.15g/L. Does this mean this patient has the genetic disease? Thanking You [NAME]
+summarized question 9:

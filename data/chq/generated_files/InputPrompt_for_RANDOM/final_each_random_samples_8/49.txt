@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: hearing loss due to Alports Disease. If hearing loss is due to Alports Disease, is the hearing loss the same degree of both ears?
+summarized question 1: Where can I find information on hearing loss and Alports disease?
+##
+query 2: SUBJECT: sacral nerve stimulation MESSAGE: How do I search for Instututions-doctors that perform sacral nerve stimulation procedures for fecal incontinence. I need the procedure, and I want to go to the place with the most experience.fecal incontinence
+summarized question 2: How can I find physician(s) or hospital(s) who specialize in sacral nerve stimulation for fecal incontinence?
+##
+query 3: hepatitus A blood test.  how long does it take for the lab to determine the result
+summarized question 3: How long does it take to get a hepatitus A blood test result?
+##
+query 4: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 4: Can epilepsy be cured?
+##
+query 5: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 5: How do I switch from Amlodipine to atenolol?
+##
+query 6: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 6: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 7: Referral Vacationing in and near [LOCATION] Puerto Rico. How to I find a dentist for toothache?
+summarized question 7: How can I find dentist(s) to treat toothaches in Puerto Rico?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am writing on behalf of my friend that is reading us in copy but doesn't speak english as good as me. His name is: [NAME] He was born in Italy, on [DATE] He lives in Milan, Italy. He is affected by HCV Genotype IIIA with a cirrhosis of the liver, in evolution, and his present desease does not permit to be attactd by regular medicines/therapies. (platelet minus of 50.000) He has a prescription, for Sovaldi treatment, from an italian doctor and he is ready to come to US or other country to get it also from an American Doctor, but the cost of such treatment is impossible for him. In italy the medicine is not available. He is followed by [LOCATION], one of the top italian hospital. His doctor is [NAME], that is ready to talk with you whenever needed. [NAME], suggested by his doctor, is interested to become one of your patient as a case study. [NAME] would like to enter into the research/trial program, in subject, with you in order not to pay the cost of Sovaldi that he cannot afford. According to his doctor his treatment should go on for 6 month with a conjunction of Sovaldi and Ribavirina. All my info you can find them below, and for [NAME] the email is the one in copy ([CONTACT]). You can send both to me directly and cc him or viceversa. Anyhow i will have to make the translation!!! In case, hopefully not, the treatment will not work, he is ready to change treatment with eventually other new products you are testing  and or new association. Looking forward in hearing from you soon. sincerely [NAME] [CONTACT]
+summarized question 8: Are there clinical trials for patients with Hepatitis C genotype 3A?
+##
+query 9: I had surgery in 2011. I had an injury from a gunshot and the doctors put a stent in my carotid artery. I want to play sports. I am sure basketball is fine. I do not know about football since it is mainly a contact sport. Has anyone ever played football witha a stent in their neck ? I know there are some details I should note before furthering my want of playing sports.
+summarized question 9:

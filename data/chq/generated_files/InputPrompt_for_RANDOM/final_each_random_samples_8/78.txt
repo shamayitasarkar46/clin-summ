@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 1: Where can I find information on klinefelter syndrome?
+##
+query 2: SUBJECT: POMEGRANATE MESSAGE: Rosuvastatin (Crestor) Rosuvastatin (Crestor) is broken down by the body in the liver. Drinking pomegranate juice might decrease how quickly the liver breaks down rosuvastatin (Crestor). This might increase the effects and side effects of rosuvastatin (Crestor).  My question is what about Lipitor?
+summarized question 2: Does Lipitor interact with pomegranate juice?
+##
+query 3: SUBJECT: gluten free status of Tolterodine Tartrate ER 4mg MESSAGE: You list starch as one of the ingredients. What is the source of the starch? Is this medication gluten free? Is it safe for someone with Celiac Disease to take?
+summarized question 3: What are the ingredients of Tolterodine Tartrate ER 4mg and is it gluten free?
+##
+query 4: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 4: Is MRSA contagious, and how is it spread?
+##
+query 5: broken veins in legs.  is vein surgery for mostly cosmetic reasons recommended any dangers serious side effects
+summarized question 5: What are the complications of varicose vein surgery?
+##
+query 6: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 6: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 7: questions about the effect of L-Leucine.  Hello,do you have any introduction about L-Leucine on the effect of treat cancer?If so,could you kindly tell me details?
+summarized question 7: Where can I find information on L-Leucine and its use in cancer treatment?
+##
+query 8: SUBJECT: my 28 year old daughter has been sick for 5 years. and it is very hard for her.. MESSAGE: I need to find support for my daughter, she been sick for  5 years.. and has lost several jobs. and had several sugeries.. she has diegestive issues.. and cannot eat without getting sick.
+summarized question 8: Where can I find support groups for people with digestive disorders?
+##
+query 9: SUBJECT: MRI versus CT scan for TBI/consciousness/S100B. MESSAGE: For adult patients:  Following a TBI what is considered most  conclusive for damage: MRI, MRI with contrast, CT, CT with contrast. Also, do you think whether a person losses consiousness is given too much credence for evaluating a TBI? How long is a S100B able to detect damage following a TBI? Do you yhink this is a valid test for E.D. immediately following injury?  If so, why is it not done, ignorance or expense? Could a patient demand it be drawn?  Thank you
+summarized question 9:

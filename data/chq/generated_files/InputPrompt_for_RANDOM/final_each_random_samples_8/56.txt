@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Low Red Blood Cell Count MESSAGE: If a patient's Red Blood Cell Count becomes low because of a 3-month medicine regimen, will the RBC normally increase back to normal when the intake of prescribed drug ceases? Thank you. [NAME]
+summarized question 1: Will a low red blood count return to normal after the responsible medication is stopped?
+##
+query 2: SUBJECT: Pyloric Stenosis MESSAGE: Good day, I had pyloric when I was a baby - I am now 44 years old.  I have always suffered with stomach problems, leaky gut etc.  Is it at all possible that this is a related cause of pyloric long term?  I was the 1st baby girl to have this operation in [LOCATION] in [DATE].
+summarized question 2: What is the long-term prognosis and complications of pyloric stenosis?
+##
+query 3: Does either of these help with skin keloids? What would help keloids?
+summarized question 3: What are the treatments for skin keloids?
+##
+query 4: SUBJECT: Cardiomegaly with chronic chest pain MESSAGE: With cardiomegaly chest pain will the heart muscle continue to thicken? Most all the doctors have given up trying to find the cause of his pain.  It has changed his life, he enjoys work and spending time outdoors and now he can't.
+summarized question 4: What  are the causes  and treatments of chronic chest pain with cardiomegaly?
+##
+query 5: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 5: What are the treatments for flatulance?
+##
+query 6: SUBJECT: Diabetis MESSAGE: Can I use Novolin instead of Novolog? Is there any difference?
+summarized question 6: What is the difference between Novolin and Novolog and are they interchangeable?
+##
+query 7: SUBJECT: methadone causing COPD MESSAGE: My daughter said there was a study done  and it concluded that methadone can cause COPD. Do you know if there is any truth to this and if so where can I get info on it. Thank you [NAME]
+summarized question 7: What are the side effects of methadone?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 8: How is hypomaturation type IIA2 inherited?
+##
+query 9: I have a problem. I am not remember my study always forget .I am not consntrate on study. When i am reading i am thinking any others topic. I am confused Is this a Alhizmer.I think i am loss my memory .Please help me and suggest me.
+summarized question 9:

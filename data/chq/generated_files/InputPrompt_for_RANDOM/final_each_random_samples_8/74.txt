@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 1: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 2: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 2: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 3: What are the treatments for scalp psoriasis?
+##
+query 4: williams sydrome conditon.  i need to send me more information about Williams Syndrome and some tips how to educate people with this disorder.I hope having news from you soon!!thank you
+summarized question 4: Where can I find information and educational materials on williams syndrome?
+##
+query 5: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 5: Can sleep apnea occur during the day when awake?
+##
+query 6: "SUBJECT: Morgellon Disease MESSAGE: It appears as if I have had this horrible disease for many, many years and it is getting worst.  I am trying to find a physician or specialist in the South Carolina area who can treat me for this medical/mental disease.  It seems as if this disease has ""NO"" complete treatment and it is more least a disability!"
+summarized question 6: What are the treatments for Morgellon Disease, and how can I find physician(s) in South Carolina who specialize in it?
+##
+query 7: SUBJECT: New Hep C Virus Treatments MESSAGE: In 2006-2007, at the VAMC in [LOCATION], i went through the HEP C Treatment using Ribavirin and Interferon. My viral load was undetectable immediately at the BOT. I stayed on the treatment faithfully and painfully for a4 months; when at the EOT my viral load was still indictable. I was considered a success. When i came back after 6 months for a checkup, it was found my HCV had relapsed. Now I want to know what treatments are now available to me. I hear of these new wonder cures that have been approved in the past year and i want to be retreated. Please send me all the info you have on these new treatments while i wait here and die at age 45. I was exposed with the HCV virus from a tattoo while in the armed forces overseas.
+summarized question 7: What new treatments are available for recurrent hepatitis C?
+##
+query 8: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 8: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 9: SUBJECT: Mitral valve regurgitation. MESSAGE: Hi, I am writing on behalf of my dad. He is 65 and he is diagnosed with Rheumatic Mitral Valve regurgitation 8 years ago. 3 years ago he also diagnosed with heart failure. Currently he has been using Coumadin, beta blocker, diuretics, ACE inhibitor, as a medicine and as suppliments omega3,6,9 fish oil, Co-enzyme q10, vitamin C, K2, Ginco Biloba, Magnesium Citrate using daily. I would appreciate if you can help us with some of the symptoms my dad is experiencing.  feeling sick in the morning and trowing up before and after breakfast, feeling tired all the time, struggling to walk to the first floor without resting. He has low blood pressure (like 5 - 7), [PHI]. We are very worried about my dad. Could you please suggest us if we are using wrong medication or we are supposed to use any more or less medication or supplements. Please please please help us I am very scared if something happens to my dad. I look forward to hearing from you [NAME]
+summarized question 9:

@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: nulytely MESSAGE: Hello can you tell me where do i order the nulytely who is the manufacture, what phone number can i call. thanks.
+summarized question 1: Who makes nulytely, and where can I buy it?
+##
+query 2: SUBJECT: Bone-Joint degeneration in the hand or fingers? MESSAGE: I notice that the joints or bones in my  hands hurt sharply when working, cooking and lately I have been dropping things from my left hand; even a sudden twist send shock thru my body-What is this?
+summarized question 2: What causes hand pain?
+##
+query 3: SUBJECT: Arthritis MESSAGE: Is the medication Trimethoprim/ sulfamethozle useful in arthritis.?         Thank you
+summarized question 3: Is Trimethoprim / sulfamethazole indicated for arthritis?
+##
+query 4: irregular bowl movements.  problems in bathroom.   is affecting my work/ and or sex life
+summarized question 4: What are the treatments for irregular bowel movements?
+##
+query 5: chromosome 20 reattachment. Results of my amniocentesis states that a part of chromosome 20 broke then reattached itself to the same chromosome in a funny way.  They are unable to determine what gene if any has been affected.  Are you aware of any similar situations, and if so, what symptoms should I expect my baby to have?  Is there anyone else you suggest I contact for further information?
+summarized question 5: Where can I find information on disorders caused by chromosome 20 abnormalities?
+##
+query 6: SUBJECT: is there any help available,for fibromalgia MESSAGE: is there any treatment s available.?
+summarized question 6: What are the treatments for Fibromyalgia?
+##
+query 7: Tailbone trauma - aftercare  I read the article, but what if the person hasn't falling or been bumped?  What could cause this?
+summarized question 7: What causes tailbone injury?
+##
+query 8: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 8: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 9: i am post menopause for about 18 years and i have been bleeding for about a month why
+summarized question 9:

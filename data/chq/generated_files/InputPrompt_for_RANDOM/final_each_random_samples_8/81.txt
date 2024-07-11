@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: loss of  taste MESSAGE: i  have  giant  cell arteritis.  on  steroids.  lost  taste  .  is  this  related  to  the  illness  (  was  it  ever  reported  in  GCA  ?  )  or  side  rx  to  prednisone.  i   wish  a  rheumatologist  at  NIH  responds
+summarized question 1: What causes loss of  taste and is it related to GCA or steroids?
+##
+query 2: Williams' syndrome I would like to have my daughter tested for William's syndrome. Could you please tell me where I would go or who does it in my area?  Thank you!!
+summarized question 2: Where can I get genetic testing for william's syndrome?
+##
+query 3: SUBJECT: suggest diet MESSAGE: age 66.married.male.weight73kgs.bp120/80 no tablets used for bp,no blood sugar fasting 90 after meals120 i am a vegetarian,i am observing a gradual weight gain    how to control it   what is suggested food?
+summarized question 3: What are sucessful weight loss diets for vegetarians?
+##
+query 4: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 4: What are the treatments for LGMD?
+##
+query 5: williams sydrome conditon.  i need to send me more information about Williams Syndrome and some tips how to educate people with this disorder.I hope having news from you soon!!thank you
+summarized question 5: Where can I find information and educational materials on williams syndrome?
+##
+query 6: "SUBJECT: treatment for dry mouth caused by necessary medicine MESSAGE: My provider can't help (I asked.) I am intolerant of all the ""sugar alcohols"" such as maltilol, sorbitol, xylitol, etc. and need something for dry mouth caused by med which I have to take.  Biotene products help for only about two minutes."
+summarized question 6: What are treatments for dry mouth that do not contain sugar alcohols?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Good day. I'm living with lupus. I just want to ask if I can take glutathione supplement? I already completed my chemotherapy last month (march) and free off steroid after two weeks. Thanks
+summarized question 7: I have lupus; can I take a glutathione supplement?
+##
+query 8: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 8: What is the life expectancy of someone with free trisomy 13?
+##
+query 9: SUBJECT: time of results. MESSAGE: When a person start halt sildenafil...How long before their breathing, shortness of breath, &fatigue issues go back to normal..?
+summarized question 9:

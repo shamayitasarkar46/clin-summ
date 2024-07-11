@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Nephrotic Syndrome MESSAGE: What is Nephrotic Syndrome.  What are its causes and cures?
+summarized question 1: What is Nephrotic Syndrome, its causes and cures?
+##
+query 2: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 2: What is the life expectancy of someone with free trisomy 13?
+##
+query 3: polands syndrome. i have polands syndrome and cannot find it anywhere
+summarized question 3: Where can I find information on Poland syndrome?
+##
+query 4: MESSAGE: I have a gland on the bottom left side of my jaw that swells up and gets really hard causing pain. The only way to relieve it is to push it with my fingers till it runs out of a hole inside my cheek into my mouth. What could b causing this? I just want to know if i should b concerned about a type of cancer since my grandmother passed from cancer in her lymph nodes.
+summarized question 4: What are the causes and treatments for salivary gland swelling and pain?
+##
+query 5: SUBJECT: hiatal hernia/exercise MESSAGE: i lost 24 lbs. do you have an exercise i can do to correct me hernia?
+summarized question 5: What exercises will help hiatal hernia?
+##
+query 6: SUBJECT: EPI 747 MESSAGE: hi  My name is [NAME] My son, His age 4 month discovered it leigh disease infected from the mother side. and we have  full family history with the leigh disease.  my Daughter she lived for 7 years with the same disease, we have her Hospital reports, it is confirmed leigh Disease.  Kindly, if there is any hope for my son with EPI743 treatment, and we are appreciate to accept him in the treatment study.  i have a full reports for my son and the MRI. and all of it under your request.    Hope get your help ASAP because he is in the first stage. and we have a we are all hope he will be better.  Best Regards  [NAME]
+summarized question 6: Is EPI743 an effective treatment for leigh syndrome?
+##
+query 7: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 7: Is lincomycin still prescribed for human use?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: A friend had chemo for breast cancer.  She has developed a foam in her mouth that appears to come from her gums.  She has been to every doctor, but no one can diagnose.  She has tried everything recommended and nothing seems to work.  She has gone into a deep depresstion because of this constant foam.  Would there be any studies available?  Could someone give an idea of what could be causing this problem in her mouth?  Is there any interest of looking into her case?  Thank you.
+summarized question 8: What causes foamy saliva?
+##
+query 9: co q10 how effective and side effects for blood pressure treatment? Cider vinegar?
+summarized question 9:

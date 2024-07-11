@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: PSEUDOMONA AERUGINOSA - DIABETES MESSAGE: Hello. My name is [NAME], I have a daughter of 11 years with type 1 diabetes and I have a query. The bacteria Pseudomonas aeruginosa has been detected in the water tank of my building. I found that I have to take extra care with diabetics. Could advise me about that ?? Thank you.   [NAME]
+summarized question 1: Are there special precautions for diabetes and pseudomonas aeruginosa?
+##
+query 2: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 2: What are the treatments for kidney stones?
+##
+query 3: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 3: Are endometriosis and cysts possible complications of NF1?
+##
+query 4: MESSAGE: HI, THIS IS [NAME]. SUPPOSE WE REMOVED THE EYE DUCT DUE TO TEAR TUBE DAMAGE, IS IT ANY PROBLEM WILL COME??
+summarized question 4: What are the prognosis and complications of tear duct surgery?
+##
+query 5: SUBJECT: HEP C MESSAGE: IS THERE A DRUG TO TAKE IF YOU HAVE IN THE LAST 4 DAYS BEEN EXPOSED TO CONTAMINED BLOOD OF A HEP C PERSON. IE PROFOLACTIC DRUG TO LESSEN THE CHANCES OF INFECTION? IE LIKE TRUVADA FOR HIV?
+summarized question 5: Is there a prophylactic drug for exposure to hepatitis C?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 6: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 7: SUBJECT: Hair loss (men) on legs/feet as one ages MESSAGE: I have observed hair loss on lower extremities on males. Is this poor blood circulation? Any advice?
+summarized question 7: Where can I find information on hair loss on the lower extremities in men, including causes and treatment?
+##
+query 8: SUBJECT: nulytely MESSAGE: Hello can you tell me where do i order the nulytely who is the manufacture, what phone number can i call. thanks.
+summarized question 8: Who makes nulytely, and where can I buy it?
+##
+query 9: what are the effects when you take testosterone injections with sudafed 20 mg at the same time what’s the effects
+summarized question 9:

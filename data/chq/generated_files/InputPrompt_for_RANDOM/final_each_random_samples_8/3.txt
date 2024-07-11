@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Colon cancer cure seen on tv.  My father has colon cancer and said he saw a commercial on tv about a cure for colon cancer.  He cannot remember any details about it. I was wondering if you know anything about something like this.  Please let me know.  Thank you, [NAME]
+summarized question 1: What new treatments are available for colon cancer?
+##
+query 2: SUBJECT: staphy treatment MESSAGE: Gud day, please ham having staphylococcus and I need drugs to take and your advice..my result show &quot;scanty&quot;..i 'll be expecting your reply..thank you and God Bless you
+summarized question 2: What are the treatments for staphylococcus?
+##
+query 3: sarcoidosis.  One thing no physician has been able to tell me is whether or not fatigue--ongoing--is a part of this disease. I was diagnosed in 2006, and have noted a lessening of energy, endurance. If this is a possible side effect, I have not found it in any info on this. Please add to your information if this is a viable issue. Thanks so much! [NAME]
+summarized question 3: Is fatigue a symptom of sarcoidosis?
+##
+query 4: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 4: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 5: My grand child was born on [DATE] with Multicystic dysplastic kidneys.  After reading your article I would like to know whether the stem cell could bring hope to this child. Is this possible?  How to go about? Cloning? Please give me something to work on.
+summarized question 5: What are the latest treatments for multicystic dysplastic kidneys, including stem cell therapy?
+##
+query 6: "SUBJECT: peripheral neuropathy MESSAGE: I am not a diabetic but there is diabetes in my family. I have neuropathy in my feet and hands and it keeps me up at night. I have been on Gamapentin (300mg.)for years but find that it affects my balance (I am 90 years old)What else would you recommend that I take to help me sleep? I am a ""walker"" and a ""swimmer"" but my blood circulation has always been poor.  Thank you for your  suggestions!"
+summarized question 6: What, besides gabapentin, can help me sleep better with peripheral neuropathy in my hands and feet?
+##
+query 7: SUBJECT: daytrana MESSAGE: can daytrana be prescribed for an 18 almost 19 year old male? if so, what dosage?  he is 230 lbs.  He has tried several ADHD medications in the past.
+summarized question 7: What are dosage guidelines for Daytrana?
+##
+query 8: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 8: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 9: I am not a nurse or Dr or student... I am just a person with a question that I need an answer to. Could you please help me out and let me know if there is any research on the effect of Rogam on the baby of the RH- person? Are there higher rates of mental illnesses in them or other health issues? I would really appreciate any information. Thank you
+summarized question 9:

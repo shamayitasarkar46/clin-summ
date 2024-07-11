@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 1: What are the causes of severe body weakness?
+##
+query 2: MESSAGE: I have had renal organ transplant surgery a year ago. What risk factos must I avoid to prevent the recurrance of ESRD and to maintain a healthy &functioning grafted kidney ?
+summarized question 2: How do I care for my kidney after renal transplant?
+##
+query 3: SUBJECT: Geriatric Psychiatrists - recommendations MESSAGE: I'm looking for a geriatric psychiatrist in the sun city west, AZ area to do an evaluation for a loved one (male) who may be suffering from depression.  I'm looking for a psychiatrist that has experience working with older veterens who has a no nonsense, scientific approach.
+summarized question 3: How can I find geriatric psychiatrists in Sun City West Arizona?
+##
+query 4: SUBJECT: LOVASA MESSAGE: I was prescribed the medication lovasa a few years ago and have been taking it.  I have become a veteranian and had some concerns about taking fish oil but my most concern is that I have a eye disease called Stargard's where any vitamin A my body doesn't use becomes waste and kills my retina cells so it is very important to me , to know exactly how much Vitamin A is in this medication Lovasa.  My doctor, pharmacy and my research shows anything.  I did have an article that says some over the counter fish oils have dangerous levels of Vitamin A.  Please any help you can give me will be so appreciated.  [NAME]
+summarized question 4: Does Lovaza contain vitamin A?
+##
+query 5: SUBJECT: Subject MESSAGE: I'm calling because I would like to know more advice on crating Risperdoine medicine and gain experiences on the medication. And creating the medication
+summarized question 5: Where can I find information on risperidone, including how it is manufactured?
+##
+query 6: SUBJECT: Nephrotic Syndrome MESSAGE: What is Nephrotic Syndrome.  What are its causes and cures?
+summarized question 6: What is Nephrotic Syndrome, its causes and cures?
+##
+query 7: Angelman syndrome. Can a person with Angelman Syndrome have children? If so, can the disorder be passed on to offspring?
+summarized question 7: How is angelman syndrome inherited?
+##
+query 8: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 8: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 9: Hello, My sister suffers from obsessive-compulsive disorder for more than ten years And I want to know why the symptoms of obsessive-compulsive disorder increase during the menstrual period for this she is  very afraid and use contraceptive pills a monthly to prevent the menstrual cycle and is used this way since 5 years The first question is why the symptoms of obsessive-compulsive disorder increase during menstruation? The second question Are there any side effects as a result of the use of pills a month? I hope to help me found the answers because her conditions is very bad and please told me what we can do to help her. thank you very much and thank you for your time.
+summarized question 9:

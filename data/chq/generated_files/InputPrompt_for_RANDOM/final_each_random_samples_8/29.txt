@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: congenital diaphragmatic hernia MESSAGE: I need to know if CDH can be passed down to future generations.  I just learned that this condition most likely caused the death of my first child back in 1971.  I was then told it was merely a fluke.  I had NO trauma during the full-term pregnancy, and I and my then husband were in very good health.  Now my son (from a different husband) and his wife are due to have fraternal twins in [DATE] 2015.  Does the term 'congenital' mean that it could be passed down to another generation?  I do not want to alarm my son and his wife.  I just would like to inform whatever pediatrician is caring for these babies as to my experience.  Unfortunately my son and I are estranged.  And I do not know who is their pediatrician.  My child's CDH was very severe.  I know there are far less severe cases that can go undetected &/or undiagnosed unless there is a reason to suspect such a condition.  Please respond to my concerns.
+summarized question 1: What causes congenital diaphragmatic hernia?
+##
+query 2: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 2: What are the treatments for bad breath?
+##
+query 3: asthsma.  I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?
+summarized question 3: What are the symptoms of asthma?
+##
+query 4: SUBJECT: Request for literature for Chromosome 16 duplication MESSAGE: I have 3 week old who was admitted in our [LOCATION] for being growth retarded.  He was delivered term but weighed only 1.44 kg.  There was polyhydramnios during pregnancy but the rest of the antenatal scans did not detect any other abnormalities. When the baby was born, we noted some dysmorphysm, namely:  small head, low set ears, round face with wide phlitrum, slight hyperteloris, wide spaced nipples, clinodactyly and stubby toes.  blood was sent for karyotype and showed 46XY,dup(16)(q13q23). I looked up any information about this condition and could not find any on-line. Can u please forward any literature you may have so as I can better appraise the parents of the prognosis and make a more detailed treatment plan for the patient. Thank you
+summarized question 4: Where can I find information on chromosome 16 duplication, specifically karyotype 46XY,dup(16)(q13q23)?
+##
+query 5: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 5: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 6: SUBJECT: GENDER DYSPHORIA MESSAGE: NO HEALTH CARE ON MY SON SUFFERING FROM GENDER DYSPHORIA WHAT CAN WE DO TO HELP HIM HE WORKED OUT OF HIGH SCHOOL NO PROBLEMS NOW NOT WORKING AND SHUTTING HIMSELF IN HIS ROOM 24/7 THERES NOTHING ABOUT THIS CONDITION IN OUR AREA WE LIVE IN [LOCATION]. NO HELP IN AREA WHAT CAN WE DO HE HAS HAD BAD THOUGHTS ALREADY PLEASE HELP US WITH SOME SORT OF INFO THANK YUO [NAME] [LOCATION] [CONTACT]
+summarized question 6: Where can I find information on treatment and resources for gender dysphoria?
+##
+query 7: Genetic Test for IHHS heart condition. Is there a commercial genetic test for the IHHS heart condition?  My family suffers from this heridity condition and I would like to know who is susseptable.   If so, where could I get it done in [LOCATION] Texas?
+summarized question 7: Where can I get genetic testing for IHSS in Texas?
+##
+query 8: SUBJECT: Lyme Disease MESSAGE: 12 years ago I was bitten by tick while deer hunting. The bite area contained the ring as described in Lyme Disease symptoms.  I was treated with antibiotics;  however, ever since that time I have many of the symptoms cited for Lyme.  Also, usually prior to, and during these symptoms I have a reddish-pink welt appear at the site of the bite on my groin.  Can you offer any enlightment on my condition?
+summarized question 8: What is the prognosis for post-treatment Lyme Disease symptoms?
+##
+query 9: I have 6 months twin daughter. M one daughter is ok but another one have blood less issue from start. and she required bool every month. after check . of her, her mother and my. result find out that. My report is ok from Thalassemia. Her mother have minor Thalassemia . and she (daughter) have no Thalassemia but my daughter have Anemia. so doctor give her foli acid and mother milk. but she still problem, now he sagest for bone marrow and maybe she have Anemia.. so give me some guideline that what I do.... thank..
+summarized question 9:

@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: hi. i'm a student that suffers from Pectus excavatum (funnel chest), and i need help to pass it. please give me some way to get the solution of this problem. waiting for your answer. please need help!
+summarized question 1: What are treatments for pectus excavatum?
+##
+query 2: Good evening, I will contact you as my [NAME] a year and a half have been diagnosed with the genetic mutation STXBP1. I would like to know if there is something in the world that can help my son. I hope you contact us as soon as possible.  Greetings [NAME]
+summarized question 2: What are the treatments for genetic mutation STXBP1?
+##
+query 3: SUBJECT: Pilot and Lazy Eye MESSAGE: Dear MedlinePus  I started to fly at the age of 15 and have been flying for over 3,5 years and has logged over 120 hours in my time as pilot. My dream is to become a Comerical Pilot and recently I undertook a medical class 1 which I failed in [LOCATION] because of my Eye position and Eye movment, hence I have not experienced any problem with my vision in daily life nor when I have been flying..  The problem is that my binocular vision is not good enough and the eye-doctor meant it could be a problem if I sudden developed double vision.  Is there any operation that can fix this? The Orthoptics I went to meant there was a problem with one of the eye muscles which where to thight and the other too weak. She said it can be fixed, but this is not &quot;normal&quot; in [LOCATION] because it is not big enough error she meant.  Is there anyway to fix this? I appreciate all information!  Kind Regards  [NAME]
+summarized question 3: What are the treatments for lazy eye?
+##
+query 4: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 4: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 5: SUBJECT: Details about Caustic Soda Poison MESSAGE: Hello, i'm writing from Mauritius and my name is [NAME]. A member of my family swallowed a poison which is name caustic soda. He is actually in the hospital suffering a lot. Is there any suggestion please to help him to be better or to relieve his pain?
+summarized question 5: What are the treatments for caustic soda poisoning?
+##
+query 6: Physician.  I am looking for a type of physician that specializes in treating leg cramps in the elderly.  Specifically, possibly one that provides treatment for leg circulation issues.  What medical specialty is that called?
+summarized question 6: What type of physician treats poor circulation in the legs?
+##
+query 7: SUBJECT: RKS have a 6 month old baby.. MESSAGE: Hi everyone, I am a mum of 6 months old boy who was diagnosed with Cerebral palsy (Hypotonia/Hypotonic form) in relation with Pallister-Killian syndrome. Also he has got mixed form of hydrocephalus There is no epiactivity. Our neurologist has suggested to go through Vojta method/ Bobat therapy.  Please could you let me know your experience with these methods ( if any).. I will be very grateful for any info about it as I do to have enough information to operate with. Also, any thoughts about transcranial direct-current stimulation, occupational therapy or Feldenkrais? Please please please if you can share your experience - it would be absolutely priceless.  Thank you in advance,  Best Regards,  [NAME]
+summarized question 7: Where can I find information on treatments for cerebral palsy, and specifically the vojta method and bobath therapy?
+##
+query 8: SUBJECT: Chromosomes 6 MESSAGE: i had a son born with a very small part of chromosome 6 missing , caused several surgeries and then death . But I don't find any information , even similar to his . Is there anywhere else I can look for Any information on what would cause this piece to be missing
+summarized question 8: What could cause part of chromosome 6 missing?
+##
+query 9: SUBJECT: Loss of sense of taste. MESSAGE: I have not been able to taste most foods for over a year ( I am 54 and in good health for the most part, I do not have a loos of sense of taste and do not have gum disease.) either due to using a vaperizor where the fluid leaked and got on my throat or where my smoking did.  I am also Hypothyroid classified with Hashimots's.  I am at my breaking point and need something medically to fix this.  Is there such a medicine?  No one will help me it seems. Thanks, [NAME]
+summarized question 9:

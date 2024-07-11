@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Gluten Free Product? MESSAGE: HI, I was just wondering the source of the MALTODEXTRIN (UNII: 7CVR7L4A2D) in your product DEXTROAMPHETAMINE SULFATE- dextroamphetamine sulfate tablet NDC Code(s): 0555-0952-02, 0555-0953-02 . I was prescribed this medication and just wanted to make sure it was sourced from corn or something besides wheat because I am allergic to gluten!
+summarized question 1: What are the ingredients of dextroamphetamine sulfate and is it gluten free?
+##
+query 2: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 2: What are the treatments for LGMD?
+##
+query 3: SUBJECT: Thoracic outlet syndrome MESSAGE: I was diagnose with TOS in my left shoulder was told surgery would help my problem. physical therapy did not help tired of the numbness in pain in hand just wondering if the stats our good percentage wise for surgery results Dr.[NAME] is my surgeon
+summarized question 3: What are the success rate and prognosis for thoracic outlet syndrome surgery?
+##
+query 4: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 4: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 5: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 5: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 6: genetically inherited ability to low cholesterol. Is there a medical term used for genetically inherited ability to low cholesterol? I have it, I am told 1 in 3000, have this. I'm 64 y/o, LDL 74, HDL 78, TRI 91, CHOL 170. You'd thing that this is good but my veins & arteries are struggling to keep my B/P up the older I get. All cardiology test are good, can't find a cause for low B/P below 90/60 issues. There has to be a medical term for this, what is it, what gene is this? Since I never knew my parent, what country does this originate?
+summarized question 6: Is low cholesterol genetic?
+##
+query 7: MESSAGE: I had the  lap band but I just gain the weight back. can I still have the bypass done ?
+summarized question 7: Can gastric/GI bypass surgery for weight loss be done after failed lap band surgery?
+##
+query 8: SUBJECT: Lichen Planus yrs MESSAGE: Help help help. I have Lichen Planus and I think at times I might go crazy from the itching. I had once before about 22 yrs ago and it went away after a cycle or two of Prednisone. This time it has been over 15yrs and keeps on. It will not go away. I can not take prednisone any more!!!! It makes me mean. I need some kind of help. I use steroid creams and shots and they ease the lesions and the itching, but after a while it gets really bad again. I a at my wits end. It is all over my feet ankles legs and wrists arms back and butt. help me please!!!!!!!!
+summarized question 8: What are non-steriod treatments for lichen planus?
+##
+query 9: I have been diagnosed with bipolar and fibromialgia and have been told I cannot take lyrica with having been put on medication for bipolar as well as the issue with side affects. Is this true?
+summarized question 9:

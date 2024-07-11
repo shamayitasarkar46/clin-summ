@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 1: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 2: MESSAGE: Hantavirus virus if the urine and feces are old droppings-5 years better and never cleaned. Can the virus still be passed from old droppings and maybe dried urine that cant be seen? [CONTACT]
+summarized question 2: Can hantavirus be spread by old droppings and urine?
+##
+query 3: SUBJECT: Please help me MESSAGE: I have been dealing with undiagnosed issues. It started 3 years ago as nausea and dull achy pain. Doctors decided to remove my gallbladder, even though it only had scarring. Since the surgery ([DATE]) I have had a sharp, stabbing random pain in that area and around it. I also get dull, crampy pain. Finally, the surgeon ordered a CT scan because the pain is so bad. His nurse called and said everything was fine. So I went to my primary, who noticed that I have ascites on my liver. My side is slightly bloated, was not before. And I am scared because I don't know what I'm supposed to do. No one will help me and I do not want to be on pain meds my whole life.  Please let me know your thoughts or guide me in the direction I need, please.  I live in south carolina, i dont know why when I made my email it had the co.uk
+summarized question 3: What are the treatments for ascites?
+##
+query 4: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 4: Where can I find information on familial mediterranean fever?
+##
+query 5: Re: 16p-13.11 duplication of genes. Dear all, I am a health professional and have recently assessed a 9 year old boy on my caseload whose mother reported that he has been diagnosed with 16p-13.11 duplication of genes.  I have never come across it and when I looked on the internet I could not find anything coherent.  I have been in contact with the paediatrician who used to be in charge of that child but she is unfortunately on long term sick.  Would you be able to give me some information on this condition with key features please? Are there behavioural, coordination, sensory difficulties, etc...that can be associated with it?
+summarized question 5: Where can I find information on 16p-13.11 duplication, including symptoms?
+##
+query 6: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 6: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 7: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 7: Is lincomycin still prescribed for human use?
+##
+query 8: SUBJECT: Skin Itching MESSAGE: At night, I have very bad lower leg skin itching.  Is this being caused by any of my prescripions?
+summarized question 8: What prescription drugs cause itching skin on legs?
+##
+query 9: if you exposed to two positive covid people an your results negative but you have symptoms what are state local cdc recommendations for quarantine
+summarized question 9:

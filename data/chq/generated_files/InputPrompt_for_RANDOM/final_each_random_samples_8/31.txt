@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 1: When is shingles contagious?
+##
+query 2: SUBJECT: breast feeding MESSAGE: need information in different languages about breast feeding. Follows the WHO recommendation to promote breast feeding.
+summarized question 2: Where can I get information in different languages about breast feeding, specifically the WHO recommendation to promote breast feeding?
+##
+query 3: Attachment disorder.  Ok I am 21 years old and I have Attachment disorder I had it all my life and I don't know what to do in my life. I don't let my girlfriend in or to close to me when I feel like the relationship is going good and she's getting to close I push her away or I leave and go to the next girl and my career as a pro boxer I don't want to keep doing this to her or to other people in my life. Can someone please help me. I am tried of dealing with this.
+summarized question 3: How can I get help for attachment disorder?
+##
+query 4: SUBJECT: Tamsulosin MESSAGE: Is Tamsulosin gluten-free and where is it manufactured? Thank you. [NAME], RN, BA
+summarized question 4: Is Tamsulosin gluten-free and where is it manufactured?
+##
+query 5: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 5: What are the treatments for flatulance?
+##
+query 6: MESSAGE: good day. At the age of 50 ive started swelling for about a week now. Its my whole body, especially legs and feet. Im using antistax but not sure if its helping. please advise its so frustrating, i cant get into any clothes.
+summarized question 6: What are the causes of and treatments for legand body swelling?
+##
+query 7: SUBJECT: congenital diaphragmatic hernia MESSAGE: I need to know if CDH can be passed down to future generations.  I just learned that this condition most likely caused the death of my first child back in 1971.  I was then told it was merely a fluke.  I had NO trauma during the full-term pregnancy, and I and my then husband were in very good health.  Now my son (from a different husband) and his wife are due to have fraternal twins in [DATE] 2015.  Does the term 'congenital' mean that it could be passed down to another generation?  I do not want to alarm my son and his wife.  I just would like to inform whatever pediatrician is caring for these babies as to my experience.  Unfortunately my son and I are estranged.  And I do not know who is their pediatrician.  My child's CDH was very severe.  I know there are far less severe cases that can go undetected &/or undiagnosed unless there is a reason to suspect such a condition.  Please respond to my concerns.
+summarized question 7: What causes congenital diaphragmatic hernia?
+##
+query 8: polymicrogyria. My 16 month old son has this. Does not sit up our crawl yet but still trying and is improving in grabbing things etc etc. Have read about other cases that seem 10000 time worse. It's it possible for this post of his brain to grown to normal and he grow out of it?
+summarized question 8: What is the prognosis for polymicrogyria?
+##
+query 9: Few years ago (like 3yrs) my uncle faced a massive accident. His back-bone broken, right leg anklet broken. He treated his backbone from Trauma Centre. Some steel plates and screws added with his backbone and his backbone is now completely ok. The problem is now with his both leg. From knee to leg finger-end is now completely senseless. He can’t feel anything like touching or byte of any mosquitoes or any insects. Both legs are now thinned too much from thigh starting point to the leg end. He did some Physio-Therapy excercise but no improvement. Dr. said that nerve has teared in some place of leg. Now I want to know is there any therapy/treatment available to get rid of this kind of injury? How it can be cured and where is the treatment available? What kind of treatment is need to get cure?
+summarized question 9:
