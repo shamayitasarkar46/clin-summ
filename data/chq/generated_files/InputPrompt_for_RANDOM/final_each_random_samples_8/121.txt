@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 1: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 2: please can chronic myeloid leukemia (CML) be cure completely. waiting for your response. thanks
+summarized question 2: What are the treatments for chronic myeloid leukemia?
+##
+query 3: SUBJECT: frozen shoulder MESSAGE: We have 14 siblings in our family , at least 10 of us has had a frozen shoulder.  We are wondering why?  should we be concerned?
+summarized question 3: What are the causes of frozen shoulder, and is there a genetic predisposition?
+##
+query 4: MESSAGE: Four years back my ankle had hit by the stone and there is small reddish pot from inside the ankle, due to which I can't walk properly and it pains and even gets swollen once I start walking. Is this pain temporary or life long or it will never get heel forever.  What type of pain is this? What treatment would you suggest me?
+summarized question 4: What are the causes and treatments for ankle swelling and pain?
+##
+query 5: SUBJECT: Shingles MESSAGE: I have had /Shingles for over 10 years, and have been working with my physician, using Lidocain and Lyrica. Even with these, it's painful, particularly in my house, and some rooms in the building where I work. I experience this during, and immediately after these rooms are been cleaned with detergents. Is this my imagination, or there is a connection between certain detergents and pain, with Shingles?
+summarized question 5: Do detergents exacerbate shingles pain?
+##
+query 6: Hello, Im sorry about my mom, she has black her mounth, neck and arms, her skin is changed in color black, she has diabetes, she inyects insuline. Can you reccomend me something please?    Sent from my MetroPCS 4G Android device
+summarized question 6: What treatments are available for diabetic skin darkening?
+##
+query 7: SUBJECT: fluocinolone acetonide ointment tube MESSAGE: Is it possible to obtain this ointment (.25 mg) in anything other than a metal tube?  I travel a lot, and the tube constantly develops cracks, so the ointment squeezes out everywhere -- very messy.  My pharmacy doesn't know of any other packaging.  Thank you!
+summarized question 7: Does fluocinolone acetonide ointment .25 mg come in a non-metal tube or other packaging?
+##
+query 8: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 8: What are the causes of severe body weakness?
+##
+query 9: Please, please let us know where to get information and treatment for COLLAGENOUS GASTRITIS.  Our 15 year old daughter has been suffering from severe abdominal pain, vomiting- almost daily/sometimes multiple times daily, lethargy,  and not able to live life for just 9.5 weeks now.  She was diagnosed with biopsy results from her endoscopy this week.  This is such a rare disease- we are not sure what to do.  Her peds GI has heard of this, but not  able to answer all our questions, as there seem to be no answers- no cure & no know cause.
+summarized question 9:

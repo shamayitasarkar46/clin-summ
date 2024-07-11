@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Phobia: fear of taxidermy.  Hello, I was wondering if there was a name for the fear of taxidermy? I often find myself having the symptoms this website describes when in the presence of something I fear deeply.
+summarized question 1: Where can I find information on fear of taxidermy?
+##
+query 2: DNA. I know (or think I know) that random mutations can change human DNA. Can environment change DNA?
+summarized question 2: What are the effects of environmental factors on DNA?
+##
+query 3: MESSAGE: Please i want to know the cure to Adenomyosis. I have been going through alot of pains during my menstruation. I want to see a specialist doctor to help me out. I am dying with pains.
+summarized question 3: What are treatments for adenomyosis, and how can I find physician(s) who specialize in it?
+##
+query 4: SUBJECT: Voice MESSAGE: Hi I am wondering if anyone can help me get my voice back. I have ALS in my throat and I don't want to go out on a disability. I want to keep working. Thank you.
+summarized question 4: What are the treatments for voice disorders caused by ALS?
+##
+query 5: SUBJECT: Peyronies Disease - Questions MESSAGE: Dear sir/Madam  my name is [NAME]. i am 16 years old and i live in [LOCATION]. i have a couple of questions about Peyronies Disease.  i have recently discovered about this ... STD (or should i call it a disease?) and i noticed that i also have a bent penis , but none of the following points , which are on the Peyronies Page , match my Penis (ofcourse besides the bend). so i was wondering. is it also possible to get a bent penis just from masturbation? because if that is so , then i may know where the problem lies with me (i may have to switch hands then :/ )  i hope you can answer my questions. hope to hear from you soon.  -[NAME]
+summarized question 5: What causes a bent penis?
+##
+query 6: "My sister was diagnosed with meningitis 13 years ago and lost her sight. She's had multiple doctors tell her that she's lying about not being able to see or that they do not see why she can't see given that her eyes reacts to light. Fast forward 13 years, I spoke with her today and she was a little overjoyed. She said that ""she's been having good days"". I asked her to elaborate and she said that sometimes she can see shadows and sometimes she can see light. From my self-knowledge, I thought that this kind of vision loss could not be repaired. I'm writing you all for possible answers or if you could point me in the right direction toward getting them. Thanks in advance."
+summarized question 6: Can vision loss due to meningitis be restored?
+##
+query 7: Would appreciate any good info on Lewy Body Dementia, we need to get people aware of this dreadful disease, all they talk about is alzheimers.  Thank you
+summarized question 7: Where can I find information on  lewy body dementia?
+##
+query 8: SUBJECT: who and where to get cetirizine - D MESSAGE: I need/want to know who manufscturs Cetirizine. My Walmart is looking for a new supply and are not getting the recent
+summarized question 8: Who manufactures cetirizine?
+##
+query 9: Hi, Im writing on behalf a friend of mine's daughter who has Metachromatic leukodystrophy (MLD). They are currently overseas and they are interested of finding more info in regards to the treatment you provide. Please let me know who do I contact for furhter information on the treatment.
+summarized question 9:

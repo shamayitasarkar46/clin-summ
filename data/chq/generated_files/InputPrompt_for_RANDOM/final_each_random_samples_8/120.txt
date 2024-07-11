@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Growing Pain in Hip for over 15yrs MESSAGE: For as long as I can remember, I would get pain in my one hip, and surrounding area (at times) feels like it is a sleep...Though I Always would make sure it is not my underwear or pants pinching a nerve. My Doctor told me to just stretch my leg, as it is nothing more than growing pains, and will pass with time....But 15yrs+ I still have this strange feeling!! Is this something I should look into more?? And there are times, where the pain is just incredible!! Though I never take anything for it...I just drink a glass of milk thinking the Calcium can help my bones.Are there any suggestions?? I have no idea what to do, and do not want to look into this more if not needed, as I do not want to waste the Doctor's time & then think I am a wing nut!!
+summarized question 1: What are the treatments for hip pain?
+##
+query 2: My grand child was born on [DATE] with Multicystic dysplastic kidneys.  After reading your article I would like to know whether the stem cell could bring hope to this child. Is this possible?  How to go about? Cloning? Please give me something to work on.
+summarized question 2: What are the latest treatments for multicystic dysplastic kidneys, including stem cell therapy?
+##
+query 3: SUBJECT: suggest diet MESSAGE: age 66.married.male.weight73kgs.bp120/80 no tablets used for bp,no blood sugar fasting 90 after meals120 i am a vegetarian,i am observing a gradual weight gain    how to control it   what is suggested food?
+summarized question 3: What are sucessful weight loss diets for vegetarians?
+##
+query 4: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 4: What are the latest treatments for Parkinsons disease?
+##
+query 5: SUBJECT: Apraxia and Dyspraxia MESSAGE: What are the basic differences between apraxia and dyspraxia?  I get different answers from different sources. One suggests that apraxia is a motor coordination disability acquired due to damage, head injury, stroke or leasions in the brain whereas dyspraxia is inherited.  Another says that the difference is absence of coordination (apraxia) versus a more mild impairment (dyspraxia).  It is very confusing to try to sort it all out.  Thank you!
+summarized question 5: What are the differences between apraxia and dyspraxia?
+##
+query 6: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 6: What options are available for scar repair?
+##
+query 7: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 7: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 8: SUBJECT: low WBC issue MESSAGE: respected sir,                i humbly want to say  you thanx for making this website. i am [NAME] from [LOCATION] and i want to help myself by you please help me sir i will greatful to yo(sorry sir my English is not so good)      masturbation is my hobby its my taboo really sir now i am tired i want to change myself please sir give me some suggestions ....   this is bad habit in my life but i am also a bright student since last year .............. .......... .......... i am crying... sorry ...... please help me sir plzz rply me in my id.. and wish me luck     i know you have a golden heart ....
+summarized question 8: What are techniques to stop masturbating?
+##
+query 9: Hello, I have been dealing with trimethylaminuria since I was a child. I have done some of my own research and it looks like not much can be done for this condition. I do not have it all over my body it’s only in my armpits. In the past I’ve gone to doctors and dermatologist they gave me no answers until I looked online today and finally found out what I have. I don’t know maybe I’m wrong. But this disease isn’t even consider common because no one has done anything about it. I’m sure they’re thousands of women with it... Can I be tested for it and help in some kind of way to finding a cure or something?  What testing is done for this?  And where? Thank you
+summarized question 9:

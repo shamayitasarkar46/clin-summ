@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: pubic lice.  What are some treatments for pubic lice
+summarized question 1: What are the treatments for pubic lice?
+##
+query 2: Dear Doctors, Good day, I would like to ask about the possibility to make a Liver transplantation surgery for my uncle. his liver is damaged and need to be replaced so could you please advise me with the possibility to make the surgery and the approximately cost . also any other details should I know. Your Quick response is highly appreciated and thanks in advance for your cooperation.
+summarized question 2: Where can I find information on liver transplants, including cost?
+##
+query 3: SUBJECT: abetalipoproteimemia MESSAGE: hi, I would like to know if there is any support for those suffering with abetalipoproteinemia? I am not diagnosed but have had many test that indicate I am suffering with this, keen to learn how to get it diagnosed and how to manage, many thanks
+summarized question 3: Where can I find information on abetalipoproteinemia, including diagnosis and treatment?
+##
+query 4: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 4: Can I take Metformin pills given to me by someone else?
+##
+query 5: SUBJECT: [NAME] Brazilian with PMD MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pelizaeus-Merzbacher leukodystrophy, we would like to know more new treatments, new techniques, since we know very little about the disease in Brazil. [NAME]
+summarized question 5: What new treatments are available for Pelizaeus-Merzbacher leukodystrophy?
+##
+query 6: SUBJECT: SPECIFY COMPONENTS MESSAGE: COENZYME Q10(100-mg). WHAT ARE THE COMPONENTS OF THIS MEDICINE? IS IT USEABLE FOR MUSLIMS?
+summarized question 6: What are the ingredients of coenzyme q10?
+##
+query 7: SUBJECT: Janumet XR 50mg/1000mg- 1 daily MESSAGE: Doctor prescribed for type 2 diabetes w/Metformin 500 mg 2 times daily. Pharmacy refused to fill stating overdose of Metformin. Who is right &what is maximum daily dosage of Metformin? Pharmacy is a non-public pharmacy for a major city employer plan provided for employees only.
+summarized question 7: What is the maximum dosage of metformin?
+##
+query 8: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 8: What are the treatments for arm and neck pain?
+##
+query 9: I have ra in both knees, I want to get back to work and my normal life.
+summarized question 9:

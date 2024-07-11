@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 1: What are the treatments for lichen planus?
+##
+query 2: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 2: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 3: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 3: How do I stop taking wellbutrin HCL XL?
+##
+query 4: SUBJECT: IHSS heart condition and WPW heart condition MESSAGE: Is there any way you could send me information on both these heart conditions? My son has to get tested for them eventually and I would just like information to understand the conditions of both of them more.
+summarized question 4: Where can I find information on Idiopathic hypertrophic subaortic stenosis (IHSS) and Wolff-Parkinson-White (WPW) syndrome?
+##
+query 5: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 5: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dental/sjogrens. Because of Sjogrens, my teeth have decayed Severely in the past 2 years.I have a few teeth that have not decayed. It is devastating!  What should I do...implants or dentures? What about funds?  Help.    [NAME]
+summarized question 6: What teeth replacements are better for sjogren's: implants or dentures?
+##
+query 7: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 7: What is the effect of dexamethasone on cortisol levels?
+##
+query 8: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 8: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 9: my daughter has lichen sclerosis and we are wondering if you have any research on stem cell treatment?  She now has it effecting her ureatha and the Dr she is seeing  has no idea how to treat it, as she has never seen it do this.  She was diagnosed when she was 22 with a severe case of LS and has had little relief with current treatments.  Thank you for your time in this matter.  Also are there any clinical trials coming up she may participate in?
+summarized question 9:

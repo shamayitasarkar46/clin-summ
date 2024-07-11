@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: What is the best way to naturally treat a 7 yr old boy with ADHD? Without prescription medicine?
+summarized question 1: What are the non-drug treatments for ADHD?
+##
+query 2: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 2: What are the causes of testicular pain?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dear Clinical Trials, I am searching for treatment for a disease called Baker, which  is related to Neurology Department. I did not get any  treatment before for this disease. I need to get treatment by Medical Researches if possible . Note: I will be in New York at May 11.
+summarized question 3: What are the treatments for baker disease?
+##
+query 4: SUBJECT: morphine withdrawal symptoms MESSAGE: I was taking 600 mgm ms contin over a long period - of course I didnt start on that high dose but over 20 years I ended up there. I weaned myself off last year, and when I finally got to zero I started having these leg spasms, is this from the morphine? I can stop them taking 15 mgm ms contin daily which irritates me to to no end, I do NOT want to take the stuff! BUT, if I don't take it I get the spasms and end up sitting up all nite and sometimes during the day with them. I get them in my arms sometimes as well as both legs, and my legs jump a lot! My limbs feel kind of numb when it is going to start, so I know it is coming. What can I do? Is this ever going to stop? Thanks for your help.....[NAME]
+summarized question 4: What are symptoms of morphine withdrawal and how are they treated?
+##
+query 5: hi. i'm a student that suffers from Pectus excavatum (funnel chest), and i need help to pass it. please give me some way to get the solution of this problem. waiting for your answer. please need help!
+summarized question 5: What are treatments for pectus excavatum?
+##
+query 6: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 6: How is thalassemia inherited?
+##
+query 7: Angelman syndrome. Can a person with Angelman Syndrome have children? If so, can the disorder be passed on to offspring?
+summarized question 7: How is angelman syndrome inherited?
+##
+query 8: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 8: What are the risks of smoking?
+##
+query 9: Hi, Please can you help - I am writing from South Africa. My daughter suffers with acute folliculitus, and has been since the age of 13. She is now 20 and is in so much distress as nothing seems to alleviate the itching and soreness. She is desperate for some relief and we have tried absolutely everything - creams, shampoos, antibiotics, biopsies, blood tests, allergy tests, light therapy, diet etc. We have consulted Professors of Dermatology but they do not know how to treat it. She is now getting suicidal thoughts as it is extremely debilitating and cries a lot. They have tested for both fungal and bacterial and have grown cultures to see what attacks it - nothing does. I am writing to you for any help you could give me to try and assist her. Could you recommend a specialist and someone who could help us with research? Please could you point us in the right direction? I am happy to send through her lab tests - please let me know. Thanks
+summarized question 9:

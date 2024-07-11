@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ENT specialists & esophogeal disorders.  Would you kindly be able to recommend a specialist(s) in the DC area or East coast in the above medical field for my mother. I'm at a loss and  would greatly appreciate your help. Thank you for your consideration.
+summarized question 1: How can I find physician(s) in the DC area who specialize in esophageal disorders?
+##
+query 2: Dear Sir/Madam I'm [NAME] from [LOCATION], I'm 35 years old , I'd like to ask you a Medical Question as I've got an optic nerve atrophy in my eye and i lost my vision since i was 8 years old , Now I've got one eye just , So please is there treatment for optic nerve atrophy ! Please see the attachment which is a Medical report from [LOCATION], Best Wishes [NAME]
+summarized question 2: What are the treatments for optic nerve atrophy?
+##
+query 3: MESSAGE: My husband has blood pressure of 247 in one arm and 170 in the other arm. What does that mean?
+summarized question 3: What are the causes of different blood pressure readings in each arm?
+##
+query 4: SUBJECT: Shingles MESSAGE: When can I wash my hair . I have shingles in my head.
+summarized question 4: Can I wash my hair if I have shingles on my head?
+##
+query 5: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 5: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 6: MESSAGE: There is a lot of collection. Its good. But I dont find my problem and suggestion. I want to know about male Reproductive
+summarized question 6: Where can I find information and help for male reproductive health?
+##
+query 7: care giving for parents My mother has been diagnosed with Alzheimer's, my father is not of the greatest health either and is the main caregiver for my mother. My question is where do we start with attempting to help our parents w/ the care giving and what sort of financial options are there out there for people on fixed incomes.
+summarized question 7: What resources are available  for Alzheimer's caregivers?
+##
+query 8: SUBJECT: blind technology MESSAGE: Hello, I am a student doing a research project on blind technology. I am wondering if you have any contacts of people who have research information on this topic because I want to find out their opinions on certain technologies. Also, I would appreciate it if you could tell me ways to improve/cure blindness. For example, information on ' stem cell surgery', bionic eye', 'gene therapy to cure blindness' etc. Thankyou!
+summarized question 8: How can I find someone doing research on technologies for the blind, and what are the treatments for blindness?
+##
+query 9: Should I have ultrasound on left shoulder.  I have a defribulator (left side)? I look forward to your advice. Thank you very much.
+summarized question 9:

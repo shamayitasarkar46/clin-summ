@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Dear sir/madam I am 40 year old man  & have vericoceal on my left side .My wife is 24year old ,we are trying for a baby for the last 4 months with no positive result. doctor suggest me try for baby for at least 1 year. Please suggest me what i have to do for a baby. i will be highly obliged . thank you [NAME] [LOCATION]
+summarized question 1: What are treatments for male fertility issues and varicocele?
+##
+query 2: genetically inherited ability to low cholesterol. Is there a medical term used for genetically inherited ability to low cholesterol? I have it, I am told 1 in 3000, have this. I'm 64 y/o, LDL 74, HDL 78, TRI 91, CHOL 170. You'd thing that this is good but my veins & arteries are struggling to keep my B/P up the older I get. All cardiology test are good, can't find a cause for low B/P below 90/60 issues. There has to be a medical term for this, what is it, what gene is this? Since I never knew my parent, what country does this originate?
+summarized question 2: Is low cholesterol genetic?
+##
+query 3: Physician.  I am looking for a type of physician that specializes in treating leg cramps in the elderly.  Specifically, possibly one that provides treatment for leg circulation issues.  What medical specialty is that called?
+summarized question 3: What type of physician treats poor circulation in the legs?
+##
+query 4: SUBJECT: voids to avoid with ebstien-barr virus in the liver MESSAGE: In pain after I eat...wondering if I am eating wrong foods. I have been diagnosed with this and had cat scan with and without dye and it shows a clump of blood vessels infected with the virus....
+summarized question 4: What foods to  avoid with epstein barr virus and abdominal pain?
+##
+query 5: SUBJECT: chickenpox MESSAGE: I do not know if I had chickenpox. Is there a blood test available to tell me ? And if not which vaccine should I get, if any ?
+summarized question 5: Is there a blood test for chickenpox and who should get vaccinated?
+##
+query 6: MESSAGE: Is it okay to drink alcohol in moderation when taking Ampicillin.  I was told it negates any medical effect of the drug
+summarized question 6: Can I drink alcohol while taking Amoxicillin?
+##
+query 7: hello medineplus, i am a student an i am suffering from muscular dystrophy...i just want to know that, is muscular dystrophy belongs to locomotor disability? thanks,  yours sincerely
+summarized question 7: What is a locomotor disability and is it related to muscular dystrophy?
+##
+query 8: SUBJECT: Apraxia and Dyspraxia MESSAGE: What are the basic differences between apraxia and dyspraxia?  I get different answers from different sources. One suggests that apraxia is a motor coordination disability acquired due to damage, head injury, stroke or leasions in the brain whereas dyspraxia is inherited.  Another says that the difference is absence of coordination (apraxia) versus a more mild impairment (dyspraxia).  It is very confusing to try to sort it all out.  Thank you!
+summarized question 8: What are the differences between apraxia and dyspraxia?
+##
+query 9: I get wrist joint pain along with finger joint pains and my symptoms are similar to wrist osteoarthritis but I am diagnosed with ankylosing spondylitis because I am HLA-B27 positive. Therefore I want to know the following: I want to know whether osteoarthritis of wrist can occur in ankylosing spondylitis or it occurs in Ehlers–Danlos syndrome only?
+summarized question 9:

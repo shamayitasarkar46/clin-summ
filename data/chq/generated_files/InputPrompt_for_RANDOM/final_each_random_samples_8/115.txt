@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: hi this is [NAME] i am doing an isearch paper and i would love to find out more about dystonia i have it for i think a year and i wanna know if it will ever go away and will i ever be able to play sports again? -- [NAME]
+summarized question 1: Where can I find information on dystonia, including prognosis?
+##
+query 2: SUBJECT: nulytely MESSAGE: Hello can you tell me where do i order the nulytely who is the manufacture, what phone number can i call. thanks.
+summarized question 2: Who makes nulytely, and where can I buy it?
+##
+query 3: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 3: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 4: SUBJECT: Stem Cell Therapy for Muccular Dystrophy MESSAGE: I have read the Medline Abstracts 98,99 of 'Limb-girdle muscular dystrophy'. Please could you tell me how I contact a specialist to enquire further with this...Thank you...[NAME]
+summarized question 4: How can I find physician(s) who specialize in limb-girdle muscular dystrophy?
+##
+query 5: "SUBJECT: Normal physical traits but no period MESSAGE: I'm a 40 yr. old woman that has infantile reproductive organs and have never experienced a mensus. I have had Doctors look but they all say I just have infantile female reproductive organs. When I try to look for answers on the internet I cannot find anything. ALL my ""girly"" parts are normal. My organs never matured. Could you give me more information please."
+summarized question 5: Where can I find information on developmental disorders of the female reproductive system?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: what can happen if you donot use your humifier or moisterizing equipment when  you have a thractoastamy tube? (forgive my spelling)
+summarized question 6: What are the adverse effects of not using a humidifier with a tracheostomy tube ?
+##
+query 7: MESSAGE: I have been battling Anal fissure for close to two years now and it has refused to heal all these while. Please what do you suggest i do?  Thanks
+summarized question 7: What are the treatments for chronic anal fissure?
+##
+query 8: Dear Sirs, Please instruct me what the correct dose of medication: *BRONCOMAR MAXIMUM- dextromethorphan hydrobromide and guaifenesin liquid,* because: In the *labeling* says: Adults and children 12 years over 10 ml (2 tsp) every 6 hours Children 6 to under 12 years old 5 ml (1 tsp) every 6 hours And in the *insert* specifies: Adults and children 12 years over 10 ml (2 tsp) every 4 hours Children 6 to under 12 years old 5 ml (1 tsp) every 4 hours Waiting for your prompt response. *[NAME]* [PROFESSION] *[CONTACT]* [CONTACT]
+summarized question 8: What are the recommended dosages for BRONCOMAR MAXIMUM-dextromethorphan hydrobromide and guaifenesin liquid?
+##
+query 9: I have RA and am suffering from pain and it is attacking my joints...I have read about certain bacteria that can contribute to the RA onset. Please send me any info on any botanical medicines (like those successful from Australia)...and if you could send me samples I would certainly try them as part of human studies on RA.
+summarized question 9:

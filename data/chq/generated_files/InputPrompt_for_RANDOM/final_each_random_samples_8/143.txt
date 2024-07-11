@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 1: What are tarlov cysts of the spine and how are they treated?
+##
+query 2: SUBJECT: Cervical Cancer MESSAGE: Can a long term untreated bladder infection aid in the cause of cervical cancer? And can the fact that my mom has cervical cancer aid in my chance of getting cervical cancer?
+summarized question 2: What causes cervical cancer, and is it hereditary?
+##
+query 3: SUBJECT: Bardet-Biedl Syndrome MESSAGE: Does Bardet-Biedl syndrome cause your teeth to decay faster than other people?  Does Bardet-biedl cause the cartilage in your body to deteriorate faster?  Does Bardet-Biedl cause you to have spinal stenosis? Sincerely, [NAME]
+summarized question 3: What are symptoms of and complications from Bardet-Biedl syndrome?
+##
+query 4: hello medineplus, i am a student an i am suffering from muscular dystrophy...i just want to know that, is muscular dystrophy belongs to locomotor disability? thanks,  yours sincerely
+summarized question 4: What is a locomotor disability and is it related to muscular dystrophy?
+##
+query 5: Patient Handouts.  Are there patient handouts we can order on the topic of gum/periodontal disease? If so how can we order some?
+summarized question 5: Where can I find patient handouts on gum/periodontal disease?
+##
+query 6: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 6: How is Huntington's disease transmitted?
+##
+query 7: SUBJECT: I want to ask a question about botox MESSAGE: I want to know if botox is useful in treating someone who had a stroke and their left arm is crippled up? The man had a cerebral hemmorhage I want to know if this helps or not?
+summarized question 7: Can botox help arm paralysis?
+##
+query 8: Hello, Im sorry about my mom, she has black her mounth, neck and arms, her skin is changed in color black, she has diabetes, she inyects insuline. Can you reccomend me something please?    Sent from my MetroPCS 4G Android device
+summarized question 8: What treatments are available for diabetic skin darkening?
+##
+query 9: Hi,  maybe you can point me.  My Uncle, born in 1908 was made permanently bald by xrays for a back condition.  He lost ALL his hair over his whole body.  It that possible?  I assume  he had back issues in his 20s.  Have you ever heard of a case like this.  He lived to be 96 years old, never married and always wore a hairpiece.
+summarized question 9:

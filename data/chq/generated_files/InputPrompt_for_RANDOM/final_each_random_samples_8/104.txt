@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: solve the erectio problem.  sir, some time my penis erect and some time it does not work . So please help me . My contect nomber is [CONTACT]
+summarized question 1: What are the treatments for erectile dysfunction?
+##
+query 2: MESSAGE: Hantavirus virus if the urine and feces are old droppings-5 years better and never cleaned. Can the virus still be passed from old droppings and maybe dried urine that cant be seen? [CONTACT]
+summarized question 2: Can hantavirus be spread by old droppings and urine?
+##
+query 3: "Good day doctor.... My name is [NAME] from Nigeria in West Africa. Please I'll appreciate so much if you will reach me urgently with any advice that can be valuable to a total cure of the diabetes that I came down with since the year 2008... at ""[CONTACT]"" . I'll be eagerly waiting for your response soonest, please.... Thanks for your anticipated corporation. [NAME]"
+summarized question 3: What are the treatments for diabetes and can it be reversed?
+##
+query 4: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 4: Where can I get genetic testing for CPTII deficiency?
+##
+query 5: SUBJECT: drugs for fat reduction MESSAGE: I'm about to do a movie in another one month and I need to shed a lot of weight for it especially on my arms and thighs. What would you recommend and can it be sent to Nigeria?
+summarized question 5: What treatments are available for rapid weight loss?
+##
+query 6: SUBJECT: New drug, want are side affect/and how does help you. MESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You
+summarized question 6: Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?
+##
+query 7: SUBJECT: insulin-dependent diabetes in children MESSAGE: Hi, What are the causes of insulin-dependent diabetes in children? I am searching for information on the causes of insulin-dependent diabetes in children. Please help.
+summarized question 7: What causes type 1 diabetes in children?
+##
+query 8: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 8: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 9: Do they still use cow bone for a L5-S1 fusion, or what are the options. The disk is bulging and herniated and had to go.  Please advise. 
+summarized question 9:

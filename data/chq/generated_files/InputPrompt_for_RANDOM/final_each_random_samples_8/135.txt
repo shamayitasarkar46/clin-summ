@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: voids to avoid with ebstien-barr virus in the liver MESSAGE: In pain after I eat...wondering if I am eating wrong foods. I have been diagnosed with this and had cat scan with and without dye and it shows a clump of blood vessels infected with the virus....
+summarized question 1: What foods to  avoid with epstein barr virus and abdominal pain?
+##
+query 2: SUBJECT: Administration MESSAGE: Is there a reason that the lovenox has to be given in the SQ of the abdomen? Why not other SQ sites?
+summarized question 2: Why is lovenox administered in the abdomen?
+##
+query 3: SUBJECT: Sensorineural hearing loss (SNHL) MESSAGE: Hi, my father has lost his hearing in one ear, and ever since he has been suffering with constant buzzing in his ear. Is there treatments that can be recommended to solve this? Kind Regards [NAME]
+summarized question 3: What are treatments for ringing in the ears?
+##
+query 4: Shakiness.  I have acquired a symptom of extreme internal body shaking. Sometimes I canyon even speak right or use a pen. A doctor yesterday asked if I had a recent thyroid checkup. I see my thyroid doc the end of March.  Usually they say my T4 levels are low. I'm confused when it comes to what levels the thyroid should be.  I also have chronic fibromyalgia.  Seems that is blamed on for a lot of my problems.  Thank you for this site.
+summarized question 4: What are normal thyroid levels, and can thyroid problems cause body tremors?
+##
+query 5: ClinicalTrials.gov - Question - general information. my name is [NAME] from [LOCATION],my 10year old boy has duchenne muscular dystrophy  patient. my question is what is exon skipping & it can help for dmd  patient ?
+summarized question 5: What is exon skipping, and is it an effective treatment for  duchenne muscular dystrophy?
+##
+query 6: MESSAGE: I am 23yr boy,i have knock knees i want treatment. Please help me.
+summarized question 6: What are the treatments for knock-knee?
+##
+query 7: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 7: Are there any medicines for dry mouth?
+##
+query 8: SUBJECT: enlarge prostate MESSAGE: Hi, I have some questions about enlarge prostate. My bf has that and he tried different pills and now his been on just 1 type of pill which are SANDOZ-ALFUZOSIN...hes been on them for over 2 years i think...but his sex drive has decrease...and so i was wondering if he has surgery will his sex drive increase again or it would there be still a chance of that side effect? He has talked to his dr. but that doesnt seem to help much. So i was wondering if you have any suggestions because i would like for this situation to change if thats at all possible.  Please let me know what your opinion are. thank-you
+summarized question 8: What are the treatments for enlarged prostate, and how do they affect sex drive?
+##
+query 9: Dear Sir, i am hopeless and unfortunate father of  only one son who is suffering by achandroplasia, he is 9 years old suffering by this disease from his childhood, i want to provide better treatment to him, i am ready to do any thing, please please please kindly  extend your helping hand for treatment of my son.
+summarized question 9:

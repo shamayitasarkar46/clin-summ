@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hi, I have mixed diagnosis of autoimmune connective tissue disease and would like to submit information about this disease. I also need some serious rheumatologist recommended in Argentina or Latin America. From already thank you very much
+summarized question 1: How can I find  rheumatologist(s) who specialize in mixed connective tissue disease in Latin America?
+##
+query 2: SUBJECT: Pessary in while doing Kegels? Yes or no? MESSAGE: Hi. I have been using a pessary for a number of years and was happy with the help it provided. Lately I've been experiencing prolapse worsening during and after particular exercises so I reduced those type of exercises and decided to do more kegel exercises. My question is should I remove the pessary while doing kegel exercises?
+summarized question 2: Should I remove my pessary while doing Kegel exercises?
+##
+query 3: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 3: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 4: SUBJECT: imitrex to be prescriped to 72 year old woman MESSAGE: I was in hospital for pancretitis.  On the 2nd day I was doing ok but came down with a migraine headache.  I have not had one in 2 years. but have the imitrex  tab.  which I did not have in the hospital  They gave me Toradol injection and it worked.  but they told me I should not take imitex as an older person.  I plan to go to my internist.  but decide to ask this question.   thanks
+summarized question 4: Is imitrex contraindicated in the elderly?
+##
+query 5: Respected sir Good day I saw PUBMED website sir . you are one of the best doctor in research of HIV vaccine sir .I am really happy to contact you sir . I am [NAME] . my age 27 old. I am from [LOCATION] .two years back i am  married . I got HIV - 1 infection from my  husband . I check with near our consultant doctor. I have Intial stage of HIV -1 .my Cell count is: CD4 -410 CD8 -1050 , CD3 1493 Is it possible to  prevent the HIV-1 infection completely??? how long it will take time for medicine sir ? my life seriously in trouble sir  . Me and my family members are totally depression . please give the future hope for the HIV treatment. we keep our hope on your entire team  researchers for HIV treatment. .
+summarized question 5: Is it possible to cure HIV-1 infection completely?
+##
+query 6: SUBJECT: Bleeding Gums MESSAGE: My brother has denture the lower denture hurts his gum and it makes it bleed and his gum is sore were he has a hard time to chew anything. He needs to know what can he do for it?
+summarized question 6: What are the treatments for bleeding gums under dentures?
+##
+query 7: "SUBJECT: DIFFUSED AXONAL BRAIN INJURY TO ASSIST PEOPLE TO REGAIN WALING BALANCE &COORDIN MESSAGE: HOWDY YALL I'M [NAME] &I, ATTAINED A "" DIFFUSED AXONAL BRAIN INJURY 23.5 YEARS AGO &DR [NAME] AT [LOCATION]  DID A SPECTACULAR JOB !!!! I, LIVE INDEPENDENTLY &HAVE A TERRIFIC LIFE &IO, STILL HAVE BALANCE &COORDINATION  &HOPING YALL GOT MEDICATION TO ASSIST WITH WALKING ABILITIES !!!!! THANKZ [NAME] OUT CHOW"
+summarized question 7: Is there a medication to assist with regaining walking abilities, balance and coordination following diffused axonal brain injury?
+##
+query 8: GERD.  I'm a 72 year old female, and have diverticulosis,gastritis, and esophagitis.  I tried to see three different doctors today, but all were booked.  I honestly don't know what to do.  It hurts in my chest, and I can hardly talk.
+summarized question 8: How to treat chest pain potentially associated with  diverticulosis, gastritis, and esophagitis?
+##
+query 9: I have fish smell disorder and i need as much as i could help. Please
+summarized question 9:

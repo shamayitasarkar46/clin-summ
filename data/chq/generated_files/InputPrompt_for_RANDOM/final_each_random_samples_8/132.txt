@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: know more about MESSAGE: My Daughter have Distal renal tubular acidosis. we are from Mexico, and we ae woundering if can send to us more infomation. maybe you can reccommend to us a association???? i don?t know
+summarized question 1: Where can I find information on distal renal tubular acidosis?
+##
+query 2: SUBJECT: PTSD and IBS MESSAGE: I am looking for research on IBS and the link to PTSD. Thank you
+summarized question 2: What is the latest research on IBS and the link to PTSD?
+##
+query 3: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 3: What are the risks of knee surgery in an older person?
+##
+query 4: "SUBJECT: Questions (see in comment box) on ""Vistaril"" MESSAGE: I have a few Qs related to ""Vistaril"": 1. Is ""Vistaril"" a gluten-free product? 2. If not, is it because some of the raw materials in its ingredients that is gluten related? 3. If yes to Q1, is it a ""Certified"" gluten-free product and what kind of certification it has? 4. For capsule form, does it contain any kind of starch? If it does, what starch is it? 5.  Can you email to me a list of the ingredients in this drug? Thank you very much!"
+summarized question 4: What are the ingredients of vistaril and is it gluten and starch free?
+##
+query 5: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 5: Is there a cure for hepatitis B?
+##
+query 6: SUBJECT: Pilot and Lazy Eye MESSAGE: Dear MedlinePus  I started to fly at the age of 15 and have been flying for over 3,5 years and has logged over 120 hours in my time as pilot. My dream is to become a Comerical Pilot and recently I undertook a medical class 1 which I failed in [LOCATION] because of my Eye position and Eye movment, hence I have not experienced any problem with my vision in daily life nor when I have been flying..  The problem is that my binocular vision is not good enough and the eye-doctor meant it could be a problem if I sudden developed double vision.  Is there any operation that can fix this? The Orthoptics I went to meant there was a problem with one of the eye muscles which where to thight and the other too weak. She said it can be fixed, but this is not &quot;normal&quot; in [LOCATION] because it is not big enough error she meant.  Is there anyway to fix this? I appreciate all information!  Kind Regards  [NAME]
+summarized question 6: What are the treatments for lazy eye?
+##
+query 7: MESSAGE: Is it okay to drink alcohol in moderation when taking Ampicillin.  I was told it negates any medical effect of the drug
+summarized question 7: Can I drink alcohol while taking Amoxicillin?
+##
+query 8: SUBJECT: My sister was told she has Breast Cancer MESSAGE:   Hello My Name is [NAME] My sister has been told that she has breast cancer. And I want to no if she could use Salinomycin to kill the breast cancer. [NAME]
+summarized question 8: Is Salinomycin a treatment for breast cancer?
+##
+query 9: I would like to find out more on 22q12q13 duplication. My granddaughter has this. Screened during pregnancy. She seems to be developing okay. Speech is slow. But want to find out if there is more information. Do you know of any research?
+summarized question 9:

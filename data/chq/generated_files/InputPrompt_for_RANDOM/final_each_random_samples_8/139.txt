@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: are coleus and caladiums poisonous to pets MESSAGE: Are these two plants considered poisonous to pets?  The vet said to call you and check about this.
+summarized question 1: Are coleus and caladiums poisonous to pets?
+##
+query 2: Dear Sir and Madame, i´m looking very urgently for help and i really hope you give me an answer. My name is [NAME], from Germany, [LOCATION], 25 years old. A year ago i got sick, Gorlin Goltz syndrome an mutation of the PCH1 Gen. My condition worsened and here in Germany, nobody can help me. Sry for my english, its not the best.  Ive heard from Gentechnik, so that defective genes can be exchanged or settled by cells or vitamins. Iam to young and i dont have much power. My doctors here in Germany partly dont know what to do and iam actually a strong person but I stay in an impasse. For me its no travel too far or too long. I fight for a long time but since I get every three weeks basaliomas I lose my zest for life. Im sure it gives an opportunity even if it is a larger intervention that I can be cured. Whatever how much it costs. I have read that they are furthest in the research which relates to cancer. I have a big heart, and no way is to long for me if you help me. PLEASE HELP ME!!! Best wishes [NAME]
+summarized question 2: What are the latest treatments for Gorlin Goltz syndrome?
+##
+query 3: SUBJECT: RE: RX MESSAGE: I am taking Metafolic Plus caplet I know this helps memory of the brain.  What else does it help the brain with?
+summarized question 3: What remedies improve memory?
+##
+query 4: Have been on methadone for four years.  I am interested in the rapid withdrawl under anesthesia, but do not have a clue where I can find a doctor or hospital who does this.  I also would like to know the approximate cost and if or what insurance companies pay for this.
+summarized question 4: How can I find physician(s) or hospital(s) who specialize in rapid methadone withdrawal under anesthesia, and the cost and insurance benefits for the procedure?
+##
+query 5: SUBJECT: Walgreens Low Dose Aspirin MESSAGE: I noticed there is no listing for Walgreens Low Dose Aspirin. I am allergic to Providone and just started taking their low dose aspirin. I started having trouble breathing again and am trying to find their Binding ingredient to see if it is Povidone. Can you help?
+summarized question 5: Does Walgreens low dose aspirin contain povidone?
+##
+query 6: SUBJECT: questins MESSAGE: i am looking for the latest evidence based practice on guidelines for assessing and treating Alcohol and Opiate withdrawal. Thanks.
+summarized question 6: What are the latest evidence based treatments for alcohol and opiate withdrawal?
+##
+query 7: SUBJECT: Hydrocortisone for 32 years, and counting MESSAGE: There are serious side-effects to Hydrocortisone, and I have to take it because of panhypopituitarism. Are there any more tolerable replacements? Thank you! [NAME]
+summarized question 7: What treatments are available for panhypopituitarism aside from hydrocortisone?
+##
+query 8: SUBJECT: methadone causing COPD MESSAGE: My daughter said there was a study done  and it concluded that methadone can cause COPD. Do you know if there is any truth to this and if so where can I get info on it. Thank you [NAME]
+summarized question 8: What are the side effects of methadone?
+##
+query 9: Im looking for a Dna test for mental illness. 
+summarized question 9:

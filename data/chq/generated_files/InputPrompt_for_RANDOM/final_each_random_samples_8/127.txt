@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: printed materials on osteoporosis.  Is there any way you can please mail me literature on osteoporosis, I was just diagnosed. Thank you, [NAME] [LOCATION] [LOCATION] [LOCATION] [LOCATION]
+summarized question 1: Where can I find information on osteoporosis?
+##
+query 2: SUBJECT: life expectancy after double lung transplant operation MESSAGE: Hello,  My husband has cystic fibrosis and he had the double lung transplant operation 3,5 years ago. He is 53 y.old. What is the life expectancy for people with cystic fibrosis after double lung transplant? Can he has another lung transplant in the future? Thank you, [NAME]
+summarized question 2: What is the prognosis for cystic fibrosis after double lung transplant?
+##
+query 3: SUBJECT: obese daughter MESSAGE: i'm a mother of 5 children. My son has leukemia who is the youngest. My daughter is 12yrs old and is obese. i dont know where to turn but i need some professional help. my daughter has always suffered  with weight issues. while i deal with my 11yr old son at [LOCATION] im so scared of loosing my daughter. Shes already been suicidal and her grades are so bad. please i need help. you can contact me anyt time
+summarized question 3: What resources are available for overweight children with suicidal behavior?
+##
+query 4: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 4: How is post-polio syndrome diagnosed?
+##
+query 5: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 5: What are the treatments for pain after hemorrhoidectomy?
+##
+query 6: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 6: What options are available for scar repair?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 7: What are tarlov cysts of the spine and how are they treated?
+##
+query 8: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 8: What are the treatments and prognosis for a child with AML?
+##
+query 9: Dear concerned, My mother is a kidney & heart patient and from last 3 years she is going through Dialysis on twice a week basis. Her cause of kidney failure can be Diabetes & High Blood Pressure from last 10 years. Currently her creatinine level is 9. Can you please guide me is there any way to revive her kidneys???  Looking forward to your kind support. Thanks & Regards
+summarized question 9:

@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: [NAME] Brazilian with PMD MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pelizaeus-Merzbacher leukodystrophy, we would like to know more new treatments, new techniques, since we know very little about the disease in Brazil. [NAME]
+summarized question 1: What new treatments are available for Pelizaeus-Merzbacher leukodystrophy?
+##
+query 2: SUBJECT: Hydrocortisone for 32 years, and counting MESSAGE: There are serious side-effects to Hydrocortisone, and I have to take it because of panhypopituitarism. Are there any more tolerable replacements? Thank you! [NAME]
+summarized question 2: What treatments are available for panhypopituitarism aside from hydrocortisone?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 3: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 4: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 4: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 5: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 5: What are the treatments for nutcracker syndrome?
+##
+query 6: SUBJECT: dressings MESSAGE: my dad had some skin cancer removed 3 wks ago and a skin graft was performed. The doner site is healing well, but the graft site is still very sore and having dressings changed every 2/3 days, dad isnt convinced that the wet gauze dressings are any good. Which type of dressings should be being used?
+summarized question 6: What types of dressings are used for skin graft sites?
+##
+query 7: SUBJECT: duchenne. MESSAGE: My name is [NAME] from Morocco I am 27 years old. I have muscular dystrophy disease category duchenne. Are there any effective treatment for this disease
+summarized question 7: What are the treatments for duchenne muscular dystrophy?
+##
+query 8: SUBJECT: Progressive Supernuclear Palsy MESSAGE: What  is the best thing to do for my Dad who we r sure has psp!  Who r the best dr to treat this cease.  We believe my uncle had pep also   He recently passed away ,  I want to give my dad the best treatment available
+summarized question 8: What are the treatments for progressive supranuclear palsy and how can I find physician(s) who specialize in it?
+##
+query 9: My son was recently diagnosed with Elephantiasis Nostras Verrucosa in his spine. it was resected successfully. Im seeking additional literature regarding these type of cases specifically.  My son is 19, and has been determined legally blind from the hydrocephalus that occurred. Are there any other incidences of this? please provide any relevant info, or links. I am a Mom looking for info!! Please help!!
+summarized question 9:

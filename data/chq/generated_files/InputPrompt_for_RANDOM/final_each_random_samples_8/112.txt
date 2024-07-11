@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: If a 60 yo male patient has a level of cobalt or chromium  over the highest acceptable level, can that possibly create blood in urine? thank you
+summarized question 1: What are the causes of blood in the urine?
+##
+query 2: need up todate current treatment programs for advanced cancer plus informaton for hemp oil solutons for ths cancer.   pub med/ 21475304
+summarized question 2: What is the latest research on treatments for hepatocellular carcinoma, including hemp oil?
+##
+query 3: SUBJECT: Plaquenil MESSAGE: I was recently diagnosed with lupus. A few months prior I had a terrible reaction to levofloxacin. My doctor wants to give me plaquenil. I am concerned as this is in the quinolone family. Should I be concerned? Is this a quinolone drug?
+summarized question 3: What are the contraindications for plaquenil?
+##
+query 4: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 4: Is MRSA contagious, and how is it spread?
+##
+query 5: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 5: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 6: SUBJECT: MMR second dosage by mistake MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 6: Is an extra dose of MMR vaccine harmful?
+##
+query 7: SUBJECT: Request for literature for Chromosome 16 duplication MESSAGE: I have 3 week old who was admitted in our [LOCATION] for being growth retarded.  He was delivered term but weighed only 1.44 kg.  There was polyhydramnios during pregnancy but the rest of the antenatal scans did not detect any other abnormalities. When the baby was born, we noted some dysmorphysm, namely:  small head, low set ears, round face with wide phlitrum, slight hyperteloris, wide spaced nipples, clinodactyly and stubby toes.  blood was sent for karyotype and showed 46XY,dup(16)(q13q23). I looked up any information about this condition and could not find any on-line. Can u please forward any literature you may have so as I can better appraise the parents of the prognosis and make a more detailed treatment plan for the patient. Thank you
+summarized question 7: Where can I find information on chromosome 16 duplication, specifically karyotype 46XY,dup(16)(q13q23)?
+##
+query 8: SUBJECT: faty leaver&high blood presure MESSAGE: Dear sir &mam my blood presur is 140/100 what can i do for normal blood presure..
+summarized question 8: What are the treatments for high blood pressure?
+##
+query 9: Good morning.  I have a question for a urologist or a surgeon.  This may be out there but I am not one to go with the flow.  Now I do not have prostate cancer but I like being ready for anything.  I will be having a blood test next week and then I will be seeing my doctor.  My PSA was up from the last few.  2015 - 0.4   2016 - 0.7 and 2017 - 2.2.  Now here is my question.   If I get prostate cancer and lets say that the tumor is in the right lobe can I just have the right lobe removed.  Nothing else.  Maybe the lymph node on that side but I do not want anything else removed  I do not want the bladder neck touch or the seminal vesicles or the other side of the prostate.  I know you must think this is crazy but I feel my sex life and my ejaculation is just as important to save as getting rid of the cancer.  I have been reading to many articles that say they take every because you may get cancer there.  So you are going to take out good tissue just because you may get it again.  I don't believe in that.  My urologist call me his challenge.  I do not give up total control.  Thank you for your time.  I hope you have a great day.   
+summarized question 9:

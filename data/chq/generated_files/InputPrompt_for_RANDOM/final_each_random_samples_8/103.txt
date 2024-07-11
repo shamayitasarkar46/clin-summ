@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Hepatic hemangioma MESSAGE: What kind of food can I eat .. Because when ever I eat oily food my tummy can hurt or and I have bloating tummy and I want to know what kind of food I can eat because of my hemangioma
+summarized question 1: What kind of food can I eat with hepatic hemangioma?
+##
+query 2: SUBJECT: Bedlam MESSAGE: This pesticide was used to get rid of bed bugs where I live. It was sprayed in areas I had to sleep in, sleep sofa. I wasn't told about it and slept through 4 applications over a 10 week period. I have one lung and severe COPD. Should this have been used knowing about my respiratory issues>
+summarized question 2: What are the side effects of bedlam insecticide?
+##
+query 3: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 3: What does w/exertion mean on a prescription for oxygen?
+##
+query 4: SUBJECT: CURE FOR PNEUMONIA MESSAGE: Dear DR, please i have a friend that has the above illness..I want to find out...since i want to marry her...is it an infectious illness,,and can it be totally cured. And how can i help her to get this cured..Please i really need your reply urgently
+summarized question 4: What are the treatments for pneumonia?
+##
+query 5: SUBJECT: broken the shoulder. MESSAGE: how to provide the treatment of broken shoulder lock problem ?
+summarized question 5: What are the treatments for broken shoulder?
+##
+query 6: SUBJECT: critical diabetic. looking for a implant MESSAGE: Hello, I am a type one diabetic. Ive recently heard about the pancreas implants. I just wanted to find out the process in which I would take to try an receive one.
+summarized question 6: What is the latest research on pancreas transplants for type one diabetes?
+##
+query 7: I have had Tourette syndrome since age seven. Recently at the age of 72, I had an implantation of a shunt for hydrocephalus.  *What is the probability of one having both hydrocephalus and Tourette syndrome? *Is there any evidence that indicates that the head and neck tics of Tourette syndrome may be a cause of hydrocephalus?
+summarized question 7: Is there a connection between tourette syndrome and hydrocephalus?
+##
+query 8: "SUBJECT: physical activity MESSAGE: I am a woman aged 59 and had triple heart bypass in 2010. I am 5' 1"" and almost 14st in weight so fairly overweight. And I have very swollen ankles which ive had for probably at least 20 years. Diuretics dont seem to solve it. Ive had to take on part time work now as the government say i have to as im under pension age, working 4 hours a day, and it involves standing as its shop work. Should i really avoid this type of work as it means so much standing? Im very unfit, too weak and breathless to climb stairs. I suffer regular severe back ache standing for a time and my legs ache badly. I cant climb stairs as i get breathless and my legs are too weak. I dont smoke and dont drink alcohol frequently."
+summarized question 8: What work is recommended for a physically unfit person?
+##
+query 9: It is unfortunate to say that my father was affected by AML M1 and  we got  to know a month ago and his age is 52. Initially he  had a blast cells percentage of 76% and later after the first cycle blast cells dropped down to 4%. After two weeks of rest, he had undergone first consolidation out of three with High intensity Ara-C and today he was discharged after one week of treatment. My father's doctor said that there will be two more cycles with a gap of 28 days in between. As chemotherapy has side effects I would like to go for ayurvedic treatment as well in order to support my father's condition. I'm unable to understand whether to take further step and go for ayurveda as I'm not aware of any proved cases. Please suggest me whether to go for ayurveda and are there any such cases recorded to keep  the disease in complete remission.
+summarized question 9:

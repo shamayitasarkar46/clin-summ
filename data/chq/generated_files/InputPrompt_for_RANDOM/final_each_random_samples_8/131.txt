@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Hi I have aquestion regarding the chikenpox vaccination. My son is now 9 years old and got his  1st dose of chikenpox vaccine in September 2007 and the second does skipped then.so please guide me if my son could gey the vaccine once again now.
+summarized question 1: Where can I find information on chickenpox vaccination schedules?
+##
+query 2: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 2: What are the treatments for pain after hemorrhoidectomy?
+##
+query 3: SUBJECT: prob gum MESSAGE: My. Teeth gum blood comeing what medicine I use
+summarized question 3: What are treatments for bleeding gums?
+##
+query 4: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 4: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 5: SUBJECT: AIDS MESSAGE: A WOMEN WHO IS NOT HAVING HIV/AIDS HAS PERFORMED SEX WITH HER HUSBAND AND WITH HER BOY FRIEND AND NOW SHE HAS PERFORMED SEX WITH ME DOES IT  LEAD TO HIV OR AIDS TO ME. PLEASE KINDLY REPLY.
+summarized question 5: How is the HIV virus transmitted?
+##
+query 6: SUBJECT: Janumet XR 50mg/1000mg- 1 daily MESSAGE: Doctor prescribed for type 2 diabetes w/Metformin 500 mg 2 times daily. Pharmacy refused to fill stating overdose of Metformin. Who is right &what is maximum daily dosage of Metformin? Pharmacy is a non-public pharmacy for a major city employer plan provided for employees only.
+summarized question 6: What is the maximum dosage of metformin?
+##
+query 7: ClinicalTrials.gov - Question - specific study. I WOULD LIKE TO SEE STUDY OF -5P CHROMOSOME SYNDROME, WHAT IS THE ORIGEN, TREATMENT
+summarized question 7: What causes the 5p chromosome syndrome and what are the treatments?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 8: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 9: Hi! Where in the world can I find a surgeon who will remove abdominal adhesions and mesh from a previous inguinal hernia repair? My husband is in terrible pain a lot of the time. I am a retired Registered Nurse and understand the procedures. Thank you for any help you can give me.
+summarized question 9:
