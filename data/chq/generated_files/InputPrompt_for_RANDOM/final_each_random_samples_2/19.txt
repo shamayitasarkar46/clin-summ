@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 1: Where can I find information on leg swelling and treatments?
+##
+query 2: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 2: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 3: i thought i needed a knee repalcement but after having a stent placed in my heart my knee doesn't hurt what happened
+summarized question 3:

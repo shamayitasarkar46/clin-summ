@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: instructions MESSAGE: I purchased PH Test Strips and after receiving them I saw that there were no instructions included. I don't know how to use them and need some help with that. Could you please explain how to use them. Thank You, [NAME]
+summarized question 1: How do I use pH test strips?
+##
+query 2: SUBJECT: Bruxism MESSAGE: I understand that bruxism may be a result of tension or anxiety, but why that particular release? Why don't people clench their fists during sleep, or kick, or any number of activities? In other words, why is the jaw the most common location?
+summarized question 2: What are the causes of bruxism?
+##
+query 3: SUBJECT: don't know what to do about keeping dressing on my 17 month olds stitches. MESSAGE: I have a 17 month old that had stitches on his left index finger and he wont keep on the dressing / bandage. please help me to figure out what to do.
+summarized question 3:

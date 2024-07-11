@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Lyme Disease MESSAGE: 12 years ago I was bitten by tick while deer hunting. The bite area contained the ring as described in Lyme Disease symptoms.  I was treated with antibiotics;  however, ever since that time I have many of the symptoms cited for Lyme.  Also, usually prior to, and during these symptoms I have a reddish-pink welt appear at the site of the bite on my groin.  Can you offer any enlightment on my condition?
+summarized question 1: What is the prognosis for post-treatment Lyme Disease symptoms?
+##
+query 2: SUBJECT: inguinal hernia MESSAGE: I am a 75 year old man. I have 2 inguinal hernia. Do you offer any written pamplets on these.
+summarized question 2: Where can I find information on inguinal hernia?
+##
+query 3: I had surgery in 2011. I had an injury from a gunshot and the doctors put a stent in my carotid artery. I want to play sports. I am sure basketball is fine. I do not know about football since it is mainly a contact sport. Has anyone ever played football witha a stent in their neck ? I know there are some details I should note before furthering my want of playing sports.
+summarized question 3:

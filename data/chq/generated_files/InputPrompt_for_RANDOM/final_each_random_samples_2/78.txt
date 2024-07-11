@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: pots puffy tumor MESSAGE: what will happen to a 53 year old woman who has been dignoised with pots puffy tumor if she doesnt have the surgery? she has been on antibiotics for akmost a year now but scared to have surgery and it is getting worse thank you for your time [NAME]
+summarized question 1: What is the prognosis for untreated pott's puffy tumor?
+##
+query 2: How helpful is radiation for melanoma of heel and spread all the way up the leg? Would this effect treatment of trial drugs or other treatments?
+summarized question 2: Is radiation an effective treatment for skin melanoma and would it preclude experimental treatments?
+##
+query 3: SUBJECT: MRI versus CT scan for TBI/consciousness/S100B. MESSAGE: For adult patients:  Following a TBI what is considered most  conclusive for damage: MRI, MRI with contrast, CT, CT with contrast. Also, do you think whether a person losses consiousness is given too much credence for evaluating a TBI? How long is a S100B able to detect damage following a TBI? Do you yhink this is a valid test for E.D. immediately following injury?  If so, why is it not done, ignorance or expense? Could a patient demand it be drawn?  Thank you
+summarized question 3:

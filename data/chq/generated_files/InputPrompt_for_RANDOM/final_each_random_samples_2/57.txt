@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 1: What are the treatments for severe endometriosis in adolescents?
+##
+query 2: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 2: How long does swelling from sleep apnea take to heal?
+##
+query 3: recently my son took an eye examine and  he had 20/40 in one eye and 20/25 in the other would he need glasses? then when they continue the eye examine they said the Fundus could not be visualized in either eye. I just want some understanding on both situations.
+summarized question 3:

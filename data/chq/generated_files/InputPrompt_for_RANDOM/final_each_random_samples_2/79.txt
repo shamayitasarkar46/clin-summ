@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Nephrotic Syndrome MESSAGE: What is Nephrotic Syndrome.  What are its causes and cures?
+summarized question 1: What is Nephrotic Syndrome, its causes and cures?
+##
+query 2: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 2: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 3: SUBJECT: Low Potassium. MESSAGE: I have been taking Melitonion to help me sleep. My PC has prescribed 20 meq of potassium for low potassium level.  He has since increased it to 40 MEQ as my potassium level is still under the normal levels. Should I stop taking the Melitonin to help me get to sleep at night.
+summarized question 3:

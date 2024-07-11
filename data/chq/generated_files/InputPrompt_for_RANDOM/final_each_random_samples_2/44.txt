@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 1: What clinical trials are available for hepatitis C?
+##
+query 2: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 2: What are the ingredients of Glyburide and is it gluten free?
+##
+query 3: I’m 30 years old and when I was 23 my period wasnt coming every month, and I still don’t get my period , last time I got it was 4 months ago and I’m really worried.
+summarized question 3:

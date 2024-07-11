@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Gastroparesis MESSAGE: I am a current Gastroparesis fighter with a GJ feeding tube. I am also one of the admins for a GP support group and an advocacy group. I have become a volunteer advocater. I would appreciate any info you can share about Gastroparesis, Feeding tubes, and even TPN. Thanks
+summarized question 1: Where can I find information on Gastroparesis, tube feeding, and TPN?
+##
+query 2: SUBJECT: vaginal yeast infection MESSAGE: Hey, my name is [NAME]. Last night my vaginal area was itching but I didn't think to much of it.  Well when I woke up this morning it started itching out of control.  I don't see discharge coming from the vaginal area.  Now I do use Summer's Eve vaginal spray, I don't know if it is a vaginal yeast infection or not, but how should I go about this process.
+summarized question 2: What causes vaginal itching and what are the treatments?
+##
+query 3: my mother passed away Sunday from Sepsis-Bowel Perforation and I needed to know what it is. She wasn’t sick till the night before after she ate supper. She said her stomace was hurting. She feel the next moning and hit her head. She was ice cold with alittle sweat on her neck. Please, explain this to me.
+summarized question 3:

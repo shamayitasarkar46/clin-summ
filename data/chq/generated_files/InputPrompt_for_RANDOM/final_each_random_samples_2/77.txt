@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 1: Where can I find information on klinefelter syndrome?
+##
+query 2: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 2: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 3: SUBJECT: TORCH  INFECTION. MESSAGE: I have torch infection in my body please suggest me. What can I do..  My first baby was very injured..two big hole in heart  and  no wolv,  now my baby no more.. Plz suggest me ... If I will pregnant and it's sure my baby will b born healthy ?
+summarized question 3:

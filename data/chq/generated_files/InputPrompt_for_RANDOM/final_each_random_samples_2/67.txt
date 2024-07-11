@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Skin Itching MESSAGE: At night, I have very bad lower leg skin itching.  Is this being caused by any of my prescripions?
+summarized question 1: What prescription drugs cause itching skin on legs?
+##
+query 2: SUBJECT: Quary about PSA tests MESSAGE: My grand father have examined PSA test value is 0.430 ng/ml.His age is 86 years.My question is this value is normal for his health or harmful?
+summarized question 2: What are age-specific reference ranges for PSA?
+##
+query 3: A 65 year old female friend of mine was just recently diagnosed with Frontotemporal dementia - temporal variant.  She is devastated.  I am trying to help her find resources, clinical trials, etc. to help her.  Can you give me some names of doctors to contact, pertinent institutions to contact regarding the treatment of this disease.  Thank you.  
+summarized question 3:

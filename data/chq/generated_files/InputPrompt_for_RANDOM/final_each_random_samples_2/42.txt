@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: treatment for dry mouth caused by necessary medicine MESSAGE: My provider can't help (I asked.) I am intolerant of all the ""sugar alcohols"" such as maltilol, sorbitol, xylitol, etc. and need something for dry mouth caused by med which I have to take.  Biotene products help for only about two minutes."
+summarized question 1: What are treatments for dry mouth that do not contain sugar alcohols?
+##
+query 2: SUBJECT: Tailbone trauma MESSAGE: are there any risks for an elderly person to fly with a cracked or bruised tailbone? thank you in advance
+summarized question 2: Can I fly with a tailbone injury?
+##
+query 3: My grandson now 3yr6mo.dx at abt 9mons w/pehh and ger and bad reflux. surgery finally done and nissen has been in place ever since. Glad my daughter n son in law r both nurses. Behaviors entrenched from reflux discomfort --misery. His hand grip worries me, therapy in place for that. Visiting over Christmas I’m scared of disrupting his detailed feeding protocol. He’s finally on the wt. charts. So rare, lay people say: let him get hungry and he’ll eat. That’s so cruel it makes be angry so I don’t talk. Any info on what grama can do to ease my daughter’s workload. Read more abt? intimidating.
+summarized question 3:

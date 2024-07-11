@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: critical diabetic. looking for a implant MESSAGE: Hello, I am a type one diabetic. Ive recently heard about the pancreas implants. I just wanted to find out the process in which I would take to try an receive one.
+summarized question 1: What is the latest research on pancreas transplants for type one diabetes?
+##
+query 2: SUBJECT: Bone-Joint degeneration in the hand or fingers? MESSAGE: I notice that the joints or bones in my  hands hurt sharply when working, cooking and lately I have been dropping things from my left hand; even a sudden twist send shock thru my body-What is this?
+summarized question 2: What causes hand pain?
+##
+query 3: Hello –  Do you know if there are blood or urine tests that can detect if an individual is taking Flomax??  Your assistance is appreciated. Thank you
+summarized question 3:

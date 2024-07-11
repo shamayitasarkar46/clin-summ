@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Congestive Heart Failure MESSAGE: Why is my daily fluid intake limited to 2 liters?  What is so special about 2 liters as opposed to any other amount?
+summarized question 1: What is the recommended daily fluid restriction for Congestive Heart Failure?
+##
+query 2: Trisomy 13. I had a trisomy 13 mosaic infant and now my sister in law has just been diagnosed with a trisomy pregnancy. Is it possible both brothers may carry a translocation?
+summarized question 2: Is trisomy 13 inherited, and what is the pattern?
+##
+query 3: I have been diagnosed with bipolar and fibromialgia and have been told I cannot take lyrica with having been put on medication for bipolar as well as the issue with side affects. Is this true?
+summarized question 3:

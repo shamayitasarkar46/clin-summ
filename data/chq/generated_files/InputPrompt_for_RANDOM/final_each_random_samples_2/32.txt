@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 1: Where can I find information on leg swelling and treatments?
+##
+query 2: please can chronic myeloid leukemia (CML) be cure completely. waiting for your response. thanks
+summarized question 2: What are the treatments for chronic myeloid leukemia?
+##
+query 3: I have hypertension and have Glaucoma and diverticulitis, I have developed allergies and am super sensitive to hypertension medication. I have been given multiple medication and react to the medication within 24-48 hours suffering from major side effects and must stop the medication immediately. Do you have any information if there is a medication made for individuals that suffer from allergic reactions to the hypertension medication.
+summarized question 3:

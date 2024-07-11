@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: i wanted info on anhedonia... your web site is -well, i have never seen a better done website in 20 years!!! -in one word: your Organization reeks *Quality*. [NAME], 73, [LOCATION]
+summarized question 1: Where can I find information on anhedonia?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I HAVE A BOY 16 WHO JUST GOT OUT OF A PLACE THAT GAVE HIM MEDACATION,THES ARE THE MEDS.MONTELUKAST,LORATADINE,OXCARBAPINE. WHAT DISORDER ARE THEY FOR?
+summarized question 2: What are the indications for montelukast, loratadine, and oxcarbazepine?
+##
+query 3: I have heard about M.M.S. can it help with Barr syndrome/crohns I know about supplements but need more for the hands /feet muscles an diaphragm muscles, using only small dosage of the myatoxin only let's the body build defense to the paralyzed muscles so any information on both M. M. S. ,sodium chloride/citric acid healing curing, everything, to govern. Clinical trials for people suffering severe muscle problems in hands. Feet lungs
+summarized question 3:

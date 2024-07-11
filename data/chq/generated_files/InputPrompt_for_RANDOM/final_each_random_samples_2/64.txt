@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: missed dose MESSAGE: I missed taking my thyroid med this morning.  I usually take it when I first get up and then wait an hour before I eat.  I ate breakfast and remembered that I had not taken it.  How long after breakfast should I wait to take it?
+summarized question 1: How long should you wait to take thyroid medication after eating?
+##
+query 2: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 2: What are the treatments for loss of appetite?
+##
+query 3: Can I get my acid reflux surgery clipped to get lap band or would you suggest the sleeve or gastric bypass instead. What are possible complications if I get my acid reflux surgury clipped to get lap band? Thanks!
+summarized question 3:

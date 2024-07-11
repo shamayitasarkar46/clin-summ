@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 1: Where can I find clinical trials for macular degeneration?
+##
+query 2: SUBJECT: Help for my diagnose MESSAGE: I have been diagnosed with SCA3. I was wondering if MedlinePlus is able to help me with resources that I may need on my journey through this disease? If not, can you help me find an organization or association that can help me.
+summarized question 2: Where can I find information on SCA3, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 3: Fire Burn gives stain at stomach during my childhood and that is directly surrounded around the stomach button. and this matter was occurred past 15 years back. Do there is any therapy or remedy?
+summarized question 3:

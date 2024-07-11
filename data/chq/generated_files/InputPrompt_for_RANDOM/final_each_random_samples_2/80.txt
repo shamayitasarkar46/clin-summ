@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: vomiting blood clots MESSAGE: Vomiting blood clots. Very small amounts
+summarized question 1: What does vomiting blood clots indicate?
+##
+query 2: SUBJECT: low WBC issue MESSAGE: respected sir,                i humbly want to say  you thanx for making this website. i am [NAME] from [LOCATION] and i want to help myself by you please help me sir i will greatful to yo(sorry sir my English is not so good)      masturbation is my hobby its my taboo really sir now i am tired i want to change myself please sir give me some suggestions ....   this is bad habit in my life but i am also a bright student since last year .............. .......... .......... i am crying... sorry ...... please help me sir plzz rply me in my id.. and wish me luck     i know you have a golden heart ....
+summarized question 2: What are techniques to stop masturbating?
+##
+query 3: SUBJECT: MMR second dosage by mistake. MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 3:

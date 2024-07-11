@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 1: What are the causes of and treatment for scrotal rash?
+##
+query 2: MESSAGE: Is it okay to drink alcohol in moderation when taking Ampicillin.  I was told it negates any medical effect of the drug
+summarized question 2: Can I drink alcohol while taking Amoxicillin?
+##
+query 3: i am post menopause for about 18 years and i have been bleeding for about a month why
+summarized question 3:

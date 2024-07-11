@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: VD MESSAGE: A lot of yrs. ago I went to my Dr. because I had blister like bumps on the inside of the vagina. He squeezed all of them and I have always wondered if my husband had given me some kind of veneral disease. They came back and I squeezed them myself. They had runny stuff in them. I ask the dr. what they were and he only said this ""oh nothing to worry about, some women just get these."" Was this some kind of VD do you think.? thank you for a reply. We are divorced now and he has passed away. [NAME]"
+summarized question 1: Could blister-like bumps on the inside of the vagina be indicative of veneral disease?
+##
+query 2: If a 60 yo male patient has a level of cobalt or chromium  over the highest acceptable level, can that possibly create blood in urine? thank you
+summarized question 2: What are the causes of blood in the urine?
+##
+query 3: Hi I am wondering what the chances are for ototoxicity and liver damage with the use of itraconazole. In case these occur are the side effects reversible? Also what are the risks of congestive heart failure in a person taking this medication if patient has a family history significant for Myocardial infarctions? Thank you for you time.
+summarized question 3:

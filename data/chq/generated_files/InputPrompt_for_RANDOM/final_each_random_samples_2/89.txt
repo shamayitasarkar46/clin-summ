@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I have undergone Total Hip Replacement of both my hip jonts in 1977 (Charnley Process ) My left joint is completely worn out.How safe and effective is revision surgery..can I get a cementless joint..I am 66 years old..An early repy to my query will be very much appreciated.
+summarized question 1: Where can I find information on hip revision surgery, including risks and prognosis?
+##
+query 2: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 2: How do I stop taking wellbutrin HCL XL?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information. MESSAGE: I have a question about Lofexidine. do you have to be on suboxone and orbuprenorphine to use it and is it approved in the [LOCATION] yet?
+summarized question 3:

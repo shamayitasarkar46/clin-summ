@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: Alzheimer's disease MESSAGE: This may sound strange, but unfortunately our family, my wife's dad, are dealing with the ugly disease of Alzheimers. To make this short, is there any way that we can challenge him to do things, or attempt to even ""get off the couch"", because he seems to respond to that type of activity. Fortunately my wife is able to spend a great deal of time with her mom and dad, but he seems to perk up when I see him at times and ""not baby him"" like the rest of the family. Thanks much."
+summarized question 1: What are stimulating activities for Alzheimer's patients?
+##
+query 2: hi this is [NAME] i am doing an isearch paper and i would love to find out more about dystonia i have it for i think a year and i wanna know if it will ever go away and will i ever be able to play sports again? -- [NAME]
+summarized question 2: Where can I find information on dystonia, including prognosis?
+##
+query 3: when to start anohter round of antibiotics? how long can you wait to start a new dose of an antibiotic? 
+summarized question 3:

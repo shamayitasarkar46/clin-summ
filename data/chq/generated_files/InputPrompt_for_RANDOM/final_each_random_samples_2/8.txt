@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 1: What are the treatments for LGMD?
+##
+query 2: SUBJECT: drugs/liver failure MESSAGE: I don't know if you can answer this, but I thought I'd try. If someone used to use drugs, mainly heroin,  and they've stopped using and are around 30 days clean, will they not be able to test negative for drugs if their liver is failing?
+summarized question 2: How long is heroin detectable in your system?
+##
+query 3: Hi to whom this may concern: I have a non alcoholic fatty liver and when I seen my consultant he say I don't have to see Him again for 5 years and advised me to drink 3 cups of coffee a day, But I can't drink coffee at all, So I email a consultant asking if he new of a coffee tablet, So he email me back saying it properly glutathione-s-transferase enzymes in the coffee so am looking for a cheap tablet which contains.these enzymes to help repair my liver I also only have one kidney which am on long term antibiotics for I do hope you can help.  I look forward to your reply
+summarized question 3:

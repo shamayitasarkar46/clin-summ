@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: NEUROFIBROMATOSIS MESSAGE: Hi:  I have neurofibromatosis handed down by my Mother, (from what we understand was from spontaneous mutation).  I was diagnosed with an Optic Giloma about 25 years ago.  I have also been getting MRI’s to keep an “eye” on it (excuse the pun please), along with visual fields.  The last MRI, according to the radiologist, said it was not there and my Neurologist told me that they do disappear.  My question is, do Optic Giloma go away?  Thanks
+summarized question 1: Can an optic glioma in an adult spontaneously disappear?
+##
+query 2: Spinal Cord.  My Brother is 58 years old have spinal cord problem his both legs he cannot move them wheelchair user his legs are very heavy as he had urinaire infection after the other now the test comes positive and the infection still going cannot clear so his Doctor cannot give him any treatment for his main problem (Spinal cord) I want to help him what he should do I want to get advice please baging you for help and advice, many thank you
+summarized question 2: What are the treatments for urinary tract infection?
+##
+query 3: hai sir, we want suggestion to my wife. she is sugar patient and she is pregnant. in her uterus have two fibroid  of max size (750g and 300g). doctors are suspecting pregnancy may be in uterus or tubes. so remove uterus. what is u r suggestion
+summarized question 3:

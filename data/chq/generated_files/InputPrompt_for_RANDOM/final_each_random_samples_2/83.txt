@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Psoriasis for past 7-8 years MESSAGE: I had psoriasis on my scalp for nearly 10 years. Please give suggestions and medications.
+summarized question 1: What are the treatments for psoriasis?
+##
+query 2: SUBJECT: Bipolar and Generalized Anxiety Disorder MESSAGE: I read about TMS Therapy.  Do you know anything about it?  Has it had success?  Also wondering about ECT?  Finally, I've been told acupuncture can help for mood disorders.  Is that true for mixed bipolar and generalized anxiety disorder along with meds?  Have you ever heard of this?
+summarized question 2: What are the treatments for bipolar disorder with generalized anxiety disorder?
+##
+query 3: SUBJECT: Alpha 1 normal ranges. MESSAGE: Hi I was wondering if you could help me. I am a student in which I have to complete a case study on a patient with severe COPD. The patient's alpha 1 ant-trips sin level is 1.33. I am aware the normal ranges is 0.075-0.15g/L. Does this mean this patient has the genetic disease? Thanking You [NAME]
+summarized question 3:

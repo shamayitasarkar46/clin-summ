@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I have been battling Anal fissure for close to two years now and it has refused to heal all these while. Please what do you suggest i do?  Thanks
+summarized question 1: What are the treatments for chronic anal fissure?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Hi  i am  having a littel eye trouble  like  a glare  or blurr vision and  i am a typed 2 diabitic  since 2010 this promble been going own now four - six monthes now and i have low pressure in my right  eye and cloudy and blurr a  lil. I need  to know what my  problem is and can it  fix  and without going  blinding ..Reply back. .To  [CONTACT]  voice mail  or email text are accepted or [CONTACT]
+summarized question 2: Can type 2 diabetes cause blurry vision, and what are the treatments for it?
+##
+query 3: I have been suffering from digestive problems for 30 years. It has recently flared up bad and I am looking for ideas to try to heal. I was diagnosed with IBS at 13.   I was curious about the servings in the C-IBS Formulation. How's much of each in mgs? How many times a day? I want to take a more holistic approach as I'm going to be 42 and i am tired of suffering and the side effects of my anti nausea meds that left me with an eye tic. If any information can be given I would be greatly appreciative.
+summarized question 3:

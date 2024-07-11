@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Shingles MESSAGE: I have had /Shingles for over 10 years, and have been working with my physician, using Lidocain and Lyrica. Even with these, it's painful, particularly in my house, and some rooms in the building where I work. I experience this during, and immediately after these rooms are been cleaned with detergents. Is this my imagination, or there is a connection between certain detergents and pain, with Shingles?
+summarized question 1: Do detergents exacerbate shingles pain?
+##
+query 2: SUBJECT: Thyroid Cancer MESSAGE: thyroid cancer . please send all data regarding surgery, issues after the surgery possible outcomes to the surgery.
+summarized question 2: Where can I find information on surgery for thyroid cancer, including recovery and prognosis?
+##
+query 3: Hello, My sister suffers from obsessive-compulsive disorder for more than ten years And I want to know why the symptoms of obsessive-compulsive disorder increase during the menstrual period for this she is  very afraid and use contraceptive pills a monthly to prevent the menstrual cycle and is used this way since 5 years The first question is why the symptoms of obsessive-compulsive disorder increase during menstruation? The second question Are there any side effects as a result of the use of pills a month? I hope to help me found the answers because her conditions is very bad and please told me what we can do to help her. thank you very much and thank you for your time.
+summarized question 3:

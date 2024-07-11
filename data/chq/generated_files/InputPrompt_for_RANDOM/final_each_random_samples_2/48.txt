@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Is Hypermobility Causal for DCD? MESSAGE: Can hypermobility cause developmental coordination disorder? Any peer reviewed literature available exploring this issue?
+summarized question 1: Can hypermobility cause developmental coordination disorder?
+##
+query 2: SUBJECT: gilberts diseases MESSAGE: my name is [NAME].  5days later i admitted in a hospital in treatment of viral fever.In hospital lot of tests blood,urine,ultrasound scan.In all tests my organs (lever,kidney,etc) are normal but my bilirubin Total is higher than normal. In my admission in hospital bilirubin is 3.2. Day by day my bilirubin decreased in the way of 2.8, 2.6, 2.4, 2.6, 2.5, respectevely. The other contents of blood and urine are normal at all. Hepatitis A,B,C are also negative.Today  Bilirubin direct  is 0.8. Doctor says it is Gilberts disease. Sir what can i do?. what is the reason for this?. what is your opinion sir? please reply soon .
+summarized question 2: What causes gilberts syndrome and what are the treatments for it?
+##
+query 3: I have a patchy skin and it has become very dull these days and also i find few rash\pimples on my face. could you please suggest me the food tha i have to take to increase my complexion and get rid of this dullness and rash\pimples.
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 1: What are the risks of knee surgery in an older person?
+##
+query 2: MESSAGE: I m 33 year old. I m having hand and leg tremors for sometime. Is there any permanent treatment for this. I had visited doctor, they told its a Parkinson desease and cannot be cured permanently. Could you please provide me 2nd opinion on this
+summarized question 2: What are the causes and treatments for tremors in 33 year-old?
+##
+query 3: SUBJECT: Recovery from Erb's Palsy. MESSAGE: For a baby with an Erb's Palsy, What is the recommended age at which the infant can be a subject to nerve conduction test? What is it for surgical treatment? Is their an alternative methodolgy for nerve test other than electrical pulses? Where is this provided in the U.S?
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 1: What are the symptoms of chlamydia?
+##
+query 2: SUBJECT: Definitions MESSAGE: Hi, An explaination of what is the difference between myelogenous and lymphocytic leukemia types would be helpful. Great work! Thanks
+summarized question 2: What are the differences between lymphocytic and myelogenous leukemia?
+##
+query 3: Is it safe to take Relora if I seizure disorder? I had a Cavernoma removed from my brain that my drs believe caused me to have a seizure. I am now taking Keppra for seizure prevention. I would like to take Relora to combat the anxiety and to lift my mood. It seems no drs know much about supplements.
+summarized question 3:

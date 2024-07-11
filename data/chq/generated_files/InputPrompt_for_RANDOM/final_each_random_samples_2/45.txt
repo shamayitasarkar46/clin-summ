@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 1: What does w/exertion mean on a prescription for oxygen?
+##
+query 2: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: OK. I understand your reticence to list unconfirmed 'untrigger' lipids. However, I am a trained scientist who's 72 years old, so I don't really have time to wait for confirmatory tests to be run on several K more old coots. so QUE3TION: What [NB: THE HELL] precisely are the 10 lipids in question? I would then plan to have myself checked for those 10 lipids.
+summarized question 2: What are the ten lipids that can predict dementia?
+##
+query 3: i am 28 height 170 cm ,58 kg tropical area living.my eyes are infected when i watch to a plain surface i can see something moving like a narrow tubes before my eyes.it seems partially burned like half burned worms and i am also seeing something glittering in front of my eyes i checked ASO it is 230 (normal value is 200)i am lean and no increase in body weight for the last 8 years. how can you help me
+summarized question 3:

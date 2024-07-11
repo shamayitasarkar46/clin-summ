@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I have clostridium and am testing pos for Lyme need info. [NAME]
+summarized question 1: Is there a connection between clostridium and Lyme disease?
+##
+query 2: Williams' syndrome I would like to have my daughter tested for William's syndrome. Could you please tell me where I would go or who does it in my area?  Thank you!!
+summarized question 2: Where can I get genetic testing for william's syndrome?
+##
+query 3: when you check your blood with the insulin meter what is a good number
+summarized question 3:

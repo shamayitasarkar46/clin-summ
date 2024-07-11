@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 1: What are the latest treatments for Parkinsons disease?
+##
+query 2: SUBJECT: just a question MESSAGE: hi..just wanna ask... 1.how the aspirin can affect the ear? 2. what is the cause of suddenly ringging in the ear? isn't dangerous? tq.. :)
+summarized question 2: What causes ringing in the ear, and can aspirin affect the ear?
+##
+query 3: SUBJECT: Mitral valve regurgitation. MESSAGE: Hi, I am writing on behalf of my dad. He is 65 and he is diagnosed with Rheumatic Mitral Valve regurgitation 8 years ago. 3 years ago he also diagnosed with heart failure. Currently he has been using Coumadin, beta blocker, diuretics, ACE inhibitor, as a medicine and as suppliments omega3,6,9 fish oil, Co-enzyme q10, vitamin C, K2, Ginco Biloba, Magnesium Citrate using daily. I would appreciate if you can help us with some of the symptoms my dad is experiencing.  feeling sick in the morning and trowing up before and after breakfast, feeling tired all the time, struggling to walk to the first floor without resting. He has low blood pressure (like 5 - 7), [PHI]. We are very worried about my dad. Could you please suggest us if we are using wrong medication or we are supposed to use any more or less medication or supplements. Please please please help us I am very scared if something happens to my dad. I look forward to hearing from you [NAME]
+summarized question 3:

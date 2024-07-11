@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 1: What are the latest treatments for Parkinsons disease?
+##
+query 2: SUBJECT: babygirl vagina itching MESSAGE: My newborn is 9 weeks and I noticed when I went to clean inside her vagina there was a little bit of spotting. Should I be concerned?
+summarized question 2: What are the causes of and treatment for newborn vaginal itching and spotting?
+##
+query 3: did anyone have this and does it require surgery? my mri says forminal stenosis from bone spurs c4,5,6. my nerve test shows severe nerve compression c7,8. i’m in so much pain, mostly my arm and shoulder and leg. waiting to see the pain specialist to see what’s next. would love to know what you guys think is required..
+summarized question 3:

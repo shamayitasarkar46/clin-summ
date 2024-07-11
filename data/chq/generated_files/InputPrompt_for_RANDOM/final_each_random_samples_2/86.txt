@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 1: Can sleep apnea occur during the day when awake?
+##
+query 2: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 2: What is the half life of Chlordiazepoxide?
+##
+query 3: MESSAGE: I have been dignosed Bladder Cancer and in [DATE] surgery Radical cystoprostatectomy with bilateral PLND under EA/GA was done.I would like to know if the stoma closure is possible? Request to please guide me.
+summarized question 3:

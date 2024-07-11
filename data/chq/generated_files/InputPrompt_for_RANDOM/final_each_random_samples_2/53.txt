@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Shingles MESSAGE: I have had /Shingles for over 10 years, and have been working with my physician, using Lidocain and Lyrica. Even with these, it's painful, particularly in my house, and some rooms in the building where I work. I experience this during, and immediately after these rooms are been cleaned with detergents. Is this my imagination, or there is a connection between certain detergents and pain, with Shingles?
+summarized question 1: Do detergents exacerbate shingles pain?
+##
+query 2: "SUBJECT: peripheral neuropathy MESSAGE: I am not a diabetic but there is diabetes in my family. I have neuropathy in my feet and hands and it keeps me up at night. I have been on Gamapentin (300mg.)for years but find that it affects my balance (I am 90 years old)What else would you recommend that I take to help me sleep? I am a ""walker"" and a ""swimmer"" but my blood circulation has always been poor.  Thank you for your  suggestions!"
+summarized question 2: What, besides gabapentin, can help me sleep better with peripheral neuropathy in my hands and feet?
+##
+query 3: Is sedation or some form of twilight sleep or something for relaxation normally used for pill capsule camera for GI issues test? I have difficulty swallowing large pills and do not think I can do this awake. My mother and sister have to have their esphophgus stretched so I could possibly have some genetic factors. I am very scared of choking with this test. What is the normal procedure and do you have any suggestions? Thanks
+summarized question 3:

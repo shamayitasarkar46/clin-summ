@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: finastride and pregnancy MESSAGE: my wife is pregnant. She is in week30 of pregnancy. Now i am going to  consume finastride 1mg for my hair loss.is it dangerous for pregnancy  for my wife and her fetus؟ i use condom when i have sex with my wife.  please answer me .can finastride shift to mothers body by my sweat orskin contact?please answer me .thank you.
+summarized question 1: Can finasteride be transmitted via bodily fluid or skin contact?
+##
+query 2: SUBJECT: tongue problem MESSAGE: I can speak every thing I have mistake some word like r,n I can n't speak.this is my problem .every person tell me..please give me suggestion..
+summarized question 2: What are the treatments for speech disorders?
+##
+query 3: Lewy Body Disease. I have been researching Lewy Body Disease and have a few questions.1) Is this disease hereditary2) Does alcoholism play a role in the beginning process of this disease3) What are the initial symptoms of the diseaseAny information you could forward would be greatly appreciated.
+summarized question 3:

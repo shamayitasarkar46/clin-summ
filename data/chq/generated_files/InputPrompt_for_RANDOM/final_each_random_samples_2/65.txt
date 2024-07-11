@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: meadicine for itiching MESSAGE: my face is itiching too much. and iam using deetol soap ....... but not feeling well is there any medicine
+summarized question 1: What are the treatments for itchy skin?
+##
+query 2: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 2: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 3: hi, can malarone turn  your tongue black? if so, do u know why?  and how to fix?  Thx
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 1: Are the  long-term effects of morphine reversible?
+##
+query 2: "SUBJECT: BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium a MESSAGE: Hello, I want to purchase from you a remedy. I have Multiple Sclerosis, and there is much talk in the media about ""C. perfringens, Type B"" being a trigger for Multiple Sclerosis. Here is a link of the news http://www.bbc.com/news/health-25925658. I would like to purchase this product ""BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid"".  Or could you kindly recommend a remedy that will address this bacteria?  And email me how I should purchase and the total cost including the shipping so I can order it. I'm eager for your reply and thank you Kindly. Below are all my details: [NAME] [LOCATION] [CONTACT] [EMAIL]"
+summarized question 2: Where can I purchase BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid and how much does it cost?
+##
+query 3: SUBJECT: Factor VII. MESSAGE: I have Glanzmans Thrombastinia which is a rare platelet disorder. I am concerned about invasive emergency surgery.  I have had minor surgeries and have bled profusely-even with pre-op meds of DDAVP and Amicar.. I understand Factor VII (or a drug to reduce or stop unnessary bleeding,if administered prior to surgery can alleviate bleeding problems in an invasive procedure. What drug(s) would you recommend and how readily available is the drug and how much does it cost. Thank You, E. W. [NAME]
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: treatment for dry mouth caused by necessary medicine MESSAGE: My provider can't help (I asked.) I am intolerant of all the ""sugar alcohols"" such as maltilol, sorbitol, xylitol, etc. and need something for dry mouth caused by med which I have to take.  Biotene products help for only about two minutes."
+summarized question 1: What are treatments for dry mouth that do not contain sugar alcohols?
+##
+query 2: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 2: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 3: SUBJECT: fever. MESSAGE: I have had a fever in the evenings only since {DATE], it is gone in the morning then resurfaces around 4pm. I babysit for my grandkids during the week, I went to the clinic and they just said it was a cold.  Lung are fine, no head congestion. So I would like to know if I am contagious to my grandkids, so I can start sitting again.
+summarized question 3:

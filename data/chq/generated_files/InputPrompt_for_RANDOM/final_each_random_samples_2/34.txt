@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Serum Creatinine MESSAGE: My serum creatinine level is 1.1. I am 36 years old and having kidney stone . My question is , will the kidney stone affect the serum creatinine result?
+summarized question 1: Can a kidney stone affect the serum creatinine result?
+##
+query 2: SUBJECT: What is the difference? MESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?
+summarized question 2: What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?
+##
+query 3: My daughter had brain surgery and has recovered much better than the surgeon expected.  My question is that since her surgery the flap has separated from her skull and there is a gap with just skin covering it.  Please let me know if this is unsual.  She is very worried about it and says that it hurts.
+summarized question 3:

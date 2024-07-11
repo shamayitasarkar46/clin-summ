@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Question. do you know what genetic abnormality causes lipoamide Dehydrogenase Deficiency (E3)?
+summarized question 1: What is the genetic cause of Lipoamide Dehydrogenase Deficiency?
+##
+query 2: SUBJECT: Subcutaneous retrocalcaneal bursitis MESSAGE: Haglund's deformity of the calcaneum.  I have this problem.  Can you please help to overcome this?
+summarized question 2: Where can I find information about Subcutaneous retrocalcaneal bursitis and Haglund's deformity of the calcaneum, specifically treatment information?
+##
+query 3: SUBJECT: Carbon dioxide. MESSAGE: What can happen if your level of carbon dioxide in your blood is up to 50? What things can starting changing in your body if it reaches over 50.
+summarized question 3:

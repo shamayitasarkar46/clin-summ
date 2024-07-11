@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Need help! MESSAGE: I have a knot about the size of a BB in my right forearm about 2-3 inches from my elbow. It's been there for about 5 years and hurts sometimes. Mostly only notice it when i put pressure on it. You can't see it but can feel it pretty good. It will move about a cm in any direction. I went to the doctors about 4 years ago to have it looked at but they did no xray and said its prob a BB from when i was younger. It's starting to hurt more now without me putting pressure on it so i'm thinking i need to have something done about it. Any ideas on what it could be or what i should do about it?
+summarized question 1: What causes lumps on the arm?
+##
+query 2: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 2: What are alternatives to phenobarbital?
+##
+query 3: three weeks ago I saw the local doctor lady.. she listened to my description of abdominal pain down the left groin area. now the pain is occasionally not nice and there is a swelling which is uncomfortable to touch when I have the pain . The swelling is soft like a liquid pouch. I have undergon Prostrate cancer Radiotherapy which resulted in occasional mucus and blood discharge when passing stool and wind. This mucky bum has settled down and for some months I have not had any accidents (soiled pants). The doctors letter said iI had a friable back passage which bled on contact. I am due for Colonoscopy. What should I do? is it dangerous to undergo the colonoscopy with a friable weakened colon . I  am 68 year old white male. 6ft 4  tall 84 kg. reasonably fit and active.
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: affects from being molested MESSAGE: I was molested by my father when I was a child (over 45 years ago).  I've been working on recovery the past couple of years (the memories surfaced in 2010).  As part of my recovery, I'm exploring how being sodomized by my father may have damaged my rectum and surrounding areas.    What kinds of physical damage would have been done by a 22 year old male sodomizing a 5 year old boy?    I'm looking to see if that caused tears in the rectum that would have lead to having to have 9 surgeries as an adult to repair them.  I don't think they just happened.  thanks in advance.
+summarized question 1: Where can I find information on rectal damage caused by anal sex?
+##
+query 2: ClinicalTrials.gov - Question - general information.  My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.
+summarized question 2: What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?
+##
+query 3: SUBJECT: Setraline side effects. MESSAGE: Hi, I am writing because I have been diagnosed with depression and have been treated with several different medications because of a serious side effect I get with sertraline.  They have given me a small dosage, 25mg a day,  I have tried with Celexa, Prestiq, Paxil, Cymbalta and they all make my legs shaky.  I get weak in my legs and I get a tingling sensation.  My legs hurt and get a tingling sensastion.    Why do I get this side effect?  Is there something else I can take??  I was also wondering if it has to do with any other medications that I take.  Sometimes I take dormicum for sleeping problems and Lorazepan.    Eagerly waiting for your comments
+summarized question 3:

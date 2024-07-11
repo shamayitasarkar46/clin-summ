@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Gastroparesis MESSAGE: I am a current Gastroparesis fighter with a GJ feeding tube. I am also one of the admins for a GP support group and an advocacy group. I have become a volunteer advocater. I would appreciate any info you can share about Gastroparesis, Feeding tubes, and even TPN. Thanks
+summarized question 1: Where can I find information on Gastroparesis, tube feeding, and TPN?
+##
+query 2: ClinicalTrials.gov - Question - general information.  i am a two time peg/ interferon non responder, under medical care at [LOCATION] Medical center, had an eye issue, at same time i was almost viral free. I need in a clinical trial of on new Sofosbuvir treatment.
+summarized question 2: Where can I find information on clinical trials for sofosbuvir?
+##
+query 3: why does the united states have a high mortality rate of covid-19 than other countries
+summarized question 3:

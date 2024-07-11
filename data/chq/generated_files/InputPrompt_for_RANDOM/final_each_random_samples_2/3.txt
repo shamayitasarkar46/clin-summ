@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Gout and Blood pressure MESSAGE: I have had many gout attacks since i have been 30 years old now 70 . I take allopurinol and blood pressure meds . Before i took allopurinol i never had high blood pressure . Also i have developed basal cell skin cancer i have heard allopurinol will cause that . Reduces acid in your system ?
+summarized question 1: What are the side effects of allopurinol?
+##
+query 2: SUBJECT: Mental Health (Anxiety) interview MESSAGE: I would like to interview someone by email in order to obtain information over Generalized Anxiety Disorder for a Newsletter project in my Abnormal Psychology Class at [LOCATION]. Thank you very much
+summarized question 2: Where can I find information on generalized anxiety disorder?
+##
+query 3: I am not a nurse or Dr or student... I am just a person with a question that I need an answer to. Could you please help me out and let me know if there is any research on the effect of Rogam on the baby of the RH- person? Are there higher rates of mental illnesses in them or other health issues? I would really appreciate any information. Thank you
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Radiation Therapy MESSAGE: I have foot drop symptoms. I think radiation cause them last year. My left foot is numb tingling and inflaming. please help and call my cell phone for more comments :[CONTACT]
+summarized question 1: What are the symptoms of foot drop, and what are the treatments for it?
+##
+query 2: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 2: What are the inheritance patterns for pierre robins syndrome?
+##
+query 3: my boyriend was taking tasigna and i became pregnant i want to know what kind of birth defects can it cause to my unborn child.
+summarized question 3:

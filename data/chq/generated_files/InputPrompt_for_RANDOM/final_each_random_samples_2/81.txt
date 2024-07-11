@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: vitamin b 12 deficiency MESSAGE: hi  3 months ago I was diagnosed with vitamin b 12 deficiency.  after treatment with cyanocobalamin my levels have returned to normal thus treatment has stopped.  However I  had a relapse of symptoms such as fatigue loss of appetite  nausea ect. can symptoms be present although levels are normal?  thanks
+summarized question 1: Can I experience symptoms of vitamin b12 deficiency and have normal levels of the vitamin?
+##
+query 2: McArdle's Disease.  Is there any evidence that trauma such as a physical injury i.e., neck injury, torn ligament, etc., can worsen McArdle's disease?
+summarized question 2: Does trauma worsen McArdle disease?
+##
+query 3: SUBJECT: time of results. MESSAGE: When a person start halt sildenafil...How long before their breathing, shortness of breath, &fatigue issues go back to normal..?
+summarized question 3:

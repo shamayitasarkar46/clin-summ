@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bone Marrow Cancer MESSAGE: hello Sir, i want to ask something about bone marrow marrow cancer.... its 22 year age... and have many symptoms of BMC..  often feel pain in bones....  i don't know the stage.... is treatment is possible at any stage???? how i can find stage??? if treatment is possible  how long(in months) it takes to recover???  kindly reply me...
+summarized question 1: Where can I find informaton on bone marrow cancer, includinf diagnosis, treatment, and prognosis?
+##
+query 2: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 2: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 3: what/why do flu-like symtoms such as: hot/cold sweats, chills, diarrhea, nausea, vommiting, runny nose, for longer than 13 days or more? could on-going stomach/flu symtoms that persist 13 days or more be something other than a bug or virus?
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 1: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 2: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 2: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 3: Good morning, I'm not sure where to start with this so am hoping you could point me in the right direction please? My husband recently saw a specialist in relation to his elbow. He was told he would need an elbow reconstruction. The specialist mentioned that someone in the US had made something to fix this problem but even though it was patented, it didn't sell so it is now not made anymore. Would you know what this was and called, and who I could get in contact with about it please? We live in  Australia. My husband is a keen sportsman and is not taking this news very well as he's been told he won't be able to play sport again. Any help would be greatly appreciated.
+summarized question 3:

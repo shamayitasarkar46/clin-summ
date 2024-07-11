@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ectopic pregnancy.  Is there a chance that my daughter can have an ectopic pregnancy if my wife had it?
+summarized question 1: Does ectopic pregnancies run in families?
+##
+query 2: care giving for parents My mother has been diagnosed with Alzheimer's, my father is not of the greatest health either and is the main caregiver for my mother. My question is where do we start with attempting to help our parents w/ the care giving and what sort of financial options are there out there for people on fixed incomes.
+summarized question 2: What resources are available  for Alzheimer's caregivers?
+##
+query 3: My father is having cardiomyopathy through genes. He is 83 now. He was absoulutely normal till now. recently he is getting breathlessness. and he was admitted to the hospital twice. The doctors are telling that multi dieases are attacking his heart. I just want to know exactly what is happening and what precautions that he should take in future. What are the chances of survival? Please help.
+summarized question 3:

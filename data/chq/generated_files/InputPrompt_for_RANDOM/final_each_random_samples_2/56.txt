@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: pubic lice.  What are some treatments for pubic lice
+summarized question 1: What are the treatments for pubic lice?
+##
+query 2: Have been on methadone for four years.  I am interested in the rapid withdrawl under anesthesia, but do not have a clue where I can find a doctor or hospital who does this.  I also would like to know the approximate cost and if or what insurance companies pay for this.
+summarized question 2: How can I find physician(s) or hospital(s) who specialize in rapid methadone withdrawal under anesthesia, and the cost and insurance benefits for the procedure?
+##
+query 3: I have a problem. I am not remember my study always forget .I am not consntrate on study. When i am reading i am thinking any others topic. I am confused Is this a Alhizmer.I think i am loss my memory .Please help me and suggest me.
+summarized question 3:

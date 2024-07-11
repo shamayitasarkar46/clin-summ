@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Lyme Disease MESSAGE: 12 years ago I was bitten by tick while deer hunting. The bite area contained the ring as described in Lyme Disease symptoms.  I was treated with antibiotics;  however, ever since that time I have many of the symptoms cited for Lyme.  Also, usually prior to, and during these symptoms I have a reddish-pink welt appear at the site of the bite on my groin.  Can you offer any enlightment on my condition?
+summarized question 1: What is the prognosis for post-treatment Lyme Disease symptoms?
+##
+query 2: SUBJECT: chickenpox MESSAGE: I do not know if I had chickenpox. Is there a blood test available to tell me ? And if not which vaccine should I get, if any ?
+summarized question 2: Is there a blood test for chickenpox and who should get vaccinated?
+##
+query 3: what are the effects when you take testosterone injections with sudafed 20 mg at the same time what’s the effects
+summarized question 3:

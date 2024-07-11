@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 1: What are the treatments for bad breath?
+##
+query 2: SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.
+summarized question 2: What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?
+##
+query 3: Our family will go to Manila and Thailand in December and January. Please recommend any vaccinations that we should have. Thanks!!!
+summarized question 3:

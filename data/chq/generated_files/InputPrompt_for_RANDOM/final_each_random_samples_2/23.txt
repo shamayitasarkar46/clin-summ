@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: meadicine for itiching MESSAGE: my face is itiching too much. and iam using deetol soap ....... but not feeling well is there any medicine
+summarized question 1: What are the treatments for itchy skin?
+##
+query 2: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 2: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 3: 8 month old child suffering from constant vomiting what could be the medicine used for treatment
+summarized question 3:

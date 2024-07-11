@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 1: What are the causes of testicular pain?
+##
+query 2: ClinicalTrials.gov - Suggestion.  Can you tell me if there is a battery pack that could be used in power outage events. We live in a rural setting and often have power outages during the general hours of sleep? Please advise if any known means of switching c-pap to this method.
+summarized question 2: Is there is a c-pap battery pack that could be used in power outage events?
+##
+query 3: I have myclonus as well acute respiratory distress syndrome and sleep apnea with painful left temporal pain; I actually raise for sleep start holding my left temporal and saying, ouch!! I experience in the same occurrence..all three hallucinations regarding wake sleep (audio tactile and visual). I have expressed my concerns to numerous neurologist and they tell me It's Functional. Should I be concerned?
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 1: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 2: MESSAGE: I have a fractured nose i need it fixed. its been broke for 3 years now
+summarized question 2: What are delayed treatments for nose fracture?
+##
+query 3: SUBJECT: Small head. MESSAGE: I am [NAME], 17 years old girl my head size is small then average.  Enough small that everybody can  notice.  My question is that wall it grow to average.  Or i have to face this throughout my life
+summarized question 3:

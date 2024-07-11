@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: vagual nerve stimulation and depression.  have suffered for many years complicated by frequent migraines and little help from meds   like to learn more about vagual nerve stimulation
+summarized question 1: Where can I find information on vagus nerve stimulation for the treatment of depression and migraines?
+##
+query 2: SUBJECT: prestigious place in USA for treatment to Common peroneal nerve dysfunction MESSAGE: Hello, I have foot drop for damage to the common peroneal nerve, caused by surgery on knee in November 2012.Please which is the most prestigious institution or place in USA for treatment or surgery of this type of injury. thanks a lot
+summarized question 2: How can I find physician(s) who specialize in Common peroneal nerve dysfunction?
+##
+query 3: I have been tested twice and it has been determined that I have 2 copies of the gene for FACTOR V, and I am concerned about my family.  If 1 parent has been diagnosed negative, is it even possible for me to have 2 copies of the gene without something being misdiagnosed?  I have 3 children and 8 grandchildren and would like to know if this should be called to their attention?  Information will be appreciated.
+summarized question 3:

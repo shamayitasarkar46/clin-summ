@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 1: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 2: Question..for the past 3 4 years I was get infection in my testis ball ( right hand side) now a day my Siemens come out in very low quantity and very thin in weight...give me some solution or advice .now I am getting married two months ago..and I m worried for our future
+summarized question 2: What are the treatments for low sperm count?
+##
+query 3: SUBJECT: lithtrypsy complications. MESSAGE: lithotripsy performed 1986, [LOCATION], [NAME] hostile &defensive that it caused PMR &Giant Cell arteritis. Onset of autoimmune disease between 4 &8 hrs. later. Never worked again (Head &Neck surgeon). Still battling hypertension, arteritis, Inflammatory myositis (biopsy USC, [NAME]). Most Drs. know squat about autoimmune diseases &the trigger. Your info only
+summarized question 3:

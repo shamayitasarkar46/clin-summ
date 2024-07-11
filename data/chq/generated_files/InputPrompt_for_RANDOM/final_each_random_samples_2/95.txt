@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 1: When is shingles contagious?
+##
+query 2: MESSAGE: dear sir, my name is [NAME] from India. actually sir my sister is 27 year old accouding to doctor she is a anemia pasent. loss of blood.plz sir any drug for anti anemia.plzzzzzzzzzzzz sir
+summarized question 2: What are the treatments for anemia?
+##
+query 3: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 3:

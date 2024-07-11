@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 1: What are the treatments for nutcracker syndrome?
+##
+query 2: SUBJECT: lupus an info on the diseise MESSAGE: Need all up date on lupus an send by mail informations on this subject..please i need more information to see if what i am exprienceing is in fact related to lupus ...thank you.
+summarized question 2: Where can I find the latest information on lupus?
+##
+query 3: SUBJECT: INTESTINAL OBSTRUCTION WITHOUT SURGERY. MESSAGE: From Our Family, 35 years old female patient has been diagnosed adenocarcinoma with multiple metastases all over abdomen along with pancreatic tail bulky. Ovary and Uteruses has been removed. Patient has received TWO Cycles of Chemotherapy presently at 3rd Stage and is admitted with intestinal obstruction pancreas. Please Suggest for Intestinal Obstruction without Surgery. Please Reply Urgently.
+summarized question 3:

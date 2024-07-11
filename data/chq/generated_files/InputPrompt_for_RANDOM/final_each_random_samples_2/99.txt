@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 1: What are the symptoms of chlamydia?
+##
+query 2: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 2: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 3: "SUBJECT: BREATHLESSNESS. MESSAGE: I am 77  , nown case of dibetes 2 & BP both under control with Medication viz Amryl M -1mg ( Sanofi) twice a day & Benitech A for BP .HbA1c being around 5.8-6.2 , sugar fasting around 80-90 , but PP is above 175 to 225, Bp is normal 140/75,pulse 50-64.However Amylase & Lipase are around 150. My TMT and Ultrasound Abdomon are normal , Chest X ray is clear I am 5'6"" , wt -70kg , girth at navel 40"" These days I am feeling problem of Breathlessness, even on slight exertion , I can walk but only at a very slow pace. Pl. advise can it be on account of any problem with my lungs pl & symptoms/tests for same  These days"
+summarized question 3:
