@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Pyloric Stenosis MESSAGE: Good day, I had pyloric when I was a baby - I am now 44 years old.  I have always suffered with stomach problems, leaky gut etc.  Is it at all possible that this is a related cause of pyloric long term?  I was the 1st baby girl to have this operation in [LOCATION] in [DATE].
+summarized question 1: What is the long-term prognosis and complications of pyloric stenosis?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 2: How is hypomaturation type IIA2 inherited?
+##
+query 3: SUBJECT: Sheehan's Syndrome MESSAGE: I was diagnosed with sheehans syndrome almost 14 years after almost dying after the birth of my daughter.  My blood level fell to 1.3 I had a partial hysterectomy following the birth.  I recently had my thyroid removed after diagnosis of cancer and was told that I am post menopause, I am only 39 years old.  Do you have any information regarding diagnosis and misdiagnosis. What should the medical care have done to identify the syndrome?
+summarized question 3: How is sheehan's syndrome diagnosed?
+##
+query 4: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 4: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 5: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 5: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 6: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 6: What are alternatives to phenobarbital?
+##
+query 7: CITROBACTOR FREUNDII.  Does ciprofaxin work well? Is there a better drug if so what.
+summarized question 7: What are the treatments for citrobacter freundii infection?
+##
+query 8: SUBJECT: need to know about shingles MESSAGE: I have had shingles on my face about 6 or 7 years ago.  Should I still get a shingles Vaccine?  I really need to know.  Stress is big in my life.
+summarized question 8: Should someone who had shingles get the vaccine?
+##
+query 9: Patient Handouts.  Are there patient handouts we can order on the topic of gum/periodontal disease? If so how can we order some?
+summarized question 9: Where can I find patient handouts on gum/periodontal disease?
+##
+query 10: What are the causes of rib cage pain? And and the remedy
+summarized question 10: What are the causes and treatments for rib cage pain?
+##
+query 11: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 11: What are the treatments for arm and neck pain?
+##
+query 12: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 12: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 13: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 13: What are the risks of smoking?
+##
+query 14: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 14: What are the ingredients of Glyburide and is it gluten free?
+##
+query 15: SUBJECT: Vasectomy MESSAGE: On the text that says it is very rare that the vas deferens can grow back and my partner pregnant ... So is it possible? ... Is that my partner got pregnant, I have vasectomy 16 years .. [CONTACT]     thanks
+summarized question 15: What is the late failure rate of vasectomy?
+##
+query 16: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 16: Is lincomycin still prescribed for human use?
+##
+query 17: my daughter has lichen sclerosis and we are wondering if you have any research on stem cell treatment?  She now has it effecting her ureatha and the Dr she is seeing  has no idea how to treat it, as she has never seen it do this.  She was diagnosed when she was 22 with a severe case of LS and has had little relief with current treatments.  Thank you for your time in this matter.  Also are there any clinical trials coming up she may participate in?
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I want more information on Hypertension and fibromyalgia, I seem to be getting only topics on diabetes and I do not have this.   I enjoy reading the current info.  thanks [NAME]
+summarized question 1: Where can I find information on hypertension and fibromyalgia?
+##
+query 2: SUBJECT: staphy treatment MESSAGE: Gud day, please ham having staphylococcus and I need drugs to take and your advice..my result show &quot;scanty&quot;..i 'll be expecting your reply..thank you and God Bless you
+summarized question 2: What are the treatments for staphylococcus?
+##
+query 3: SUBJECT: Is Balsalazide a steroid? MESSAGE: Is Balsalazide a steroid? I have been on it doe close to 2 years now, your information states 6-8 weeks.  Will this do any damage to my other organs?  Was on Asacol prier to Balsalazide 750mg each X9 per day.  Is this safe? I cannot seem to lose any weight no matter how much I try. I exercise 5-6 days a week for 30 minutes, watch what I eat.
+summarized question 3: Where can I find information on balsalazide, including dosage, side effects, and drug class?
+##
+query 4: SUBJECT: WHAT TABLETS CAN I TAKE ??? MESSAGE: I WAS A BINGE DRINKER FOR YEARS & HAVE TROUBLE WALKING & I AM ON THIAMIN 100mg  & STRONG VITAMIN B Compound & SENNA  SO WHAT ELSE CAN I TAKE ???
+summarized question 4: What are natural remedies for difficulty walking?
+##
+query 5: I would like to get into a study for my case.  I am a 73 year old woman with type 1 diabetes since I was 7.  My A1C's run in the high range of 5 or low 6. I have suffered from chronic constipation all my life. I have been diagnosed with fibromyalgia, Now Lichen Plarvs, and chronic depression.  I am very active but suffer from chronic pain.  How can I get into a study from home.  I live in a remote area in central Washington.  Am I as hopeless as I sometimes feel?  Phone # [CONTACT]
+summarized question 5: Where can I find clinical trials for type 1 diabetes, chronic constipation, fibromyalgia, Lichen Pilaris, chronic depression, or chronic pain?
+##
+query 6: MESSAGE: I was told not to take the shingles vaccine..i have many healthe problems and many allergies…
+summarized question 6: When is the shingles vaccine contraindicated?
+##
+query 7: SUBJECT: HELP TO LOCATE DRUG MESSAGE: Received instructions from the FDA in using this site to find an anti-depressant that DOES NOT contain soy in any ingredient.  No product found.  PLEASE HELP ME!!!!
+summarized question 7: What anti-depressant fdrugs do not contain soy as an inactive ingredient?
+##
+query 8: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: OK. I understand your reticence to list unconfirmed 'untrigger' lipids. However, I am a trained scientist who's 72 years old, so I don't really have time to wait for confirmatory tests to be run on several K more old coots. so QUE3TION: What [NB: THE HELL] precisely are the 10 lipids in question? I would then plan to have myself checked for those 10 lipids.
+summarized question 8: What are the ten lipids that can predict dementia?
+##
+query 9: SUBJECT: What cures Morgellons? MESSAGE: I have something crawling under my skin at night and in the morning. I am in need of a cure, please send me information about medicine to cure Morgellons.
+summarized question 9: What are the treatments for morgellons?
+##
+query 10: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 10: What are the treatments for drop foot?
+##
+query 11: MESSAGE: HI, THIS IS [NAME]. SUPPOSE WE REMOVED THE EYE DUCT DUE TO TEAR TUBE DAMAGE, IS IT ANY PROBLEM WILL COME??
+summarized question 11: What are the prognosis and complications of tear duct surgery?
+##
+query 12: MESSAGE: I m 33 year old. I m having hand and leg tremors for sometime. Is there any permanent treatment for this. I had visited doctor, they told its a Parkinson desease and cannot be cured permanently. Could you please provide me 2nd opinion on this
+summarized question 12: What are the causes and treatments for tremors in 33 year-old?
+##
+query 13: SUBJECT: other uses for Phentermine MESSAGE: Hello, My name is [NAME]. I do not usually send comments or questions online. I am only doing this because I am trying to find an answer to a baffling situation I am experiencing. I started taking Phentermine about 3 years ago for weight loss. I lost weight successfully, but also found that the Phentermine substantially relieved my arthritis pain. Now my doctor has taken me off of the Phentermine. He will not prescribe it for pain relief as he does not believe there is any correlation between the Phentermine and relief of my arthritis pain. I have taken many pain relief medications over the years as my arthritis is acute. The Phentermine works the best. Is there any correlation between Phentermine and pain relief?  Sincerely, [NAME]
+summarized question 13: Can Phentermine be used for pain relief?
+##
+query 14: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 14: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 15: SUBJECT: Nephrotic Syndrome MESSAGE: What is Nephrotic Syndrome.  What are its causes and cures?
+summarized question 15: What is Nephrotic Syndrome, its causes and cures?
+##
+query 16: SUBJECT: prestigious place in USA for treatment to Common peroneal nerve dysfunction MESSAGE: Hello, I have foot drop for damage to the common peroneal nerve, caused by surgery on knee in November 2012.Please which is the most prestigious institution or place in USA for treatment or surgery of this type of injury. thanks a lot
+summarized question 16: How can I find physician(s) who specialize in Common peroneal nerve dysfunction?
+##
+query 17: I am looking for any information you have on females with congenital adrenal hyperplasia, my wife has this condition. We are searching for a doctor for her medical care, and need all the information we can find on this condition.
+summarized question 17:

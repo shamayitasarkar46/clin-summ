@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: lack of adhesive while I swim MESSAGE: I weekly apply the clonidine transdermal patch. Medically it is effective. I swim 3 or 4 times a week for 30-45 minutes. Quite often the patch loses it's adhesive quality and falls off my skin. What can I do to help it stick on my arm? thanks
+summarized question 1: What can I do to keep the clonidine transdermal patch secure during swimming?
+##
+query 2: SUBJECT: Pituitary gland/high level Vitamin D MESSAGE: My sister has a high level of Vitamin D in her system/blood work.  Her specialist cannot find the cause.   Would there be any connection with her pituitary?   Had her thyroid gland removed 3 years ago, and cancer in breast/removed cancer and had radiation/cured 2 years ago.
+summarized question 2: What are the causes of high vitamin D levels?
+##
+query 3: MESSAGE: can I take Sam e with my blood pressure med and simvastatin? pressure med is metoprolol. im 65 and have panic attacks. I am not on any other meds. I have a physical this week and a blood test. will Sam e interfere with a blood test ? I also have spinal stenosis with numbness and prickly feelings in my body. Im going to talk to my dr about all of this on Friday. Dosage ? Thank you
+summarized question 3: What are the dosage, side effects,  and drug interactions for Sam E?
+##
+query 4: Eye.  i do see black things what couse it? or likd a sand i my Eye? how can i get treatment?
+summarized question 4: What are the causes and treatments for eye floaters?
+##
+query 5: SUBJECT: Blood Sugar Levels and Parkinson's MESSAGE: I'm wondering if there is a correlation between blood sugar level's and how it may effect the presentation of Parkinson's particularly in tremors. It seems that extreme blood sugar levels would make the tremors a great deal worse and appearing none typical.
+summarized question 5: Is there a connection between blood sugar levels and symptoms of Parkinson's disease?
+##
+query 6: SUBJECT: inguinal hernia MESSAGE: I am a 75 year old man. I have 2 inguinal hernia. Do you offer any written pamplets on these.
+summarized question 6: Where can I find information on inguinal hernia?
+##
+query 7: SUBJECT: vaginal yeast infection MESSAGE: Hey, my name is [NAME]. Last night my vaginal area was itching but I didn't think to much of it.  Well when I woke up this morning it started itching out of control.  I don't see discharge coming from the vaginal area.  Now I do use Summer's Eve vaginal spray, I don't know if it is a vaginal yeast infection or not, but how should I go about this process.
+summarized question 7: What causes vaginal itching and what are the treatments?
+##
+query 8: SUBJECT: hypothyroidism MESSAGE: Can you please send me as much information as possible on &quot;hypothyroidism&quot;. I was recently diagnosed with the disease and I am struggling to figure out what it is and how I got it. My name and address is: [NAME] [LOCATION] [CONTACT] Thank you in advance for your help!!!
+summarized question 8: Where can I find information on hypothyroidism and its causes?
+##
+query 9: My wife developed a very severe deep hoarse cough. She has asthma but this is different. This cough is not a breathing problem. It has been going on for four months day and night. She has had every test possible, no diagnosis. Her Ct scan shows her lungs are great. Could this be conversion hysteria. She is always stressed over bills.
+summarized question 9: What are the symptoms of conversion hysteria?
+##
+query 10: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 10: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 11: "SUBJECT: pseudogout MESSAGE: @ http://www.nlm.nih.gov/medlineplus/ency/article/000421.htm I see the statement ""There is no known way to prevent this disorder. However, treating other problems that may cause pseudogout may make the condition less severe"" which I would like to have explained, especially what those other problems are &how they may be treated. I'm especially interested in whether supplemental calcium may not be good to take."
+summarized question 11: What are the treatments for pseudogout?
+##
+query 12: SUBJECT: CRPS MESSAGE: In stage 3 can ones bones break/fracture? For example if nerve damage is in lower leg, can the bones in the foot over time fracture/break?
+summarized question 12: Can complex regional pain syndrome cause bone fractures?
+##
+query 13: SUBJECT: NIFEDIPINE MESSAGE: Hi, i have been taking nifedipine for about 5 years but only take it in the winter. I take it to treat my raynauds syndrome. During winter when i take the nifedipine i have regular nose bleeds that last up to 20 mins, i want to find out if this relates to the medication i am taking. Thanks for any help you can provide
+summarized question 13: Are nosebleeds a side effect of nifedipine?
+##
+query 14: SUBJECT: critical diabetic. looking for a implant MESSAGE: Hello, I am a type one diabetic. Ive recently heard about the pancreas implants. I just wanted to find out the process in which I would take to try an receive one.
+summarized question 14: What is the latest research on pancreas transplants for type one diabetes?
+##
+query 15: bone growth.  i want to grow my bones so please help throw which medicine will b use full please help me please
+summarized question 15: Which medicine will help to grow my bones?
+##
+query 16: SUBJECT: adenoma carcinom pancreatic MESSAGE: Patient 65 year,without any other disorder has now diagnose solid adenocarcinom with 4 hepar metastases.IS possible treatment wit oncolytic virus with Gemcitabine? Who and where make it?
+summarized question 16: What are the treatments for pancreatic adenocarcinoma?
+##
+query 17: I have MDS, I cannot hold on to copper? I'm on 10 mgs oral per day. I receive 8 mgs of IV  5 days per month with my Vidaiza chemo therapy. I have readings of 58 to 62 on average. I have had one 71 and one 81 normal. The doctors don't know why or who to contact? I would like Your input for where to get help?
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: sepsis.  Can sepsis be prevented. Can someone get this from a hospital?
+summarized question 1: What are the causes and prevention of sepsis?
+##
+query 2: SUBJECT: Ochoa syndrome MESSAGE: Where could I find more information about the rare disease, Ochoa syndrome. I think a sibling of mine might have it.
+summarized question 2: Where can I find information on ochoa syndrome?
+##
+query 3: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 3: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 4: "SUBJECT: IV Ringers lactate MESSAGE: I received ""slushy"" Ringers Lactate from our supplier due to the bitter cold in Wisconsin. If I allow these fluids to thaw at room temperature will I be able to use them for IV therapy."
+summarized question 4: Can  ringers lactate be used after freezing?
+##
+query 5: hello i am looking for information related to the above (myostatin-related muscular hypertrophy) genetic condition. can you direct me to a hospital or other genetic research institution that might be doing research on this genetic condition?
+summarized question 5: Where can I find information on myostatin-related muscular hypertrophy, and how can I find an organization doing research on it?
+##
+query 6: chromosome 3. chromosome 3 found in the bloods between the father and son,,,would this mean that my son,s blood is not the same as mine,,i was told it was all about learning problems,,,but i am woried that theres more involved,,can you send me a chart or some thing describeing ch 3 is all about and too what area of the body its being tested on espicaly a 9 year old child ,,thanks
+summarized question 6: What health conditions are associated with changes in chromosome 3?
+##
+query 7: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 7: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 8: SUBJECT: Shoulder,back and neck paim MESSAGE: My health care provider has done nothing for but give me shots and pain medication. What can you do to stop the pain? This has been going on 1 and half years.
+summarized question 8: What are the treatments of shoulder, back, and neck pain?
+##
+query 9: PAEDIATRIC AND GEATATIONAL NUTRITION.  I want detail information about pediatric and gestational nutrition.
+summarized question 9: Where can I find detailed information about pediatric and gestational nutrition?
+##
+query 10: SUBJECT: Laparoscopic Splenectomy MESSAGE: Dear Sir/Madam My brother [NAME] is diagnosed ITP. His doctor advises Laparoscopic Splenectomy for him. Can you please mail me detail and cost of this surgery. His Platletts count is decreased to 12 and his doctors giving him Injection Mebthera today to increase plattlets count. We are form [LOCATION], [LOCATION]. Please mail us as soon possible. Thanks & Best Regards [NAME]
+summarized question 10: Where can I find information on laparoscopic splenectomy, including cost?
+##
+query 11: SUBJECT: Find a Doctor, a specialist on this problem MESSAGE: who is a certified Opt. in or near the Nashville, TN area who does surgery for strabismus. please help me find a trusted doctor who performs this kind of surgery
+summarized question 11: How can I find physician(s) who specialize in strabismus surgery near Nashville TN?
+##
+query 12: ClinicalTrials.gov - Error Found - in a study. Dear all, I am [NAME] from Malaysia. My mother has suffered from MSA and it is be discovered on 2009year. I have a question. From this, it showed that this disease is not to be hereditary. I got a real life example is that my grandpa was suffered with this disease and he had passed away, follow by my uncle that had inheritated this disease. My mother also got the same disease with her father. And this disease is discovered and proven by [LOCATION]. Is that really not hereditary? If my mother suffered from this disease, what is my probability to i will get this disease? I now feel worry about my future. I scared i will got the disease from mother. Could you please reply my message? Looking forward for your precious answer. Thank you. Yours sincerely, [NAME]
+summarized question 12: Is MSA disease hereditary?
+##
+query 13: SUBJECT: Treatment for Nodular Goiter MESSAGE: Hi,  I'm suffering from nodular goiter. The size of enlarged thyroid gland is visible, but not like a big one. I need treatment for this. Some Doctors have suggested surgery which I don't want to go through. What are the other treatment options. Also let me know the place where I can visit to consult.  Thanks, [NAME]
+summarized question 13: What are the non-surgical treatments for nodular goiter and where can I find a specialist to treat it?
+##
+query 14: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 14: What are the latest treatments for Parkinsons disease?
+##
+query 15: SUBJECT: ctscan see through mesh from hernia repair ? MESSAGE: I have mesh that repaired a hernia on my lower abdomen. Now I need a ctscan. Will the ct scan see through the mesh ??????
+summarized question 15: Will surgical mesh show up or interfere in a CT scan?
+##
+query 16: SUBJECT: X-OUT WASH-IN TREATMENT- benzoyl peroxide gel MESSAGE: Can you please tell me if the product X-OUT WASH-IN TREATMENT- benzoyl peroxide gel would contain any animal, dairy, insect, seafood or human by-products? Also would it contain any honey? Thank you for your help in researching this information for me. Make it a great day! Best Regards, [NAME] [CONTACT]
+summarized question 16: What are the active and inactive ingredients of X-OUT WASH-IN TREATMENT- benzoyl peroxide gel?
+##
+query 17: Hi! Where in the world can I find a surgeon who will remove abdominal adhesions and mesh from a previous inguinal hernia repair? My husband is in terrible pain a lot of the time. I am a retired Registered Nurse and understand the procedures. Thank you for any help you can give me.
+summarized question 17:

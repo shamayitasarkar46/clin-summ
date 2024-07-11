@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 1: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 2: Duchenne Muscular Dystrophy. I am doing a research project on this genetic disease and I would like to know more about it from a professional.  I am researching the mode of inheritance, symptoms, treatments/ support groups, and relative cost to family.
+summarized question 2: Where can I find information about Duchenne Muscular Dystrophy, specifically mode of inheritance, symptoms, treatments/ support groups, and relative cost to family?
+##
+query 3: SUBJECT: know more about MESSAGE: My Daughter have Distal renal tubular acidosis. we are from Mexico, and we ae woundering if can send to us more infomation. maybe you can reccommend to us a association???? i don?t know
+summarized question 3: Where can I find information on distal renal tubular acidosis?
+##
+query 4: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 4: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 5: SUBJECT: Duchenne Muscular Dystropy MESSAGE: My stepson had DMD and passed away at the age of 20.  My step daughters are both carriers.  The oldest one had a healthy son, the youngest daughter had a son with DMD this month at the age of 17.  My question is about my other step son's daughters.  Is it possible our grand daughters are carriers and do they need to be tested.  We are worried about this.
+summarized question 5: What is the inheritance pattern for Duchenne Muscular Dystropy?
+##
+query 6: SUBJECT: man, 89, unable to urinate MESSAGE: My husband, 89, has been unable to urinate for 11 hours after his catheter was removed. Is it time to call the doctor?
+summarized question 6: When do you seek medical care for urinary retention after catheter removal?
+##
+query 7: SUBJECT: sacral nerve stimulation MESSAGE: How do I search for Instututions-doctors that perform sacral nerve stimulation procedures for fecal incontinence. I need the procedure, and I want to go to the place with the most experience.fecal incontinence
+summarized question 7: How can I find physician(s) or hospital(s) who specialize in sacral nerve stimulation for fecal incontinence?
+##
+query 8: Do you have any info on Korsocoff's syndrome brought on by long-term alcoholism and bad diet?  What about treatment options?
+summarized question 8: Where can I find information on korsakoff syndrome and what are the treatments?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Hello, my name is [NAME] , and I have Fibromyalgia terribly. My father has MS, and my mother's sister has been diagnosised with ALS. I was wondering if that would have any bearing on why my Fibromyalgia is hit me so hard. I have been experiencing s/s since as far back as 3rd grade that medical records can show and I'm 40 years old now. By the time I was 18 I was told I need psychiatric help because I was to young to complain like an 80 year old. Thanks [NAME]
+summarized question 9: Is fibromyalgia hereditary and related to multiple sclerosis and amyotrophic lateral sclerosis?
+##
+query 10: SUBJECT: does fluocinonide contain tea tree oil?  An allergist determined I am allergic. MESSAGE: Tea tree oil is identified on a product as fragrance and I  used this product yesterday and my fingers are broken out  significantly and I'd like to know if I am allergic to fluocinonide.
+summarized question 10: Does tea tree oil contain fluocinonide?
+##
+query 11: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 11: What is the effect of dexamethasone on cortisol levels?
+##
+query 12: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 12: Who should get the MMR vaccine?
+##
+query 13: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 13: What are the treatments for drop foot?
+##
+query 14: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 14: How is Huntington's disease transmitted?
+##
+query 15: my mom 75 old suffering from cryptococcal menimgtisneef an assisstance.  I am desperate looking for a strong medicine that can help mom she is suffering from cryptococcal meningitis she is 75 years  old
+summarized question 15: What are the treatments for cryptococcal meningitis?
+##
+query 16: I have exercise induced asthma. Would any of these non drug devises be suitable please?
+summarized question 16: What nondrug devices are suitable for treating exercise induced asthma?
+##
+query 17: I have ra in both knees, I want to get back to work and my normal life.
+summarized question 17:

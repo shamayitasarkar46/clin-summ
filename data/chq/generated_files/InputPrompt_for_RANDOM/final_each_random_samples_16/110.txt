@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Hypotension MESSAGE: I'm looking for books about hypotension/low blood pressure. Can you suggest any that I might be able to purchase?
+summarized question 1: Where can I find information on hypotension?
+##
+query 2: Thrush Article.  Maybe I over read the article, but I saw nothing about thrush being transferred from one Person to another. Weather it can happen or can't it should be told somewhere in the article. [NAME]
+summarized question 2: How is thrush transmitted?
+##
+query 3: I understand that you cannot provide opinions,nor suggest, any type of therpy.  My son (dob-[DATE]), was called back to the hospital four days after birth due to a abnormal PKU, which suggested adrenal hyperplasia. After test the endocrine physians felt he did not have the condition. Several years later he began having severe headaches preceded by violent vomiting epidodes  that lasted for hours. When he was admitted to [LOCATION],  he was suffering from bleeding esphogal ulcers,  and severe dehydration and, malnutrician. His urine (24 hr), blood plasma,& VMA,showed increased values of catacholomines.He also demostrated intermittent hypertension, and tachcardia through out the day (he had been diagnoised with ADHD several years earlier). His MIGB clearly showed bifocal uptake in both adrenal glands. The mri did not show tumors at that time ([DATE]. He has since been diagnoised with antral polys (biosphy's taken were misplaced, and the gastrologist would not redo the test), aberrant right subclavian artery,  esphogas pushed to the side, low oxygen intake, high levels of gastrin, cyclic vomiting syndrome, severe sinus attacks that come and go, without infection present.  His symptons that I have not already include heat intolerence, pallor, poor appetite with little weight gain, anxiety, tremor of hands, and stomach pain. After his mri, which I was told would take about 45mins, took over 5 hrs. Since then we have been having no luck with finding doctors that will take my son as a patient. Are you able to suggest a hospital that is knowlegable with pheochromocytomas? My son's father is mia, but during our 7 yrs together,  he also suffered severe headaches, and intermittent hypertension. He never followed up with a physian. Any help would be appreciated. I do not know what to do, and I do not want my son to end up a statistic.  Last night his BB was 180/115, with HR-50, half hour later his BP was 68/44 with HR of 122. I fear he is going to go in shoc
+summarized question 3: How can I find physician(s) or hospital(s) who specialize in pheochromocytomas?
+##
+query 4: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 4: What are the treatments for nocturia?
+##
+query 5: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 5: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 6: SUBJECT: Relationship between Angelman Syndrome and pancreatitis MESSAGE: Have any relationships been found between Angelman Syndrome and pancreatitis?  My son with AS had recurrent pancreatitis and finally passed away at 22 from pancreatitis.
+summarized question 6: Is there a connection between angelman syndome and pancreatitis?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I HAVE A BOY 16 WHO JUST GOT OUT OF A PLACE THAT GAVE HIM MEDACATION,THES ARE THE MEDS.MONTELUKAST,LORATADINE,OXCARBAPINE. WHAT DISORDER ARE THEY FOR?
+summarized question 7: What are the indications for montelukast, loratadine, and oxcarbazepine?
+##
+query 8: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 8: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 9: MESSAGE: Sir .my problem based on nerves ..my sister legs nerves tried  each other how i can treat
+summarized question 9: What are the treatments for leg nerves?
+##
+query 10: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 10: Is there a medication that can cause bleeding during sex?
+##
+query 11: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 11: What are the latest treatments for Parkinsons disease?
+##
+query 12: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 12: What are the treatments for hand tremors?
+##
+query 13: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 13: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 14: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 14: Is lincomycin still prescribed for human use?
+##
+query 15: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 15: What are the treatments for flatulance?
+##
+query 16: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 16: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 17: I am looking for information regarding post concussion syndrome and occipital/trigeminal neuralgia.  I had a couple of concussions when I was a child and now have both neuralgias.
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Administration MESSAGE: Is there a reason that the lovenox has to be given in the SQ of the abdomen? Why not other SQ sites?
+summarized question 1: Why is lovenox administered in the abdomen?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 2: What are the treatments for scalp psoriasis?
+##
+query 3: SUBJECT: SKIN CANCER?? MESSAGE: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER?? 1. WHAT EFFECT DO SKIN CREAMS WITH VIT C HAVE ON SKIN CANCER? 2.WHAT EFFECT DO SKIN CREAMS WITH ASPIRIN HAVE ON SKIN CANCER?
+summarized question 3: Are skin creams with vitamin C or aspirin a treatment for skin cancer?
+##
+query 4: SUBJECT: Blood Sugar Levels and Parkinson's MESSAGE: I'm wondering if there is a correlation between blood sugar level's and how it may effect the presentation of Parkinson's particularly in tremors. It seems that extreme blood sugar levels would make the tremors a great deal worse and appearing none typical.
+summarized question 4: Is there a connection between blood sugar levels and symptoms of Parkinson's disease?
+##
+query 5: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 5: Where can I find clinical trials for macular degeneration?
+##
+query 6: Genetic Test for IHHS heart condition. Is there a commercial genetic test for the IHHS heart condition?  My family suffers from this heridity condition and I would like to know who is susseptable.   If so, where could I get it done in [LOCATION] Texas?
+summarized question 6: Where can I get genetic testing for IHSS in Texas?
+##
+query 7: MESSAGE: Four years back my ankle had hit by the stone and there is small reddish pot from inside the ankle, due to which I can't walk properly and it pains and even gets swollen once I start walking. Is this pain temporary or life long or it will never get heel forever.  What type of pain is this? What treatment would you suggest me?
+summarized question 7: What are the causes and treatments for ankle swelling and pain?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I would like to know if there is a side affect from taking mestinone while tanning in a booth.  it seems if have a rash on back and burning on chest and stomach which has never happened before I started taking mestinon.   are we more sensitive to sun while on this medication?
+summarized question 8: What are the side effects of mestinon and tanning?
+##
+query 9: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 9: Where can I find information on SIDS?
+##
+query 10: SUBJECT: Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa MESSAGE: Hi, Im not sure if you can help, but my wife has Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa. I was hoping to find out some information if possible. Or to see if you could put me in touch with someone that mey be better suited to this. WE are wanting to start a family and want to know how Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa may effect the child or my wife during the proccess. She is currently taking levodopa  daily and would like to know if this in itself could have an effect on an unborn child. Not sure if ive come through to the right place or not, but just looking for some information or an indication of whom i may speak to,. I really look forward to hearing back from you, Regards,
+summarized question 10: What are the effects of dopa-responsive dystonia, retinitis pigmentosa and levodopa on pregnancy?
+##
+query 11: SUBJECT: oleander poisoning MESSAGE: If oleandor was ingested by touching the plant stems inner part and then directly eating without washing hands, how long would u exspect symptoms would start? And how severe would you say symptoms may get.
+summarized question 11: When do symptoms of oleander poisoning appear after ingesting the plant, and how severe can they get?
+##
+query 12: I know you probably get quite a few inquiries on this topic - but I am wondering if I might be a good (or not) candidate for the Flavinoid as nutrients to prevent strokes/heart attacks study. I appreciate any information you may have. Thank you, [NAME]
+summarized question 12: What are the eligibility criteria for the Flavonoid as nutrients to prevent strokes/heart attacks study?
+##
+query 13: SUBJECT: Kidney Failures MESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in
+summarized question 13: What are the stages of chronic kidney disease based on GFR results?
+##
+query 14: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 14: What are the inheritance patterns for pierre robins syndrome?
+##
+query 15: G6PD. I have been searching for detailed information of what someone with G6PD can and cannot eat or have in contact, but am getting conflicting information. Any help?
+summarized question 15: What foods should be avoided with G6PD deficiency?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hi, I have mixed diagnosis of autoimmune connective tissue disease and would like to submit information about this disease. I also need some serious rheumatologist recommended in Argentina or Latin America. From already thank you very much
+summarized question 16: How can I find  rheumatologist(s) who specialize in mixed connective tissue disease in Latin America?
+##
+query 17: Hi! I would like to know if I can have some  info mail to me on Sarcoidosis
+summarized question 17:

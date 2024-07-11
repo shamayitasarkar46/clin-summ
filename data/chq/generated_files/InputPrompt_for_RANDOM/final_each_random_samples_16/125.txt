@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I have to start applying ciclopirox to infected toes. I know u cannot use nail polish bit can I put a band aid on once the medication has dried?
+summarized question 1: Can i cover ciclopirox with bandaids?
+##
+query 2: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 2: What are the risks of knee surgery in an older person?
+##
+query 3: SUBJECT: what are the chemicals or meds in lidocaine? MESSAGE: what are the chemicals or meds in lidocaine?
+summarized question 3: What are the ingredients of lidocaine?
+##
+query 4: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 4: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 5: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 5: What is the life expectancy of someone with free trisomy 13?
+##
+query 6: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 6: How long will an insecticide application last in the house?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Hi  i am  having a littel eye trouble  like  a glare  or blurr vision and  i am a typed 2 diabitic  since 2010 this promble been going own now four - six monthes now and i have low pressure in my right  eye and cloudy and blurr a  lil. I need  to know what my  problem is and can it  fix  and without going  blinding ..Reply back. .To  [CONTACT]  voice mail  or email text are accepted or [CONTACT]
+summarized question 7: Can type 2 diabetes cause blurry vision, and what are the treatments for it?
+##
+query 8: SUBJECT: Treatment for Nodular Goiter MESSAGE: Hi,  I'm suffering from nodular goiter. The size of enlarged thyroid gland is visible, but not like a big one. I need treatment for this. Some Doctors have suggested surgery which I don't want to go through. What are the other treatment options. Also let me know the place where I can visit to consult.  Thanks, [NAME]
+summarized question 8: What are the non-surgical treatments for nodular goiter and where can I find a specialist to treat it?
+##
+query 9: SUBJECT: Letrozole MESSAGE: Can u please advise me what year Letrozole  was first used in the market. As I was not given this tablet after Breast surgery in 2007 and my tumour grew again. I had gone through the Menopause in 1990 so was not offered Tamoxin.
+summarized question 9: When was Letrozole approved for use?
+##
+query 10: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 10: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 11: SUBJECT: Need information abouot Folgard OS MESSAGE: Need information about Folgard OS. I am in U.S.A. but that wasn't listed as a choice of countries!
+summarized question 11: Where can I find information on folgard OS in USA?
+##
+query 12: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 12: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 13: SUBJECT: Bone-Joint degeneration in the hand or fingers? MESSAGE: I notice that the joints or bones in my  hands hurt sharply when working, cooking and lately I have been dropping things from my left hand; even a sudden twist send shock thru my body-What is this?
+summarized question 13: What causes hand pain?
+##
+query 14: ClinicalTrials.gov - Question - general information. my name is [NAME] from [LOCATION],my 10year old boy has duchenne muscular dystrophy  patient. my question is what is exon skipping & it can help for dmd  patient ?
+summarized question 14: What is exon skipping, and is it an effective treatment for  duchenne muscular dystrophy?
+##
+query 15: SUBJECT: Asking about Hairy cell leukemia MESSAGE: I get report for my father from hospital it is saying that he have Hairy cell leukemia i am here to ask if this dissease dangerous and there is treatment for it  Also if The one who have it will live for long or not ?  My father age is 55  We discover the dissease by blood test
+summarized question 15: Where can I find information on hairy cell leukemia, including treatment and prognosis?
+##
+query 16: "SUBJECT: Questions (see in comment box) on ""Vistaril"" MESSAGE: I have a few Qs related to ""Vistaril"": 1. Is ""Vistaril"" a gluten-free product? 2. If not, is it because some of the raw materials in its ingredients that is gluten related? 3. If yes to Q1, is it a ""Certified"" gluten-free product and what kind of certification it has? 4. For capsule form, does it contain any kind of starch? If it does, what starch is it? 5.  Can you email to me a list of the ingredients in this drug? Thank you very much!"
+summarized question 16: What are the ingredients of vistaril and is it gluten and starch free?
+##
+query 17: I have stiff person syndrome.  How do I find out what is new in treatment  in this study?
+summarized question 17:

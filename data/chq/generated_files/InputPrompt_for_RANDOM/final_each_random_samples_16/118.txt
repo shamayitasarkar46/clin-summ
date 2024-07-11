@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: cirrhosis of the liver question MESSAGE: I have cirrhosis of the liver.  Do high ammonia levels effect breathing?  I have spells of not being able to breath very well. No pain.
+summarized question 1: Can high ammonia levels in the blood affect breathing?
+##
+query 2: SUBJECT: spg11 MESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,
+summarized question 2: What are the treatments and prognosis for spg11?
+##
+query 3: SUBJECT: Demand MESSAGE: I have read on your website about the perirenal abscess. My mother is in the situation stipulated here http://www.nlm.nih.gov/medlineplus/ency/article/001274.htm I would really appreciate a recommendation as to where she could treat (a doctor, a clinic, a hospital, etc.). The Dr/Drs who wrote the article is/are professional and i think they could give me a hand.
+summarized question 3: Where can I find information on perirenal abscess, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 4: herbs and nutritional supplements have been associated with kidney injury.  I need to know the list of  herbs and nutritional supplements have been associated with kidney injury
+summarized question 4: Are there herbs or supplements that can cause kidney problems?
+##
+query 5: Tailbone trauma - aftercare  I read the article, but what if the person hasn't falling or been bumped?  What could cause this?
+summarized question 5: What causes tailbone injury?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 6: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 7: SUBJECT: prob gum MESSAGE: My. Teeth gum blood comeing what medicine I use
+summarized question 7: What are treatments for bleeding gums?
+##
+query 8: chromosome 20 reattachment. Results of my amniocentesis states that a part of chromosome 20 broke then reattached itself to the same chromosome in a funny way.  They are unable to determine what gene if any has been affected.  Are you aware of any similar situations, and if so, what symptoms should I expect my baby to have?  Is there anyone else you suggest I contact for further information?
+summarized question 8: Where can I find information on disorders caused by chromosome 20 abnormalities?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Sir. I am [NAME] from  [LOCATION]. My father is 61 years older suffering with Pancreatic cancer and it's in 3/4 Rd stage. All doctors are help less for us as they told my father can't leave more then 4 months. . I want to take your suggestions and help for my father's Pancreatic cancer. I want to save my father's life . If any type of treatment is available then please help me. Please contact me on my below mobile no.  [CONTACT]
+summarized question 9: What are the treatments for stage 3/4 pancreatic cancer?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My sister have htlv-1 we are looking information or processing can help.   MI hermana es de Colombia ella tiene este virus de htlv-1 pero en Colombia no saben como tratar este virus ya que es muy raro y ella esta buscando un lugar donde puedan ayudar con su problema de salud ella esta dispuesta someterse a pruebas con las células madre adultas.
+summarized question 10: Where can I find information on htlv-1?
+##
+query 11: hi this is [NAME] i am doing an isearch paper and i would love to find out more about dystonia i have it for i think a year and i wanna know if it will ever go away and will i ever be able to play sports again? -- [NAME]
+summarized question 11: Where can I find information on dystonia, including prognosis?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Can you please tell me the results of any clinical trials investigating a correlation between Buproprion (Wellbutrin) and cancer?  Is there a greater incidence of cancer rates with patients who have taken Buproprion long term as opposed to a control group?
+summarized question 12: What are the side effects of bupropion, including an increased risk of cancer?
+##
+query 13: SUBJECT: blocked ear drum MESSAGE: got a head cold and now left ear drum has bean blocked for three weeks now.taking amoxicillin trihydrate three times a day also apo-mometasone spray once a day. its bean five days now on medication and not any better
+summarized question 13: How long does it take for antibiotics to clear up a blocked ear?
+##
+query 14: "SUBJECT: Vamousse head lice treatment labe claims MESSAGE: To the best of my knowledge, any head lice treatment that claims to ""Kill"" lice and/or eggs is considered by FDA to be a drug claim and therefore needs to contain an FDA-registered pediculicide (kills lice) or an FDA-approved ovicide (kills eggs).  Otherwise the product is considered to be misbranded and a ""new drug"" requiring appropriate testing.  The ""Vamousse"" head lice treatment claims ""Kills 100% lice and eggs"" and does not conform.  In addition, the claim ""kills 100%"" is in violation of FTC rulings which prohibit claiming ""100%"".  This company has also introduced a Head Lice Prevention product which is also in violation of FTC rulings (see FTC vs Lornamead).  I think that you should research these issues and publish your findings.  Thank you."
+summarized question 14: Does Vamoose head lice treatment conform to FDA and FTC labeling guidelines?
+##
+query 15: SUBJECT: I have a question about drinking wine MESSAGE: Hello, I would like to know if it would be ok if I drank some red wine. It would be no more than 1 glass or 2 glasses per week. thanks
+summarized question 15: What are the guidelines on wine consumption?
+##
+query 16: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 16: What causes fibroid tumors on the spine?
+##
+query 17: I need to find out about chromium, cyanide copper, acid copper, nickel, and lead build up in the human body, how it affects it,long term health, if it can be removed, Thank you.
+summarized question 17:

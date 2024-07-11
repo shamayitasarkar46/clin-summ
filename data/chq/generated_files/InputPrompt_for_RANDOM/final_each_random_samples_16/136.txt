@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 1: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 2: SUBJECT: HELLP risk MESSAGE: My sister had HELLP during her first pregancey and is viewed to to at high risk for it again. I was wondering what the risk of me having HELLP during my pregancey was
+summarized question 2: What are the causes of HELLP syndrome, and is there a genetic predisposition?
+##
+query 3: SUBJECT: dark spot MESSAGE: i had a black spot on my skin face which was formed due to pimple by ithcing on it. this was formed one year before and i dont use any creams for it or i have not contacted any doctors for it but now want to remove it as soon as possible, i am from hyderbad.what to do?
+summarized question 3: Where can I get help with a facial dark spot in Hyderabad?
+##
+query 4: SUBJECT: Múltiple Misscarriage MESSAGE: I had 4 misscarriage before I had my healthy daugther. I had another misscarriage a month ago. The Kareotipe for the fetus show genetic problems. Trisomy 8 and 15. Im 39 years old. Is the first time that I know the reason for the lost. I had the Kareotipe for me and my husband and there is no problem. The infertility Dr told me that I have progesterone problems Because I dont know the reason for the four misscarriage I am scared thinking the reason for all the lost babies is for genetic causes. I want another baby. What are the chances of having a baby with genetic problems?
+summarized question 4: After a miscarriage of a fetus with trisomy 8 and 15, what are the chances of a successful pregnancy?
+##
+query 5: PAEDIATRIC AND GEATATIONAL NUTRITION.  I want detail information about pediatric and gestational nutrition.
+summarized question 5: Where can I find detailed information about pediatric and gestational nutrition?
+##
+query 6: Metastatic malignant melanoma.  I've got skin cancer, and I want this treatment, but RBCs Btensl Is it possible that taking this medication
+summarized question 6: What are the treatments for metastatic malignant melanoma?
+##
+query 7: Melanoma.  The doctor wants my father to take interferon Alfa-2b They did the surgery it was on his feet  know they want him to take the biological therapy he is very scared I just want some more info please can u get me info ASAP thank u
+summarized question 7: Where can I find information about interferon alfa-2B therapy for melanoma?
+##
+query 8: "SUBJECT: Renal Amyloidosis - best treatment for my coustin MESSAGE: This is [NAME] living in [LOCATION] . My Cousin [NAME] biopsy report suggested that he is suffering from ""Renal Amyloidosis"". He has earlier history of some hereditary diseases. PFA the reports. Please go through these reports and let me know possible best treatment for his treatment."
+summarized question 8: What are the treatments for renal amyloidosis?
+##
+query 9: SUBJECT: Very high blood sugar! MESSAGE: I had two injections in my feet yesterday (5-22-14).  The physician said to watch my blood sugar carefully, as the injections could cause a rise in my blood count. I began having memory problems last evening after an MRI, and then this morning and at noon today (5-23-14), my count has been 427.  I have read my magazines about diabetes, pulled up several things on Medline Plus, and tried to get in touch with two of my doctors who might help.  Everyone is busy, and I totally understand.  I just need to know what, if anything, I can do to get my blood sugar down as fast as possible.  Thank you,  [NAME] [CONTACT]
+summarized question 9: What are the treatments for high blood sugar?
+##
+query 10: SUBJECT: Hematoma following basal cell carcinoma MESSAGE: Is this common after surgery.  What is the cause?
+summarized question 10: What causes hematoma after surgery?
+##
+query 11: MESSAGE: I have to start applying ciclopirox to infected toes. I know u cannot use nail polish bit can I put a band aid on once the medication has dried?
+summarized question 11: Can i cover ciclopirox with bandaids?
+##
+query 12: SUBJECT: Research assignment MESSAGE: Hi, I am a grade 12 student who is doing a research assignment on neurological disorders. Do you believe that there will ever be a bonafide cure for Multiple Sclerosis? If so, what kind of time frame would put on this cure?
+summarized question 12: Can multiple sclerosis be cured?
+##
+query 13: Phobia: fear of taxidermy.  Hello, I was wondering if there was a name for the fear of taxidermy? I often find myself having the symptoms this website describes when in the presence of something I fear deeply.
+summarized question 13: Where can I find information on fear of taxidermy?
+##
+query 14: types or kinds of sickle cell. Pls i want to know the possibility of two people who are AS getting a baby who will be AS! AA! OR  SS!. And what are the types of sickle cell. E.g. AS
+summarized question 14: What are the types of sickle cell anemia and how is it inherited?
+##
+query 15: SUBJECT: blind technology MESSAGE: Hello, I am a student doing a research project on blind technology. I am wondering if you have any contacts of people who have research information on this topic because I want to find out their opinions on certain technologies. Also, I would appreciate it if you could tell me ways to improve/cure blindness. For example, information on ' stem cell surgery', bionic eye', 'gene therapy to cure blindness' etc. Thankyou!
+summarized question 15: How can I find someone doing research on technologies for the blind, and what are the treatments for blindness?
+##
+query 16: SUBJECT: Duloxetine DR 20 mg casules. MESSAGE: I started taking Cymbalta about three months ago.  I recently developed curvature of the spine.  Could this curvature being caused by the Cymbalta?  My pharmacist wasn't sure and suggested I contact you.  Thanks!
+summarized question 16: Can Cymbalta cause curvature of the spine?
+##
+query 17: Hello, I receive ssi each month. I have chronic lymphedema unfortunately.  I was reading on website that liposuction has helped.
+summarized question 17:

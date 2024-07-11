@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: migraine. I want to know the treatment for FHM type of migrain . I had observed the all symptoms which are same as provided in information and additionally my father and my younger sister face the acidity problem too. they feel relief after vomiting so both of them do the same by drinking warm water containing salt.
+summarized question 1: What are the treatments for familial hemiplegic migraine?
+##
+query 2: SUBJECT: Friedreich's ataxia MESSAGE: I have been told I have Friedreich's ataxia.  I am looking for a treatment to reverse it. I has to do with the chromosome number 9 defective in both of my parents and possible damage to chromosome number 10.  Would you be able to tell me if number 9 is defective in me.
+summarized question 2: Where can I get genetic testing for friedreich's, and what are the treatments for it?
+##
+query 3: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome I am wondering how does downs sydrome affect the daily routine of kids with downs sydrome such as using the. Bathroom or brushing their teeth? I look forward to hearing from you thank you.
+summarized question 3: How does Downs syndrome affect activities of daily living?
+##
+query 4: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 4: What are the causes of and treatment for scrotal rash?
+##
+query 5: SUBJECT: Low Platelet Count MESSAGE: hello i am facing low platelet count in my blood ( PTI ) and am taking the therapy ( 1 Pill Prednisone 2mg Morning -  MyFortic 2 Pills Morning - 2 Pills Night )  i want to ask [NAME] MD, Professor of Medicine if removing the spleen will cause anything or if there any side effects when removing it.  and what is the cause of this ( PTI )  Been in this 4 months  and my platelet count are ( 70 000 - 140 000 - 65 000 - 90 000 ) didnt reach the normal count. is this therapy good and will it help?  i just need some answers please.  waiting to hear from you soon  sincerely, [NAME]
+summarized question 5: What are the causes and best treatments for low platelet counts?
+##
+query 6: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 6: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 7: Colon cancer cure seen on tv.  My father has colon cancer and said he saw a commercial on tv about a cure for colon cancer.  He cannot remember any details about it. I was wondering if you know anything about something like this.  Please let me know.  Thank you, [NAME]
+summarized question 7: What new treatments are available for colon cancer?
+##
+query 8: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 8: What are the prevention and  treatments for plantar fasciitis?
+##
+query 9: SUBJECT: Hematoma following basal cell carcinoma MESSAGE: Is this common after surgery.  What is the cause?
+summarized question 9: What causes hematoma after surgery?
+##
+query 10: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 10: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 11: SUBJECT: Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa MESSAGE: Hi, Im not sure if you can help, but my wife has Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa. I was hoping to find out some information if possible. Or to see if you could put me in touch with someone that mey be better suited to this. WE are wanting to start a family and want to know how Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa may effect the child or my wife during the proccess. She is currently taking levodopa  daily and would like to know if this in itself could have an effect on an unborn child. Not sure if ive come through to the right place or not, but just looking for some information or an indication of whom i may speak to,. I really look forward to hearing back from you, Regards,
+summarized question 11: What are the effects of dopa-responsive dystonia, retinitis pigmentosa and levodopa on pregnancy?
+##
+query 12: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 12: What are the symptoms of chlamydia?
+##
+query 13: SUBJECT: What cures Morgellons? MESSAGE: I have something crawling under my skin at night and in the morning. I am in need of a cure, please send me information about medicine to cure Morgellons.
+summarized question 13: What are the treatments for morgellons?
+##
+query 14: SUBJECT: Diltiazem BVF 120MG MESSAGE: I had a patient contact our office and states her pharmacy told her that TEZA was no longer going to be dispensing Diltiazem BVF 120MG. Is this fact?
+summarized question 14: Does TEZA manufacture  Diltiazem BVF 120MG?
+##
+query 15: Tests for Haemophilia. Hi, I was wondering if blood clotting assays are always positive if one has mild-moderate hemophilia and what the name is of the genetic tests for hemophilia? I have a history of internal spontaneous bleeding into the joints or with eating garlic or onions (in large amounts).I also hemmorhage after injuries (arm injury, head injury hemmorhage, and pregnancy birth hemmorhage--both times).  I've had to have blood transfusions and shots to control the bleeding but it's usually possible to control it. I believe I may have passed this on to my son as he was determined by a doctor to be a heavy bleeder at circumcision. While on the [LOCATION]t, I was asked by a [LOCATION] if anyone had done a work-up on me for hemophilia or any clotting disorder and I said not to my knowledge.  I asked if they were going to do it and she said to follow up with a primary doctor for it.  She also said it could be expensive. This is why I'm asking, if I go to a medical appointment as a private-pay patient, and want to have testing done, which tests would you recommend? [NAME]
+summarized question 15: How is hemophilia diagnosed, and are there genetic tests for it?
+##
+query 16: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 16: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 17: I am suffering from vitiligo patches (White spot) in my body. I am 57 years old. Kindly help me  to cure the disease  white spot due to this i am very depression.
+summarized question 17:

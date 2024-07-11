@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: tracheomalacia MESSAGE: My Tracheomalacia is so wide spread with 90% blockage surgery is not an option.  I wear o2 24/7 what is going to happen to me.  Will it get worse until I die please someone just be honest with me.
+summarized question 1: What is the prognosis for tracheomalacia?
+##
+query 2: SUBJECT: other uses for Phentermine MESSAGE: Hello, My name is [NAME]. I do not usually send comments or questions online. I am only doing this because I am trying to find an answer to a baffling situation I am experiencing. I started taking Phentermine about 3 years ago for weight loss. I lost weight successfully, but also found that the Phentermine substantially relieved my arthritis pain. Now my doctor has taken me off of the Phentermine. He will not prescribe it for pain relief as he does not believe there is any correlation between the Phentermine and relief of my arthritis pain. I have taken many pain relief medications over the years as my arthritis is acute. The Phentermine works the best. Is there any correlation between Phentermine and pain relief?  Sincerely, [NAME]
+summarized question 2: Can Phentermine be used for pain relief?
+##
+query 3: Breast cancer at 84.  My mother was just diagnost with breast cancer. She is 84 years old, her tumor started in the milk duct and is small in size, their is a mass as well in the same breast. He is scheduled for a lumpectomy to remove both. Because of age we would like suggestions on treatment options after surgery.
+summarized question 3: What are the treatment options after breast cancer surgery in elderly?
+##
+query 4: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 4: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 5: SUBJECT: Asthma MESSAGE: I have been treated for breast cancer and had chemotherapy and readiation.  I am on many drugs but since stopping treatment I have now presented as having asthma.  I take Letrozole. 2.5 to block any estrogen in my body as my tumor was estrogen positive. What type of drugs impact asthma symptoms?   Please advise
+summarized question 5: Where can I find information on drug-induced asthma?
+##
+query 6: SUBJECT: Liquid Nutrition without Vitamin K MESSAGE: My Mother (age 84) is often not hungry and would like to try one of those liquid meals, but was told by her doctor not to take anything with Vitamin K in it.  I have looked at the labels on all of those products and they all have vitamin K in them.  Any ideas of where to look?  Thanks so much.
+summarized question 6: What nutritional drinks do not contain vitamin K?
+##
+query 7: SUBJECT: I have a question about drinking wine MESSAGE: Hello, I would like to know if it would be ok if I drank some red wine. It would be no more than 1 glass or 2 glasses per week. thanks
+summarized question 7: What are the guidelines on wine consumption?
+##
+query 8: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 8: Are endometriosis and cysts possible complications of NF1?
+##
+query 9: SUBJECT: Operation for Pectus Excavatum MESSAGE: Dear Medical Doctors,  Good day!  We are a resident of [LOCATION] (previously affected with super typhoon Haiyan). We have noticed with our nephew who is 16 yrs old now that his breast is not normal the same with the other nephew that we have having the same age. As we start to consult our physician's in [LOCATION], they told us that it is just normal, however, we are worried because as we can it is a symptom of Pectus Excavatum. We want to know from you the details what to do if we want our nephew to undergo this kind of operation to correct the ribs in his breast (pectus excavatum)?  Hope to hear from you. Thank you very much.   [NAME]
+summarized question 9: Whare can I find information on surgery for Pectus Excavatum?
+##
+query 10: SUBJECT: scitica nerve pain treatment MESSAGE: I am from [LOCATION]. my cousin elder father suffering from sciatic nerve pain since long and his family members have already spent all their saving funds towards his treatment. At present they helpless and the patient is lying on bed. Nobody can help him to get recoup.
+summarized question 10: What are the treatments for sciatica?
+##
+query 11: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 11: What are the treatments for nocturia?
+##
+query 12: SUBJECT: insulin-dependent diabetes in children MESSAGE: Hi, What are the causes of insulin-dependent diabetes in children? I am searching for information on the causes of insulin-dependent diabetes in children. Please help.
+summarized question 12: What causes type 1 diabetes in children?
+##
+query 13: Respected sir Good day I saw PUBMED website sir . you are one of the best doctor in research of HIV vaccine sir .I am really happy to contact you sir . I am [NAME] . my age 27 old. I am from [LOCATION] .two years back i am  married . I got HIV - 1 infection from my  husband . I check with near our consultant doctor. I have Intial stage of HIV -1 .my Cell count is: CD4 -410 CD8 -1050 , CD3 1493 Is it possible to  prevent the HIV-1 infection completely??? how long it will take time for medicine sir ? my life seriously in trouble sir  . Me and my family members are totally depression . please give the future hope for the HIV treatment. we keep our hope on your entire team  researchers for HIV treatment. .
+summarized question 13: Is it possible to cure HIV-1 infection completely?
+##
+query 14: SUBJECT: assisted suicide MESSAGE: physician assisted suicide legal in any state?  what is someone is dying and they really want to die with dignity before the disease ravages their mind?
+summarized question 14: What states allow physician assisted suicide?
+##
+query 15: SUBJECT: bone marrow transplation MESSAGE: my blood tests showing very low number of  blood platelets (16,100). according to the further tests no cancerous cells, no tb, no dengu is found.  but the count is drastically decreasing.  now my doctors advised me for bone marrow transplant.  kindly help me with proper treatment.
+summarized question 15: What causes low platelet count, and what treatments are available?
+##
+query 16: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 16: Where can I get genetic testing for CPTII deficiency?
+##
+query 17: It is unfortunate to say that my father was affected by AML M1 and  we got  to know a month ago and his age is 52. Initially he  had a blast cells percentage of 76% and later after the first cycle blast cells dropped down to 4%. After two weeks of rest, he had undergone first consolidation out of three with High intensity Ara-C and today he was discharged after one week of treatment. My father's doctor said that there will be two more cycles with a gap of 28 days in between. As chemotherapy has side effects I would like to go for ayurvedic treatment as well in order to support my father's condition. I'm unable to understand whether to take further step and go for ayurveda as I'm not aware of any proved cases. Please suggest me whether to go for ayurveda and are there any such cases recorded to keep  the disease in complete remission.
+summarized question 17:

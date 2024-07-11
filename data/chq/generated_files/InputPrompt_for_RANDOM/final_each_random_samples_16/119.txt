@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My dear friend [NAME], 52 years, [LOCATION], recently had both legs amputated above knee. Is there any possibilities in making a miracle of giving her real legs  again?  I just had watched your television program and can't believe I had forgotten about a man I know having half of his jaw removed due to chewing tobacco looks amazing with barely a scar his jaw grew back and it just dawned on me his newline had transformed over the last year to looking very normal, that it was used on him. I have seen him a half dozen times. Wow ! [NAME] has been pretty much completely healed for awhile but has had some trouble with her left one. Phantom feelings are there. Please respond and thank you.  [CONTACT]
+summarized question 1: Is there a treatment to transplant or make amputated legs grow back?
+##
+query 2: SUBJECT: I have an irresistible fungal on my leg and i have treated it,but refuse to go.pls what should i do? From [NAME] [CONTACT] MESSAGE: I have an irresistible fungal on my leg which i have treated with different drug and cream,but refuse to go and it keep on spreading.pls what should i do? From [NAME]
+summarized question 2: What are the treatments for fungus on my leg that does not respond to OTC topical antifungals?
+##
+query 3: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 3: What are the treatments for kidney stones?
+##
+query 4: Hi All, I am from India and really worried. I have a 6 months old baby girl. I have read the article on Lactose intolerance. She is unable to digest any formula milk or any milk products. When she was a new born, I started giving her Lactogen (a formula milk) a little bit along with my milk. She was fine with it but after 3 weeks, I switched her to another formula milk named Nan Pro 0 which is for babies upto 1 year. She started drinking that along with my breast milk. After 2 weeks, she started getting Diarrhea and a severe one where she pooped at least 15 times in one day. Therefore, I consulted the doctor and the doctor immediately asked me to put her on breast milk only. I did try that but she was hungry and crying therefore, I gave her a little bit of formula milk aswell. She was file with all the medicines. However, once the medicine stooped, she again started getting diarrhea. This continued on and off. After a while, the doctor asked me to stop the formula milk and start giving her Zerolac (soy milk) along with breast feeding. I did that and everything smoothened. However, after 2 months, I asked my doctor if we can start giving her any type of milk apart from zerolac as I was concerned about her getting calcium in her body with having milk. The doctor asked me to give her formula milk (Nan Pro 0). I did that but just after half an hour, she suddenly started vomiting which continued till she had the milk in her stomach. Once that stopped, she started getting diarrhea which continued till 3 days. She was put back on Zerolac again and breast milk. As she is now 6 months old, I thought of giving Cerelac to her but again she did not digest it and went through the same problem again. I am unable to find the right doctor here in India where I live. Please help my daughter in this situation. Please let me know the contact detail may be an email address of any doctor with whom I can discuss my case. Please help us. Thanks for all your help. Regards, [cid:
+summarized question 4: Where can I get help for my 6 months old baby girl with Lactose intolerance in India?
+##
+query 5: SUBJECT: pregnancy MESSAGE: I just want to ask if have some ways or have a operation to be pregnant a woman like me had a tubal ligation before  7yrs. Ago..
+summarized question 5: Where can I find information on tubal ligation reversal?
+##
+query 6: Hey I was just wanting to know how I can try to receive stem cell treatment for spinal cord injury using the stem cells I have banked from my newborn baby's umbilical cord tissue? If u have any information please tell me, you'll be helping to save my life!
+summarized question 6: How to receive stem cell treatment for spinal cord injury?
+##
+query 7: SUBJECT: Low Platelet Count MESSAGE: hello i am facing low platelet count in my blood ( PTI ) and am taking the therapy ( 1 Pill Prednisone 2mg Morning -  MyFortic 2 Pills Morning - 2 Pills Night )  i want to ask [NAME] MD, Professor of Medicine if removing the spleen will cause anything or if there any side effects when removing it.  and what is the cause of this ( PTI )  Been in this 4 months  and my platelet count are ( 70 000 - 140 000 - 65 000 - 90 000 ) didnt reach the normal count. is this therapy good and will it help?  i just need some answers please.  waiting to hear from you soon  sincerely, [NAME]
+summarized question 7: What are the causes and best treatments for low platelet counts?
+##
+query 8: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 8: Who should get the MMR vaccine?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My daughter was recently diagnosed with a CTNNB1 mutation and there are only 4 published cases.   Can you tell me where I may be able to find more information
+summarized question 9: Where can I find information about CTNNB1 mutation?
+##
+query 10: I would like to get into a study for my case.  I am a 73 year old woman with type 1 diabetes since I was 7.  My A1C's run in the high range of 5 or low 6. I have suffered from chronic constipation all my life. I have been diagnosed with fibromyalgia, Now Lichen Plarvs, and chronic depression.  I am very active but suffer from chronic pain.  How can I get into a study from home.  I live in a remote area in central Washington.  Am I as hopeless as I sometimes feel?  Phone # [CONTACT]
+summarized question 10: Where can I find clinical trials for type 1 diabetes, chronic constipation, fibromyalgia, Lichen Pilaris, chronic depression, or chronic pain?
+##
+query 11: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 11: How long does amoxicillin retain its potency?
+##
+query 12: I am a type 1 diabetic and have been since I was nine months old.  I am now 34 and would love to talk to anyone interested in trials on the reversal vaccine that I have read articles about.  I currently live in [LOCATION].  I was not sure if any local Endo Doctors are running trials similar, or would be interested in working with a patient that has had t1d for as long as I have.  I am very active in my community with JDRF and would love nothing more than to be cured of this terrible disease.  Please contact me via email or my cell# [CONTACT], I welcome any information that can be provided.  Thank you, [NAME]
+summarized question 12: Where can I find information on clinical trials for type 1 diabetes reversal vaccines?
+##
+query 13: MESSAGE: My father has undergone braincancer operation and radiation Also.His left side hand and leg is very weak he cant hold a glass nor he cant walk .if he try to walk he falls down.pls suggest treatment for hand and his leg.we will d very gratefull for u.contact [CONTACT] from [LOCATION] u.
+summarized question 13: What are treatment options for recovery of limb use after a brain cancer operation?
+##
+query 14: SUBJECT: Does my circadian rhythm need adjusting? If so, how? MESSAGE: I had a saliva test last July, which showed my cortisol level at 9 @ 6:30am, 5.1 @ 11:30am, 4.2 @ 4:30pm, 3.3@ 9:30pm. I wake frequently during the night and my brain seems to engage in much thought, making it difficult to go back to sleep. I wake well before the 5:45 alarm and drag myself out of bed. I am exhausted all day and can fall asleep at day or evening events I have seen endocrinologists, in addition to my GYN and primary care dr., all of whom tell me all my blood tests are normal. I take 2 sport yoga classes and a Qi Gong class weekly. I was a young 65, but at 66, the lack of sleep has finally caught up with me and I feel much older than my 66 years. I feel lethargic and heavy-chested. I want my life back. I have never seen or read anything about how or where help can be found. Can you help?
+summarized question 14: Where can I find information on low cortisol levels, including symptoms, causes and treatments?
+##
+query 15: Prosthetic foot.  Which prosthetic foot is better for a lower amp. The echelon or kinttera foot ?
+summarized question 15: What prosthetic foot is better for lower amputation: echelon prosthetic foot or  kinterra prosthetic foot?
+##
+query 16: SUBJECT: Skin Rash (Petechiae?) MESSAGE: Yesterday I noticed a large cluster of pinprick red spots underneath my chin (not on my neck). Recently I have been self induced vomiting. I know that Petechiae can be caused by vomiting but would this cause it to be underneath the chin??
+summarized question 16: Can vomiting cause petechiae on the chin?
+##
+query 17: I have fish smell disorder and i need as much as i could help. Please
+summarized question 17:

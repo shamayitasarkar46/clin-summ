@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 1: What are the treatments for deafness caused by gentamicin?
+##
+query 2: SUBJECT: Platelet count and Infection MESSAGE: Hello,  My nephew is just 1 week old and from since his birth he is admitted in hospital due to less platelet count and some infection. As per the report the platelet counts are fluctuating. How much time it takes to increase the count to the normal (near 1,00,000 - 1,50,000) ?   2) And he is also affected by some infection and the count is 114 (as per the doctor's the count should be below 5). When will he come back to normal ?  3) Initially the platelet counts were 40k and then raised to 67k and suddenly came down to 20k.   Waiting for your feedback.  Thanks & Regards  [NAME]
+summarized question 2: How long does it take for Platelet count to return to normal after an Infection in a 1-week-old infant?
+##
+query 3: hearing loss due to Alports Disease. If hearing loss is due to Alports Disease, is the hearing loss the same degree of both ears?
+summarized question 3: Where can I find information on hearing loss and Alports disease?
+##
+query 4: SUBJECT: headache which can precede a stroke MESSAGE: Headaches are many and varied.  Could you describe the headache which precedes a stroke?
+summarized question 4: Could you describe the headache which precedes a stroke?
+##
+query 5: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 5: What are the symptoms of chlamydia?
+##
+query 6: SUBJECT: LATEST INFORMATION MESSAGE: WANT TO KNOW LATEST DEVELOPMENT IN LUNCE CANCER TREATMENT, MY FRIENDS WIFE AGE 45, NAME [NAME], [LOCATION] SUFFERING WITH THIS DISEASE,WILL BE TAKING FIRST DOSE OF ALMITA PEMETREXED ON THRUSDAY THAT IS AFTER FOUR DAYS. PL. ADD MY E-MAIL ID
+summarized question 6: What new treatments are available for lung cancer?
+##
+query 7: SUBJECT: Psoriasis for past 7-8 years MESSAGE: I had psoriasis on my scalp for nearly 10 years. Please give suggestions and medications.
+summarized question 7: What are the treatments for psoriasis?
+##
+query 8: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 8: What are the treatments for serratia marcescens infection?
+##
+query 9: SUBJECT: Growing Pain in Hip for over 15yrs MESSAGE: For as long as I can remember, I would get pain in my one hip, and surrounding area (at times) feels like it is a sleep...Though I Always would make sure it is not my underwear or pants pinching a nerve. My Doctor told me to just stretch my leg, as it is nothing more than growing pains, and will pass with time....But 15yrs+ I still have this strange feeling!! Is this something I should look into more?? And there are times, where the pain is just incredible!! Though I never take anything for it...I just drink a glass of milk thinking the Calcium can help my bones.Are there any suggestions?? I have no idea what to do, and do not want to look into this more if not needed, as I do not want to waste the Doctor's time & then think I am a wing nut!!
+summarized question 9: What are the treatments for hip pain?
+##
+query 10: "unknown mitochondrial mutation. hi my son [NAME]  is now almost 4 and was diagnosed with a mitochondrial mutation at about 10 months. we have no treatment other then some vitamins and carnitine and hes got really poor tone low energy pain and behavioral issues. He also has sleep  apnea and a history of tubes and now hearing imapairment which we are investigating. He has gerd and high piruvate levels and lactic acid levels almost every time they are drawn. His mutation has ""never been seen before"". Im wondering if you can help in any way. My twin sister has mito she was diagnosed through a muscle biopsy but not the same mutation as [NAME] i had a biopsy with a negative result as my insurance won't cover the genetic blood pannel i really need so for me its inconclusive, im wondering if you have ever heard of this mutation or are willing to look into it  Heres a little snipit of one of his diagnosis ""heteroplasmic mutation in the ATP6 gene, c8899A (L M), GERD, epsisodes of cyanosis and an abnormal 6-channel study suggesting apnea. He has lactate and pyruvate elevations in addition to a mtDNA mutation consistant with a mitochondrial disorder."" If you can help in any way we would be eternally greatful! thanks so much for taking the time to read this."
+summarized question 10: Where can I find inforrmation on mitrochondrial mutations, including diagnosis, symptoms and treatments?
+##
+query 11: SUBJECT: canadida of the esophagus MESSAGE: I cannot locate any information on this condition: causes, symptoms, treatment, etc. I have had it in the past and suspect that I have it again. I would like to research this condition, but internet search only comes up with cancer. I realize that my case is not addressed in your reply. I am simply seeking general information.
+summarized question 11: Where can I find information on candida of the esophagus, including causes, symptoms, and treatment?
+##
+query 12: Information please. Hi my name is [NAME] and im currently trying to write a book about a girl with ewings sarcoma, i need more information on ewings sarcoma and chemotherapy , radiation and surgical treatments. When i finish the book , i aim to have a portion of book sales to go towards cancer research as i lost my sister to cancer.By the way i am only 15, thanks heaps
+summarized question 12: Where can I find information on Ewing's sarcoma, including treatments?
+##
+query 13: Nevus Mucinosis.  I'm looking for any research, treatment, and/or outcome for a dermatologic disease called &quot;Nevus Mucinosis.&quot;  I also want to know any Medical Doctors or scientists who have experience with this disorder.
+summarized question 13: What are the treatments for Nevus Mucinosis and where can I find a specialist to treat it?
+##
+query 14: MESSAGE: I have been dealing with an autoimmune disease for almost 4 years now, I've been tested for many things and the doctors can't seem to find what excactly is wrong. It began with pain, swelling and stiffness in my feet and  toes.A lot of the pain is joint stiff n ess and my skin feels like its being burned. Over time it has moved into my knees also. I am always tired. Recently I've been getting pains in my stomache and feeling sick. Does any of this sound like Lupus?? I've tested negative for it before, but the more I read about it I feel that's what i could have. Any ideas would be greatly appreciated.
+summarized question 14: What are the symptoms of lupus?
+##
+query 15: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 15: Where can I find clinical trials for macular degeneration?
+##
+query 16: SUBJECT: PSEUDOMONA AERUGINOSA - DIABETES MESSAGE: Hello. My name is [NAME], I have a daughter of 11 years with type 1 diabetes and I have a query. The bacteria Pseudomonas aeruginosa has been detected in the water tank of my building. I found that I have to take extra care with diabetics. Could advise me about that ?? Thank you.   [NAME]
+summarized question 16: Are there special precautions for diabetes and pseudomonas aeruginosa?
+##
+query 17: I'm 53 years old. I have got  meniscus tear after a twist. My MRI reports  that I  have got: 1. Bucket handle tear involving entire length of lateral meniscus which otherwise appears to have discoid configuration. 2. complex tear involving posterior horn and posterior root of medial meniscus,  along with formation of few small parameniscal cysts. I am doing all activities without any problem. I have no swelling . I get pain at times for 2 or 3 min.  Sometimes even after 4 or 5 days or after a week. sometimes 2 or 3 days consecutively.  In June, I twisted my right knee.  During this period I was even without pain for 10 days or 2 weeks. Kindly advise me . 
+summarized question 17:

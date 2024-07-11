@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: oleander poisoning MESSAGE: If oleandor was ingested by touching the plant stems inner part and then directly eating without washing hands, how long would u exspect symptoms would start? And how severe would you say symptoms may get.
+summarized question 1: When do symptoms of oleander poisoning appear after ingesting the plant, and how severe can they get?
+##
+query 2: SUBJECT: Shingles MESSAGE: I am recovering from shingles. I am on antiviral medication. This is my second week with shingles. I have not experience any draining with my sores which are currently on the right side of my face close to my right eyebrow. My question is this: My husband is having surgery tomorrow, Can I go to the hospital with my husband?
+summarized question 2: When is shingles contagious?
+##
+query 3: SUBJECT: safe cold medicine to take with Graves disease MESSAGE: I have a runny nose and headache and have Graves. What is a safe cold medicine to take over the counter?
+summarized question 3: What cold medicines are safe to take with Graves disease?
+##
+query 4: SUBJECT: esophygeal candida MESSAGE: I had a GI doc diagnose me with Candida in my esophygus.  he showed me pictures of my upper GI that had white splotches all over it (large areas of white).  I can find nothing online about this -- only thrush and vaginal candida.  Btw, I am male, not female.
+summarized question 4: Where can I get information about esophageal candidiasis?
+##
+query 5: SUBJECT: lack of adhesive while I swim MESSAGE: I weekly apply the clonidine transdermal patch. Medically it is effective. I swim 3 or 4 times a week for 30-45 minutes. Quite often the patch loses it's adhesive quality and falls off my skin. What can I do to help it stick on my arm? thanks
+summarized question 5: What can I do to keep the clonidine transdermal patch secure during swimming?
+##
+query 6: SUBJECT: 46,X,dir dup(X)(q13-q26) MESSAGE: Hi I am from [LOCATION], I am wondering if you can help with some information on my duplication, I have signed up to [LOCATION] here in [LOCATION] but only me, my mum and my sister and 1 other person have been found to have this genetic abnormaility. I have no idea about the other person but my sister was affected by it when she was born, when i was born we had no idea, My sister was born and tested me and my mum, showing my mum had the condition along with my sister. at that point it seemed i never had it. When i was 20 i went to my [PROFESSION] and they said my genetics department here in [LOCATION] wanted me to get retested, Found out that i do carry the same duplication. I have three younger brothers as well, two of the youngest with Autism, None of the boys have the duplication, but i am wondering if these are linked? I am wondering what Information do you have available regarding this duplication, I have fertility issues which i don't know of it is linked or not. My AMH level for my age at 26 is low at 4.6!! my sister has had two children a boy and a girl none do not have the duplication. She also has Stage Two Kidney diease and was born with a horse shoe Kidney they thinks its linked Please help! or is there anything you can advise for me in the UK to go get looked at further ? Love from [NAME]
+summarized question 6: Where can I get information on the genetic abnormality 46,X,dir dup(X)(q13-q26), and  and how can I find physician(s) in the UK who specialize in genetic abnormalities?
+##
+query 7: SUBJECT: congenital diaphragmatic hernia MESSAGE: I need to know if CDH can be passed down to future generations.  I just learned that this condition most likely caused the death of my first child back in 1971.  I was then told it was merely a fluke.  I had NO trauma during the full-term pregnancy, and I and my then husband were in very good health.  Now my son (from a different husband) and his wife are due to have fraternal twins in [DATE] 2015.  Does the term 'congenital' mean that it could be passed down to another generation?  I do not want to alarm my son and his wife.  I just would like to inform whatever pediatrician is caring for these babies as to my experience.  Unfortunately my son and I are estranged.  And I do not know who is their pediatrician.  My child's CDH was very severe.  I know there are far less severe cases that can go undetected &/or undiagnosed unless there is a reason to suspect such a condition.  Please respond to my concerns.
+summarized question 7: What causes congenital diaphragmatic hernia?
+##
+query 8: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 8: Where can I find information on leg swelling and treatments?
+##
+query 9: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 9: What is the difference between residual and recurrent maligancy?
+##
+query 10: SUBJECT: gabapentin MESSAGE: How long is Gabapentin good at room temperature? Thank you, [NAME]
+summarized question 10: For how long can Gabapentin be stored at room temperature?
+##
+query 11: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 11: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 12: If a 60 yo male patient has a level of cobalt or chromium  over the highest acceptable level, can that possibly create blood in urine? thank you
+summarized question 12: What are the causes of blood in the urine?
+##
+query 13: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 13: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 14: SUBJECT: Snhl MESSAGE: I am searching for sensorial hearing loss cure. My daughter is one and half months now. Please help me
+summarized question 14: What are the treatments for sensorineural hearing loss?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 15: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 16: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 16: What are treatments for excessive sweating?
+##
+query 17: My brother and I are twins. We both have XLCSNB and but I have 50% and my brother has 100%. We have an older brother with 15/20 in both eyes with no other complications. The disease came from our mom's side, and she has a sister and an aunt and uncle who also carried the gene. Our aunt has two kids who don't have the disease. If you could get back to me about latest research for XLCSNB that would be great.
+summarized question 17:

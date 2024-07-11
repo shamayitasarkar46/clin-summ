@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: McArdle's Disease.  Is there any evidence that trauma such as a physical injury i.e., neck injury, torn ligament, etc., can worsen McArdle's disease?
+summarized question 1: Does trauma worsen McArdle disease?
+##
+query 2: SUBJECT: Pneumococcal Polysaccharide - 23 MESSAGE: I received the Pnuemoccoal Polysaccharide 23 vaccine in 2009 at the age of 67 years. I was told I would never need the vaccine again. Is that still true or has the vaccine been updated? Should I get it again now at the age of 72?
+summarized question 2: What are the guidelines for updating pneumococcal polysaccharide 23 vaccine for persons 65 and over?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 3: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 4: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 4: Where can I find clinical trials for macular degeneration?
+##
+query 5: SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.
+summarized question 5: Does diabetes affect bowel movements?
+##
+query 6: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 6: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 7: factors two and five together. My brother is getting tested for factor five because his daughter was tested and said to have factors two and five.Two is said to come from her mother. My question is if my brother has factor should I and my five children and grandchildren be tested? Thank you. [NAME]
+summarized question 7: What is the inheritance pattern of Factor five?
+##
+query 8: SUBJECT: Gelatin MESSAGE: My daughter has a dairy allergy and I wanted to know about the gelatin used in your adderall xr capsules. Does it contain dairy proteins?  Thank you
+summarized question 8: What are the ingredients of adderall xr capsules, and is it dairy free?
+##
+query 9: Phobia: fear of taxidermy.  Hello, I was wondering if there was a name for the fear of taxidermy? I often find myself having the symptoms this website describes when in the presence of something I fear deeply.
+summarized question 9: Where can I find information on fear of taxidermy?
+##
+query 10: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 10: Where can I find information on pain relief for Hirayama's disease?
+##
+query 11: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome I am wondering how does downs sydrome affect the daily routine of kids with downs sydrome such as using the. Bathroom or brushing their teeth? I look forward to hearing from you thank you.
+summarized question 11: How does Downs syndrome affect activities of daily living?
+##
+query 12: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 12: What are the risks of smoking?
+##
+query 13: SUBJECT: I have an irresistible fungal on my leg and i have treated it,but refuse to go.pls what should i do? From [NAME] [CONTACT] MESSAGE: I have an irresistible fungal on my leg which i have treated with different drug and cream,but refuse to go and it keep on spreading.pls what should i do? From [NAME]
+summarized question 13: What are the treatments for fungus on my leg that does not respond to OTC topical antifungals?
+##
+query 14: SUBJECT: HELLP risk MESSAGE: My sister had HELLP during her first pregancey and is viewed to to at high risk for it again. I was wondering what the risk of me having HELLP during my pregancey was
+summarized question 14: What are the causes of HELLP syndrome, and is there a genetic predisposition?
+##
+query 15: My wife developed a very severe deep hoarse cough. She has asthma but this is different. This cough is not a breathing problem. It has been going on for four months day and night. She has had every test possible, no diagnosis. Her Ct scan shows her lungs are great. Could this be conversion hysteria. She is always stressed over bills.
+summarized question 15: What are the symptoms of conversion hysteria?
+##
+query 16: SUBJECT: Stroke mobility equipment MESSAGE: Husband has had 3 strokes since 1990.  He refuses to take anymore maintenance therapy.  It is becoming more challenging to help him be mobile.  There does not seem to be any source to assist me in learning what equipment, etc.  I could or should get to help him and to help me in my role as caregiver.  Any help you can give would be much appreciated!
+summarized question 16: Where can I find information on stroke resources, including mobility equipment and caregiver support groups?
+##
+query 17: Recently diagnosed with PBC and would like to see new readership or drugs  for this disease.
+summarized question 17:

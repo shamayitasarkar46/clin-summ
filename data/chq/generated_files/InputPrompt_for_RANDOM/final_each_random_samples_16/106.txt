@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: DIABITIC.  My sister is diabitic since age 8, now age 20. she is not coping well with it, i've been to the nutrition DR.s with her and we have since change our diet at home just for her, but it's still too havy on her. i want to help her, maybe if i can get her a couselor or support group that understands her situation/diabits.
+summarized question 1: Where can I find information on counselors or support groups for diabetes?
+##
+query 2: SUBJECT: Liquid Nutrition without Vitamin K MESSAGE: My Mother (age 84) is often not hungry and would like to try one of those liquid meals, but was told by her doctor not to take anything with Vitamin K in it.  I have looked at the labels on all of those products and they all have vitamin K in them.  Any ideas of where to look?  Thanks so much.
+summarized question 2: What nutritional drinks do not contain vitamin K?
+##
+query 3: solve the erectio problem.  sir, some time my penis erect and some time it does not work . So please help me . My contect nomber is [CONTACT]
+summarized question 3: What are the treatments for erectile dysfunction?
+##
+query 4: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 4: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 5: SUBJECT: babygirl vagina itching MESSAGE: My newborn is 9 weeks and I noticed when I went to clean inside her vagina there was a little bit of spotting. Should I be concerned?
+summarized question 5: What are the causes of and treatment for newborn vaginal itching and spotting?
+##
+query 6: MESSAGE: My father has undergone braincancer operation and radiation Also.His left side hand and leg is very weak he cant hold a glass nor he cant walk .if he try to walk he falls down.pls suggest treatment for hand and his leg.we will d very gratefull for u.contact [CONTACT] from [LOCATION] u.
+summarized question 6: What are treatment options for recovery of limb use after a brain cancer operation?
+##
+query 7: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 7: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 8: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 8: What are the treatments for pain after hemorrhoidectomy?
+##
+query 9: SUBJECT: family lineage with three types of genetic disorder MESSAGE: In our family line there are three children with different genetic disorders, i want to know if this is a congenital condition that could affect future offspring in this lineage.  One has downs syndrome, one had wolf herschhorn, and one has 46xy, 46xxy and 46xxxy; together referred to as Mosaic. they are all third cousins, there are many other children who will one day possibly have offspring is there a danger, should each have genetic testing
+summarized question 9: What are the inheritnce patterns of Downs Syndrome, Wolf Hirschhorn Syndrome, and 46xy, 46xxy, 46xxxy mosaicism?
+##
+query 10: SUBJECT: Childhood suffers of lead poisoning as adults MESSAGE: Hi.  My name is J[NAME]  When I was three years old, I suffered from mild/moderate lead paint poisoning.  I'm now 38 years old and looking for ways to treat the long-term symptoms that originated with the lead exposure.
+summarized question 10: What are the long-term effects of lead poisoning, and how can they be treated?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 11: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 12: Thrush Article.  Maybe I over read the article, but I saw nothing about thrush being transferred from one Person to another. Weather it can happen or can't it should be told somewhere in the article. [NAME]
+summarized question 12: How is thrush transmitted?
+##
+query 13: MESSAGE: Sometime during March I overdosed on Benadryl. I got all the symptoms but survived without medical treatment. I am just curious as to if any damage happened.  Like Neurological.
+summarized question 13: What is the prognosis for benadryl toxicity?
+##
+query 14: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 14: How long does the tetanus vaccine last?
+##
+query 15: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 15: How is post-polio syndrome diagnosed?
+##
+query 16: ClinicalTrials.gov - Question - general information.  where can I find someone or some place in Boston Massachusetts to get thahlidomide treatments for melanoma, skin cancer [NAME], [LOCATION]
+summarized question 16: How can I find physician(s) or hospital(s) in Boston who specialize in thalidomide treatments for melanoma?
+##
+query 17: I have Pulsatile Tinnitus for more than 12 years . I am a girl of 24 years and live in Pakistan. Doctors here, didn't recognize the problem. And now I have mild hearing loss and tinnitus also along with pulsatile tinnitus . it  interrupts my daily life and doesn't let me sleep at night time. Please sir help me , tell me how can I abolish my pulsatile tinnitus because I am now bothered and depressed so much
+summarized question 17:

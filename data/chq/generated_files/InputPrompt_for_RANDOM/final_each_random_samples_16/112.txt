@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: grievance counseling MESSAGE: My father passed away [DATE].  Hospice helped our family with his passing and offered us counseling which at that time our family didn't use.   My brother is now interested in counseling services and I'm wondering if I can get some information on this.   Thank you.
+summarized question 1: Where can I get information on grief counseling and support groups?
+##
+query 2: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 2: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 3: SUBJECT: methadone causing COPD MESSAGE: My daughter said there was a study done  and it concluded that methadone can cause COPD. Do you know if there is any truth to this and if so where can I get info on it. Thank you [NAME]
+summarized question 3: What are the side effects of methadone?
+##
+query 4: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 4: What are the symptoms of chlamydia?
+##
+query 5: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 5: What are the treatments for anosmia?
+##
+query 6: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 6: What are the treatments for nutcracker syndrome?
+##
+query 7: SUBJECT: antacid named tritralac MESSAGE: I have taken Tritralac for years now it has been taken off the market.  What antacid is the closest one to Tritralac?  I preferred Tritralac because it came in pill form.
+summarized question 7: What antacid is the closest one to Titralac?
+##
+query 8: SUBJECT: Letrozole MESSAGE: Can u please advise me what year Letrozole  was first used in the market. As I was not given this tablet after Breast surgery in 2007 and my tumour grew again. I had gone through the Menopause in 1990 so was not offered Tamoxin.
+summarized question 8: When was Letrozole approved for use?
+##
+query 9: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 9: What are the treatments for lactose intolerance and can it be cured?
+##
+query 10: Stiff neck.  I have a stiff neck that will not go away.
+summarized question 10: What are the treatments for stiff neck?
+##
+query 11: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 11: How long does swelling from sleep apnea take to heal?
+##
+query 12: MESSAGE: wHEN ENGULFING FOOD,A SEVERE PAIN AS FOOD PASSES UPPER PART OF STOMACH. I FEEL PAIN FOR A MOMENT THAN IT BECOMES NORMAL.as such i am afraid of eating food
+summarized question 12: What are the causes of digestive pain?
+##
+query 13: MESSAGE: I have undergone Total Hip Replacement of both my hip jonts in 1977 (Charnley Process ) My left joint is completely worn out.How safe and effective is revision surgery..can I get a cementless joint..I am 66 years old..An early repy to my query will be very much appreciated.
+summarized question 13: Where can I find information on hip revision surgery, including risks and prognosis?
+##
+query 14: SUBJECT: Levothyroxin tab 0.05 MG MESSAGE: I am happy to note that all of your medications are gluten free.  The Levothyroxin tab 0.05 MG is gluten free, ***IS THERE ANY DAIRY (including lactose, casein) in the Levothyroxin Tab 0.05 MG? Thank you!
+summarized question 14: What are the ingredients of levothyroxin and is it dairy free?
+##
+query 15: SUBJECT: tracheomalacia MESSAGE: My Tracheomalacia is so wide spread with 90% blockage surgery is not an option.  I wear o2 24/7 what is going to happen to me.  Will it get worse until I die please someone just be honest with me.
+summarized question 15: What is the prognosis for tracheomalacia?
+##
+query 16: Cross Eye.  Need to fix my cross eyed
+summarized question 16: How to treat crossed eyes?
+##
+query 17: Good morning.  I have a question for a urologist or a surgeon.  This may be out there but I am not one to go with the flow.  Now I do not have prostate cancer but I like being ready for anything.  I will be having a blood test next week and then I will be seeing my doctor.  My PSA was up from the last few.  2015 - 0.4   2016 - 0.7 and 2017 - 2.2.  Now here is my question.   If I get prostate cancer and lets say that the tumor is in the right lobe can I just have the right lobe removed.  Nothing else.  Maybe the lymph node on that side but I do not want anything else removed  I do not want the bladder neck touch or the seminal vesicles or the other side of the prostate.  I know you must think this is crazy but I feel my sex life and my ejaculation is just as important to save as getting rid of the cancer.  I have been reading to many articles that say they take every because you may get cancer there.  So you are going to take out good tissue just because you may get it again.  I don't believe in that.  My urologist call me his challenge.  I do not give up total control.  Thank you for your time.  I hope you have a great day.   
+summarized question 17:

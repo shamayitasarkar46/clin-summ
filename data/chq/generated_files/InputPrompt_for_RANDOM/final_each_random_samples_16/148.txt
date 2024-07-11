@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Painful menstrual periods MESSAGE: My wife has suffered this . How can treat this.
+summarized question 1: What are the treatments for painful menstrual periods?
+##
+query 2: SUBJECT: Sensorineural hearing loss (SNHL) MESSAGE: Hi, my father has lost his hearing in one ear, and ever since he has been suffering with constant buzzing in his ear. Is there treatments that can be recommended to solve this? Kind Regards [NAME]
+summarized question 2: What are treatments for ringing in the ears?
+##
+query 3: SUBJECT: WHAT TABLETS CAN I TAKE ??? MESSAGE: I WAS A BINGE DRINKER FOR YEARS & HAVE TROUBLE WALKING & I AM ON THIAMIN 100mg  & STRONG VITAMIN B Compound & SENNA  SO WHAT ELSE CAN I TAKE ???
+summarized question 3: What are natural remedies for difficulty walking?
+##
+query 4: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 4: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 5: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 5: Can I take Metformin pills given to me by someone else?
+##
+query 6: I have exercise induced asthma. Would any of these non drug devises be suitable please?
+summarized question 6: What nondrug devices are suitable for treating exercise induced asthma?
+##
+query 7: SUBJECT: ingredients MESSAGE: I would like to know if zolmitriptan tablets and zolmitriptan orally disintegrating tablets contain any wheat, rye or barley gluten. Thank you, [NAME]
+summarized question 7: Do zolmitriptan tablets or zolmitriptan orally disintegrating tablets contain any wheat, rye or barley gluten?
+##
+query 8: ectopic pregnancy.  Is there a chance that my daughter can have an ectopic pregnancy if my wife had it?
+summarized question 8: Does ectopic pregnancies run in families?
+##
+query 9: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 9: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 10: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 10: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 11: SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?
+summarized question 11: What is the prognosis for someone with homozygous MTHFR A1298C?
+##
+query 12: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 12: Where can I find information on leg swelling and treatments?
+##
+query 13: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 13: What are the treatments for drop foot?
+##
+query 14: "SUBJECT: How can I find out if removal of ovaries relieves symptoms of PCOS? MESSAGE: Is there some way that I can access actual research information to find out if removal of ovaries has been tried in a controlled, research setting, as a ""cure"" for PCOS?  In searching, I did not find research reference on that material.  (FYI - I used to be [PROFESSION].)  Thank you for your consideration!"
+summarized question 14: What is the latest research on ovary removal as a treatment for PCOS?
+##
+query 15: SUBJECT: treatment required MESSAGE: we need treatment for balance disorder. my father losses his balance while walking or climbing steps so please so please help us in curing the disorder.
+summarized question 15: What are the treatments for balance disorder?
+##
+query 16: SUBJECT: Plaquenil MESSAGE: I was recently diagnosed with lupus. A few months prior I had a terrible reaction to levofloxacin. My doctor wants to give me plaquenil. I am concerned as this is in the quinolone family. Should I be concerned? Is this a quinolone drug?
+summarized question 16: What are the contraindications for plaquenil?
+##
+query 17: Started doing the smoothies, i am allergic to chocolate, green tea today had to use chocolate but did not add i. What do i do. Allergic to all caffeine related items. Please respond.
+summarized question 17:

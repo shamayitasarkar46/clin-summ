@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Snhl MESSAGE: I am searching for sensorial hearing loss cure. My daughter is one and half months now. Please help me
+summarized question 1: What are the treatments for sensorineural hearing loss?
+##
+query 2: are jumping genes[transposons] associated with lynch syndrome? [NAME]
+summarized question 2: Are jumping genes [transposons] associated with Lynch syndrome?
+##
+query 3: SUBJECT: Muscle function loss of Left Arm MESSAGE: Dear Doctor,  I am [NAME] from [LOCATION] ,first of all thank you very much for this article and its a great service.I am writing this email for my loving father ,He lost his left arm muscle because of nerve damage but he can access his finger .he cannot lift his hand without help of right hand.we already get consults from many doctors but there is no result found ,We are from village and poor family background ,i don't have much money to give good treatment for my father .so i request you please recommend a proper treatment for my father .this is my kind request to save my father . for more details required please feel free to contact me  my Email:-[CONTACT] My contact number :-[CONTACT]  With lot s of expectations,  [NAME]
+summarized question 3: What are the treatments for nerve damage in the arm?
+##
+query 4: I have an hernia I would love to take care off it ASAP I was wondering if you guys could help me . Thanks
+summarized question 4: What are the treatments for hernia?
+##
+query 5: SUBJECT: MS MESSAGE: Hi, my name is [NAME] my brother has MS Im searching for something that can help him. I love my brother and its so upsetting to see him slowing down Can you please let me know if there is something that can help. Many Thanks!
+summarized question 5: What are the treatments for MS?
+##
+query 6: SUBJECT: male with breast MESSAGE: I am a 51 year old male and I have enlarged breast. My mother told me that I have bird chest. I know that I don't have bird chest. My size is a 36 B. I have to wear oversized shirts. I would like to have them removed, but I don't have the money. I was abused because of my breast.  thank you for your time.
+summarized question 6: what are the treatments for gynecomastia?
+##
+query 7: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 7: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 8: SUBJECT: Demand MESSAGE: I have read on your website about the perirenal abscess. My mother is in the situation stipulated here http://www.nlm.nih.gov/medlineplus/ency/article/001274.htm I would really appreciate a recommendation as to where she could treat (a doctor, a clinic, a hospital, etc.). The Dr/Drs who wrote the article is/are professional and i think they could give me a hand.
+summarized question 8: Where can I find information on perirenal abscess, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 9: SUBJECT: Otic suspensions MESSAGE: Dear Sir/Madam, I am looking for list of approved products of Otic suspensions for human use.Kindly help me to get the details. Regards/[NAME]
+summarized question 9: Where can I get information on otic suspensions for human use?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am 48 years of age..i have had shingles  since i was just 7years..i have had them over 50 times  in my life  . I am also allergic to penicillin and valtrex..most antibiotics  and most pain pills  . I have now began having seizures for last year and half  . I have had testing  done. .waiting  on some results right now  . Any suggestions
+summarized question 10: What is the latest research on treatment for shingles?
+##
+query 11: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 11: How can I get non-drug treatment for depression and anxiety?
+##
+query 12: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 12: Is there a cure for hepatitis B?
+##
+query 13: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 13: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 14: ClinicalTrials.gov - Question - general information.  hello. my mane is [NAME], i am 34 years old . I have AIDS .well now everybody my co-workeds      knows my diagnose.what should i do ?how can i life ?Also store manager [LOCATION] told me ( i am jerk ,  idiot)
+summarized question 14: Where can I find support groups for people with HIV/AIDS?
+##
+query 15: SUBJECT: Hydrocortisone 1% cream MESSAGE:  I would like to know what type of GLYCERIN(animal or vegetal glycerin) is in the 1% Hydrocortisone Cream.  For religion purpose(our believes)we can not eat or use anything that has PORK in it. Thanks.
+summarized question 15: What are the ingredients of  1% Hydrocortisone Cream?
+##
+query 16: SUBJECT: New drug, want are side affect/and how does help you. MESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You
+summarized question 16: Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?
+##
+query 17: I m looking for do it cordon blood stem cells. For my autism son he is 6 years old..I m preagnet now 7 months..I want give a new babys cordon blood to my autism boy.please help me..
+summarized question 17:

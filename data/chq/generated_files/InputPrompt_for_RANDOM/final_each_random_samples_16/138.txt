@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 1: Are there any medicines for dry mouth?
+##
+query 2: SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.
+summarized question 2: What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?
+##
+query 3: Scleroderma (Systemic Sclerosis). i am 22yrs now and was 18th when i was detected with the disease in [DATE] 2010 after the conduction of Biopsy. there after i had taken PSS- Pulse for Systemic Sclerosis in which i was given Solumedrol for 9 months. and then after a gap of 6 months since the disease activity progressed i was given PSS again -Dexa for 3 months. along with this i am under medication with medicines as follows Depin, HCQS, Antoxid, Cyra, Omnacortil and Folitrax(weekly on saturdays and sundays). currently am under PSS which is done once in Every 6 months. but i am getting bad digital ulcers on my fingure tips on hands and legs both. i seriously need your help for this as to what else treatment can be done to it. please revert back soon
+summarized question 3: What new treatments are available for systemic sclerosis and scleroderma skin ulcers?
+##
+query 4: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 4: What is the prognosis and course of recovery after stroke?
+##
+query 5: sounding in my ear every time for along time.  my ear has been sounding for along time it started 20years ago at first time it started during swimming I go to doctors in [LOCATION], [LOCATION] and [LOCATION] but it's not become correct. I wish you to give me good advice please.
+summarized question 5: What are the treatments for ringing in the ear?
+##
+query 6: SUBJECT: Ingredients MESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse. Thank you!  [NAME]
+summarized question 6: What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?
+##
+query 7: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 7: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 8: SUBJECT: Please send me information on the treatement of hypertension and diabetes. MESSAGE:  What causes hypertension and diabetes?
+summarized question 8: What causes hypertension and diabetes and what are the treatments for them?
+##
+query 9: SUBJECT: insomnia MESSAGE: What can I give my [AGE] father to help him sleep? He said he will take whatever. He is not on any medication, not allergic to anything.  Fully ambilatory!
+summarized question 9: What are treatments for insomnia?
+##
+query 10: SUBJECT: blind technology MESSAGE: Hello, I am a student doing a research project on blind technology. I am wondering if you have any contacts of people who have research information on this topic because I want to find out their opinions on certain technologies. Also, I would appreciate it if you could tell me ways to improve/cure blindness. For example, information on ' stem cell surgery', bionic eye', 'gene therapy to cure blindness' etc. Thankyou!
+summarized question 10: How can I find someone doing research on technologies for the blind, and what are the treatments for blindness?
+##
+query 11: SUBJECT: esophygeal candida MESSAGE: I had a GI doc diagnose me with Candida in my esophygus.  he showed me pictures of my upper GI that had white splotches all over it (large areas of white).  I can find nothing online about this -- only thrush and vaginal candida.  Btw, I am male, not female.
+summarized question 11: Where can I get information about esophageal candidiasis?
+##
+query 12: ClinicalTrials.gov - Question - general information.  i am a two time peg/ interferon non responder, under medical care at [LOCATION] Medical center, had an eye issue, at same time i was almost viral free. I need in a clinical trial of on new Sofosbuvir treatment.
+summarized question 12: Where can I find information on clinical trials for sofosbuvir?
+##
+query 13: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 13: What are the inheritance patterns for senior loken syndrome?
+##
+query 14: SUBJECT: Is Balsalazide a steroid? MESSAGE: Is Balsalazide a steroid? I have been on it doe close to 2 years now, your information states 6-8 weeks.  Will this do any damage to my other organs?  Was on Asacol prier to Balsalazide 750mg each X9 per day.  Is this safe? I cannot seem to lose any weight no matter how much I try. I exercise 5-6 days a week for 30 minutes, watch what I eat.
+summarized question 14: Where can I find information on balsalazide, including dosage, side effects, and drug class?
+##
+query 15: SUBJECT: Peyronies Disease - Questions MESSAGE: Dear sir/Madam  my name is [NAME]. i am 16 years old and i live in [LOCATION]. i have a couple of questions about Peyronies Disease.  i have recently discovered about this ... STD (or should i call it a disease?) and i noticed that i also have a bent penis , but none of the following points , which are on the Peyronies Page , match my Penis (ofcourse besides the bend). so i was wondering. is it also possible to get a bent penis just from masturbation? because if that is so , then i may know where the problem lies with me (i may have to switch hands then :/ )  i hope you can answer my questions. hope to hear from you soon.  -[NAME]
+summarized question 15: What causes a bent penis?
+##
+query 16: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 16: Can magnesium be taken with orange juice?
+##
+query 17: where do i go to find information on familial dysautonomia. is there  an organization out there on the subject. all the websites ive gone to say dns error...
+summarized question 17:

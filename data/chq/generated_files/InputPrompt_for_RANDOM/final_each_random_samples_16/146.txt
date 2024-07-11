@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ectopic pregnancy.  Is there a chance that my daughter can have an ectopic pregnancy if my wife had it?
+summarized question 1: Does ectopic pregnancies run in families?
+##
+query 2: ClinicalTrials.gov - Suggestion.  I have ostonecrois I need a booklet on it who best doctor to help me I live [LOCATION] I need to see a doctor for necrosis thank you
+summarized question 2: How can I find physician(s) who specialize in osteonecrosis?
+##
+query 3: SUBJECT: Arthritis on elderly MESSAGE: Is there something available, in English or Spanish, about Phisiotherapy specific for ankle arthritis? Just to know something more. There is a case in my Family and it is being followed by both a phisician and a phisiotherapist. My e-mail is [CONTACT]. Thanks. [NAME].
+summarized question 3: Where can I find information on physical therapy for ankle arthritis?
+##
+query 4: SUBJECT: Low Red Blood Cell Count MESSAGE: If a patient's Red Blood Cell Count becomes low because of a 3-month medicine regimen, will the RBC normally increase back to normal when the intake of prescribed drug ceases? Thank you. [NAME]
+summarized question 4: Will a low red blood count return to normal after the responsible medication is stopped?
+##
+query 5: SUBJECT: Radiation Therapy MESSAGE: I have foot drop symptoms. I think radiation cause them last year. My left foot is numb tingling and inflaming. please help and call my cell phone for more comments :[CONTACT]
+summarized question 5: What are the symptoms of foot drop, and what are the treatments for it?
+##
+query 6: SUBJECT: Skin Itching MESSAGE: At night, I have very bad lower leg skin itching.  Is this being caused by any of my prescripions?
+summarized question 6: What prescription drugs cause itching skin on legs?
+##
+query 7: SUBJECT: Frontometaphyseal dysplasia MESSAGE: My son has Frontometaphyseal Dysplasia ehich is listed on your site. Do you have any information realgarding how to contact anyone else with this syndrome? Kind regarfs
+summarized question 7: Where can I find support groups for people with Frontometaphyseal dysplasia?
+##
+query 8: MESSAGE: I have clostridium and am testing pos for Lyme need info. [NAME]
+summarized question 8: Is there a connection between clostridium and Lyme disease?
+##
+query 9: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 9: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 10: SUBJECT: Louis Bar Syndrome MESSAGE: My brother died young from Louis Bar Syndrome. Of six pregnancies, four children either did not survive pregnancy or died very young. I would like to know is it possible that other children (like me) could have the syndrome symptoms to a lesser or greater degree:i.e., is there a continuum???
+summarized question 10: What are the symptoms of Louis Bar Syndrome?
+##
+query 11: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 11: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 12: MESSAGE: Greetings: Iam [NAME], from [LOCATION]. I would like to know some of the Medications to Treat Coronary Artery Blockage. I will be grateful if you could let me know. Best Regards, [NAME]. [LOCATION]. [DATE]
+summarized question 12: What are the drug treatments for coronary artery blockage?
+##
+query 13: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 13: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 14: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 14: How can I get non-drug treatment for depression and anxiety?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 15: What are the treatments for autoimmune nerve disorder?
+##
+query 16: SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.
+summarized question 16: What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?
+##
+query 17: I am trying to get some information.  I had eye surgery.  My surgical tech was clearly sick.  My hubby and i overheard her say she could not go home because they had no one to cover her.  When I was in the room alone with her and she was preparing for my surgery I clearly saw her clearing her throat coughing and touching her face covering her cough with the back of her hand.. I questioned her about the safety of her being there with a cold.. said dont worry thats why I have the mask on.. I put my trust in her went along with it.. 2 days later my nose was running profusely.. I called doctors office and they said dont worry its happens..that was a friday.. On monday I called the office and asked to be seen because my eye had started to swell..  it turns out i had developed an abscess  (endophtlamitis) now i am blind..  My understanding from reading your website the room was not sterile (air circulation) and the masks are not 100 percent germ proof..she was standing close to me handing the doctor tools i feel i was not safe with her coughing and touching them...I am looking for answers...thanks for all your help
+summarized question 17:

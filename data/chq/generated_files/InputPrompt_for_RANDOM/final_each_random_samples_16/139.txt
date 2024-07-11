@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 1: How do I stop taking oxycodone?
+##
+query 2: SUBJECT: CRPS MESSAGE: In stage 3 can ones bones break/fracture? For example if nerve damage is in lower leg, can the bones in the foot over time fracture/break?
+summarized question 2: Can complex regional pain syndrome cause bone fractures?
+##
+query 3: SUBJECT: glossopharyngeal neuralgia MESSAGE: how long would i take the medication. what is the success rate of surgery. can you tell me how much radiation method work and where is the treatment available in [LOCATION]
+summarized question 3: What are the treatments and their success rates for glossopharyngeal neuralgia?
+##
+query 4: SUBJECT: ? MESSAGE: Well the story is I had sex a couple of days after my period but I have been getting sore sides and sore stomach what does these signs mean
+summarized question 4: What causes abdominal pain after intercourse?
+##
+query 5: laser hair removal treatment.  I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!
+summarized question 5: Where can I find information on laser hair removal including long term consequences?
+##
+query 6: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 6: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 7: SUBJECT: severe unprovoked vulvodynia MESSAGE: Where can I purchase topical gabapentin cream?  Do I need a prescription?
+summarized question 7: Where can I purchase topical gabapentin cream and do I need a prescription?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: what can happen if you donot use your humifier or moisterizing equipment when  you have a thractoastamy tube? (forgive my spelling)
+summarized question 8: What are the adverse effects of not using a humidifier with a tracheostomy tube ?
+##
+query 9: SUBJECT: Chromosomes 6 MESSAGE: i had a son born with a very small part of chromosome 6 missing , caused several surgeries and then death . But I don't find any information , even similar to his . Is there anywhere else I can look for Any information on what would cause this piece to be missing
+summarized question 9: What could cause part of chromosome 6 missing?
+##
+query 10: SUBJECT: sacral nerve stimulation MESSAGE: How do I search for Instututions-doctors that perform sacral nerve stimulation procedures for fecal incontinence. I need the procedure, and I want to go to the place with the most experience.fecal incontinence
+summarized question 10: How can I find physician(s) or hospital(s) who specialize in sacral nerve stimulation for fecal incontinence?
+##
+query 11: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 11: Where can I find information on Wang syndrome, including support groups?
+##
+query 12: SUBJECT: beginning forgetfulness MESSAGE: Are there any suggestions for help or coping with beginning forgetfulness... age 84, healthy female. Looking for something to read about this problem and how to cope. Have not been diagnosed with any disease of the body or brain.
+summarized question 12: Where can I get information on forgetfulness, and what resources are available for combating it?
+##
+query 13: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 13: How long does amoxicillin retain its potency?
+##
+query 14: cinca sindrome. where the treatment of cinca sindrome.
+summarized question 14: What are the tratments for cinca syndrome?
+##
+query 15: hello medineplus, i am a student an i am suffering from muscular dystrophy...i just want to know that, is muscular dystrophy belongs to locomotor disability? thanks,  yours sincerely
+summarized question 15: What is a locomotor disability and is it related to muscular dystrophy?
+##
+query 16: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 16: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 17: Im looking for a Dna test for mental illness. 
+summarized question 17:

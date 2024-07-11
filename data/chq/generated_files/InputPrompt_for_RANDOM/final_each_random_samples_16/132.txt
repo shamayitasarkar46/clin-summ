@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: we are planning to develop to cure any kind of paralysis  and stroke research. MESSAGE: How you cure Parkinson  disease.
+summarized question 1: What are the treatments for parkinson disease?
+##
+query 2: "Good day doctor.... My name is [NAME] from Nigeria in West Africa. Please I'll appreciate so much if you will reach me urgently with any advice that can be valuable to a total cure of the diabetes that I came down with since the year 2008... at ""[CONTACT]"" . I'll be eagerly waiting for your response soonest, please.... Thanks for your anticipated corporation. [NAME]"
+summarized question 2: What are the treatments for diabetes and can it be reversed?
+##
+query 3: SUBJECT: HELLP risk MESSAGE: My sister had HELLP during her first pregancey and is viewed to to at high risk for it again. I was wondering what the risk of me having HELLP during my pregancey was
+summarized question 3: What are the causes of HELLP syndrome, and is there a genetic predisposition?
+##
+query 4: SUBJECT: Ingredients !! MESSAGE: Hi, Please help me to find ingredients for fluoxetine hcl liquid. I want to know is there any gelatin or animal product in there or not? Please send me any information or web link where i can find information. Thank you
+summarized question 4: What are the ingredients of liquid fluoxetine HCL?
+##
+query 5: Prenatal exams for leigh syndrome. I am looking for information about having prenatal exams anmnio or chorionic villus sampling for NARP and leigh syndrome. Thank you in advance
+summarized question 5: Where can I find information on prenatal genetic tests for NARP and leigh syndrome?
+##
+query 6: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 6: What are the treatments for nutcracker syndrome?
+##
+query 7: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 7: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 8: broken veins in legs.  is vein surgery for mostly cosmetic reasons recommended any dangers serious side effects
+summarized question 8: What are the complications of varicose vein surgery?
+##
+query 9: SUBJECT: Plaquenil MESSAGE: I was recently diagnosed with lupus. A few months prior I had a terrible reaction to levofloxacin. My doctor wants to give me plaquenil. I am concerned as this is in the quinolone family. Should I be concerned? Is this a quinolone drug?
+summarized question 9: What are the contraindications for plaquenil?
+##
+query 10: "SUBJECT: Shortness of breath in the mornings MESSAGE: My wife has been having shortness of breath in the mornings (mornings only).  She has, what I think, excessive heart rate as well.  Again, mornings only. Could this be anxiety attacks?  I don't think it would be a heart issue.  She certainly isn't overweight.  SHe is 5'2"" and 100-105 pounds.  if she is having anxiety attack... what is the best course of action?  She seems to feel better when she lies down and rests.....while either watching TV...or sleeps.  WHat is weird about it is ... it only happens in the mornings.  SHe has no history in her family for heart disease either.  WHat are your thoughts?"
+summarized question 10: What could cause shortness of breath in the mornings?
+##
+query 11: SUBJECT: downs syndrome daughter had a stroke MESSAGE: Where is there a rehab that can treat with physical therapy, from paralysis, with my 29 yr. old daughter with downs? We live in [LOCATION]. I would have to stay with her through out this ordeal, as she would not understand otherwise. We have run into this problem, but there has to be a rehab dedicated to people with disabilities. [NAME]
+summarized question 11: Where can I find facilities that offer physical therapy for special needs patients?
+##
+query 12: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 12: What are the treatments for drop foot?
+##
+query 13: SUBJECT: shingles MESSAGE: Hi I had shingles a while ago on my left forehead and above my eye, not long after it started again, this time under my left breast, extremely painful and am wondering can this start again ? ty [NAME]
+summarized question 13: Where can I find information on recurrent shingles?
+##
+query 14: SUBJECT: Letrozole MESSAGE: Is there information available from women who have or are using it? I'd like to know what their reactions to the drug are.  Thank you for your help.
+summarized question 14: What are the side effects of letrozole?
+##
+query 15: factors two and five together. My brother is getting tested for factor five because his daughter was tested and said to have factors two and five.Two is said to come from her mother. My question is if my brother has factor should I and my five children and grandchildren be tested? Thank you. [NAME]
+summarized question 15: What is the inheritance pattern of Factor five?
+##
+query 16: SUBJECT: Side affects of diuretic MESSAGE: I have been taking Mylan Indapamide (1.25 mg) for 3 days. Today (3rd day) I began experiencing blurred vision.  What should I do? Discontinue till I see my doctor?
+summarized question 16: Is blurred vision a side effect of Mylan Indapamide?
+##
+query 17: I would like to find out more on 22q12q13 duplication. My granddaughter has this. Screened during pregnancy. She seems to be developing okay. Speech is slow. But want to find out if there is more information. Do you know of any research?
+summarized question 17:

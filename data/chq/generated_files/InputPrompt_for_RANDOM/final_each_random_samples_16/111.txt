@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 1: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 2: SUBJECT: Growing Pain in Hip for over 15yrs MESSAGE: For as long as I can remember, I would get pain in my one hip, and surrounding area (at times) feels like it is a sleep...Though I Always would make sure it is not my underwear or pants pinching a nerve. My Doctor told me to just stretch my leg, as it is nothing more than growing pains, and will pass with time....But 15yrs+ I still have this strange feeling!! Is this something I should look into more?? And there are times, where the pain is just incredible!! Though I never take anything for it...I just drink a glass of milk thinking the Calcium can help my bones.Are there any suggestions?? I have no idea what to do, and do not want to look into this more if not needed, as I do not want to waste the Doctor's time & then think I am a wing nut!!
+summarized question 2: What are the treatments for hip pain?
+##
+query 3: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 3: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 4: SUBJECT: Diabetes Type 2 MESSAGE: I test before going to bed and the reading is 94 but when I test again in the morning, the reading is 165.  How can I lower it?  I eat dinner around 8PM and nothing until the next morning.
+summarized question 4: What affects glucose levels at night, and how can I lower it?
+##
+query 5: SUBJECT: MS MESSAGE: Hi, my name is [NAME] my brother has MS Im searching for something that can help him. I love my brother and its so upsetting to see him slowing down Can you please let me know if there is something that can help. Many Thanks!
+summarized question 5: What are the treatments for MS?
+##
+query 6: SUBJECT: Luque rod spinal fusion and reclast MESSAGE: My luque rod fusion was done in 1991 and I am going to have reclast infusion for osteoporosis [DATE]. Is there any info on anyone with existing spinal fusion having reclast? I am 36 years old with no broken bones.
+summarized question 6: Are Reclast infusions contraindicated for those with spinal fusion?
+##
+query 7: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 7: What clinical trials are available for hepatitis C?
+##
+query 8: SUBJECT: Central venous catheters - ports MESSAGE: Hello, I was wondering about the Central venous catheters - ports and how they work. My grandma takes dialysis treatments and hers blew a couple days ago. Both of her arms swelled immediately. They were asked to do another one,  but said it was ok. After another treatment today both arms turned purple. I want to know, if you can tell me, how dangerous is it if they are using the port and it is blown? Can she bleed out or throw blood clots?
+summarized question 8: What are the complication of central venous catheters?
+##
+query 9: genetic condition passed from mother. I am looking for the name of a genetic condition passed on from the mother. Female children are carriers, but only male children are symptomatic. It is often mistaken for a milk protein allergy, causes excessive spitting up and hiccups, and rounded teeth. Often male children do not make it to their 1st birthday. I have lost two boys, and am about to have a third, i desperately need to find the name of this condition. Please help, my childs life depends on it. My doctors say they do not know what to test for or how to proceed without a name.
+summarized question 9: What genetic condition causes excessive spitting up, hiccups, and rounded teeth?
+##
+query 10: MESSAGE: hi my name is [NAME] I'm currently working with [LOCATION] and I was wondering  I came across some of you healthy tip fliers for HIV/Aids treatment .at the moment we have a study  going on that helps HIV positive transgender women into HIV quality care .so it would be great to have some more information on HIV/Aids treatment
+summarized question 10: What are the treatments for HIV/AIDS?
+##
+query 11: SUBJECT: stage 5 kidney failure MESSAGE: father-in-law 84.now in hospice. is sweating normal?
+summarized question 11: Is sweating normal during stage five kidney failure?
+##
+query 12: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 12: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 13: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 13: How long does amoxicillin retain its potency?
+##
+query 14: SUBJECT: WHAT TABLETS CAN I TAKE ??? MESSAGE: I WAS A BINGE DRINKER FOR YEARS & HAVE TROUBLE WALKING & I AM ON THIAMIN 100mg  & STRONG VITAMIN B Compound & SENNA  SO WHAT ELSE CAN I TAKE ???
+summarized question 14: What are natural remedies for difficulty walking?
+##
+query 15: period.  i have so pain in period. so please suggest any best tablet for this problem.
+summarized question 15: What are the treatments for menstrual pain?
+##
+query 16: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 16: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 17: Good day; I would like to know who to contact for treatment of atopic eczema or if you know any clinic that can help me, I know someone who suffers from it and I would like to help her improve the disease. Thank you in advance Regards
+summarized question 17:

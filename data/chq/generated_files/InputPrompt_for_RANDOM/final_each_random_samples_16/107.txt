@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: PSEUDOMONA AERUGINOSA - DIABETES MESSAGE: Hello. My name is [NAME], I have a daughter of 11 years with type 1 diabetes and I have a query. The bacteria Pseudomonas aeruginosa has been detected in the water tank of my building. I found that I have to take extra care with diabetics. Could advise me about that ?? Thank you.   [NAME]
+summarized question 1: Are there special precautions for diabetes and pseudomonas aeruginosa?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Good day. I'm living with lupus. I just want to ask if I can take glutathione supplement? I already completed my chemotherapy last month (march) and free off steroid after two weeks. Thanks
+summarized question 2: I have lupus; can I take a glutathione supplement?
+##
+query 3: Have been on methadone for four years.  I am interested in the rapid withdrawl under anesthesia, but do not have a clue where I can find a doctor or hospital who does this.  I also would like to know the approximate cost and if or what insurance companies pay for this.
+summarized question 3: How can I find physician(s) or hospital(s) who specialize in rapid methadone withdrawal under anesthesia, and the cost and insurance benefits for the procedure?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I would like to know if there is a side affect from taking mestinone while tanning in a booth.  it seems if have a rash on back and burning on chest and stomach which has never happened before I started taking mestinon.   are we more sensitive to sun while on this medication?
+summarized question 4: What are the side effects of mestinon and tanning?
+##
+query 5: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 5: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 6: MESSAGE: I want more information on Hypertension and fibromyalgia, I seem to be getting only topics on diabetes and I do not have this.   I enjoy reading the current info.  thanks [NAME]
+summarized question 6: Where can I find information on hypertension and fibromyalgia?
+##
+query 7: My age is 56 years. And i am suffering from non-toxic goiter on left neck of size about 13cm from 5 years. My thyroid test of T3,T4,T5 are normal,FNAC test is normal and i am having no complications right now.  1) Please suggest should i go for operation of my thyroid gland.? 2) Is Radioiodine treatment better then surgery for me? Thanks  [NAME]
+summarized question 7: What is the best treatment for non-toxic goiter?
+##
+query 8: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 8: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 9: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 9: Where can I get genetic testing for CPTII deficiency?
+##
+query 10: SUBJECT: Progressive Supernuclear Palsy MESSAGE: What  is the best thing to do for my Dad who we r sure has psp!  Who r the best dr to treat this cease.  We believe my uncle had pep also   He recently passed away ,  I want to give my dad the best treatment available
+summarized question 10: What are the treatments for progressive supranuclear palsy and how can I find physician(s) who specialize in it?
+##
+query 11: "SUBJECT: Morgellon Disease MESSAGE: It appears as if I have had this horrible disease for many, many years and it is getting worst.  I am trying to find a physician or specialist in the South Carolina area who can treat me for this medical/mental disease.  It seems as if this disease has ""NO"" complete treatment and it is more least a disability!"
+summarized question 11: What are the treatments for Morgellon Disease, and how can I find physician(s) in South Carolina who specialize in it?
+##
+query 12: SUBJECT: tysabri in ALS MESSAGE: dear sir My wife is 54 years old being diagnosed with ALS for the last 2 years. Currently she can,t use hands or legs, can,t talk properly but still can swallow soft food and breath. I heard that this TYSABRI injection can be of great help in my wife,s case. Please advice as soon as possible
+summarized question 12: Is natalizumab an effective treatment for ALS?
+##
+query 13: my mom 75 old suffering from cryptococcal menimgtisneef an assisstance.  I am desperate looking for a strong medicine that can help mom she is suffering from cryptococcal meningitis she is 75 years  old
+summarized question 13: What are the treatments for cryptococcal meningitis?
+##
+query 14: SUBJECT: broken the shoulder. MESSAGE: how to provide the treatment of broken shoulder lock problem ?
+summarized question 14: What are the treatments for broken shoulder?
+##
+query 15: SUBJECT: Short Height Of My Daughter MESSAGE: My Daughter is 12 years old and her height is 105 cm and weight is 15 kg. I want to consult about her growth overall . can you suggest some medicine or anything else.
+summarized question 15: What are the treatments for delayed growth?
+##
+query 16: SUBJECT: Second Hand Smoking MESSAGE: Dear Sir/Madam I am interested about Second Hand Smoking and the dangers for children and hope you can help me with the questions I have.  If two smokers are smoking every day in the house only on Saturday evening and Sunday morning do not smoke in the house and there are children visiting that house on Sunday morning and staying the whole day, is there a danger of second hand smoking for the children? If yes, what is the danger?  Is there danger of second hand smoking for the children if they stay for the whole weekend in that house? If yes, what is the danger?  Is there a danger  and what for the children if a person smokes in the car?  Thank you very much in advance. Best wishes [NAME]
+summarized question 16: What are the dangers to children of secondhand smoke residue?
+##
+query 17: where on site does it tell how diabetes and neuropathy causes other things like neck and knee pain and other ailments
+summarized question 17:

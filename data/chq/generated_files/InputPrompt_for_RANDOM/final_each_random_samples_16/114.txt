@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 1: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 2: Customer Service Request. I am looking for a company/research facility that can do genetic testing on the UGT group of genes.  Does such a place exist?  How would I go about getting this type of testing done?
+summarized question 2: Where can I find information on genetic testing for UGT abnormalities?
+##
+query 3: SUBJECT: Home resources for AMD people MESSAGE: What specific resources are available for an elderly male living by himself at home?  My father in law is 85 years old, lives alone and has macular degeneration.  Looking for visual aids to assist him around the house.
+summarized question 3: What resources are available for elderly with age-related macular degeneration?
+##
+query 4: SUBJECT: antacid named tritralac MESSAGE: I have taken Tritralac for years now it has been taken off the market.  What antacid is the closest one to Tritralac?  I preferred Tritralac because it came in pill form.
+summarized question 4: What antacid is the closest one to Titralac?
+##
+query 5: "SUBJECT: peripheral neuropathy MESSAGE: I am not a diabetic but there is diabetes in my family. I have neuropathy in my feet and hands and it keeps me up at night. I have been on Gamapentin (300mg.)for years but find that it affects my balance (I am 90 years old)What else would you recommend that I take to help me sleep? I am a ""walker"" and a ""swimmer"" but my blood circulation has always been poor.  Thank you for your  suggestions!"
+summarized question 5: What, besides gabapentin, can help me sleep better with peripheral neuropathy in my hands and feet?
+##
+query 6: bile.  because reason vomit bile?
+summarized question 6: What causes vomiting bile?
+##
+query 7: SUBJECT: spinal cord stenosos MESSAGE: I have acute arthritic spinal stenosis. What treatment is recommended?
+summarized question 7: What are the treatments for spinal cord stenosis due to arthritis?
+##
+query 8: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 8: How long does amoxicillin retain its potency?
+##
+query 9: DNA. I know (or think I know) that random mutations can change human DNA. Can environment change DNA?
+summarized question 9: What are the effects of environmental factors on DNA?
+##
+query 10: SUBJECT: I suspect tick bite.it is itching with rashes MESSAGE: How can it be treate? It almost 6 months old desease
+summarized question 10: What are the treatments for tick bites?
+##
+query 11: SUBJECT: Hot Flashes for Male MESSAGE: I am a 79 year old male taking Eligard shots for prostate cancer.  I am having hot flashes from these shots.  Is it possible that Brisdelle would help me?
+summarized question 11: Will Brisdelle help hot flashes caused by prostate cancer therapy ?
+##
+query 12: SUBJECT: SPECIFY COMPONENTS MESSAGE: COENZYME Q10(100-mg). WHAT ARE THE COMPONENTS OF THIS MEDICINE? IS IT USEABLE FOR MUSLIMS?
+summarized question 12: What are the ingredients of coenzyme q10?
+##
+query 13: SUBJECT: menkes syndrome /kinky hair syndrome MESSAGE: My daughter has menkes syndrome and would like to know how to go about. Thx
+summarized question 13: Where can I get information and help for Menkes syndrome / kinky hair syndrome?
+##
+query 14: herbs and nutritional supplements have been associated with kidney injury.  I need to know the list of  herbs and nutritional supplements have been associated with kidney injury
+summarized question 14: Are there herbs or supplements that can cause kidney problems?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 15: What are the treatments and prognosis for a small GIST?
+##
+query 16: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 16: Can magnesium be taken with orange juice?
+##
+query 17: I had the colonoscopy, stool specimen test twice.  However I have had heavy diarrhea three or 4x a day. It often looks like a black mud slide. I need stronger anti diarrhea meds as I now take 6 to 8 a day now.  It is the only way I can control it. I am planning a trip. I want some really strong meds to keep this in control for my trip.  Thank you
+summarized question 17:

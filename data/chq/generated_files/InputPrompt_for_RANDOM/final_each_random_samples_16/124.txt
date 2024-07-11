@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Please i want to know the cure to Adenomyosis. I have been going through alot of pains during my menstruation. I want to see a specialist doctor to help me out. I am dying with pains.
+summarized question 1: What are treatments for adenomyosis, and how can I find physician(s) who specialize in it?
+##
+query 2: SUBJECT: ingredients in Kapvay MESSAGE: Is there any sufites   sulfates  sulfa  in Kapvay?  I am allergic.
+summarized question 2: What are the ingredients of Kapvay and is it free of sulfites, sulfates, and sulfa?
+##
+query 3: SUBJECT: Undesecnded testis MESSAGE: Hello Sir  I am a young man of age 27  I was born with a problem of descended testis  to this age  I have always experience one of them go down to the real position at times  and then run back to the abdomen  but of recent it stopped going down  Please Sir I will like to know what my situation is and is there a remedy for it ? Thanks an i wait for your reply
+summarized question 3: What are the treatments for undescended testicles?
+##
+query 4: SUBJECT: gabapentin MESSAGE: How long is Gabapentin good at room temperature? Thank you, [NAME]
+summarized question 4: For how long can Gabapentin be stored at room temperature?
+##
+query 5: SUBJECT: my HDL reports shows   29  .i  need your further suggession. MESSAGE: I am 43 years male man.my HDL reports shows   29  .i  need your further suggestion.I seems very low .what i have to do its optimise,please
+summarized question 5: What are the treatments for low HDL cholesterol?
+##
+query 6: types or kinds of sickle cell. Pls i want to know the possibility of two people who are AS getting a baby who will be AS! AA! OR  SS!. And what are the types of sickle cell. E.g. AS
+summarized question 6: What are the types of sickle cell anemia and how is it inherited?
+##
+query 7: SUBJECT: Bedlam MESSAGE: This pesticide was used to get rid of bed bugs where I live. It was sprayed in areas I had to sleep in, sleep sofa. I wasn't told about it and slept through 4 applications over a 10 week period. I have one lung and severe COPD. Should this have been used knowing about my respiratory issues>
+summarized question 7: What are the side effects of bedlam insecticide?
+##
+query 8: Physician.  I am looking for a type of physician that specializes in treating leg cramps in the elderly.  Specifically, possibly one that provides treatment for leg circulation issues.  What medical specialty is that called?
+summarized question 8: What type of physician treats poor circulation in the legs?
+##
+query 9: SUBJECT: nulytely MESSAGE: Hello can you tell me where do i order the nulytely who is the manufacture, what phone number can i call. thanks.
+summarized question 9: Who makes nulytely, and where can I buy it?
+##
+query 10: "Many women who are reading this are excited to give it a try. They think that their obese belly's from diabetes might go away, an answer to their horror to look in a mirror. You need to tell us the truth ,especially you Dr. Oz!! Some of us just know we cannot take this without better advise and our ""primary doctors"" have no interest in doing any discovery for their patients. I resent this whole thing, being singled out. I want to lose my belly too, what do I do?"
+summarized question 10: I want to lose my obese belly, what do I do?
+##
+query 11: SUBJECT: Eye muscle surgery as a result fo a TBI cycling accident MESSAGE: I had surgery on the muscles of two eyes as a result of a cycling accident in [LOCATION] in [DATE] 2012 resulted in hospitalized care for s Traumatic Brain Injury.  My eyes were given a year to heal but some double vision occurred and my vision was off center.  Recovery amazing but eyes were a problem (double vision),  Surgery 10 days ago (May) getting mixed opinions on when to go back to sports; cycling, lifting small weights.  Is it 2 week, 4 weeks or 8 weeks of doing nothing.
+summarized question 11: When can I resume exercising  after eye muscle surgery?
+##
+query 12: "SUBJECT: surgery for early Macular Degeneration MESSAGE: On your website, I clicked on driving with Macular Degeneration and on the PDF it says, ""there are surgical procedures that may help if they are done in the early stages"". Where can I find information about these procedures?"
+summarized question 12: What are the surgical options for early macular degeneration?
+##
+query 13: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 13: What are the treatments for deafness caused by gentamicin?
+##
+query 14: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 14: What are the treatments for flatulance?
+##
+query 15: Tri-Gem Neuralgia.  I had an episode with the tri gem 2 days after i was rear-ended.  It was incredible pain that lasted 10 days. In the months following i had 2 decompression surgeries. the 1st one didnt work, was pain free for about 90 days.  The second syrgery 6 months later left me with a numb face but no tri gemn pain. Could the tri gem have been brought on from the trauma to the head from the car accident? I had been diagosed prior to  the accident, but was not experiencing any symptoms for a long time.  Then the accident and  1 1 /2 days later im in a full blown episode. Please let me know what your thoughts are.
+summarized question 15: Can symptoms of trigeminal neuralgia be exacerbated by head trauma?
+##
+query 16: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 16: How can I find a doctor to perform tubal ligation?
+##
+query 17: I had the bladder sling surgery and the incontinence was cured for 1 week and then the leaking began again.  The Dr wanted to prescribe a pill to stop the leaking but I waited until I went back  for my one month check up, all the while leaking just as bad as I did before the surgery.  When she examined me she said the bladder had slipped out of the sling and we would have to do the surgery again this time she would suture it to the ligament behind the pelvic bone.   My question is this:  #1. why would it slip?  was she supposed to suture it before to prevent the slipping? what guarantees that it won't slip again?  I am very concerned about having to go under anesthesia again and certainly do not want to risk having to go yet a 3rd time to solve my stress incontinence issues. Thank you for ever help you can give with these answers.
+summarized question 17:

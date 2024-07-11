@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 1: How long does swelling from sleep apnea take to heal?
+##
+query 2: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 2: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 3: SUBJECT: sacral nerve stimulation MESSAGE: How do I search for Instututions-doctors that perform sacral nerve stimulation procedures for fecal incontinence. I need the procedure, and I want to go to the place with the most experience.fecal incontinence
+summarized question 3: How can I find physician(s) or hospital(s) who specialize in sacral nerve stimulation for fecal incontinence?
+##
+query 4: SUBJECT: my HDL reports shows   29  .i  need your further suggession. MESSAGE: I am 43 years male man.my HDL reports shows   29  .i  need your further suggestion.I seems very low .what i have to do its optimise,please
+summarized question 4: What are the treatments for low HDL cholesterol?
+##
+query 5: SUBJECT: Ochoa syndrome MESSAGE: Where could I find more information about the rare disease, Ochoa syndrome. I think a sibling of mine might have it.
+summarized question 5: Where can I find information on ochoa syndrome?
+##
+query 6: hi this is [NAME] i am doing an isearch paper and i would love to find out more about dystonia i have it for i think a year and i wanna know if it will ever go away and will i ever be able to play sports again? -- [NAME]
+summarized question 6: Where can I find information on dystonia, including prognosis?
+##
+query 7: ClinicalTrials.gov - Question - general information. my name is [NAME] from [LOCATION],my 10year old boy has duchenne muscular dystrophy  patient. my question is what is exon skipping & it can help for dmd  patient ?
+summarized question 7: What is exon skipping, and is it an effective treatment for  duchenne muscular dystrophy?
+##
+query 8: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 8: Where can I find information on russell-silver syndrome?
+##
+query 9: I would appreciate it if you can send me or email  me  some exercises for a person who is a stroke victim. I am unable to walk due to a  arthritic knee. otherwise I am flexable..  my home address is [CONTACT], My email is [CONTACT] (mailto:[CONTACT]) Thank you, [NAME]
+summarized question 9: What are good exercises for stroke recovery in people with knee arthritis?
+##
+query 10: "SUBJECT: meaning of label directions MESSAGE: asked if med label says ""take with food"", how much food is required and found no asnwer.  not supposed to eat at nite when med is to be taken.     no answer."
+summarized question 10: "What does ""take with food"" mean on medication labels?"
+##
+query 11: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 11: What are the treatments for arm and neck pain?
+##
+query 12: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 12: What options are available for scar repair?
+##
+query 13: SUBJECT: Rehabbing a finger that was splinted MESSAGE: I badlydislocated my finger 7 weeks ago.  I reset it myself as it happened late in the evening. I splinted it myself with a store-bought splint because of concern for a break as well as ligament damage.  I just went to see an orthopedic doctor for the first time today (yes, I'm kicking myself for not going earlier).  The X-ray showed that the finger is still offset somewhat, perhaps indicating that some of the ligaments were ruptured. (The bone was ok.  I guess we won't know if it was ever broken.)  Nonetheless, I have to see a surgeon for an opinion in a few days.  Meanwhile, there is still some swelling and the ring finger that was in the splint is out but stiff as a board.  I'm concerned and not sure what possibilities to expect.  I certainly know you won't know what the situation is or what the surgeon will say but I was curious (a) what possibilities I might expect and (b) how problematic it is that the finger is so stiff...should I expect to regain motion...can it be rehabbed?  I'm assuming so, and if so, how long does it take to regain motion from a finger that has been splinted for so long?
+summarized question 13: What are the treatments and prognosis for a dislocated finger not initially treated?
+##
+query 14: SUBJECT: faty leaver&high blood presure MESSAGE: Dear sir &mam my blood presur is 140/100 what can i do for normal blood presure..
+summarized question 14: What are the treatments for high blood pressure?
+##
+query 15: SUBJECT: affects from being molested MESSAGE: I was molested by my father when I was a child (over 45 years ago).  I've been working on recovery the past couple of years (the memories surfaced in 2010).  As part of my recovery, I'm exploring how being sodomized by my father may have damaged my rectum and surrounding areas.    What kinds of physical damage would have been done by a 22 year old male sodomizing a 5 year old boy?    I'm looking to see if that caused tears in the rectum that would have lead to having to have 9 surgeries as an adult to repair them.  I don't think they just happened.  thanks in advance.
+summarized question 15: Where can I find information on rectal damage caused by anal sex?
+##
+query 16: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 16: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 17: My son was recently diagnosed with Elephantiasis Nostras Verrucosa in his spine. it was resected successfully. Im seeking additional literature regarding these type of cases specifically.  My son is 19, and has been determined legally blind from the hydrocephalus that occurred. Are there any other incidences of this? please provide any relevant info, or links. I am a Mom looking for info!! Please help!!
+summarized question 17:

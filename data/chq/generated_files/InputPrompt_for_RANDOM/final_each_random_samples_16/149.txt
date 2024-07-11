@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Colon cancer cure seen on tv.  My father has colon cancer and said he saw a commercial on tv about a cure for colon cancer.  He cannot remember any details about it. I was wondering if you know anything about something like this.  Please let me know.  Thank you, [NAME]
+summarized question 1: What new treatments are available for colon cancer?
+##
+query 2: SUBJECT: Ingredients MESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse. Thank you!  [NAME]
+summarized question 2: What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Sir. I am [NAME] from  [LOCATION]. My father is 61 years older suffering with Pancreatic cancer and it's in 3/4 Rd stage. All doctors are help less for us as they told my father can't leave more then 4 months. . I want to take your suggestions and help for my father's Pancreatic cancer. I want to save my father's life . If any type of treatment is available then please help me. Please contact me on my below mobile no.  [CONTACT]
+summarized question 3: What are the treatments for stage 3/4 pancreatic cancer?
+##
+query 4: SUBJECT: Purpura MESSAGE: My brother has purpura disease since 2003. kindly gude us with the correct medicine and if you know any good doctor then please let us know.  Thank You
+summarized question 4: What are the treatments for purpura and how can I find physician(s) who specialize in it?
+##
+query 5: SUBJECT: permanent cure for Nystagmus MESSAGE: For me from birth shaking of eyes disorder is there & in family nobody is having this kind of issuse. Pls. Tell me if any curable option for this disease.
+summarized question 5: What are the treatments for nystagmus and can it be cured?
+##
+query 6: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 6: Are there any precautions for mixing or administering Fomepizole?
+##
+query 7: SUBJECT: duchenne. MESSAGE: My name is [NAME] from Morocco I am 27 years old. I have muscular dystrophy disease category duchenne. Are there any effective treatment for this disease
+summarized question 7: What are the treatments for duchenne muscular dystrophy?
+##
+query 8: "SUBJECT: BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium a MESSAGE: Hello, I want to purchase from you a remedy. I have Multiple Sclerosis, and there is much talk in the media about ""C. perfringens, Type B"" being a trigger for Multiple Sclerosis. Here is a link of the news http://www.bbc.com/news/health-25925658. I would like to purchase this product ""BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid"".  Or could you kindly recommend a remedy that will address this bacteria?  And email me how I should purchase and the total cost including the shipping so I can order it. I'm eager for your reply and thank you Kindly. Below are all my details: [NAME] [LOCATION] [CONTACT] [EMAIL]"
+summarized question 8: Where can I purchase BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid and how much does it cost?
+##
+query 9: "SUBJECT: bathing MESSAGE: Can I go in tub , pool or shower while wearing the lidocaine patch?  If not, can I take off the patch (2or 3), and put a new one on in a different area for the remainder of the 12 hr. ""on"" period"
+summarized question 9: Can the lidocaine patch get wet or be replaced after getting wet?
+##
+query 10: SUBJECT: human chimerism MESSAGE: My daughter, born 5 days ago, was curiously found to have c+ blood type.  Having ruled out most causes for this, we are left with a possible vanishing twin chimera and don't know where to turn for more information or research. At this point we don't even have confirmation of whether she is xx/xx or xx/xy, or concrete exclusion of microchimerism. Help? I can be reached by cellular at [CONTACT]. my husband and I are local to the [LOCATION], and both [PROFESSION]. Thank you!
+summarized question 10: Where can I find information on chimerism and twin absorption?
+##
+query 11: Testing. Where can someone be tested to determine a diagnosis of Adult Progressive Spinal Muscular Atrophy (Aran-Duchenne syndrome)?
+summarized question 11: How and where is Adult Progressive Spinal Muscular Atrophy diagnosed?
+##
+query 12: SUBJECT: Gluten Free Product? MESSAGE: HI, I was just wondering the source of the MALTODEXTRIN (UNII: 7CVR7L4A2D) in your product DEXTROAMPHETAMINE SULFATE- dextroamphetamine sulfate tablet NDC Code(s): 0555-0952-02, 0555-0953-02 . I was prescribed this medication and just wanted to make sure it was sourced from corn or something besides wheat because I am allergic to gluten!
+summarized question 12: What are the ingredients of dextroamphetamine sulfate and is it gluten free?
+##
+query 13: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 13: Is there a medication that can cause bleeding during sex?
+##
+query 14: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 14: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 15: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 15: What is the half life of Chlordiazepoxide?
+##
+query 16: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 16: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 17: My father had hip surgery. About one month he was detected an infection with Klebsiella pneumoniae. They started to give him intravenous ertanpenem. After almost a month, he is having episodes of seizures. He never had before. The doctors say that ertanpenem has nothing to do with it and they continue to provide it and at the same time they are giving him anti-seizure medication. I would like to know if it is correct or is at risk for his life. Thank you very much
+summarized question 17:

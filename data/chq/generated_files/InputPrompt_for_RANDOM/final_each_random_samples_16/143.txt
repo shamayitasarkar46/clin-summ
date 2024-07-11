@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Letrozole MESSAGE: Since taking Letrozole the last 4.6 months, I now have a 4 cm. csyst in front of my right ovary that must be removed.  Why am I prescribed a drug that is also prescribed for young women trying to conceive.  I am post menopausal and had early stage breast cancer in 2010.  Now, that I am ending my 5 year run with this drug, I have adverse affects with a cysts.  Is a cysts an egg that was not fertilized from the Follupian Tubes.  I cannot understand this logic of giving me this drug?
+summarized question 1: What are the uses and side effects of letrozole in postmenopausal women?
+##
+query 2: SUBJECT: Sensorineural hearing loss (SNHL) MESSAGE: Hi, my father has lost his hearing in one ear, and ever since he has been suffering with constant buzzing in his ear. Is there treatments that can be recommended to solve this? Kind Regards [NAME]
+summarized question 2: What are treatments for ringing in the ears?
+##
+query 3: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 3: What are the treatments for erectile dysfunction?
+##
+query 4: SUBJECT: Thyroid Cancer MESSAGE: thyroid cancer . please send all data regarding surgery, issues after the surgery possible outcomes to the surgery.
+summarized question 4: Where can I find information on surgery for thyroid cancer, including recovery and prognosis?
+##
+query 5: SUBJECT: scitica nerve pain treatment MESSAGE: I am from [LOCATION]. my cousin elder father suffering from sciatic nerve pain since long and his family members have already spent all their saving funds towards his treatment. At present they helpless and the patient is lying on bed. Nobody can help him to get recoup.
+summarized question 5: What are the treatments for sciatica?
+##
+query 6: I would like to get into a study for my case.  I am a 73 year old woman with type 1 diabetes since I was 7.  My A1C's run in the high range of 5 or low 6. I have suffered from chronic constipation all my life. I have been diagnosed with fibromyalgia, Now Lichen Plarvs, and chronic depression.  I am very active but suffer from chronic pain.  How can I get into a study from home.  I live in a remote area in central Washington.  Am I as hopeless as I sometimes feel?  Phone # [CONTACT]
+summarized question 6: Where can I find clinical trials for type 1 diabetes, chronic constipation, fibromyalgia, Lichen Pilaris, chronic depression, or chronic pain?
+##
+query 7: SUBJECT: Bleeding Gums MESSAGE: My brother has denture the lower denture hurts his gum and it makes it bleed and his gum is sore were he has a hard time to chew anything. He needs to know what can he do for it?
+summarized question 7: What are the treatments for bleeding gums under dentures?
+##
+query 8: Prothesis to assist Facioscapulohumeral muscular dystrophy. My 22 yr old grandson has Facioscapulohumeral muscular dystrophy. Has weak arm & hands curl inward. He has difficulty picking up a plate or opening doors. Some type of shoulder harness with support for arms could help. Something electrical like limbs for amputees. Is anything being considered in this area?
+summarized question 8: Are there assistive devices for Facioscapulohumeral muscular dystrophy?
+##
+query 9: SUBJECT: taking medications options MESSAGE: If my doctor gives prescription for Inderal 40 mg  twice a day,  pharmacist says take 80mg time release once day.  Is it appropriate to follow pharmacists directions rather than doctors prescription 40 mg twice a day.  Does 40 MG twice day equal constant 40 mg,  or does it build to 80 and maintain 80 mg?
+summarized question 9: Is Inderal 40 mg  twice a day equivalent to 80mg time release once a day?
+##
+query 10: "SUBJECT: pseudogout MESSAGE: @ http://www.nlm.nih.gov/medlineplus/ency/article/000421.htm I see the statement ""There is no known way to prevent this disorder. However, treating other problems that may cause pseudogout may make the condition less severe"" which I would like to have explained, especially what those other problems are &how they may be treated. I'm especially interested in whether supplemental calcium may not be good to take."
+summarized question 10: What are the treatments for pseudogout?
+##
+query 11: "SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: We are 4 generations of a family with similar traits in the males in each of those generations, My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder (at Yale) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed? Is there anyone out there looking at familial/longetudnal fragile X or other disorders that might be interested in our ""story""?"
+summarized question 11: Are there any researchers interested in testing a family with ADD and low IQ for fragile X?
+##
+query 12: dupuytren's contracture.  I'm looking for a NATURAL remedy for dupuytren's contracture. do you have any suggestions. Thank you. [NAME]
+summarized question 12: What are the natural treatments for dupuytren's contracture?
+##
+query 13: sounding in my ear every time for along time.  my ear has been sounding for along time it started 20years ago at first time it started during swimming I go to doctors in [LOCATION], [LOCATION] and [LOCATION] but it's not become correct. I wish you to give me good advice please.
+summarized question 13: What are the treatments for ringing in the ear?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Team, In 1996, I had an accident on my left eye when a ball smashed it. Retina fallen down, lens damaged. I hadn't been operated at that point only later, in 2003 when the pressure was very high (above 30 mp). This first operation had fixed the retina with endolaser, removed vitreous body filled with silicone oil, replaced the lens with an artificial one and stabilized the pressure to around 15-10 mp. However, the eye got blood, retina got detached and it had to be operated again. This time, the oil replaced with gas. After 2 years, another attempt made with oil and lastly with gas, but the retina fallen again and again. Currently, the retina is still detached, the pressure is low (max 4 mp), has often blood around the iris and it hurts a bit when the air pressure changes. I cannot see anything with it apart from blur lights. The doctor says, this damaged eye is shrinking continuously. My other eye functioning well. I learned to live together with it, however, the doctor says, he strongly recommends enucleation. I dont know if there is any other option to avoid enucleation. I have 2 young children so if there were any option to avoid enucleatio, I would happy travel/pay for that. Kindly let me know if there is any other option. My main priority -if available- would be to live with my own or another organic eye which doesn't look scary even if it is not functional. Second priority is to have usable organic eye- but my doctor told, this is not yet possible. Please confirm. I know you are specialized in Thank you in advance -- Best regards, [CONTACT] [NAME]
+summarized question 14: What are alternatives to enucleation?
+##
+query 15: SUBJECT: Homeostasis and hypothermia (mainly about hypothermia) MESSAGE: What is Homeostasis? Why is homeostasis so important? What technology do doctors use to cure hypothermia? What is the effectiveness of the technology? How is that technology effective to the economy and environmentally?
+summarized question 15: What is homeostasis and what are the treatments for hypothermia?
+##
+query 16: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 16: How can I get non-drug treatment for depression and anxiety?
+##
+query 17: Hi,  maybe you can point me.  My Uncle, born in 1908 was made permanently bald by xrays for a back condition.  He lost ALL his hair over his whole body.  It that possible?  I assume  he had back issues in his 20s.  Have you ever heard of a case like this.  He lived to be 96 years old, never married and always wore a hairpiece.
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Ingredients MESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse. Thank you!  [NAME]
+summarized question 1: What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?
+##
+query 2: SUBJECT: Letrozole MESSAGE: Since taking Letrozole the last 4.6 months, I now have a 4 cm. csyst in front of my right ovary that must be removed.  Why am I prescribed a drug that is also prescribed for young women trying to conceive.  I am post menopausal and had early stage breast cancer in 2010.  Now, that I am ending my 5 year run with this drug, I have adverse affects with a cysts.  Is a cysts an egg that was not fertilized from the Follupian Tubes.  I cannot understand this logic of giving me this drug?
+summarized question 2: What are the uses and side effects of letrozole in postmenopausal women?
+##
+query 3: SUBJECT: False positive UA results MESSAGE: I tested positive for amphetamine but do not use drugs? I do have bad allergies and heard several over the counter medications can cause false positives. Is this true and is there a list? Thanks to respond.
+summarized question 3: What can cause a false positive on an amphetamine drug test?
+##
+query 4: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 4: Where can I find information on familial mediterranean fever?
+##
+query 5: SUBJECT: inguinal hernia MESSAGE: I am a 75 year old man. I have 2 inguinal hernia. Do you offer any written pamplets on these.
+summarized question 5: Where can I find information on inguinal hernia?
+##
+query 6: MESSAGE: Dear Sir I am newly marrired. Now from few days i am suffering erection problem. Pls suggest me. Thanks [NAME]
+summarized question 6: What are the treatments for erectile dysfunction?
+##
+query 7: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 7: What are the treatments for strabismus, including stem cell therapies?
+##
+query 8: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 8: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 9: thyroid panel prep.  Do I need to prepare in any specific way for the thyroid panel?  Do I need to fast?  I have been taking a very low dose of Lithium nightly.  How long do I need to stay off of it before having the panel done?
+summarized question 9: What preparations are required for a thyroid panel test?
+##
+query 10: MESSAGE: I am 23yr boy,i have knock knees i want treatment. Please help me.
+summarized question 10: What are the treatments for knock-knee?
+##
+query 11: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 11: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 12: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 12: What are the inheritance patterns for pierre robins syndrome?
+##
+query 13: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 13: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 14: SUBJECT: know more about MESSAGE: My Daughter have Distal renal tubular acidosis. we are from Mexico, and we ae woundering if can send to us more infomation. maybe you can reccommend to us a association???? i don?t know
+summarized question 14: Where can I find information on distal renal tubular acidosis?
+##
+query 15: SUBJECT: What is the difference? MESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?
+summarized question 15: What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?
+##
+query 16: SUBJECT: Stroke from high blood pressure MESSAGE: My mother is 90 yrs old recent high blood pressure minor stroke. She is sensitive w/ medication. Should she take Statin and Plavix?
+summarized question 16: What are drug treatments for high blood pressure and minor stroke in elderly?
+##
+query 17: my son is 13 years, just now finding out hes 47xxy Klinefelter’s guy, hes is very upset when he was told about the possibility of not having children I been reading On Tesa and other ways we can try to give him the chance later in life to become a father, im looking for any help information towards where to start where to look to helping him for the future
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 1: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 2: What are the treatments for ocular albinism?
+##
+query 3: SUBJECT: meadicine for itiching MESSAGE: my face is itiching too much. and iam using deetol soap ....... but not feeling well is there any medicine
+summarized question 3: What are the treatments for itchy skin?
+##
+query 4: SUBJECT: reason for denial of script MESSAGE: my dr.wrote a script for lipoderm patch l,s 5% for my neuropathy.  I wish to know why it was denied and if there is a generic I could get
+summarized question 4: Is there a generic version of lidoderm?
+##
+query 5: SUBJECT: Abscess in lungs MESSAGE: Is abscess in lungs curable?  My Dad has surgery and found 2 abscess in his lungs. After a week out of surgery room, he developed fluid. The doctor is telling us they can use the syringe to remove the fluid, nothing else can be done.   There is  a small bottle attached to his surgical area which is collecting liquid from infection.  Thank you for your reply. My dad is 84 yo.
+summarized question 5: What are the treatments for lung abscess?
+##
+query 6: SUBJECT: Kidney disease diet MESSAGE: My aunty has a kidney disease, and wants to use a product that contains aloe. Is that ok?
+summarized question 6: Is aloe contraindicated for patients with kidney disease?
+##
+query 7: SUBJECT: chemical reactions to meds. MESSAGE: What is the clinical name for people who have chemical reactions to medications? Is there a cure?  Thanks
+summarized question 7: What are the treatments for drug reactions?
+##
+query 8: SUBJECT: Apraxia and Dyspraxia MESSAGE: What are the basic differences between apraxia and dyspraxia?  I get different answers from different sources. One suggests that apraxia is a motor coordination disability acquired due to damage, head injury, stroke or leasions in the brain whereas dyspraxia is inherited.  Another says that the difference is absence of coordination (apraxia) versus a more mild impairment (dyspraxia).  It is very confusing to try to sort it all out.  Thank you!
+summarized question 8: What are the differences between apraxia and dyspraxia?
+##
+query 9: MESSAGE: hi my name is [NAME] I'm currently working with [LOCATION] and I was wondering  I came across some of you healthy tip fliers for HIV/Aids treatment .at the moment we have a study  going on that helps HIV positive transgender women into HIV quality care .so it would be great to have some more information on HIV/Aids treatment
+summarized question 9: What are the treatments for HIV/AIDS?
+##
+query 10: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 10: What are the treatments for arm and neck pain?
+##
+query 11: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 11: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 12: SUBJECT: What is the difference? MESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?
+summarized question 12: What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?
+##
+query 13: SUBJECT: drug nutrient interaction MESSAGE: Hello: I am looking for a resource that describes nutrient ( vitamin ) depletion that results from specific medications. Hope you can help. Thank you.
+summarized question 13: Can medications cause vitamin depletion?
+##
+query 14: Physicians who specialize in Androgen insensitivity. Hello,I'm looking for a physician(s) who specialize in androgen insensitivity.  I came across your site on the Internet.  It has a page on the subject -http://www.ncbi.nlm.nih.gov/sites/ga?disorder=Androgen%20Insensitivity%20Syndrome - but I wasn't able to find a link to any physicians who specialize in this after I clicked on the Physician Directory link.  Any suggestions?Thanks in advance,[NAME]
+summarized question 14: How can I find physician(s) who specialize in androgen insensitivity?
+##
+query 15: sounding in my ear every time for along time.  my ear has been sounding for along time it started 20years ago at first time it started during swimming I go to doctors in [LOCATION], [LOCATION] and [LOCATION] but it's not become correct. I wish you to give me good advice please.
+summarized question 15: What are the treatments for ringing in the ear?
+##
+query 16: SUBJECT: 46,X,dir dup(X)(q13-q26) MESSAGE: Hi I am from [LOCATION], I am wondering if you can help with some information on my duplication, I have signed up to [LOCATION] here in [LOCATION] but only me, my mum and my sister and 1 other person have been found to have this genetic abnormaility. I have no idea about the other person but my sister was affected by it when she was born, when i was born we had no idea, My sister was born and tested me and my mum, showing my mum had the condition along with my sister. at that point it seemed i never had it. When i was 20 i went to my [PROFESSION] and they said my genetics department here in [LOCATION] wanted me to get retested, Found out that i do carry the same duplication. I have three younger brothers as well, two of the youngest with Autism, None of the boys have the duplication, but i am wondering if these are linked? I am wondering what Information do you have available regarding this duplication, I have fertility issues which i don't know of it is linked or not. My AMH level for my age at 26 is low at 4.6!! my sister has had two children a boy and a girl none do not have the duplication. She also has Stage Two Kidney diease and was born with a horse shoe Kidney they thinks its linked Please help! or is there anything you can advise for me in the UK to go get looked at further ? Love from [NAME]
+summarized question 16: Where can I get information on the genetic abnormality 46,X,dir dup(X)(q13-q26), and  and how can I find physician(s) in the UK who specialize in genetic abnormalities?
+##
+query 17: Should I have ultrasound on left shoulder.  I have a defribulator (left side)? I look forward to your advice. Thank you very much.
+summarized question 17:
