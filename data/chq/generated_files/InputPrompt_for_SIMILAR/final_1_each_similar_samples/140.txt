@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 1: What are the treatments for brain tumors and spinal tumors?
+##
+query 2: My son was recently diagnosed with Elephantiasis Nostras Verrucosa in his spine. it was resected successfully. Im seeking additional literature regarding these type of cases specifically.  My son is 19, and has been determined legally blind from the hydrocephalus that occurred. Are there any other incidences of this? please provide any relevant info, or links. I am a Mom looking for info!! Please help!!
+summarized question 2:

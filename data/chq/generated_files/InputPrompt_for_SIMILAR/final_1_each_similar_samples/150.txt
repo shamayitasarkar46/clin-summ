@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Customer Service Request. I am looking for recent information and treatment for Ledderhose Disease also know as Plantar Fibromotisis. I would be interested in doctors specializing in this disease.
+summarized question 1: Where can I find information on Ledderohose disease, including the latest treatments, and how can I find physician(s) who specialize in it?
+##
+query 2: Hi, Im writing on behalf a friend of mine's daughter who has Metachromatic leukodystrophy (MLD). They are currently overseas and they are interested of finding more info in regards to the treatment you provide. Please let me know who do I contact for furhter information on the treatment.
+summarized question 2:

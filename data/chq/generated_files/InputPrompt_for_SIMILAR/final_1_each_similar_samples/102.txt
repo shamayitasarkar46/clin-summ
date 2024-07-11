@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 1: What are the causes of abdominal pain and swelling?
+##
+query 2: I am experiencing a tapeworm infection that I think has gone beyond my intestines and is in my muscle now. After taking a dose of the worm medicine (Praziquantel), I believe I’m an still infected. My body is now fighting skin ulcerations I believe to be from the parasite in my muscle. I’ve been trying to address that as I don’t think the Rx I took was enough to rid me of the infection. My doctor is at a loss for knowing how to treat me and the referrals I’ve received and numerous calls I’ve made are always dead ends here in the Houston Tx area. Can you please help me? I would like some information as to how to best be completely rid of this parasite infection. I will greatly appreciate your assistance and or a solid referral to someone who is treating patients for parasites. I have good pics and hopefully someone can identify the exact tapeworm I’m infected with and explain protocols for ridding them from all parts of my body.
+summarized question 2:

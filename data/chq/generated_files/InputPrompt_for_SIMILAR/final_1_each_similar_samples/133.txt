@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 1: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 2: my daughter has lichen sclerosis and we are wondering if you have any research on stem cell treatment?  She now has it effecting her ureatha and the Dr she is seeing  has no idea how to treat it, as she has never seen it do this.  She was diagnosed when she was 22 with a severe case of LS and has had little relief with current treatments.  Thank you for your time in this matter.  Also are there any clinical trials coming up she may participate in?
+summarized question 2:

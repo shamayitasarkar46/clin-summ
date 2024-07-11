@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Acetaminophen inactive ingredients MESSAGE: My wife is severely allergic to Titanium Dioxide.  It is not listed in the inactive ingredients for Equate or Tylenol Acetaminophen on the package or on your page but other sources on the Internet claim it is used to coat the tablets to make them easier to swallow.  Are they coated with Titanium Dioxide and if so why is it not listed as an inactive ingredient? Thanks, [NAME]
+summarized question 1: Is titanium dioxide an inactive ingredient in Equate acetaminophen or Tylenol acetaminophen?
+##
+query 2: Started doing the smoothies, i am allergic to chocolate, green tea today had to use chocolate but did not add i. What do i do. Allergic to all caffeine related items. Please respond.
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 1: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 2: My daughter suffers from a rare condition called Xeroderma Pigmentousim Type C.  I was wondering what can we do for my daughter. We live in Canada.
+summarized question 2:

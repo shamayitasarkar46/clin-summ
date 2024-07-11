@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Progressive Supernuclear Palsy MESSAGE: What  is the best thing to do for my Dad who we r sure has psp!  Who r the best dr to treat this cease.  We believe my uncle had pep also   He recently passed away ,  I want to give my dad the best treatment available
+summarized question 1: What are the treatments for progressive supranuclear palsy and how can I find physician(s) who specialize in it?
+##
+query 2: Dear Sir, i am hopeless and unfortunate father of  only one son who is suffering by achandroplasia, he is 9 years old suffering by this disease from his childhood, i want to provide better treatment to him, i am ready to do any thing, please please please kindly  extend your helping hand for treatment of my son.
+summarized question 2:

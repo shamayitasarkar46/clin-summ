@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I am interested in learning about treatments for intraductal papillary mucinous neoplasm (IPMN). I'm particularly interested in new treatments, perhaps less invasive surgery or alternative treatments.  It would be good to know who is conducting the research in this area and where it is being conducted. Thank you, [NAME] -- [CONTACT]
+summarized question 1: What is the latest research on and treatments for intraductal papillarymucinous neoplasm (IPMN)?
+##
+query 2: Recently diagnosed with PBC and would like to see new readership or drugs  for this disease.
+summarized question 2:

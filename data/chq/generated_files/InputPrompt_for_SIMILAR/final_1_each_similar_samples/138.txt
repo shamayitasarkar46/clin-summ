@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: wolfram syndrome. hi im a support worker for a 46 yr old autistic male.reading your info provided about wolfram syndrome ,he matches alot of the symptoms. he has just recently been diagnosed with type 1 diabetes and i was just doing some research about it and came across wolfram syundrome which like i said the symptoms match alot of this guys doings. my question that ive unfortunatley been able to figure an answer out for is can adults develope this syndrome? can it be a gradual process of events/symptoms or does it happen within the first approx.15-20 years of life? if you could get back to me with any info it would be highly appreciated because like many websites i have read not all doctors knowabout this syndrome.  many thanks. [NAME]
+summarized question 1: Can adults develop Wolfram syndrome?
+##
+query 2: where do i go to find information on familial dysautonomia. is there  an organization out there on the subject. all the websites ive gone to say dns error...
+summarized question 2:

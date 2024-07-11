@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: severe vaginal bleeding MESSAGE: I've been bleeding for almost 9 long years. I've been to the doctor and he just put me on birth control saying it will balance itself out. That didn't work. We tried another birth control..it didn't work either. Ever since this problem started I've had terrible migraines, I gained weight (which I've tried to exercise and diet off), severe vaginal pain, cramping, heavy bleeding, blood clots the size of my hand. I've probably gone through 1000's of underwear and my life revolves around this issue. My sex life is one sided (which sucks) and I just want help..what should I do..I feel like I should have another doctor..
+summarized question 1: What are the treatments for severe vaginal bleeding?
+##
+query 2: I had the colonoscopy, stool specimen test twice.  However I have had heavy diarrhea three or 4x a day. It often looks like a black mud slide. I need stronger anti diarrhea meds as I now take 6 to 8 a day now.  It is the only way I can control it. I am planning a trip. I want some really strong meds to keep this in control for my trip.  Thank you
+summarized question 2:
