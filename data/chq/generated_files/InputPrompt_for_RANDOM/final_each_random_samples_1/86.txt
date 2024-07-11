@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bardet-Biedl Syndrome MESSAGE: Does Bardet-Biedl syndrome cause your teeth to decay faster than other people?  Does Bardet-biedl cause the cartilage in your body to deteriorate faster?  Does Bardet-Biedl cause you to have spinal stenosis? Sincerely, [NAME]
+summarized question 1: What are symptoms of and complications from Bardet-Biedl syndrome?
+##
+query 2: MESSAGE: I have been dignosed Bladder Cancer and in [DATE] surgery Radical cystoprostatectomy with bilateral PLND under EA/GA was done.I would like to know if the stoma closure is possible? Request to please guide me.
+summarized question 2:

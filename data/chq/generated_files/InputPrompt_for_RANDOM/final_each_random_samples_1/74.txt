@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 1: What are the treatments for flatulance?
+##
+query 2: SUBJECT: Mitral valve regurgitation. MESSAGE: Hi, I am writing on behalf of my dad. He is 65 and he is diagnosed with Rheumatic Mitral Valve regurgitation 8 years ago. 3 years ago he also diagnosed with heart failure. Currently he has been using Coumadin, beta blocker, diuretics, ACE inhibitor, as a medicine and as suppliments omega3,6,9 fish oil, Co-enzyme q10, vitamin C, K2, Ginco Biloba, Magnesium Citrate using daily. I would appreciate if you can help us with some of the symptoms my dad is experiencing.  feeling sick in the morning and trowing up before and after breakfast, feeling tired all the time, struggling to walk to the first floor without resting. He has low blood pressure (like 5 - 7), [PHI]. We are very worried about my dad. Could you please suggest us if we are using wrong medication or we are supposed to use any more or less medication or supplements. Please please please help us I am very scared if something happens to my dad. I look forward to hearing from you [NAME]
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I was told not to take the shingles vaccine..i have many healthe problems and many allergies…
+summarized question 1: When is the shingles vaccine contraindicated?
+##
+query 2: Hi I am wondering what the chances are for ototoxicity and liver damage with the use of itraconazole. In case these occur are the side effects reversible? Also what are the risks of congestive heart failure in a person taking this medication if patient has a family history significant for Myocardial infarctions? Thank you for you time.
+summarized question 2:

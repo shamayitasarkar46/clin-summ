@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Operation for Pectus Excavatum MESSAGE: Dear Medical Doctors,  Good day!  We are a resident of [LOCATION] (previously affected with super typhoon Haiyan). We have noticed with our nephew who is 16 yrs old now that his breast is not normal the same with the other nephew that we have having the same age. As we start to consult our physician's in [LOCATION], they told us that it is just normal, however, we are worried because as we can it is a symptom of Pectus Excavatum. We want to know from you the details what to do if we want our nephew to undergo this kind of operation to correct the ribs in his breast (pectus excavatum)?  Hope to hear from you. Thank you very much.   [NAME]
+summarized question 1: Whare can I find information on surgery for Pectus Excavatum?
+##
+query 2: I ask the home health aide to give me an enema. the home health aide has never given an enema. what should the home health aide do? I have not had a bowel movement in three days
+summarized question 2:

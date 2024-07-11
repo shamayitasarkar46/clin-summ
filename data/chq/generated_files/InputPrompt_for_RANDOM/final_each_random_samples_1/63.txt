@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 1: What are the treatments for neck lumps or neck tumors?
+##
+query 2: Hello, My sister suffers from obsessive-compulsive disorder for more than ten years And I want to know why the symptoms of obsessive-compulsive disorder increase during the menstrual period for this she is  very afraid and use contraceptive pills a monthly to prevent the menstrual cycle and is used this way since 5 years The first question is why the symptoms of obsessive-compulsive disorder increase during menstruation? The second question Are there any side effects as a result of the use of pills a month? I hope to help me found the answers because her conditions is very bad and please told me what we can do to help her. thank you very much and thank you for your time.
+summarized question 2:

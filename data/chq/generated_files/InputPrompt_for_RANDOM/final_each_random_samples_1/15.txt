@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 1: What are the latest treatments for Parkinsons disease?
+##
+query 2: what are the possible side effects of not taking olanzapine after having tanker it for a long period of time
+summarized question 2:

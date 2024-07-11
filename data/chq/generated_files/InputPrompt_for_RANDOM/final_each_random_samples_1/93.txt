@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ear drum repair.  could this be and option or possible to fix a deaf ear im deaf on lef ear i whas born with it and the doctors at my country  could not find a reason why im deaf on the left ear  im hoping that this could may help
+summarized question 1: What are the treatments for congenital hearing loss?
+##
+query 2: SUBJECT: Gluten Inquiry. MESSAGE: My medication has been replaced due to discontinued of my prior manufacture.  I am wanting a response and definite answer if your corporation can give a statement in easing my thoughts on gluten free.  I take the Esterified Estrogens, Methyltestosterone full strength dark green table with 1490 labeled on it, I have looked up the ingredients and found an ingredient that shows gluten related. Can you please secure my worries and confirm if this medication is gluten free or if it does contain gluten. Thank you, R
+summarized question 2:

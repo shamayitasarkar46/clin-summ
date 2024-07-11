@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Side affects of diuretic MESSAGE: I have been taking Mylan Indapamide (1.25 mg) for 3 days. Today (3rd day) I began experiencing blurred vision.  What should I do? Discontinue till I see my doctor?
+summarized question 1: Is blurred vision a side effect of Mylan Indapamide?
+##
+query 2: My daughter had brain surgery and has recovered much better than the surgeon expected.  My question is that since her surgery the flap has separated from her skull and there is a gap with just skin covering it.  Please let me know if this is unsual.  She is very worried about it and says that it hurts.
+summarized question 2:

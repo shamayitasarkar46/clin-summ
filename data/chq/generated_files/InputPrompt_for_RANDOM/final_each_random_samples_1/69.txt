@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I have celiac.disease and.need.to start.Coumadin (Warfarin). Also I'm very allergic to food coloring,.dyes.  What manufacturer has gluten and dye free warfarin ? Please help me. I  need to start taking it tomorrow.  Thank you very , much. [NAME]
+summarized question 1: What are the ingredients of warfarin and it is gluten and dye free?
+##
+query 2: My father is having cardiomyopathy through genes. He is 83 now. He was absoulutely normal till now. recently he is getting breathlessness. and he was admitted to the hospital twice. The doctors are telling that multi dieases are attacking his heart. I just want to know exactly what is happening and what precautions that he should take in future. What are the chances of survival? Please help.
+summarized question 2:

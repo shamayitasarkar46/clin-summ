@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: should Advair and Spiriva be used together?  It is my understanding that they are both control meds
+summarized question 1: Can Advair and Spiriva be taken together?
+##
+query 2: Gadolinum toxicity and MCS relationship? I have 2 Genovia Labs test results years apart with seriously high Gadolinum toxicity. AND I am very VERY VERY very challenged by MCS - Multiple Chemical Sensitivity. My question is: If I had multiple MARs after an auto accident. And since then the MCS is debilitating. Certainly the symptoms of Gas level in my body cause symptoms as well. But I am debilitated by Synthetic chemicals in the air.  How can I find out if the Gas exhaserbated my reaction to exhaust fumes, air fresheners, perfumes, dryer sheets(!!!!), food additives, and much more. Many Thanks
+summarized question 2:

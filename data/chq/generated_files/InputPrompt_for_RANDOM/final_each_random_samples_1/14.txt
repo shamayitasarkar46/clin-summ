@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: Need help finding information about kidney ""nodules"".  Please help. MESSAGE: Need help finding info. on kidney ""nodule""."
+summarized question 1: Where can I find information on kidney cysts?
+##
+query 2: when to start anohter round of antibiotics? how long can you wait to start a new dose of an antibiotic? 
+summarized question 2:

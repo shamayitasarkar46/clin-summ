@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: solve the erectio problem.  sir, some time my penis erect and some time it does not work . So please help me . My contect nomber is [CONTACT]
+summarized question 1: What are the treatments for erectile dysfunction?
+##
+query 2: hello doctor  my frnd is suffered with  chronic myelogenous leukemia (cml) (age 47)..she is treated with a medicine  called Gleevec since 4 months ..doctor said took blood test for every week ..the problem is  platelet count rapidly decreased week by week ...last blood report shows platelet count as 90000,now her count droped to 750000..what should we do...plz help me..
+summarized question 2:

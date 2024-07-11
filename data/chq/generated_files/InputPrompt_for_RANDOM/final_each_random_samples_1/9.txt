@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Find a Doctor, a specialist on this problem MESSAGE: who is a certified Opt. in or near the Nashville, TN area who does surgery for strabismus. please help me find a trusted doctor who performs this kind of surgery
+summarized question 1: How can I find physician(s) who specialize in strabismus surgery near Nashville TN?
+##
+query 2: covid-19 how long to quarantine after being positive how long are you contagious if i tested positive for covid-19. how long before i can safely return to work after a positive covid 19 test
+summarized question 2:

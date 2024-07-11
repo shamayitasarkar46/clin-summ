@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: MMR vaccine MESSAGE: My doctor recommended I get the MMR vaccine, which covers mumps, measles, and rubella.  Isn't rubella a form of measles?  As a child, I had the 3-day measles--was that German measles or the other kind?  As a child I also had mumps.  Do I really need the MMR or just a vaccine for the rubella?
+summarized question 1: Who should get the MMR vaccination?
+##
+query 2: I have a detached cruciate ligament in my left knee. If I submit to reconstruction surgery, how long will recovery take? Because of my age (over 90) I need to remain as physically active as possible. I live alone. My injury occured several years ago, but only recently has been causing me major discomfort.
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: IHSS heart condition and WPW heart condition MESSAGE: Is there any way you could send me information on both these heart conditions? My son has to get tested for them eventually and I would just like information to understand the conditions of both of them more.
+summarized question 1: Where can I find information on Idiopathic hypertrophic subaortic stenosis (IHSS) and Wolff-Parkinson-White (WPW) syndrome?
+##
+query 2: my son s 20 years old and last year he told us he had GID. He never goes out except to work with me. rarely will he go anywhere unless he has to. i want to help my son find his life but i don’t know how to help him. i try to support him as best as i know how. i have suggested support groups and so forth but he is not willing. i fear for his mental health. please tell me what i can do to help my son. any groups, people i can contact that will help him with his GID, and that he can be able to somehow find a life for himself. Thanks
+summarized question 2:

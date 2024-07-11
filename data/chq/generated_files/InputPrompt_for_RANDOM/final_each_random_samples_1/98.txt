@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.
+summarized question 1: What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?
+##
+query 2: SUBJECT: fever. MESSAGE: I have had a fever in the evenings only since {DATE], it is gone in the morning then resurfaces around 4pm. I babysit for my grandkids during the week, I went to the clinic and they just said it was a cold.  Lung are fine, no head congestion. So I would like to know if I am contagious to my grandkids, so I can start sitting again.
+summarized question 2:

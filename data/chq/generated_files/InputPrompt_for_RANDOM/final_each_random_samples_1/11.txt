@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: I want to ask a question about botox MESSAGE: I want to know if botox is useful in treating someone who had a stroke and their left arm is crippled up? The man had a cerebral hemmorhage I want to know if this helps or not?
+summarized question 1: Can botox help arm paralysis?
+##
+query 2: outbreak of red raise sores on back shoulder and arms from shoulder to wrist with raised bulbs of liquid. treatment and maintenance ?
+summarized question 2:

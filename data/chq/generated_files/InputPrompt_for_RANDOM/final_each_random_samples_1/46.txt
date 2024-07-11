@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Prenatal exams for leigh syndrome. I am looking for information about having prenatal exams anmnio or chorionic villus sampling for NARP and leigh syndrome. Thank you in advance
+summarized question 1: Where can I find information on prenatal genetic tests for NARP and leigh syndrome?
+##
+query 2: hi   i have NYSTAGMUS plm lAST 3 years  i want to know that any possibility to resolved my plm thanks tell me the right medicine i need your help
+summarized question 2:

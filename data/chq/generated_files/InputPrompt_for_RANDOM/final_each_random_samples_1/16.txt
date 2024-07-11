@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 1: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 2: if you exposed to two positive covid people an your results negative but you have symptoms what are state local cdc recommendations for quarantine
+summarized question 2:

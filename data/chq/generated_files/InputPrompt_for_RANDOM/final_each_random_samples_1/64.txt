@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: downs syndrome daughter had a stroke MESSAGE: Where is there a rehab that can treat with physical therapy, from paralysis, with my 29 yr. old daughter with downs? We live in [LOCATION]. I would have to stay with her through out this ordeal, as she would not understand otherwise. We have run into this problem, but there has to be a rehab dedicated to people with disabilities. [NAME]
+summarized question 1: Where can I find facilities that offer physical therapy for special needs patients?
+##
+query 2: Can I get my acid reflux surgery clipped to get lap band or would you suggest the sleeve or gastric bypass instead. What are possible complications if I get my acid reflux surgury clipped to get lap band? Thanks!
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 1: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 2: is there an increased risk of infiltration, dislodgement, or phlebitis in a stroke patient with a peripheral intravenous catheter insertion in the affected extremity?
+summarized question 2:

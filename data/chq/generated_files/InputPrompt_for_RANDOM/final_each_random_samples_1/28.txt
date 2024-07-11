@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: genetic beriberi. Is it true that wet and dry beriberi usually occur in the same patient?
+summarized question 1: Can wet beriberi and dry beriberi occur in the same person?
+##
+query 2: Can IBS be cured with the patent Medicines      say Mebverine or others as prescribed the      Doctor.       Does Probiotics are helpful in controlling       the IBS. Some says Peeper Mint can also be       suitable. These are few general questions       as regards IBS and not personal.
+summarized question 2:

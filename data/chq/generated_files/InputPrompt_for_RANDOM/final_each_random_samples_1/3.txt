@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Sometime during March I overdosed on Benadryl. I got all the symptoms but survived without medical treatment. I am just curious as to if any damage happened.  Like Neurological.
+summarized question 1: What is the prognosis for benadryl toxicity?
+##
+query 2: I am not a nurse or Dr or student... I am just a person with a question that I need an answer to. Could you please help me out and let me know if there is any research on the effect of Rogam on the baby of the RH- person? Are there higher rates of mental illnesses in them or other health issues? I would really appreciate any information. Thank you
+summarized question 2:

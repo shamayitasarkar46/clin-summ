@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: adema MESSAGE: I have adema in my ankles/shins.  What can I do to lesson the severity of the adema ( I take bp meds w/ diaretic) ?
+summarized question 1: What are the treatments for leg edema?
+##
+query 2: I have hypertension and have Glaucoma and diverticulitis, I have developed allergies and am super sensitive to hypertension medication. I have been given multiple medication and react to the medication within 24-48 hours suffering from major side effects and must stop the medication immediately. Do you have any information if there is a medication made for individuals that suffer from allergic reactions to the hypertension medication.
+summarized question 2:

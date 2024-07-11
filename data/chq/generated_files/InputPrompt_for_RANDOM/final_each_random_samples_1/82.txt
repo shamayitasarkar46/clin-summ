@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: sir!  i m hasitate during talking. for exam MESSAGE: Sir!        I m  hasitate during  talking. For example:         Name (na...na...name)  welcome ( wev....wev....wev....welcome).
+summarized question 1: Where can I find information and help for stuttering?
+##
+query 2: SUBJECT: Carbon dioxide. MESSAGE: What can happen if your level of carbon dioxide in your blood is up to 50? What things can starting changing in your body if it reaches over 50.
+summarized question 2:

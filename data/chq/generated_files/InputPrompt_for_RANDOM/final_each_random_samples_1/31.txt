@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 1: What are the treatments for neck lumps or neck tumors?
+##
+query 2: Few years ago (like 3yrs) my uncle faced a massive accident. His back-bone broken, right leg anklet broken. He treated his backbone from Trauma Centre. Some steel plates and screws added with his backbone and his backbone is now completely ok. The problem is now with his both leg. From knee to leg finger-end is now completely senseless. He can’t feel anything like touching or byte of any mosquitoes or any insects. Both legs are now thinned too much from thigh starting point to the leg end. He did some Physio-Therapy excercise but no improvement. Dr. said that nerve has teared in some place of leg. Now I want to know is there any therapy/treatment available to get rid of this kind of injury? How it can be cured and where is the treatment available? What kind of treatment is need to get cure?
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Testing for CETP Gene. I live in [LOCATION] Tennessee, and am interested in being tested to see if I have  CETP Hyperalphalipoproteinemia. Could you please let me know how and where I can get this test? (I have had the VAP test and I do have the LDL Density Pattern A.)
+summarized question 1: Where can I get genetic testing for the CETP gene?
+##
+query 2: SUBJECT: Alpha 1 normal ranges. MESSAGE: Hi I was wondering if you could help me. I am a student in which I have to complete a case study on a patient with severe COPD. The patient's alpha 1 ant-trips sin level is 1.33. I am aware the normal ranges is 0.075-0.15g/L. Does this mean this patient has the genetic disease? Thanking You [NAME]
+summarized question 2:

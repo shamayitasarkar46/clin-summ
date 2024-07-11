@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: wHEN ENGULFING FOOD,A SEVERE PAIN AS FOOD PASSES UPPER PART OF STOMACH. I FEEL PAIN FOR A MOMENT THAN IT BECOMES NORMAL.as such i am afraid of eating food
+summarized question 1: What are the causes of digestive pain?
+##
+query 2: SUBJECT: vomiting blood and blood clots, ( pulmonary embolisms). MESSAGE: Is it possible to vomit blood, with abdominal pain, fatigue that caused them to sleep two days, left sided chest pain ( left upper ribcage area), and suffer from Bilateral Pulmonary Embolism with Left Lower Lobe Infarction four weeks later? The blood was bright red, about one cup.
+summarized question 2:

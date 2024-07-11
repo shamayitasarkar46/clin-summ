@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Radiation Therapy MESSAGE: I have foot drop symptoms. I think radiation cause them last year. My left foot is numb tingling and inflaming. please help and call my cell phone for more comments :[CONTACT]
+summarized question 1: What are the symptoms of foot drop, and what are the treatments for it?
+##
+query 2: A 65 year old female friend of mine was just recently diagnosed with Frontotemporal dementia - temporal variant.  She is devastated.  I am trying to help her find resources, clinical trials, etc. to help her.  Can you give me some names of doctors to contact, pertinent institutions to contact regarding the treatment of this disease.  Thank you.  
+summarized question 2:

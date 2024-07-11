@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 1: What are the treatments for mouth ulcers?
+##
+query 2: I have a problem. I am not remember my study always forget .I am not consntrate on study. When i am reading i am thinking any others topic. I am confused Is this a Alhizmer.I think i am loss my memory .Please help me and suggest me.
+summarized question 2:

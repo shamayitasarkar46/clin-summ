@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Seborrheic Keratosis MESSAGE: I am an African American women who have been diagnose with seborrheic keratosis on my face.  Do you have a web site that I can obtain the products so that I can clear up my face.  Please advise.  Thank You
+summarized question 1: What are the treatments for seborrheic keratosis, and where can I buy them?
+##
+query 2: i am post menopause for about 18 years and i have been bleeding for about a month why
+summarized question 2:

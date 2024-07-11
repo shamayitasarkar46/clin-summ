@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 1: What is the difference between residual and recurrent maligancy?
+##
+query 2: when you check your blood with the insulin meter what is a good number
+summarized question 2:

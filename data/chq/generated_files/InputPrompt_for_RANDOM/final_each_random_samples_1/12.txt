@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: nail problem MESSAGE: My son is in problem of neals so what. I do which. Medicine is better
+summarized question 1: Which medicine is better for a nail problem?
+##
+query 2: why does the united states have a high mortality rate of covid-19 than other countries
+summarized question 2:

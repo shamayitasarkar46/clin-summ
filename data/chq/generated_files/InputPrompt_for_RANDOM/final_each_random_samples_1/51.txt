@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Scleroderma (Systemic Sclerosis). i am 22yrs now and was 18th when i was detected with the disease in [DATE] 2010 after the conduction of Biopsy. there after i had taken PSS- Pulse for Systemic Sclerosis in which i was given Solumedrol for 9 months. and then after a gap of 6 months since the disease activity progressed i was given PSS again -Dexa for 3 months. along with this i am under medication with medicines as follows Depin, HCQS, Antoxid, Cyra, Omnacortil and Folitrax(weekly on saturdays and sundays). currently am under PSS which is done once in Every 6 months. but i am getting bad digital ulcers on my fingure tips on hands and legs both. i seriously need your help for this as to what else treatment can be done to it. please revert back soon
+summarized question 1: What new treatments are available for systemic sclerosis and scleroderma skin ulcers?
+##
+query 2: I NEED PARENT TRAINING. My 9 year old son has ODD and ADHD.  I’m in desperate need of an extensive parent training class. I don’t know what to do anymore and really need help.  My son says I do nothing for him after spending the entire day taking him places.  He yells and screams at me and tells me I’m a terrible mother.  He refuses to listen and I have to ask 10 times before he reacts. He will not do homework..  I have tried positive reinforcement…… Please I need someone that know their stuff..
+summarized question 2:

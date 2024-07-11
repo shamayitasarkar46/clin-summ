@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: can I take Sam e with my blood pressure med and simvastatin? pressure med is metoprolol. im 65 and have panic attacks. I am not on any other meds. I have a physical this week and a blood test. will Sam e interfere with a blood test ? I also have spinal stenosis with numbness and prickly feelings in my body. Im going to talk to my dr about all of this on Friday. Dosage ? Thank you
+summarized question 1: What are the dosage, side effects,  and drug interactions for Sam E?
+##
+query 2: how do you know if you have sinus rhythm, what does it mean, is it good or bad?
+summarized question 2:

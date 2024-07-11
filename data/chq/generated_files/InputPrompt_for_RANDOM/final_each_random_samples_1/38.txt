@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: questions about the effect of L-Leucine.  Hello,do you have any introduction about L-Leucine on the effect of treat cancer?If so,could you kindly tell me details?
+summarized question 1: Where can I find information on L-Leucine and its use in cancer treatment?
+##
+query 2: I have been tested twice and it has been determined that I have 2 copies of the gene for FACTOR V, and I am concerned about my family.  If 1 parent has been diagnosed negative, is it even possible for me to have 2 copies of the gene without something being misdiagnosed?  I have 3 children and 8 grandchildren and would like to know if this should be called to their attention?  Information will be appreciated.
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Congestive Heart Failure MESSAGE: Why is my daily fluid intake limited to 2 liters?  What is so special about 2 liters as opposed to any other amount?
+summarized question 1: What is the recommended daily fluid restriction for Congestive Heart Failure?
+##
+query 2: scrotum swelling scarring from water retention what ointment, cream to treat
+summarized question 2:

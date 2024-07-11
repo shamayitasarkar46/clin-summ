@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 1: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 2: SUBJECT: Factor VII. MESSAGE: I have Glanzmans Thrombastinia which is a rare platelet disorder. I am concerned about invasive emergency surgery.  I have had minor surgeries and have bled profusely-even with pre-op meds of DDAVP and Amicar.. I understand Factor VII (or a drug to reduce or stop unnessary bleeding,if administered prior to surgery can alleviate bleeding problems in an invasive procedure. What drug(s) would you recommend and how readily available is the drug and how much does it cost. Thank You, E. W. [NAME]
+summarized question 2:

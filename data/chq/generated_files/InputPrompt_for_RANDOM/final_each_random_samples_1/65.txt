@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 1: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 2: hi, can malarone turn  your tongue black? if so, do u know why?  and how to fix?  Thx
+summarized question 2:

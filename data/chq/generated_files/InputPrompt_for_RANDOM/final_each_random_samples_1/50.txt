@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 1: Can epilepsy be cured?
+##
+query 2: my mother passed away Sunday from Sepsis-Bowel Perforation and I needed to know what it is. She wasn’t sick till the night before after she ate supper. She said her stomace was hurting. She feel the next moning and hit her head. She was ice cold with alittle sweat on her neck. Please, explain this to me.
+summarized question 2:

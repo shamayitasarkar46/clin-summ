@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 1: What causes fibroid tumors on the spine?
+##
+query 2: I am seeking information regarding wandering/lazy eye correction. I have suffered from this condition since I was a child. Please forward any pertinent information. Thank you.
+summarized question 2:

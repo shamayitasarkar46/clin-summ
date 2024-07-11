@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Quary about PSA tests MESSAGE: My grand father have examined PSA test value is 0.430 ng/ml.His age is 86 years.My question is this value is normal for his health or harmful?
+summarized question 1: What are age-specific reference ranges for PSA?
+##
+query 2: I have a patchy skin and it has become very dull these days and also i find few rash\pimples on my face. could you please suggest me the food tha i have to take to increase my complexion and get rid of this dullness and rash\pimples.
+summarized question 2:

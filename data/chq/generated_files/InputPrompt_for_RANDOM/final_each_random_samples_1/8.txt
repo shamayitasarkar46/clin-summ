@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 1: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 2: Hi to whom this may concern: I have a non alcoholic fatty liver and when I seen my consultant he say I don't have to see Him again for 5 years and advised me to drink 3 cups of coffee a day, But I can't drink coffee at all, So I email a consultant asking if he new of a coffee tablet, So he email me back saying it properly glutathione-s-transferase enzymes in the coffee so am looking for a cheap tablet which contains.these enzymes to help repair my liver I also only have one kidney which am on long term antibiotics for I do hope you can help.  I look forward to your reply
+summarized question 2:

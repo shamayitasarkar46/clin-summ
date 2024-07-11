@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: pulmonary tuberchlosis MESSAGE: respected sir/madam, i takeing treatment of pulmonary tuberchlosis past two years now it is in 2nd stage. there is no change in my x-ray report they show constant figure. my sputum report is negative hiv test also negative in ultra sound show some fluid (water) but it shows constant. what shall i do for clear the remaining fluids.
+summarized question 1: What are the treatments for lung fluid retention after two years of anti-tuberculosis treatment?
+##
+query 2: I have been diagnosed with bipolar and fibromialgia and have been told I cannot take lyrica with having been put on medication for bipolar as well as the issue with side affects. Is this true?
+summarized question 2:

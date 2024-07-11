@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: vomiting blood clots MESSAGE: Vomiting blood clots. Very small amounts
+summarized question 1: What does vomiting blood clots indicate?
+##
+query 2: what electrolyte do you need to watch when someone is on a water pill and what would be a good food source for this electrolyte?
+summarized question 2:

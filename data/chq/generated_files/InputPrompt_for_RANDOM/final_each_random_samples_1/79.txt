@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bruxism MESSAGE: I understand that bruxism may be a result of tension or anxiety, but why that particular release? Why don't people clench their fists during sleep, or kick, or any number of activities? In other words, why is the jaw the most common location?
+summarized question 1: What are the causes of bruxism?
+##
+query 2: SUBJECT: Low Potassium. MESSAGE: I have been taking Melitonion to help me sleep. My PC has prescribed 20 meq of potassium for low potassium level.  He has since increased it to 40 MEQ as my potassium level is still under the normal levels. Should I stop taking the Melitonin to help me get to sleep at night.
+summarized question 2:
