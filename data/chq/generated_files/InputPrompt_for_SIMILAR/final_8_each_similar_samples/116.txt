@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 1: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 2: SUBJECT: human chimerism MESSAGE: My daughter, born 5 days ago, was curiously found to have c+ blood type.  Having ruled out most causes for this, we are left with a possible vanishing twin chimera and don't know where to turn for more information or research. At this point we don't even have confirmation of whether she is xx/xx or xx/xy, or concrete exclusion of microchimerism. Help? I can be reached by cellular at [CONTACT]. my husband and I are local to the [LOCATION], and both [PROFESSION]. Thank you!
+summarized question 2: Where can I find information on chimerism and twin absorption?
+##
+query 3: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 3: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 4: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 4: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 5: "SUBJECT: Periventricular Heterotopia.  Scoliosis  - possibility of a known link ? MESSAGE: Question in laymen terms: Has any genetic or other correlation ever been made between these two diagnosis? My 59 y.o. sister has a diagnosis of Periventricular Heterotopia.  Her 30 y.o. daughter has been suffering with same for last 15 years.  Her 37 Y.O. daughter is clinically full-care retarded (since infancy) and has severe idiopathic scoliosis.  I have severe idiopathic scoliosis. I use the term ""severe"" to express debilitating and multiple fusion surgeries.  All four of my generation female siblings have a level of scoliosis. FYI: this PH sister died last week, her remains are at the [LOCATION]"
+summarized question 5: Is there a link between periventricular heterotopia and scoliosis?
+##
+query 6: SUBJECT: Pituitary gland/high level Vitamin D MESSAGE: My sister has a high level of Vitamin D in her system/blood work.  Her specialist cannot find the cause.   Would there be any connection with her pituitary?   Had her thyroid gland removed 3 years ago, and cancer in breast/removed cancer and had radiation/cured 2 years ago.
+summarized question 6: What are the causes of high vitamin D levels?
+##
+query 7: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 7: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 8: My grand child was born on [DATE] with Multicystic dysplastic kidneys.  After reading your article I would like to know whether the stem cell could bring hope to this child. Is this possible?  How to go about? Cloning? Please give me something to work on.
+summarized question 8: What are the latest treatments for multicystic dysplastic kidneys, including stem cell therapy?
+##
+query 9: My daughter suffers from a rare condition called Xeroderma Pigmentousim Type C.  I was wondering what can we do for my daughter. We live in Canada.
+summarized question 9:

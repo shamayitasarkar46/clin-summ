@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I HAVE CRONIC PAIN FROM SEVERE SHINGLES.THE BLISTERS ARE GONE BUT THE PAIN IS SEVERE.WHAT SHOULD I DO. I CAN' KEEP THIS PAIN
+summarized question 1: What are the treatments for shingles pain?
+##
+query 2: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 2: Can shingles affect the teeth and gums?
+##
+query 3: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 3: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 4: SUBJECT: trying to loss 50 before July. MESSAGE: I am trying to loss 50 pounds before July, the problem is I work 16 hours a day. Don't have time to do anything else. Is there a deit pills or shake that I can use to help me? Also my problem area is stomach, waist, butt and hip. Please help.
+summarized question 4: Where can I find information on weight loss pills?
+##
+query 5: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 5: What are the treatments for lichen planus?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 6: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 7: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 7: What are the risks of knee surgery in an older person?
+##
+query 8: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 8: What are the treatments for scoliosis pain?
+##
+query 9: I am suffering from vitiligo patches (White spot) in my body. I am 57 years old. Kindly help me  to cure the disease  white spot due to this i am very depression.
+summarized question 9:

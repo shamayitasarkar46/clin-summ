@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 1: What are the treatments for brain tumors and spinal tumors?
+##
+query 2: SUBJECT: EPI 747 MESSAGE: hi  My name is [NAME] My son, His age 4 month discovered it leigh disease infected from the mother side. and we have  full family history with the leigh disease.  my Daughter she lived for 7 years with the same disease, we have her Hospital reports, it is confirmed leigh Disease.  Kindly, if there is any hope for my son with EPI743 treatment, and we are appreciate to accept him in the treatment study.  i have a full reports for my son and the MRI. and all of it under your request.    Hope get your help ASAP because he is in the first stage. and we have a we are all hope he will be better.  Best Regards  [NAME]
+summarized question 2: Is EPI743 an effective treatment for leigh syndrome?
+##
+query 3: SUBJECT: Frontometaphyseal dysplasia MESSAGE: My son has Frontometaphyseal Dysplasia ehich is listed on your site. Do you have any information realgarding how to contact anyone else with this syndrome? Kind regarfs
+summarized question 3: Where can I find support groups for people with Frontometaphyseal dysplasia?
+##
+query 4: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 4: What are the inheritance patterns for senior loken syndrome?
+##
+query 5: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 5: Where can I find information on russell-silver syndrome?
+##
+query 6: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 6: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 7: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 7: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 8: Hi, Fırst of all thanks for valuable information whıch you Published on your web sıte. http://www.cdc.gov/measles/about/complications.html I couldnt find any ınformatıon on web that ıs related early ages.. When my son 6 months old (when he was baby)  he had measles and he hadnt had vaccacine when he was ill. I saw that if you had measles you have possıbılıty for SSPE that is 4 to 20 out of 100.000 case...But I want to know (it ıs very ımportant for me) if you had measles when your son stıll baby,what is the risk.. Please help me to know the facts...Please Write me the worth case.. I want to know just truth.. Thanks, Best Regards [NAME]
+summarized question 8: What percent of babies who contracted measles will eventually develop SSPE?
+##
+query 9: My son was recently diagnosed with Elephantiasis Nostras Verrucosa in his spine. it was resected successfully. Im seeking additional literature regarding these type of cases specifically.  My son is 19, and has been determined legally blind from the hydrocephalus that occurred. Are there any other incidences of this? please provide any relevant info, or links. I am a Mom looking for info!! Please help!!
+summarized question 9:

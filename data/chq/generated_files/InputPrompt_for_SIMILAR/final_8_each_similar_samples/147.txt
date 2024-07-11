@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 1: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 2: Tri-Gem Neuralgia.  I had an episode with the tri gem 2 days after i was rear-ended.  It was incredible pain that lasted 10 days. In the months following i had 2 decompression surgeries. the 1st one didnt work, was pain free for about 90 days.  The second syrgery 6 months later left me with a numb face but no tri gemn pain. Could the tri gem have been brought on from the trauma to the head from the car accident? I had been diagosed prior to  the accident, but was not experiencing any symptoms for a long time.  Then the accident and  1 1 /2 days later im in a full blown episode. Please let me know what your thoughts are.
+summarized question 2: Can symptoms of trigeminal neuralgia be exacerbated by head trauma?
+##
+query 3: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 3: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 4: SUBJECT: Is Balsalazide a steroid? MESSAGE: Is Balsalazide a steroid? I have been on it doe close to 2 years now, your information states 6-8 weeks.  Will this do any damage to my other organs?  Was on Asacol prier to Balsalazide 750mg each X9 per day.  Is this safe? I cannot seem to lose any weight no matter how much I try. I exercise 5-6 days a week for 30 minutes, watch what I eat.
+summarized question 4: Where can I find information on balsalazide, including dosage, side effects, and drug class?
+##
+query 5: SUBJECT: pulmonary tuberchlosis MESSAGE: respected sir/madam, i takeing treatment of pulmonary tuberchlosis past two years now it is in 2nd stage. there is no change in my x-ray report they show constant figure. my sputum report is negative hiv test also negative in ultra sound show some fluid (water) but it shows constant. what shall i do for clear the remaining fluids.
+summarized question 5: What are the treatments for lung fluid retention after two years of anti-tuberculosis treatment?
+##
+query 6: MESSAGE: I am taking Metformin and I am concerned about how can I cut back without any dangerous side effects; at the moment I weigh 182lbs. where I was weighing before at 220lbs. Is it possible I don't need to take this medicine anymore or is their another prescription medicine that I can take to replace that is not so strong, the one I have  is 500mg 60 tablets.
+summarized question 6: Should metformin dosage be reduced after weight loss?
+##
+query 7: SUBJECT: Shingles MESSAGE: I am recovering from shingles. I am on antiviral medication. This is my second week with shingles. I have not experience any draining with my sores which are currently on the right side of my face close to my right eyebrow. My question is this: My husband is having surgery tomorrow, Can I go to the hospital with my husband?
+summarized question 7: When is shingles contagious?
+##
+query 8: Good morning I would like to ask something from you guys.i have a big problem of bloating and now its 2 years I have this problem and I try to buy some medication but it doesn't help me. And this thing its worse special during the night when I am sleeping cause I am always taking out the smelling air special when I am sleeping please guys can you assist me and I feel uncormfotable. Because its worse. I will appreciate it for your help. [NAME] [cid:image001.png@01D08E1E.47E509A0] Tel:         [CONTACT] Fax:        [CONTACT] Mobile  [CONTACT] Email:     [CONTACT]> [CONTACT] [CONTACT] In the interest of environment-think before you print! ________________________________________ [CONTACT] This message and any attachments are confidential and intended solely for the addressee.  The following link will display the full disclaimer: [CONTACT] The following link displays the list of Directors: [CONTACT] ________________________________________
+summarized question 8: What are the treatments for bloating and flatulence at night?
+##
+query 9: I was on a 10 day (2 pills per day) regimen of Amox & Clav (876mg/125 mg) for bronchitis.   Two days after I finished, I developed hives on my back (left side) and right side of my face.  Is this a post use side effect?
+summarized question 9:
