@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 1: What are the causes of and treatment for scrotal rash?
+##
+query 2: SUBJECT: dressings MESSAGE: my dad had some skin cancer removed 3 wks ago and a skin graft was performed. The doner site is healing well, but the graft site is still very sore and having dressings changed every 2/3 days, dad isnt convinced that the wet gauze dressings are any good. Which type of dressings should be being used?
+summarized question 2: What types of dressings are used for skin graft sites?
+##
+query 3: SUBJECT: burning rash MESSAGE: my left buttocks has painful sores a nurse at my work said to put cortisol10 cream on it but its not helping she thinks i got this by being in a dirty hottub! i hope its not something bad. please help
+summarized question 3: How can I get help for a burning rash on my buttocks that does not respond to OTC hydrocortisone cream?
+##
+query 4: SUBJECT: ears itch burn and have soreness at times MESSAGE: I was wondering I get my ears cleaned out because of allot of wax build up but I constantly have this itch in both of them and sometimes they burn little and they pain a touch, in the day I don't notice it as much as in the evening and at night sometimes I think I even feel draining in them but nothing drains out- If I take some clartin it does help but I hate doing clartin everyday what do you think I need to do ENT's don't do much for it or seem to think its a problem - I also get a little rining in the ears at night some high pitch sound not to bothersome but there and they did check my hearing and said it was fine, so I wonder what it could be something I am taking supplement wise or allergies or what? is there some kind of test that would tell what this is and how to overcome this nuisance thanks so much for any help
+summarized question 4: What are the causes and treatments of ear pain, itching, and ringing?
+##
+query 5: SUBJECT: vaginal rashes after periods that leads to vaginal itching MESSAGE: period rashes proceed to vaginal itching. then it develop fungal infection with thick white discharge. i then take flucanazole (antifungal)which cure it. but m worried of taking allopatic medicines. pls tell me what primitive or traditional methods do i use to avoid it. i also have a sensitive skin.
+summarized question 5: How can I prevent vaginal skin rashes and fungal infection?
+##
+query 6: SUBJECT: Irritation on the gland MESSAGE: There is a problem on my penis gland, due to using lidokaine a lot. The skin is irritating and very sensitive especially when it is wet. Also, the gland is peeling every 3 or 4 days during a week leading to very high stimulating feelings. I have undergone several treatments for skin as well as my neurotic system but with no result at all. Please help me to cure this. Some doctors said there is no treatment for me and there would be no sexual contact forever.
+summarized question 6: What are the treatments for sensitive, irritated skin on the penis?
+##
+query 7: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 7: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 8: MESSAGE: What should I do for my excess hair growth?? hair growth on legs ,they appear when I took oral contraceptive only two time ....but the excess hairs on legs are appeared since last year after heavy itching on legs.....!what diagnosis should I do?????
+summarized question 8: What causes excess haur growth on the legs and what are the treatments?
+##
+query 9: scrotum swelling scarring from water retention what ointment, cream to treat
+summarized question 9:

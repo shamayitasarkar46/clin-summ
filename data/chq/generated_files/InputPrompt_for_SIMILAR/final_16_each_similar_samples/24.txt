@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 1: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 2: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 2: What are the treatments for kidney stones?
+##
+query 3: SUBJECT: Liquid Nutrition without Vitamin K MESSAGE: My Mother (age 84) is often not hungry and would like to try one of those liquid meals, but was told by her doctor not to take anything with Vitamin K in it.  I have looked at the labels on all of those products and they all have vitamin K in them.  Any ideas of where to look?  Thanks so much.
+summarized question 3: What nutritional drinks do not contain vitamin K?
+##
+query 4: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 4: Can magnesium be taken with orange juice?
+##
+query 5: SUBJECT: what to eat MESSAGE: I have very bad diarrhea for last two months. Doctors have not found what causing it. It reserve watery.I need to know what I can eat. And is lactase milk and yougar is ok are not?
+summarized question 5: What foods should I eat when I have diarrhea?
+##
+query 6: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 6: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 7: SUBJECT: Daily Fluid Intake MESSAGE: What is the significance of keeping my daily fluid intake at @2 liters per day?  Why that particular amount?    I have been diagnosed with Congestive Heart Failure.  Thanks
+summarized question 7: For Congestive Heart Failure, what is the significance of keeping my daily fluid intake at 2 liters per day?
+##
+query 8: SUBJECT: sodium intake MESSAGE: My mother is 96 years old and generally in good health.  I keep her on a low sodium diet and wonder if I'm not allowing enough sodium in her diet.  What is the lowest amount she should have per day?  Thank you.
+summarized question 8: What is the minimum required sodium intake per day in elderly?
+##
+query 9: what electrolyte do you need to watch when someone is on a water pill and what would be a good food source for this electrolyte?
+summarized question 9:
