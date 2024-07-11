@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am keen to know about stem cell bio-engineering technology to regrow a complete human tooth with its root, its progress and expected releasing year or clinical availability I have been reading some articles related to the same for sometimes and waiting for the outcome. How much time it will take to be available at clinic?
+summarized question 1: What is the latest research on stem cell bioengineering of a human whole tooth, including progress and availability?
+##
+query 2: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 2: What are the treatments for strabismus, including stem cell therapies?
+##
+query 3: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 3: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 4: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 4: What are the treatments for brain tumors and spinal tumors?
+##
+query 5: SUBJECT: glossopharyngeal neuralgia MESSAGE: how long would i take the medication. what is the success rate of surgery. can you tell me how much radiation method work and where is the treatment available in [LOCATION]
+summarized question 5: What are the treatments and their success rates for glossopharyngeal neuralgia?
+##
+query 6: Achondroplasia research.  Hello, We are students from [LOCATION] and we are doing a biology project of genetic diseases. We chose Achondroplasia as our disease to research. We have a few question and we are hoping you could answer them. Our questions are, can you tell if your child will have Achondroplasia when you are pregnant? When do people usually come in when they think something isn't right with their child? what are the worse cases of Achondroplasia you've ever seen? Thank you in advance. sincerely, [NAME]
+summarized question 6: Where can I find information on achondroplasia, including prenatal diagnosis and prognosis?
+##
+query 7: SUBJECT: Bone Marrow Cancer MESSAGE: hello Sir, i want to ask something about bone marrow marrow cancer.... its 22 year age... and have many symptoms of BMC..  often feel pain in bones....  i don't know the stage.... is treatment is possible at any stage???? how i can find stage??? if treatment is possible  how long(in months) it takes to recover???  kindly reply me...
+summarized question 7: Where can I find informaton on bone marrow cancer, includinf diagnosis, treatment, and prognosis?
+##
+query 8: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 8: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 9: laser hair removal treatment.  I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!
+summarized question 9: Where can I find information on laser hair removal including long term consequences?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am looking for any treatments that have been found to work for Hyperpigmentation on the face. Please let me know if you can help. [NAME]
+summarized question 10: What are the latest treatments for hytperpigmentation on the face?
+##
+query 11: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 11: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 12: "SUBJECT: cosmetic leg shortening surgery MESSAGE: Hi,  I am a tall girl(5'8""), who wants to undergo leg shortening sugery of 2 inches for cosmetic purpose. It would be good if I can get more information about it. I would like to know the cost of this surgery, the recovery time and the risks associated with it. How long should I stay in the hospital?  Thanks and regards"
+summarized question 12: Where can I find information on leg shortening surgery, including risks, cost, and recovery time?
+##
+query 13: MESSAGE: I just read an article submitted by you that stated your research shows that you've identified the mechanism that causes burning mouth syndrome. Also because of these findings you can find a treatment. I've had this for 15 yrs and am just holding on. When will a good treatment be available??  I belong to a group of over 500 bmsers. We're suffering terribly and were from all over the world. What would the treatment be?
+summarized question 13: What are the treatments for burning mouth syndrome?
+##
+query 14: SUBJECT: foreskin MESSAGE: I want to regrow my foreskin back. When will stem cell be able to regrow foreskin.
+summarized question 14: Is stem cell therapy used to regrow foreskin?
+##
+query 15: SUBJECT: Please help me MESSAGE: I have been dealing with undiagnosed issues. It started 3 years ago as nausea and dull achy pain. Doctors decided to remove my gallbladder, even though it only had scarring. Since the surgery ([DATE]) I have had a sharp, stabbing random pain in that area and around it. I also get dull, crampy pain. Finally, the surgeon ordered a CT scan because the pain is so bad. His nurse called and said everything was fine. So I went to my primary, who noticed that I have ascites on my liver. My side is slightly bloated, was not before. And I am scared because I don't know what I'm supposed to do. No one will help me and I do not want to be on pain meds my whole life.  Please let me know your thoughts or guide me in the direction I need, please.  I live in south carolina, i dont know why when I made my email it had the co.uk
+summarized question 15: What are the treatments for ascites?
+##
+query 16: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 16: What are the treatments for nutcracker syndrome?
+##
+query 17: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome I am wondering how does downs sydrome affect the daily routine of kids with downs sydrome such as using the. Bathroom or brushing their teeth? I look forward to hearing from you thank you.
+summarized question 17: How does Downs syndrome affect activities of daily living?
+##
+query 18: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 18: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 19: SUBJECT: Research assignment MESSAGE: Hi, I am a grade 12 student who is doing a research assignment on neurological disorders. Do you believe that there will ever be a bonafide cure for Multiple Sclerosis? If so, what kind of time frame would put on this cure?
+summarized question 19: Can multiple sclerosis be cured?
+##
+query 20: SUBJECT: Undesecnded testis MESSAGE: Hello Sir  I am a young man of age 27  I was born with a problem of descended testis  to this age  I have always experience one of them go down to the real position at times  and then run back to the abdomen  but of recent it stopped going down  Please Sir I will like to know what my situation is and is there a remedy for it ? Thanks an i wait for your reply
+summarized question 20: What are the treatments for undescended testicles?
+##
+query 21: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 21: What are the treatments and prognosis for a small GIST?
+##
+query 22: My grand child was born on [DATE] with Multicystic dysplastic kidneys.  After reading your article I would like to know whether the stem cell could bring hope to this child. Is this possible?  How to go about? Cloning? Please give me something to work on.
+summarized question 22: What are the latest treatments for multicystic dysplastic kidneys, including stem cell therapy?
+##
+query 23: SUBJECT: Shoulder,back and neck paim MESSAGE: My health care provider has done nothing for but give me shots and pain medication. What can you do to stop the pain? This has been going on 1 and half years.
+summarized question 23: What are the treatments of shoulder, back, and neck pain?
+##
+query 24: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 24: What clinical trials are available for hepatitis C?
+##
+query 25: "SUBJECT: pseudogout MESSAGE: @ http://www.nlm.nih.gov/medlineplus/ency/article/000421.htm I see the statement ""There is no known way to prevent this disorder. However, treating other problems that may cause pseudogout may make the condition less severe"" which I would like to have explained, especially what those other problems are &how they may be treated. I'm especially interested in whether supplemental calcium may not be good to take."
+summarized question 25: What are the treatments for pseudogout?
+##
+query 26: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 26: What are the treatments for lichen planus?
+##
+query 27: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 27: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 28: SUBJECT: pots puffy tumor MESSAGE: what will happen to a 53 year old woman who has been dignoised with pots puffy tumor if she doesnt have the surgery? she has been on antibiotics for akmost a year now but scared to have surgery and it is getting worse thank you for your time [NAME]
+summarized question 28: What is the prognosis for untreated pott's puffy tumor?
+##
+query 29: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 29: What is the difference between residual and recurrent maligancy?
+##
+query 30: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 30: What are the symptoms of complex regional pain syndrome?
+##
+query 31: SUBJECT: enlarge prostate MESSAGE: Hi, I have some questions about enlarge prostate. My bf has that and he tried different pills and now his been on just 1 type of pill which are SANDOZ-ALFUZOSIN...hes been on them for over 2 years i think...but his sex drive has decrease...and so i was wondering if he has surgery will his sex drive increase again or it would there be still a chance of that side effect? He has talked to his dr. but that doesnt seem to help much. So i was wondering if you have any suggestions because i would like for this situation to change if thats at all possible.  Please let me know what your opinion are. thank-you
+summarized question 31: What are the treatments for enlarged prostate, and how do they affect sex drive?
+##
+query 32: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 32: How do I stop taking wellbutrin HCL XL?
+##
+query 33: 23 surgeries and counting......lower lip birthmark, have tried all options out the there and guess what still have it, continues to grow back.....any suggestions? Is there a cure coming in the next few years hopefully?
+summarized question 33:

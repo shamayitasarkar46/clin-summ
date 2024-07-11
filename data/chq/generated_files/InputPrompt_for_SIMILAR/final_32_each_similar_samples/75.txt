@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Blood in cough MESSAGE: before some time i vomit. and blood came in cough with vomit.  what to do . it happens 4-5 times.  when i ask to doc reply that its throat infection.  please advice home remedy for this.
+summarized question 1: What are the treatments for coughing up blood?
+##
+query 2: SUBJECT: vomiting blood clots MESSAGE: Vomiting blood clots. Very small amounts
+summarized question 2: What does vomiting blood clots indicate?
+##
+query 3: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 3: What are the causes of abdominal pain and swelling?
+##
+query 4: SUBJECT: Skin Rash (Petechiae?) MESSAGE: Yesterday I noticed a large cluster of pinprick red spots underneath my chin (not on my neck). Recently I have been self induced vomiting. I know that Petechiae can be caused by vomiting but would this cause it to be underneath the chin??
+summarized question 4: Can vomiting cause petechiae on the chin?
+##
+query 5: MESSAGE: wHEN ENGULFING FOOD,A SEVERE PAIN AS FOOD PASSES UPPER PART OF STOMACH. I FEEL PAIN FOR A MOMENT THAN IT BECOMES NORMAL.as such i am afraid of eating food
+summarized question 5: What are the causes of digestive pain?
+##
+query 6: "SUBJECT: Shortness of breath in the mornings MESSAGE: My wife has been having shortness of breath in the mornings (mornings only).  She has, what I think, excessive heart rate as well.  Again, mornings only. Could this be anxiety attacks?  I don't think it would be a heart issue.  She certainly isn't overweight.  SHe is 5'2"" and 100-105 pounds.  if she is having anxiety attack... what is the best course of action?  She seems to feel better when she lies down and rests.....while either watching TV...or sleeps.  WHat is weird about it is ... it only happens in the mornings.  SHe has no history in her family for heart disease either.  WHat are your thoughts?"
+summarized question 6: What could cause shortness of breath in the mornings?
+##
+query 7: Tri-Gem Neuralgia.  I had an episode with the tri gem 2 days after i was rear-ended.  It was incredible pain that lasted 10 days. In the months following i had 2 decompression surgeries. the 1st one didnt work, was pain free for about 90 days.  The second syrgery 6 months later left me with a numb face but no tri gemn pain. Could the tri gem have been brought on from the trauma to the head from the car accident? I had been diagosed prior to  the accident, but was not experiencing any symptoms for a long time.  Then the accident and  1 1 /2 days later im in a full blown episode. Please let me know what your thoughts are.
+summarized question 7: Can symptoms of trigeminal neuralgia be exacerbated by head trauma?
+##
+query 8: "SUBJECT: bowel movements MESSAGE: whenever I eat ANYTHING within 10-15 minutes I start having slight stomach cramps and I have to rush to the bathroom and my stool is from slightly firm to liquid - what's causing this?  I'm afraid to eat out at restaurants - it's been happening for about 3 years now  I'm a 53 year old, 5', 7"" in height, african-american woman, never had children, about 50 lbs overweight"
+summarized question 8: What are the causes of cramps and diarrhea after eating?
+##
+query 9: SUBJECT: cirrhosis of the liver question MESSAGE: I have cirrhosis of the liver.  Do high ammonia levels effect breathing?  I have spells of not being able to breath very well. No pain.
+summarized question 9: Can high ammonia levels in the blood affect breathing?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 10: What are the early symptoms of Stiff person Syndrome?
+##
+query 11: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 11: What are the side effects of barium sulfate?
+##
+query 12: migraine. I want to know the treatment for FHM type of migrain . I had observed the all symptoms which are same as provided in information and additionally my father and my younger sister face the acidity problem too. they feel relief after vomiting so both of them do the same by drinking warm water containing salt.
+summarized question 12: What are the treatments for familial hemiplegic migraine?
+##
+query 13: Hello. I am writing this mail from [LOCATION]. This in regards with seeking help for Ulceratice colitis. My mother is suffering from this diseases from last 3 Years. Her treatment is going with [LOCATION] from past a year and half. Below are the symptoms of her disease : 1. Mucas Pus flow in quantity while passing stool 2. Blood flow while passing stool 3. Heavy weakness 4. Heavy and steady weight loss 5. Weak Eyesight 6. Heavy cramps after meal 7. stomach pain sometimes after lifting heavy weight 8. Poor appetite Below are the medicines given by the doctor during the course : Cap SonprazD, Tab Coolgut 1.5 , tab Falute, Mesacol Supporteries, Cap A to Z , Tab siho fix, and Tab omnacortil , rabelco rd cap , coolgut , folvitc , entofoam , bevon , anovate. She had undergone Colonoscopy , Endoscopy , Stool test , Urine tests and Blood test many times ( i can mail the reports of all the above if needed ). Her progress was very good at initial stage of the treatment. But eventually after due course of time , Her Blood and mucas flow while passing stool had increased. Even after taking her regular medication and proper diet. Her colonoscopy and Endoscopy shows result of erosion on some part of Rectum. Though doctor told the Ulcer is getting cured day by day. Still , from these past days her Blood and mucas flow is continuous and heavy. She is complaining a lot about weakness. Her daily medications is showing very less effect. This makes me to write this mail to u for seeking some advice and help in this case. As i understood this is the best known institute i can find for gastroenterology. My study on this disease help me understand that there are surgical treatment available for this kind of situation like Proctocolectomy and ileoanal reservoir. Please suggest on this. whether my mother requires this surgery at this stage of disease by looking into the Symptoms. We are very worried a
+summarized question 13: Where can I get advice and help for ulceratice colitis?
+##
+query 14: MESSAGE: What if someone throw up blood just a little got a little light headed and just laid down and went to sleep they said they will sleep it off but I want to take they said I'm fine. What should I do
+summarized question 14: Should someone who vomited blood and  felt lightheaded go to sleep?
+##
+query 15: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 15: How long will an insecticide application last in the house?
+##
+query 16: SUBJECT: voids to avoid with ebstien-barr virus in the liver MESSAGE: In pain after I eat...wondering if I am eating wrong foods. I have been diagnosed with this and had cat scan with and without dye and it shows a clump of blood vessels infected with the virus....
+summarized question 16: What foods to  avoid with epstein barr virus and abdominal pain?
+##
+query 17: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 17: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 18: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 18: What are the treatments for mercury poisoning?
+##
+query 19: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 19: What are the treatments for bad breath?
+##
+query 20: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 20: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 21: SUBJECT: lymphedema MESSAGE: HelloI was suffering from filariasis before 6 month, then i observed that I started having leg swelling about 6 months ago.It's lymphedema of my left leg. I has seen many doctors for this problem. but nobody help me to cure this.Finally they answer me there is no treatment for this. i have to live with this disease. but i can't spend whole life with this disease. Better then i will comit or prefer sucide and say goodbye to life.So please suggest me treatment if any treatment available.please reply atleast if no solution.
+summarized question 21: What are the treatments for lymphedema?
+##
+query 22: "SUBJECT: is there any medicines for peristaltic movements? MESSAGE: I V[NAME] From [LOCATION] which is located at INDIA. I am a patient of less peristaltic movements which was digests the eaten food in 3 to 4 hours... In normal humans which was digests the eaten food in 2 to 3 hours...  I visited several hospitals in [LOCATION] which is located in INDIA...  When i was visited [LOCATION]"" Hospital at HYDERBAD in the year of 2010..  There Doctors has told there is no medicins for this problem..  Is  there any medicines to improve my  peristaltic movements?  Please Replay to My E-mail[CONTACT] and My Mobile Number is: [CONTACT]  Thanking You taking my request...."
+summarized question 22: What are the treatments for slow peristaltic movements?
+##
+query 23: SUBJECT: Can a 40 year old get throat cancer... MESSAGE: I have drank a lot of alcohol and lots of drugs. Not very many fruits and vegetables. This year I have gotten strep throat twice and sore throats with ear aches. Antibiotics have taken 4 different kinds this year alone. Raspy voice, very painful when swallowing.
+summarized question 23: What are the risk factors and symptoms of throat cancer?
+##
+query 24: SUBJECT: High Blood Pressure MESSAGE: I know you may not answer this but my blood pressure comes up at night when I am asleep. I take four medicines. I have asked doctors why this happens and no one knows. This morning at four A.M. It was 164 and I took a clonidine to help get it done. It worries me so.
+summarized question 24: What causes a rise in blood pressure when asleep?
+##
+query 25: SUBJECT: about thalassemia treatment MESSAGE: sir,my friend is suffering from thalassemia ,in that majorly red blood anemia,white blood anemia and the blood is comming out from mouth when she got cough .her condition is very severe .in her body the red ,white blood cells are abscent .so that blood transfusion is doing for every 16-20days.then in the recent days the blood also comming out from mouth please tell me where can i get the treatment for this disease .we can travel around the world for treatment please reply me as soon as possible. thank you sir.
+summarized question 25: What are the treatments for thalassemia?
+##
+query 26: SUBJECT: how to breathe MESSAGE: Dear Sirs,  This may seem like a stupid question but here goes anyway.  I am 64 yrs old and a type II diabetic.  I walk frequently to stay fairly fit but always seem to get out of breath when going up even gentle hills. Today however I noticed that I could change how I breath. Thus, I could force air out using my diaphram (ie like blowing out a candle)then relax and just let the air flow back in or I could use my diaphram to suck in air (like breathing in the morning air)and again relax my diaphram to push it out. I also found that I could breath faster under conscious control which seemd to help my performance. I dont know if any of this makes sense to you but I would like to know what you think and whether there are any do's and dont's and if there is a 'better' way to breath.  Thanks very much for your help with this,  Regards,  [NAME]
+summarized question 26: What are techniques for  proper breathing?
+##
+query 27: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 27: Is there a medication that can cause bleeding during sex?
+##
+query 28: SUBJECT: Bruxism MESSAGE: I understand that bruxism may be a result of tension or anxiety, but why that particular release? Why don't people clench their fists during sleep, or kick, or any number of activities? In other words, why is the jaw the most common location?
+summarized question 28: What are the causes of bruxism?
+##
+query 29: I understand that you cannot provide opinions,nor suggest, any type of therpy.  My son (dob-[DATE]), was called back to the hospital four days after birth due to a abnormal PKU, which suggested adrenal hyperplasia. After test the endocrine physians felt he did not have the condition. Several years later he began having severe headaches preceded by violent vomiting epidodes  that lasted for hours. When he was admitted to [LOCATION],  he was suffering from bleeding esphogal ulcers,  and severe dehydration and, malnutrician. His urine (24 hr), blood plasma,& VMA,showed increased values of catacholomines.He also demostrated intermittent hypertension, and tachcardia through out the day (he had been diagnoised with ADHD several years earlier). His MIGB clearly showed bifocal uptake in both adrenal glands. The mri did not show tumors at that time ([DATE]. He has since been diagnoised with antral polys (biosphy's taken were misplaced, and the gastrologist would not redo the test), aberrant right subclavian artery,  esphogas pushed to the side, low oxygen intake, high levels of gastrin, cyclic vomiting syndrome, severe sinus attacks that come and go, without infection present.  His symptons that I have not already include heat intolerence, pallor, poor appetite with little weight gain, anxiety, tremor of hands, and stomach pain. After his mri, which I was told would take about 45mins, took over 5 hrs. Since then we have been having no luck with finding doctors that will take my son as a patient. Are you able to suggest a hospital that is knowlegable with pheochromocytomas? My son's father is mia, but during our 7 yrs together,  he also suffered severe headaches, and intermittent hypertension. He never followed up with a physian. Any help would be appreciated. I do not know what to do, and I do not want my son to end up a statistic.  Last night his BB was 180/115, with HR-50, half hour later his BP was 68/44 with HR of 122. I fear he is going to go in shoc
+summarized question 29: How can I find physician(s) or hospital(s) who specialize in pheochromocytomas?
+##
+query 30: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 30: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 31: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 31: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 32: SUBJECT: bruised blood/bleeding under the skin MESSAGE: what causes the above? Certain pressure(s) applied to body leaves long lasting dark spot(s)
+summarized question 32: What causes bleeding under the skin?
+##
+query 33: SUBJECT: vomiting blood and blood clots, ( pulmonary embolisms). MESSAGE: Is it possible to vomit blood, with abdominal pain, fatigue that caused them to sleep two days, left sided chest pain ( left upper ribcage area), and suffer from Bilateral Pulmonary Embolism with Left Lower Lobe Infarction four weeks later? The blood was bright red, about one cup.
+summarized question 33:

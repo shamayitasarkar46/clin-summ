@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 1: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 2: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 2: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 3: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 3: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 4: Post chemo for breast ca.( methotrexate and cytoxin) I gained weight. I had always been a string bean until then. After reading about christensenella I began to wonder what might kill our little friendly gut bacteria. Antibiotics and chemo are so common in our culture. I wondered could this be  causative in the obesity that exists in the USA ?
+summarized question 4: Does antibiotic use and chemotherapy cause weight gain?
+##
+query 5: SUBJECT: blocked ear drum MESSAGE: got a head cold and now left ear drum has bean blocked for three weeks now.taking amoxicillin trihydrate three times a day also apo-mometasone spray once a day. its bean five days now on medication and not any better
+summarized question 5: How long does it take for antibiotics to clear up a blocked ear?
+##
+query 6: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 6: How do I stop taking oxycodone?
+##
+query 7: SUBJECT: taking medications options MESSAGE: If my doctor gives prescription for Inderal 40 mg  twice a day,  pharmacist says take 80mg time release once day.  Is it appropriate to follow pharmacists directions rather than doctors prescription 40 mg twice a day.  Does 40 MG twice day equal constant 40 mg,  or does it build to 80 and maintain 80 mg?
+summarized question 7: Is Inderal 40 mg  twice a day equivalent to 80mg time release once a day?
+##
+query 8: Are there any guidelines to tell how quickly Humalog becomes active after injection?  I believe it remains active for about 4 hours.  Is this reasonable?
+summarized question 8: How long does it take for humalog to start working, and how long does it last?
+##
+query 9: Dear Sirs, Please instruct me what the correct dose of medication: *BRONCOMAR MAXIMUM- dextromethorphan hydrobromide and guaifenesin liquid,* because: In the *labeling* says: Adults and children 12 years over 10 ml (2 tsp) every 6 hours Children 6 to under 12 years old 5 ml (1 tsp) every 6 hours And in the *insert* specifies: Adults and children 12 years over 10 ml (2 tsp) every 4 hours Children 6 to under 12 years old 5 ml (1 tsp) every 4 hours Waiting for your prompt response. *[NAME]* [PROFESSION] *[CONTACT]* [CONTACT]
+summarized question 9: What are the recommended dosages for BRONCOMAR MAXIMUM-dextromethorphan hydrobromide and guaifenesin liquid?
+##
+query 10: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 10: How long does the tetanus vaccine last?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: will dalfampridine be effective for people with spinal musclar atrophy. is this a possibility in the future
+summarized question 11: Is dalfampridine an effective treatment for spinal muscular atrophy?
+##
+query 12: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 12: What are the treatments and prognosis for a child with AML?
+##
+query 13: SUBJECT: Optic nerve artrophy MESSAGE: Good afternoon,  I am [NAME] from [LOCATION]. For my nephew is optic nerve artrophy about 2-3 years. He is 8 years old. One eye is dead now, other eye he can see about 20 percentage. No one doctor can`t help him in [LOCATION] (Europe).  Could You view his health history and to give the opinion about my nephew health situation and You will have proposition how we can help him.  I would be very grateful for Your.  Best regards,  [NAME] from [LOCATION].
+summarized question 13: What are treatments for optic nerve atrophy, and how can I find physician(s) in Europe who specialize in it?
+##
+query 14: SUBJECT: daytrana MESSAGE: can daytrana be prescribed for an 18 almost 19 year old male? if so, what dosage?  he is 230 lbs.  He has tried several ADHD medications in the past.
+summarized question 14: What are dosage guidelines for Daytrana?
+##
+query 15: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 15: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 16: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 16: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 17: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 17: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 18: SUBJECT: glossopharyngeal neuralgia MESSAGE: how long would i take the medication. what is the success rate of surgery. can you tell me how much radiation method work and where is the treatment available in [LOCATION]
+summarized question 18: What are the treatments and their success rates for glossopharyngeal neuralgia?
+##
+query 19: SUBJECT: Jaundice MESSAGE: Can older infants get jaundice? What is the age range?
+summarized question 19: Can older infants get jaundice?
+##
+query 20: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 20: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 21: SUBJECT: Bone Marrow Cancer MESSAGE: hello Sir, i want to ask something about bone marrow marrow cancer.... its 22 year age... and have many symptoms of BMC..  often feel pain in bones....  i don't know the stage.... is treatment is possible at any stage???? how i can find stage??? if treatment is possible  how long(in months) it takes to recover???  kindly reply me...
+summarized question 21: Where can I find informaton on bone marrow cancer, includinf diagnosis, treatment, and prognosis?
+##
+query 22: Interested in research regarding Arimidex and the pros and cons of taking it following lumpectomy and radiation for breast cancer.  Are there research results of recent research?  The possible side effects are worrying - I make decisions for my 47 year old daughter with Down Syndrome-trying to do what is best.  She has taken Anastrozole for a year now.
+summarized question 22: What is the the latest research on Arimidex, and the benefits and side effects of the drug?
+##
+query 23: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: Dear sir/ madam. I am a patient suffering from Friedreich's ataxia and i heard there was a medicine for it. In 2009 and since we are looking for the medicine kindly help on this and I have DNA report could You please help us on this as there are two people respective age 22 years and 24 years suffering from it. Looking for your help on this ASAP and please let us know when the medicine will be there in market and attaching two files for your reference
+summarized question 23: What are the treatments for friedreich's ataxia?
+##
+query 24: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 24: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 25: SUBJECT: once you open the bottle of Releev, how long is it good for? MESSAGE: once you open the bottle of Releev, how long is it good for?
+summarized question 25: How long does releev retain its potency after opening?
+##
+query 26: MESSAGE: I am taking Metformin and I am concerned about how can I cut back without any dangerous side effects; at the moment I weigh 182lbs. where I was weighing before at 220lbs. Is it possible I don't need to take this medicine anymore or is their another prescription medicine that I can take to replace that is not so strong, the one I have  is 500mg 60 tablets.
+summarized question 26: Should metformin dosage be reduced after weight loss?
+##
+query 27: MESSAGE: What should I do for my excess hair growth?? hair growth on legs ,they appear when I took oral contraceptive only two time ....but the excess hairs on legs are appeared since last year after heavy itching on legs.....!what diagnosis should I do?????
+summarized question 27: What causes excess haur growth on the legs and what are the treatments?
+##
+query 28: atypical pnuemonia.  what is the possibility of atypical pneumonia occurring again less than a month after treatment?
+summarized question 28: Can atypical pneumonia recur shortly after treatment?
+##
+query 29: SUBJECT: Is Balsalazide a steroid? MESSAGE: Is Balsalazide a steroid? I have been on it doe close to 2 years now, your information states 6-8 weeks.  Will this do any damage to my other organs?  Was on Asacol prier to Balsalazide 750mg each X9 per day.  Is this safe? I cannot seem to lose any weight no matter how much I try. I exercise 5-6 days a week for 30 minutes, watch what I eat.
+summarized question 29: Where can I find information on balsalazide, including dosage, side effects, and drug class?
+##
+query 30: Physician.  I am looking for a type of physician that specializes in treating leg cramps in the elderly.  Specifically, possibly one that provides treatment for leg circulation issues.  What medical specialty is that called?
+summarized question 30: What type of physician treats poor circulation in the legs?
+##
+query 31: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am keen to know about stem cell bio-engineering technology to regrow a complete human tooth with its root, its progress and expected releasing year or clinical availability I have been reading some articles related to the same for sometimes and waiting for the outcome. How much time it will take to be available at clinic?
+summarized question 31: What is the latest research on stem cell bioengineering of a human whole tooth, including progress and availability?
+##
+query 32: SUBJECT: When do you know you should not take Tecfidera? MESSAGE: When do you know you should not take Tecfidera? I took Tecfidera 9 days. Day 1 my legs and feet felt normal for the first time in 5 years. day 2 my legs, thighs, feet, hands, arms, and middle became so swollen I can hardly walk, move, sit or sleep. I got the flushing day 7, foggy vision day 4, and more.
+summarized question 32: What are the side effects of tecfidera and when to stop taking it?
+##
+query 33: when to start anohter round of antibiotics? how long can you wait to start a new dose of an antibiotic? 
+summarized question 33:

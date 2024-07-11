@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: missed dose MESSAGE: I missed taking my thyroid med this morning.  I usually take it when I first get up and then wait an hour before I eat.  I ate breakfast and remembered that I had not taken it.  How long after breakfast should I wait to take it?
+summarized question 1: How long should you wait to take thyroid medication after eating?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 2: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 3: SUBJECT: Does my circadian rhythm need adjusting? If so, how? MESSAGE: I had a saliva test last July, which showed my cortisol level at 9 @ 6:30am, 5.1 @ 11:30am, 4.2 @ 4:30pm, 3.3@ 9:30pm. I wake frequently during the night and my brain seems to engage in much thought, making it difficult to go back to sleep. I wake well before the 5:45 alarm and drag myself out of bed. I am exhausted all day and can fall asleep at day or evening events I have seen endocrinologists, in addition to my GYN and primary care dr., all of whom tell me all my blood tests are normal. I take 2 sport yoga classes and a Qi Gong class weekly. I was a young 65, but at 66, the lack of sleep has finally caught up with me and I feel much older than my 66 years. I feel lethargic and heavy-chested. I want my life back. I have never seen or read anything about how or where help can be found. Can you help?
+summarized question 3: Where can I find information on low cortisol levels, including symptoms, causes and treatments?
+##
+query 4: SUBJECT: about manturation cycle MESSAGE: My mensuration cycle is not uniform.. there are many days gap in a month. Some time the gap is more then 1month. What I have to do.
+summarized question 4: What are the treatments for irregular periods?
+##
+query 5: SUBJECT: bowl movements question. MESSAGE: I have been having BM two or three times a day, that is not a problem, it seems natural, but the feeling that I have not finish is there every time. I feel that I have not finish and something is going back in, when I get up. I had back surgery 6 months ago.
+summarized question 5: What are the treatments for incomplete bowel emptying?
+##
+query 6: SUBJECT: Mefloquine HCl MESSAGE: My daughter's pediatrician prescribed 1/4 of a 250mg tablet once a week. Based on insurance I could only get 4 tablet for a 30 day supply. The pediatrician thought the remaining 3/4 of the tablet must be discarded once it was exposed to air, but the pharmacist had not heard this. I read through your literature on the drug and also did not see this warning. Can we use the remaining 3/4 of the tablet on additional weeks as long as it is kept at the correct storing specifications? Thank you for your time!
+summarized question 6: What are the storage requirements for Mefloquine HCL?
+##
+query 7: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 7: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 8: "SUBJECT: bowel movements MESSAGE: whenever I eat ANYTHING within 10-15 minutes I start having slight stomach cramps and I have to rush to the bathroom and my stool is from slightly firm to liquid - what's causing this?  I'm afraid to eat out at restaurants - it's been happening for about 3 years now  I'm a 53 year old, 5', 7"" in height, african-american woman, never had children, about 50 lbs overweight"
+summarized question 8: What are the causes of cramps and diarrhea after eating?
+##
+query 9: Shakiness.  I have acquired a symptom of extreme internal body shaking. Sometimes I canyon even speak right or use a pen. A doctor yesterday asked if I had a recent thyroid checkup. I see my thyroid doc the end of March.  Usually they say my T4 levels are low. I'm confused when it comes to what levels the thyroid should be.  I also have chronic fibromyalgia.  Seems that is blamed on for a lot of my problems.  Thank you for this site.
+summarized question 9: What are normal thyroid levels, and can thyroid problems cause body tremors?
+##
+query 10: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 10: What are the causes of abdominal pain and swelling?
+##
+query 11: SUBJECT: When do you know you should not take Tecfidera? MESSAGE: When do you know you should not take Tecfidera? I took Tecfidera 9 days. Day 1 my legs and feet felt normal for the first time in 5 years. day 2 my legs, thighs, feet, hands, arms, and middle became so swollen I can hardly walk, move, sit or sleep. I got the flushing day 7, foggy vision day 4, and more.
+summarized question 11: What are the side effects of tecfidera and when to stop taking it?
+##
+query 12: SUBJECT: vitamin b 12 deficiency MESSAGE: hi  3 months ago I was diagnosed with vitamin b 12 deficiency.  after treatment with cyanocobalamin my levels have returned to normal thus treatment has stopped.  However I  had a relapse of symptoms such as fatigue loss of appetite  nausea ect. can symptoms be present although levels are normal?  thanks
+summarized question 12: Can I experience symptoms of vitamin b12 deficiency and have normal levels of the vitamin?
+##
+query 13: SUBJECT: Mysthenia Gravis MESSAGE: hi i am 34 & a half years old, unmarried female.in 2011 i was diagnosed with MG ( early stage)when my right eyelid drooped a lot. the special blood test & enlarged thymus confirmed it. i was on prescribed medication since then till 3 months back when i discontinued the medicines assuming i am ok. but the drooping has again started though thymus is no longer enlarged ( as per latest CT scan ) so my doc has told me to continue the medicines lifelong. i am OK with it. but i dont want to pass on this disease to my kids. pls tell me if there is any way by which i can ensure that my kids dont get this disease during pregnancy? is it genetic or do the antobodies pass on from pregnant mother to the foetus? is there any way out to save the baby from this disease/ pls tell .
+summarized question 13: Is myasthenia gravis inherited and can it be passed from mother to fetus?
+##
+query 14: SUBJECT: lymphedema MESSAGE: HelloI was suffering from filariasis before 6 month, then i observed that I started having leg swelling about 6 months ago.It's lymphedema of my left leg. I has seen many doctors for this problem. but nobody help me to cure this.Finally they answer me there is no treatment for this. i have to live with this disease. but i can't spend whole life with this disease. Better then i will comit or prefer sucide and say goodbye to life.So please suggest me treatment if any treatment available.please reply atleast if no solution.
+summarized question 14: What are the treatments for lymphedema?
+##
+query 15: MESSAGE: I have been dealing with an autoimmune disease for almost 4 years now, I've been tested for many things and the doctors can't seem to find what excactly is wrong. It began with pain, swelling and stiffness in my feet and  toes.A lot of the pain is joint stiff n ess and my skin feels like its being burned. Over time it has moved into my knees also. I am always tired. Recently I've been getting pains in my stomache and feeling sick. Does any of this sound like Lupus?? I've tested negative for it before, but the more I read about it I feel that's what i could have. Any ideas would be greatly appreciated.
+summarized question 15: What are the symptoms of lupus?
+##
+query 16: Question..for the past 3 4 years I was get infection in my testis ball ( right hand side) now a day my Siemens come out in very low quantity and very thin in weight...give me some solution or advice .now I am getting married two months ago..and I m worried for our future
+summarized question 16: What are the treatments for low sperm count?
+##
+query 17: "SUBJECT: Degenerative bone &disk disease MESSAGE: Like to know more about Degenerative Bone &Disk Disease..I have had it for over 10 yrs..I'm losing muscle in my legs,at the point I can only walk about 30-40 steps my his freeze up with pain &pressure,hince I need a wheelchair,need more information on this disease...healthcare providers ""need surg.don't need surg"" I'm stuck in small town America....O I'm 59yrsold...any info would be apprec..."
+summarized question 17: Where can I find information on degenerative disc disease, including treatments?
+##
+query 18: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 18: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 19: SUBJECT: Growing Pain in Hip for over 15yrs MESSAGE: For as long as I can remember, I would get pain in my one hip, and surrounding area (at times) feels like it is a sleep...Though I Always would make sure it is not my underwear or pants pinching a nerve. My Doctor told me to just stretch my leg, as it is nothing more than growing pains, and will pass with time....But 15yrs+ I still have this strange feeling!! Is this something I should look into more?? And there are times, where the pain is just incredible!! Though I never take anything for it...I just drink a glass of milk thinking the Calcium can help my bones.Are there any suggestions?? I have no idea what to do, and do not want to look into this more if not needed, as I do not want to waste the Doctor's time & then think I am a wing nut!!
+summarized question 19: What are the treatments for hip pain?
+##
+query 20: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 20: What are the treatments for mercury poisoning?
+##
+query 21: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 21: What are the treatments for deafness caused by gentamicin?
+##
+query 22: MESSAGE: I m 33 year old. I m having hand and leg tremors for sometime. Is there any permanent treatment for this. I had visited doctor, they told its a Parkinson desease and cannot be cured permanently. Could you please provide me 2nd opinion on this
+summarized question 22: What are the causes and treatments for tremors in 33 year-old?
+##
+query 23: SUBJECT: severe vaginal bleeding MESSAGE: I've been bleeding for almost 9 long years. I've been to the doctor and he just put me on birth control saying it will balance itself out. That didn't work. We tried another birth control..it didn't work either. Ever since this problem started I've had terrible migraines, I gained weight (which I've tried to exercise and diet off), severe vaginal pain, cramping, heavy bleeding, blood clots the size of my hand. I've probably gone through 1000's of underwear and my life revolves around this issue. My sex life is one sided (which sucks) and I just want help..what should I do..I feel like I should have another doctor..
+summarized question 23: What are the treatments for severe vaginal bleeding?
+##
+query 24: Does high Thyroid level (31.13) interfere with recovery I just had double knee replacement on 01/15/2014. I take Levothyroxin 137mg dailey for my thyroid condition.  I take no other meds on a regular basis except for the normal pain meds prescribed during my recovery. During my recovery, I never felt comfortable and free of pain. I finally asked for a blood test and discovered my TSH level at 31.13.  My question is, will a high TSH level interfere with healing and recovery of muscle tissue and bones?  I am now taking a higher dose of Levthyroxin, can I expect a longer than normal recovery period due to a high TSH level?  Thank You, [NAME]
+summarized question 24: Can high TSH levels or Levothyroxine impact muscle tissue recovery?
+##
+query 25: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 25: What are the treatments for pain after hemorrhoidectomy?
+##
+query 26: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 26: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 27: MESSAGE: I have been battling Anal fissure for close to two years now and it has refused to heal all these while. Please what do you suggest i do?  Thanks
+summarized question 27: What are the treatments for chronic anal fissure?
+##
+query 28: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 28: When is shingles contagious?
+##
+query 29: SUBJECT: Stroke Due to Aneurysm? MESSAGE: My son had a hemmorhagic stroke at 4 weeks of age....he is now 31 years old.  In the week leading up to the stroke he had a head cold and I had been giving  him infant cold drops.  After he had the stroke the doctors at the time could only say that it was a 'fluke' and would probably never happen again.  The reason for the stroke has haunted me ever since.  Now we just recently found out that my mother has a cerebral aneurysm and they say this can be hereditary.  So my question now is 'did my son have an aneurysm that burst or was it caused by a blood clot?...is there anyway of knowing or getting an answer to that question after the event has happened?
+summarized question 29: Can the cause of hemmorhagic stroke be determined many years later?
+##
+query 30: SUBJECT: Need help! MESSAGE: I have a knot about the size of a BB in my right forearm about 2-3 inches from my elbow. It's been there for about 5 years and hurts sometimes. Mostly only notice it when i put pressure on it. You can't see it but can feel it pretty good. It will move about a cm in any direction. I went to the doctors about 4 years ago to have it looked at but they did no xray and said its prob a BB from when i was younger. It's starting to hurt more now without me putting pressure on it so i'm thinking i need to have something done about it. Any ideas on what it could be or what i should do about it?
+summarized question 30: What causes lumps on the arm?
+##
+query 31: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 31: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 32: SUBJECT: imitrex to be prescriped to 72 year old woman MESSAGE: I was in hospital for pancretitis.  On the 2nd day I was doing ok but came down with a migraine headache.  I have not had one in 2 years. but have the imitrex  tab.  which I did not have in the hospital  They gave me Toradol injection and it worked.  but they told me I should not take imitex as an older person.  I plan to go to my internist.  but decide to ask this question.   thanks
+summarized question 32: Is imitrex contraindicated in the elderly?
+##
+query 33: I’m 30 years old and when I was 23 my period wasnt coming every month, and I still don’t get my period , last time I got it was 4 months ago and I’m really worried.
+summarized question 33:

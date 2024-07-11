@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 1: How is post-polio syndrome diagnosed?
+##
+query 2: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 2: What are the causes of severe body weakness?
+##
+query 3: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 3: How long does the tetanus vaccine last?
+##
+query 4: atypical pnuemonia.  what is the possibility of atypical pneumonia occurring again less than a month after treatment?
+summarized question 4: Can atypical pneumonia recur shortly after treatment?
+##
+query 5: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 5: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 6: SUBJECT: Whipple's Disease MESSAGE: Your information about Whipple's Disease says that it is fatal if left untreated, but there is no information about HOW LONG a person can have it. I have been sick for 6 years and am having no luck getting a diagnosis, and it would be most helpful in ruling things out if I knew whether or not a particular illness would kill a person within a shorter time period than 6 years. Thank you.
+summarized question 6: What are the diagnosis of and prognosis for Whipple's Disease?
+##
+query 7: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 7: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 8: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 8: Is MRSA contagious, and how is it spread?
+##
+query 9: SUBJECT: Pneumococcal Polysaccharide - 23 MESSAGE: I received the Pnuemoccoal Polysaccharide 23 vaccine in 2009 at the age of 67 years. I was told I would never need the vaccine again. Is that still true or has the vaccine been updated? Should I get it again now at the age of 72?
+summarized question 9: What are the guidelines for updating pneumococcal polysaccharide 23 vaccine for persons 65 and over?
+##
+query 10: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 10: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 11: SUBJECT: When do you know you should not take Tecfidera? MESSAGE: When do you know you should not take Tecfidera? I took Tecfidera 9 days. Day 1 my legs and feet felt normal for the first time in 5 years. day 2 my legs, thighs, feet, hands, arms, and middle became so swollen I can hardly walk, move, sit or sleep. I got the flushing day 7, foggy vision day 4, and more.
+summarized question 11: What are the side effects of tecfidera and when to stop taking it?
+##
+query 12: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 12: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 13: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 13: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 14: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 14: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 15: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 15: What are the treatments for deafness caused by gentamicin?
+##
+query 16: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 16: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 17: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 17: How do I stop taking wellbutrin HCL XL?
+##
+query 18: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 18: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 19: SUBJECT: tracheomalacia MESSAGE: My Tracheomalacia is so wide spread with 90% blockage surgery is not an option.  I wear o2 24/7 what is going to happen to me.  Will it get worse until I die please someone just be honest with me.
+summarized question 19: What is the prognosis for tracheomalacia?
+##
+query 20: Question..for the past 3 4 years I was get infection in my testis ball ( right hand side) now a day my Siemens come out in very low quantity and very thin in weight...give me some solution or advice .now I am getting married two months ago..and I m worried for our future
+summarized question 20: What are the treatments for low sperm count?
+##
+query 21: SUBJECT: Physical activity MESSAGE: .... Should I continue my daily exercise program ( bike riding , occasional softball practice , and dog walking ) now that I have had the Voster virus flare up and have been treated by a Dr . ? I se that the more muscle activity I perform , the more sore and fatigued I get .... Thank You much
+summarized question 21: Should I exercise with Zoster virus?
+##
+query 22: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 22: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 23: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 23: What is the half life of Chlordiazepoxide?
+##
+query 24: SUBJECT: Voice MESSAGE: Hi I am wondering if anyone can help me get my voice back. I have ALS in my throat and I don't want to go out on a disability. I want to keep working. Thank you.
+summarized question 24: What are the treatments for voice disorders caused by ALS?
+##
+query 25: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 25: How long does swelling from sleep apnea take to heal?
+##
+query 26: SUBJECT: Do Shrimp Allergies Subside Over Time MESSAGE: I used to eat shrimp all the time but suddenly developed an allergy to it when I turned 24. I went to an allergist and I definitely tested positive for shrimp allergy (all other shellfish like lobster, crab, etc. oddly was negative).  Are food allergies that develop later in life like this known to disappear over time? I'm just wondering if there's a safe way to test it if I'm too lazy/poor to go see an allergist again. It's been 8 years since I was diagnosed.  I'm not asking for a recommendation to my personal case but was just wondering the answer to my first question above.  Thanks
+summarized question 26: Is it possible for a shrimp allergy to go away?
+##
+query 27: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 27: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 28: SUBJECT: Body Lice MESSAGE: How do I get rid of these little devils? Me and My mom have tried so many things to get rid of these bugs and they just don't go away were the family that takes 2 showers and now about 3 showers a day we never understood how they could have infected us but I was just wondering is washing our clothes the best bet to get rid of these things, because apparently it hasn't worked for us. So is there any suggestions?
+summarized question 28: What are the treatments for body lice?
+##
+query 29: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am 48 years of age..i have had shingles  since i was just 7years..i have had them over 50 times  in my life  . I am also allergic to penicillin and valtrex..most antibiotics  and most pain pills  . I have now began having seizures for last year and half  . I have had testing  done. .waiting  on some results right now  . Any suggestions
+summarized question 29: What is the latest research on treatment for shingles?
+##
+query 30: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 30: When is shingles contagious?
+##
+query 31: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 31: What are the causes of abdominal pain and swelling?
+##
+query 32: SUBJECT: chickenpox MESSAGE: I do not know if I had chickenpox. Is there a blood test available to tell me ? And if not which vaccine should I get, if any ?
+summarized question 32: Is there a blood test for chickenpox and who should get vaccinated?
+##
+query 33: covid-19 how long to quarantine after being positive how long are you contagious if i tested positive for covid-19. how long before i can safely return to work after a positive covid 19 test
+summarized question 33:

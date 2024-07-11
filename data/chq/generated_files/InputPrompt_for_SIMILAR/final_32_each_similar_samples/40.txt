@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: questions about the effect of L-Leucine.  Hello,do you have any introduction about L-Leucine on the effect of treat cancer?If so,could you kindly tell me details?
+summarized question 1: Where can I find information on L-Leucine and its use in cancer treatment?
+##
+query 2: hepatitus A blood test.  how long does it take for the lab to determine the result
+summarized question 2: How long does it take to get a hepatitus A blood test result?
+##
+query 3: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 3: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 4: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 4: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 5: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 5: How is Huntington's disease transmitted?
+##
+query 6: hello i am looking for information related to the above (myostatin-related muscular hypertrophy) genetic condition. can you direct me to a hospital or other genetic research institution that might be doing research on this genetic condition?
+summarized question 6: Where can I find information on myostatin-related muscular hypertrophy, and how can I find an organization doing research on it?
+##
+query 7: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 7: Where can I find information on Wang syndrome, including support groups?
+##
+query 8: SUBJECT: X-OUT WASH-IN TREATMENT- benzoyl peroxide gel MESSAGE: Can you please tell me if the product X-OUT WASH-IN TREATMENT- benzoyl peroxide gel would contain any animal, dairy, insect, seafood or human by-products? Also would it contain any honey? Thank you for your help in researching this information for me. Make it a great day! Best Regards, [NAME] [CONTACT]
+summarized question 8: What are the active and inactive ingredients of X-OUT WASH-IN TREATMENT- benzoyl peroxide gel?
+##
+query 9: I need help with a rare disorder Hello, As I stated I need help with a rare disorder. I have tested   positive for lupus then - negative I have tests   positive for a blood clotting disorder then - negative I have tested positive for Brain Vasculitus then brian Vasculopathy? I have tested positive for a Brain infection then not.  I don't know what to think.  I need a special testing center
+summarized question 9: Where can I receive comprehensive testing for difficult to diagnose symptoms?
+##
+query 10: Prenatal exams for leigh syndrome. I am looking for information about having prenatal exams anmnio or chorionic villus sampling for NARP and leigh syndrome. Thank you in advance
+summarized question 10: Where can I find information on prenatal genetic tests for NARP and leigh syndrome?
+##
+query 11: Dear Doctors, Good day, I would like to ask about the possibility to make a Liver transplantation surgery for my uncle. his liver is damaged and need to be replaced so could you please advise me with the possibility to make the surgery and the approximately cost . also any other details should I know. Your Quick response is highly appreciated and thanks in advance for your cooperation.
+summarized question 11: Where can I find information on liver transplants, including cost?
+##
+query 12: SUBJECT: nulytely MESSAGE: Hello can you tell me where do i order the nulytely who is the manufacture, what phone number can i call. thanks.
+summarized question 12: Who makes nulytely, and where can I buy it?
+##
+query 13: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 13: How do I stop taking wellbutrin HCL XL?
+##
+query 14: SUBJECT: Research Report Assistance for Sudden Cardiac Arrest in Adolescence MESSAGE: Hello,               My name is [NAME] and I am a high school freshman at the [LOCATION] in [LOCATION]. I am doing a research report on Sudden Cardiac Arrest in Adolescence and I am contacting you to see if you could send me any articles, newsletters, brochures, research, pamphelts, or any other item(s) that you think might help me with my paper (especially any research that has been done or absolutely any information that you have on my topic). I am very interested in finding out more about this and the progress that has been made. I am mainly interested in researching about causes, symptoms, warning signs, treatment (if any), detection of it, and if it is purely genetic. I was also hoping you could help me better understand Sudden Cardiac Arrest in Adolescence. Let me thank you in advance for anything you send me via e-mail or mail. (In addition, if you have absolutely anything you can send me in the mail, please just tell me and I will gladly provide you with my address.) I hope that one day we can find eliminate Sudden Cardiac Arrest in Adolescence.  Thank you for your time and help, [NAME]
+summarized question 14: Where can I find information on sudden cardiac arrest in adolescents?
+##
+query 15: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 15: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 16: What are the treatments and prognosis for a small GIST?
+##
+query 17: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 17: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 18: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 18: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 19: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 19: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 20: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 20: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 21: Testing for CETP Gene. I live in [LOCATION] Tennessee, and am interested in being tested to see if I have  CETP Hyperalphalipoproteinemia. Could you please let me know how and where I can get this test? (I have had the VAP test and I do have the LDL Density Pattern A.)
+summarized question 21: Where can I get genetic testing for the CETP gene?
+##
+query 22: MESSAGE: hi my name is [NAME] I'm currently working with [LOCATION] and I was wondering  I came across some of you healthy tip fliers for HIV/Aids treatment .at the moment we have a study  going on that helps HIV positive transgender women into HIV quality care .so it would be great to have some more information on HIV/Aids treatment
+summarized question 22: What are the treatments for HIV/AIDS?
+##
+query 23: SUBJECT: Testo-XL mixed Male Libido XL MESSAGE: I want to find out is it got any side effect if I take both medicine as above together? I'm new user, not so sure about both products if mixed together. Is it will harm my health? Please give me some advise and usage about both  medicine. Thank you.
+summarized question 23: Can Testo-XL and Male Libido XL be taken together?
+##
+query 24: SUBJECT: gilberts diseases MESSAGE: my name is [NAME].  5days later i admitted in a hospital in treatment of viral fever.In hospital lot of tests blood,urine,ultrasound scan.In all tests my organs (lever,kidney,etc) are normal but my bilirubin Total is higher than normal. In my admission in hospital bilirubin is 3.2. Day by day my bilirubin decreased in the way of 2.8, 2.6, 2.4, 2.6, 2.5, respectevely. The other contents of blood and urine are normal at all. Hepatitis A,B,C are also negative.Today  Bilirubin direct  is 0.8. Doctor says it is Gilberts disease. Sir what can i do?. what is the reason for this?. what is your opinion sir? please reply soon .
+summarized question 24: What causes gilberts syndrome and what are the treatments for it?
+##
+query 25: SUBJECT: abetalipoproteimemia MESSAGE: hi, I would like to know if there is any support for those suffering with abetalipoproteinemia? I am not diagnosed but have had many test that indicate I am suffering with this, keen to learn how to get it diagnosed and how to manage, many thanks
+summarized question 25: Where can I find information on abetalipoproteinemia, including diagnosis and treatment?
+##
+query 26: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 26: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 27: SUBJECT: Platelet count and Infection MESSAGE: Hello,  My nephew is just 1 week old and from since his birth he is admitted in hospital due to less platelet count and some infection. As per the report the platelet counts are fluctuating. How much time it takes to increase the count to the normal (near 1,00,000 - 1,50,000) ?   2) And he is also affected by some infection and the count is 114 (as per the doctor's the count should be below 5). When will he come back to normal ?  3) Initially the platelet counts were 40k and then raised to 67k and suddenly came down to 20k.   Waiting for your feedback.  Thanks & Regards  [NAME]
+summarized question 27: How long does it take for Platelet count to return to normal after an Infection in a 1-week-old infant?
+##
+query 28: wolfram syndrome. hi im a support worker for a 46 yr old autistic male.reading your info provided about wolfram syndrome ,he matches alot of the symptoms. he has just recently been diagnosed with type 1 diabetes and i was just doing some research about it and came across wolfram syundrome which like i said the symptoms match alot of this guys doings. my question that ive unfortunatley been able to figure an answer out for is can adults develope this syndrome? can it be a gradual process of events/symptoms or does it happen within the first approx.15-20 years of life? if you could get back to me with any info it would be highly appreciated because like many websites i have read not all doctors knowabout this syndrome.  many thanks. [NAME]
+summarized question 28: Can adults develop Wolfram syndrome?
+##
+query 29: diagnosis of OI/ resources. I was writing to inquire about more information regarding the diagnosis of OI.  We have family members who are in the process of waiting for genetic testing to come back but are under allegations of child abuse.  Is there any information and / or resources that may be helpful to us? Any help is appreciated. Thank you,[NAME]
+summarized question 29: How is osteogenesis imperfecta diagnosed and what are its symptoms?
+##
+query 30: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 30: Where can I find information on SIDS?
+##
+query 31: SUBJECT: blind technology MESSAGE: Hello, I am a student doing a research project on blind technology. I am wondering if you have any contacts of people who have research information on this topic because I want to find out their opinions on certain technologies. Also, I would appreciate it if you could tell me ways to improve/cure blindness. For example, information on ' stem cell surgery', bionic eye', 'gene therapy to cure blindness' etc. Thankyou!
+summarized question 31: How can I find someone doing research on technologies for the blind, and what are the treatments for blindness?
+##
+query 32: Customer Service Request. I am looking for a company/research facility that can do genetic testing on the UGT group of genes.  Does such a place exist?  How would I go about getting this type of testing done?
+summarized question 32: Where can I find information on genetic testing for UGT abnormalities?
+##
+query 33: Hello –  Do you know if there are blood or urine tests that can detect if an individual is taking Flomax??  Your assistance is appreciated. Thank you
+summarized question 33:

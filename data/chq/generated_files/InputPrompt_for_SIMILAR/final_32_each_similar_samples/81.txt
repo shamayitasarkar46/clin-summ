@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 1: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 2: SUBJECT: drugs/liver failure MESSAGE: I don't know if you can answer this, but I thought I'd try. If someone used to use drugs, mainly heroin,  and they've stopped using and are around 30 days clean, will they not be able to test negative for drugs if their liver is failing?
+summarized question 2: How long is heroin detectable in your system?
+##
+query 3: SUBJECT: bundle blockage MESSAGE: could you please tell me what a bundle blockage is. what are the symptoms. what is usually done for this?    Thank you
+summarized question 3: Where can I find information on bundle branch block, including symptoms and treatments?
+##
+query 4: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 4: How do I stop taking oxycodone?
+##
+query 5: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 5: What are the side effects of barium sulfate?
+##
+query 6: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 6: How do I switch from Amlodipine to atenolol?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I do have relative smoker in past diagnose with COPD I would like to see how can I find treatment .76 years old not any other health problem. He is on oxygen now. please Email me.at [CONTACT]        thank you
+summarized question 7: What are the treatments for COPD?
+##
+query 8: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 8: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 9: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 10: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 10: What are the treatments for nocturia?
+##
+query 11: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 11: What are the treatments for erectile dysfunction?
+##
+query 12: SUBJECT: Low Red Blood Cell Count MESSAGE: If a patient's Red Blood Cell Count becomes low because of a 3-month medicine regimen, will the RBC normally increase back to normal when the intake of prescribed drug ceases? Thank you. [NAME]
+summarized question 12: Will a low red blood count return to normal after the responsible medication is stopped?
+##
+query 13: "SUBJECT: intermittent breathing and coughing problem from over-use of steroids MESSAGE: My husband was a patient at [LOCATION].  If I understand correctly his room-mate (an older gentleman) had come up for help from West Virginia for what I believe to be the following problem:  he has taken steroids for a protracted period of time and the steroids have caused the following problems in his life: weakness of his leg muscles and additionally he has an intermittent problem with wheezing/coughing/breathing however the [LOCATION] specialists just could not find the cause or how to resolve it.  The ""lung symptoms"" if I understand correctly are suppressed by the steroids to some degree but the steroids are causing problem which I mention above.  Might you have a data base about such problems?   I also am asking if there are any antidotes to the muscle weakness he has from the steroids.  Thanks"
+summarized question 13: Can long term use of steriods cause muscle weakness, and what are the treatments for it?
+##
+query 14: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 14: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 15: SUBJECT: Coronary Artery Spasms MESSAGE: I ask this as a General Question. Can a Pacemaker help prevent these spasms?
+summarized question 15: What are the causes of coronary artery spasms, and can a pacemaker prevent them?
+##
+query 16: SUBJECT: Is finasteride a medication for life? MESSAGE: Hi, I have been taking this medication for the last 7 years.I asked my family doctor,since I have difficulty in my sexual desire or intercourse,if I can stop taking it.She said that is for life. My psa in normal 0,71.What you suggest? Thank you for your replay.
+summarized question 16: Are there alternative treatments to finasteride for enlarged prostate?
+##
+query 17: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 17: What are the risks of smoking?
+##
+query 18: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 18: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 19: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 19: How do I stop taking wellbutrin HCL XL?
+##
+query 20: MESSAGE: Hi, I would like to know if the legs shortening can be done for a regular person as well, to simply reduce the overall body height. Thank you!
+summarized question 20: Is leg shortening surgery performed to reduce body height?
+##
+query 21: SUBJECT: about thalassemia treatment MESSAGE: sir,my friend is suffering from thalassemia ,in that majorly red blood anemia,white blood anemia and the blood is comming out from mouth when she got cough .her condition is very severe .in her body the red ,white blood cells are abscent .so that blood transfusion is doing for every 16-20days.then in the recent days the blood also comming out from mouth please tell me where can i get the treatment for this disease .we can travel around the world for treatment please reply me as soon as possible. thank you sir.
+summarized question 21: What are the treatments for thalassemia?
+##
+query 22: SUBJECT: NIFEDIPINE MESSAGE: Hi, i have been taking nifedipine for about 5 years but only take it in the winter. I take it to treat my raynauds syndrome. During winter when i take the nifedipine i have regular nose bleeds that last up to 20 mins, i want to find out if this relates to the medication i am taking. Thanks for any help you can provide
+summarized question 22: Are nosebleeds a side effect of nifedipine?
+##
+query 23: sarcoidosis.  One thing no physician has been able to tell me is whether or not fatigue--ongoing--is a part of this disease. I was diagnosed in 2006, and have noted a lessening of energy, endurance. If this is a possible side effect, I have not found it in any info on this. Please add to your information if this is a viable issue. Thanks so much! [NAME]
+summarized question 23: Is fatigue a symptom of sarcoidosis?
+##
+query 24: MESSAGE: What if someone throw up blood just a little got a little light headed and just laid down and went to sleep they said they will sleep it off but I want to take they said I'm fine. What should I do
+summarized question 24: Should someone who vomited blood and  felt lightheaded go to sleep?
+##
+query 25: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 25: How long does swelling from sleep apnea take to heal?
+##
+query 26: SUBJECT: Blood in cough MESSAGE: before some time i vomit. and blood came in cough with vomit.  what to do . it happens 4-5 times.  when i ask to doc reply that its throat infection.  please advice home remedy for this.
+summarized question 26: What are the treatments for coughing up blood?
+##
+query 27: ClinicalTrials.gov - Question - specific study. Do you have any more indepth information regarding pseudocholinesterace deficiency? My son 28 and myself 56 have this problem and we both have systemic muscle spasms. cramps contractions. Most seem to be caused by knots or trigger points. I assume this has something to do with this deficiency because it deals with neuro transmissions correct. Anyway we are looking for relief. The muscle relaxants help a bit but the knots do not go away and so the pain is still there at a deeper level. The doctors and neurologist have no idea. Thank you. [NAME]
+summarized question 27: Where can I find information on pseudocholinesterase deficiency icluding treatment?
+##
+query 28: Hello dear sir/madam I just want to knw if any cancer person had all treatment done then cancer gonna be again or not.how long person can live after cancer treatment.please reply me as Soon as possible. Thank you Sent from my iPhone
+summarized question 28: What are the survival and recurrence rates for cancer?
+##
+query 29: SUBJECT: Blood pressure MESSAGE: Take blood pressure med atenolol 50mg, blood pressure running 91/59 HR65, most of the time lower in the upper to mid 80's.  My doc is not in for 3 day's.  What can I do to raise it.  I am on anxiety, pain & muscle relaxers for a medical condition in my neck and legs that I can't have surgery on again.  Please how do I get my pressure back up until I can get to my doctor?  I am so tired and can't get rid of the headache.
+summarized question 29: What are the treatments for low blood pressure?
+##
+query 30: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 30: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 31: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 31: What are the early symptoms of Stiff person Syndrome?
+##
+query 32: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 32: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 33: SUBJECT: time of results. MESSAGE: When a person start halt sildenafil...How long before their breathing, shortness of breath, &fatigue issues go back to normal..?
+summarized question 33:

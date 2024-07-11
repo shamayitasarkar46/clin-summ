@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: CURE FOR PNEUMONIA MESSAGE: Dear DR, please i have a friend that has the above illness..I want to find out...since i want to marry her...is it an infectious illness,,and can it be totally cured. And how can i help her to get this cured..Please i really need your reply urgently
+summarized question 1: What are the treatments for pneumonia?
+##
+query 2: May I can find a cure for my case in therapeutic your center that I have an infection chronic granulomatous Mastitis take and how much the treatment period. Please advise me of the post by you.to this my Email Note : that I have all the medical reports and tests for this disease ??? this case of my wife and can be send your comment by below E-mail
+summarized question 2: What are the treatments for chronic granulomatous mastitis?
+##
+query 3: SUBJECT: Demand MESSAGE: I have read on your website about the perirenal abscess. My mother is in the situation stipulated here http://www.nlm.nih.gov/medlineplus/ency/article/001274.htm I would really appreciate a recommendation as to where she could treat (a doctor, a clinic, a hospital, etc.). The Dr/Drs who wrote the article is/are professional and i think they could give me a hand.
+summarized question 3: Where can I find information on perirenal abscess, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 4: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 4: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 5: "SUBJECT: Alzheimer's disease MESSAGE: This may sound strange, but unfortunately our family, my wife's dad, are dealing with the ugly disease of Alzheimers. To make this short, is there any way that we can challenge him to do things, or attempt to even ""get off the couch"", because he seems to respond to that type of activity. Fortunately my wife is able to spend a great deal of time with her mom and dad, but he seems to perk up when I see him at times and ""not baby him"" like the rest of the family. Thanks much."
+summarized question 5: What are stimulating activities for Alzheimer's patients?
+##
+query 6: SUBJECT: Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa MESSAGE: Hi, Im not sure if you can help, but my wife has Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa. I was hoping to find out some information if possible. Or to see if you could put me in touch with someone that mey be better suited to this. WE are wanting to start a family and want to know how Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa may effect the child or my wife during the proccess. She is currently taking levodopa  daily and would like to know if this in itself could have an effect on an unborn child. Not sure if ive come through to the right place or not, but just looking for some information or an indication of whom i may speak to,. I really look forward to hearing back from you, Regards,
+summarized question 6: What are the effects of dopa-responsive dystonia, retinitis pigmentosa and levodopa on pregnancy?
+##
+query 7: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 7: What are the treatments for LGMD?
+##
+query 8: SUBJECT: hypothyroidism MESSAGE: Can you please send me as much information as possible on &quot;hypothyroidism&quot;. I was recently diagnosed with the disease and I am struggling to figure out what it is and how I got it. My name and address is: [NAME] [LOCATION] [CONTACT] Thank you in advance for your help!!!
+summarized question 8: Where can I find information on hypothyroidism and its causes?
+##
+query 9: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 9: What is the effect of dexamethasone on cortisol levels?
+##
+query 10: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 10: What are the treatments for loss of appetite?
+##
+query 11: Dear Sir and Madame, i´m looking very urgently for help and i really hope you give me an answer. My name is [NAME], from Germany, [LOCATION], 25 years old. A year ago i got sick, Gorlin Goltz syndrome an mutation of the PCH1 Gen. My condition worsened and here in Germany, nobody can help me. Sry for my english, its not the best.  Ive heard from Gentechnik, so that defective genes can be exchanged or settled by cells or vitamins. Iam to young and i dont have much power. My doctors here in Germany partly dont know what to do and iam actually a strong person but I stay in an impasse. For me its no travel too far or too long. I fight for a long time but since I get every three weeks basaliomas I lose my zest for life. Im sure it gives an opportunity even if it is a larger intervention that I can be cured. Whatever how much it costs. I have read that they are furthest in the research which relates to cancer. I have a big heart, and no way is to long for me if you help me. PLEASE HELP ME!!! Best wishes [NAME]
+summarized question 11: What are the latest treatments for Gorlin Goltz syndrome?
+##
+query 12: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 12: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 13: SUBJECT: Rheumatoid arthritis MESSAGE: Dear Sir- my wife is suffering from subject since last couples of years, and recently diagnose that she is effected with subject. therefore i need your kind support for treatment and percussion step.  awaiting your kind reply and action. thanks and best Regards
+summarized question 13: What are the treatments for rheumatoid arthritis?
+##
+query 14: Literature on Cardiac amyloidosis.  Please let me know where I can get literature on Cardiac amyloidosis.  My uncle died yesterday from this disorder.  Since this is such a rare disorder, and to honor his memory, I would like to distribute literature at his funeral service.  I am a retired NIH employee, so I am familiar with the campus in case you have literature at NIH that I can come and pick up.  Thank you
+summarized question 14: Where can I find information on cardiac amyloidosis?
+##
+query 15: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 15: What are the risks of knee surgery in an older person?
+##
+query 16: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 16: What are the treatments for lactose intolerance and can it be cured?
+##
+query 17: ClinicalTrials.gov - Question - general information.  My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.
+summarized question 17: What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?
+##
+query 18: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: Dear sir/ madam. I am a patient suffering from Friedreich's ataxia and i heard there was a medicine for it. In 2009 and since we are looking for the medicine kindly help on this and I have DNA report could You please help us on this as there are two people respective age 22 years and 24 years suffering from it. Looking for your help on this ASAP and please let us know when the medicine will be there in market and attaching two files for your reference
+summarized question 18: What are the treatments for friedreich's ataxia?
+##
+query 19: My mom is 82 years old suffering from anixity and depression for the last 10 years was dianosed early on set deminita 3 years ago. Do yall have a office in [LOCATION] NC? Can you recommend someone. she has seretona syndrome and nonething helps her.
+summarized question 19: Where can I find information on early onset dementia, and how can I find physician(s) who specialize in it in North Carolina?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: A friend had chemo for breast cancer.  She has developed a foam in her mouth that appears to come from her gums.  She has been to every doctor, but no one can diagnose.  She has tried everything recommended and nothing seems to work.  She has gone into a deep depresstion because of this constant foam.  Would there be any studies available?  Could someone give an idea of what could be causing this problem in her mouth?  Is there any interest of looking into her case?  Thank you.
+summarized question 20: What causes foamy saliva?
+##
+query 21: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: LOOKING FOR HELP FOR MY NEPHEW WITH GLYCOGEN STORAGE DISEASE.  HE LIVES IN VIRGINIA AND IS SUFFERING BADLY.  HE HAS BEEN HOSPITALIZED FOR SEVERE CRAMPING ABOUT 5 TIMES THIS YEAR SO FAR.  ANY GUIDANCE YOU COULD GIVE WOULD BE GREATLY APPRECIATED.
+summarized question 21: What are the treatments for Glycogen storage disease?
+##
+query 22: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 22: Are there any medicines for dry mouth?
+##
+query 23: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My dear friend [NAME], 52 years, [LOCATION], recently had both legs amputated above knee. Is there any possibilities in making a miracle of giving her real legs  again?  I just had watched your television program and can't believe I had forgotten about a man I know having half of his jaw removed due to chewing tobacco looks amazing with barely a scar his jaw grew back and it just dawned on me his newline had transformed over the last year to looking very normal, that it was used on him. I have seen him a half dozen times. Wow ! [NAME] has been pretty much completely healed for awhile but has had some trouble with her left one. Phantom feelings are there. Please respond and thank you.  [CONTACT]
+summarized question 23: Is there a treatment to transplant or make amputated legs grow back?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I do have relative smoker in past diagnose with COPD I would like to see how can I find treatment .76 years old not any other health problem. He is on oxygen now. please Email me.at [CONTACT]        thank you
+summarized question 24: What are the treatments for COPD?
+##
+query 25: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 25: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 26: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 26: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 27: Hip replacement surgery My mother is 76 y.o. and having a lot of pain in her left hip joint.She was told that she needs a new joint. She also have a Parkinson disease (main symptom at this time is tremor in a left wrist). I would like to know if NIH providing hip replacement surgery for the patients like her, clinical trials?  Thank you.
+summarized question 27: Are there clinical trials for hip replacement with Parkinson's disease?
+##
+query 28: SUBJECT: Stem Cell Therapy for Muccular Dystrophy MESSAGE: I have read the Medline Abstracts 98,99 of 'Limb-girdle muscular dystrophy'. Please could you tell me how I contact a specialist to enquire further with this...Thank you...[NAME]
+summarized question 28: How can I find physician(s) who specialize in limb-girdle muscular dystrophy?
+##
+query 29: "My sister was diagnosed with meningitis 13 years ago and lost her sight. She's had multiple doctors tell her that she's lying about not being able to see or that they do not see why she can't see given that her eyes reacts to light. Fast forward 13 years, I spoke with her today and she was a little overjoyed. She said that ""she's been having good days"". I asked her to elaborate and she said that sometimes she can see shadows and sometimes she can see light. From my self-knowledge, I thought that this kind of vision loss could not be repaired. I'm writing you all for possible answers or if you could point me in the right direction toward getting them. Thanks in advance."
+summarized question 29: Can vision loss due to meningitis be restored?
+##
+query 30: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 30: Where can I find information on pain relief for Hirayama's disease?
+##
+query 31: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 31: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 32: SUBJECT: hydatidiform mole MESSAGE: Iam hoping to find a scientist that is doing research on hydatidiform mole.  I had thins in my early 20s I am now 66 years old and its back.  There is some ver interesting information about this demon that invaded my body. There were thee of me friends of mine in the early 70s.  All three of us lived in [LOCATION]. All three of us could not have children after that and have had many medical problems. I have taken test and this has returned.I am just hoping someone is doing research and I could help in some way.  This has had serious problems for me the last 46 years. Thank you [NAME]
+summarized question 32: Who is doing research on hydatidiform mole?
+##
+query 33: A 65 year old female friend of mine was just recently diagnosed with Frontotemporal dementia - temporal variant.  She is devastated.  I am trying to help her find resources, clinical trials, etc. to help her.  Can you give me some names of doctors to contact, pertinent institutions to contact regarding the treatment of this disease.  Thank you.  
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 1: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 2: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 2: What are the symptoms of chlamydia?
+##
+query 3: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 3: Are there any medicines for dry mouth?
+##
+query 4: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 4: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 5: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 5: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 6: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 6: What are the treatments for lichen planus?
+##
+query 7: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 7: What are the causes of nipple discharge?
+##
+query 8: How helpful is radiation for melanoma of heel and spread all the way up the leg? Would this effect treatment of trial drugs or other treatments?
+summarized question 8: Is radiation an effective treatment for skin melanoma and would it preclude experimental treatments?
+##
+query 9: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 9: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 10: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 10: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 11: What are the treatments for ocular albinism?
+##
+query 12: SUBJECT: glossopharyngeal neuralgia MESSAGE: how long would i take the medication. what is the success rate of surgery. can you tell me how much radiation method work and where is the treatment available in [LOCATION]
+summarized question 12: What are the treatments and their success rates for glossopharyngeal neuralgia?
+##
+query 13: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 13: What are the treatments for neck lumps or neck tumors?
+##
+query 14: SUBJECT: Diabetis MESSAGE: Can I use Novolin instead of Novolog? Is there any difference?
+summarized question 14: What is the difference between Novolin and Novolog and are they interchangeable?
+##
+query 15: SUBJECT: Testo-XL mixed Male Libido XL MESSAGE: I want to find out is it got any side effect if I take both medicine as above together? I'm new user, not so sure about both products if mixed together. Is it will harm my health? Please give me some advise and usage about both  medicine. Thank you.
+summarized question 15: Can Testo-XL and Male Libido XL be taken together?
+##
+query 16: Have been on methadone for four years.  I am interested in the rapid withdrawl under anesthesia, but do not have a clue where I can find a doctor or hospital who does this.  I also would like to know the approximate cost and if or what insurance companies pay for this.
+summarized question 16: How can I find physician(s) or hospital(s) who specialize in rapid methadone withdrawal under anesthesia, and the cost and insurance benefits for the procedure?
+##
+query 17: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 17: How is post-polio syndrome diagnosed?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: what can happen if you donot use your humifier or moisterizing equipment when  you have a thractoastamy tube? (forgive my spelling)
+summarized question 18: What are the adverse effects of not using a humidifier with a tracheostomy tube ?
+##
+query 19: SUBJECT: Maple Syrup Urine Disease MESSAGE: Gene changes or chromosomal changes of MSUD? What is the technical and simple language of MSUD? Are there any treatments for MSUD?
+summarized question 19: How is MSUD inherited and what are the treatments for it?
+##
+query 20: Eye.  i do see black things what couse it? or likd a sand i my Eye? how can i get treatment?
+summarized question 20: What are the causes and treatments for eye floaters?
+##
+query 21: questions about the effect of L-Leucine.  Hello,do you have any introduction about L-Leucine on the effect of treat cancer?If so,could you kindly tell me details?
+summarized question 21: Where can I find information on L-Leucine and its use in cancer treatment?
+##
+query 22: SEARCHING FOR ARTICLES. HOW CAN I SERACH FOR THE  ASSOCIATION BETWEEN GENE MUTATION AND CONGESTIVE HEART FAILURE.
+summarized question 22: Where can I find informaton on gene mutations and congestive heart failure?
+##
+query 23: SUBJECT: I want to ask a question about botox MESSAGE: I want to know if botox is useful in treating someone who had a stroke and their left arm is crippled up? The man had a cerebral hemmorhage I want to know if this helps or not?
+summarized question 23: Can botox help arm paralysis?
+##
+query 24: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 24: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 25: ClinicalTrials.gov - Question - general information.  where can I find someone or some place in Boston Massachusetts to get thahlidomide treatments for melanoma, skin cancer [NAME], [LOCATION]
+summarized question 25: How can I find physician(s) or hospital(s) in Boston who specialize in thalidomide treatments for melanoma?
+##
+query 26: SUBJECT: coal oil MESSAGE: My father at an early age was given coal oil when he was sick with a cold or flu, my family and I are just wondering if there could have been permanent damage done to his stomach, heart, or any other internal organs.  I'm not asking for a second opinion, just want some information on this matter for our own inquiries.
+summarized question 26: What are the adverse effects of coal oil?
+##
+query 27: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 27: Is lincomycin still prescribed for human use?
+##
+query 28: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 28: What are the treatments for mouth ulcers?
+##
+query 29: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 29: Can sleep apnea occur during the day when awake?
+##
+query 30: Are there any guidelines to tell how quickly Humalog becomes active after injection?  I believe it remains active for about 4 hours.  Is this reasonable?
+summarized question 30: How long does it take for humalog to start working, and how long does it last?
+##
+query 31: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 31: How is Huntington's disease transmitted?
+##
+query 32: SUBJECT: dark spot MESSAGE: i had a black spot on my skin face which was formed due to pimple by ithcing on it. this was formed one year before and i dont use any creams for it or i have not contacted any doctors for it but now want to remove it as soon as possible, i am from hyderbad.what to do?
+summarized question 32: Where can I get help with a facial dark spot in Hyderabad?
+##
+query 33: hi, can malarone turn  your tongue black? if so, do u know why?  and how to fix?  Thx
+summarized question 33:

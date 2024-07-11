@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: menstruation MESSAGE: What causes women menses over a month ? And how bad it is interms of their health ?
+summarized question 1: What causes prolonged periods?
+##
+query 2: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 2: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 3: MESSAGE: What should I do for my excess hair growth?? hair growth on legs ,they appear when I took oral contraceptive only two time ....but the excess hairs on legs are appeared since last year after heavy itching on legs.....!what diagnosis should I do?????
+summarized question 3: What causes excess haur growth on the legs and what are the treatments?
+##
+query 4: SUBJECT: SEVERE leg cramps with Lupus MESSAGE: My wife has Systemic Lupus and is already taking Potassium Chloride 20meg er 1QD and about 24-48 ounces of Gatoraid every day but still gets SEVERE leg cramps. What can she do to stop or help stop the cramps?
+summarized question 4: What are the treatments for leg cramps aside from potassium chloride and Gatoraid?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 5: What are the treatments for severe endometriosis in adolescents?
+##
+query 6: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 6: What are the treatments for scoliosis pain?
+##
+query 7: SUBJECT: severe vaginal bleeding MESSAGE: I've been bleeding for almost 9 long years. I've been to the doctor and he just put me on birth control saying it will balance itself out. That didn't work. We tried another birth control..it didn't work either. Ever since this problem started I've had terrible migraines, I gained weight (which I've tried to exercise and diet off), severe vaginal pain, cramping, heavy bleeding, blood clots the size of my hand. I've probably gone through 1000's of underwear and my life revolves around this issue. My sex life is one sided (which sucks) and I just want help..what should I do..I feel like I should have another doctor..
+summarized question 7: What are the treatments for severe vaginal bleeding?
+##
+query 8: Hello. I am writing this mail from [LOCATION]. This in regards with seeking help for Ulceratice colitis. My mother is suffering from this diseases from last 3 Years. Her treatment is going with [LOCATION] from past a year and half. Below are the symptoms of her disease : 1. Mucas Pus flow in quantity while passing stool 2. Blood flow while passing stool 3. Heavy weakness 4. Heavy and steady weight loss 5. Weak Eyesight 6. Heavy cramps after meal 7. stomach pain sometimes after lifting heavy weight 8. Poor appetite Below are the medicines given by the doctor during the course : Cap SonprazD, Tab Coolgut 1.5 , tab Falute, Mesacol Supporteries, Cap A to Z , Tab siho fix, and Tab omnacortil , rabelco rd cap , coolgut , folvitc , entofoam , bevon , anovate. She had undergone Colonoscopy , Endoscopy , Stool test , Urine tests and Blood test many times ( i can mail the reports of all the above if needed ). Her progress was very good at initial stage of the treatment. But eventually after due course of time , Her Blood and mucas flow while passing stool had increased. Even after taking her regular medication and proper diet. Her colonoscopy and Endoscopy shows result of erosion on some part of Rectum. Though doctor told the Ulcer is getting cured day by day. Still , from these past days her Blood and mucas flow is continuous and heavy. She is complaining a lot about weakness. Her daily medications is showing very less effect. This makes me to write this mail to u for seeking some advice and help in this case. As i understood this is the best known institute i can find for gastroenterology. My study on this disease help me understand that there are surgical treatment available for this kind of situation like Proctocolectomy and ileoanal reservoir. Please suggest on this. whether my mother requires this surgery at this stage of disease by looking into the Symptoms. We are very worried a
+summarized question 8: Where can I get advice and help for ulceratice colitis?
+##
+query 9: SUBJECT: Painful menstrual periods MESSAGE: My wife has suffered this . How can treat this.
+summarized question 9: What are the treatments for painful menstrual periods?
+##
+query 10: "SUBJECT: Shortness of breath in the mornings MESSAGE: My wife has been having shortness of breath in the mornings (mornings only).  She has, what I think, excessive heart rate as well.  Again, mornings only. Could this be anxiety attacks?  I don't think it would be a heart issue.  She certainly isn't overweight.  SHe is 5'2"" and 100-105 pounds.  if she is having anxiety attack... what is the best course of action?  She seems to feel better when she lies down and rests.....while either watching TV...or sleeps.  WHat is weird about it is ... it only happens in the mornings.  SHe has no history in her family for heart disease either.  WHat are your thoughts?"
+summarized question 10: What could cause shortness of breath in the mornings?
+##
+query 11: SUBJECT: Letrozole MESSAGE: Since taking Letrozole the last 4.6 months, I now have a 4 cm. csyst in front of my right ovary that must be removed.  Why am I prescribed a drug that is also prescribed for young women trying to conceive.  I am post menopausal and had early stage breast cancer in 2010.  Now, that I am ending my 5 year run with this drug, I have adverse affects with a cysts.  Is a cysts an egg that was not fertilized from the Follupian Tubes.  I cannot understand this logic of giving me this drug?
+summarized question 11: What are the uses and side effects of letrozole in postmenopausal women?
+##
+query 12: SUBJECT: finastride and pregnancy MESSAGE: my wife is pregnant. She is in week30 of pregnancy. Now i am going to  consume finastride 1mg for my hair loss.is it dangerous for pregnancy  for my wife and her fetus؟ i use condom when i have sex with my wife.  please answer me .can finastride shift to mothers body by my sweat orskin contact?please answer me .thank you.
+summarized question 12: Can finasteride be transmitted via bodily fluid or skin contact?
+##
+query 13: SUBJECT: vaginal rashes after periods that leads to vaginal itching MESSAGE: period rashes proceed to vaginal itching. then it develop fungal infection with thick white discharge. i then take flucanazole (antifungal)which cure it. but m worried of taking allopatic medicines. pls tell me what primitive or traditional methods do i use to avoid it. i also have a sensitive skin.
+summarized question 13: How can I prevent vaginal skin rashes and fungal infection?
+##
+query 14: Good morning I would like to ask something from you guys.i have a big problem of bloating and now its 2 years I have this problem and I try to buy some medication but it doesn't help me. And this thing its worse special during the night when I am sleeping cause I am always taking out the smelling air special when I am sleeping please guys can you assist me and I feel uncormfotable. Because its worse. I will appreciate it for your help. [NAME] [cid:image001.png@01D08E1E.47E509A0] Tel:         [CONTACT] Fax:        [CONTACT] Mobile  [CONTACT] Email:     [CONTACT]> [CONTACT] [CONTACT] In the interest of environment-think before you print! ________________________________________ [CONTACT] This message and any attachments are confidential and intended solely for the addressee.  The following link will display the full disclaimer: [CONTACT] The following link displays the list of Directors: [CONTACT] ________________________________________
+summarized question 14: What are the treatments for bloating and flatulence at night?
+##
+query 15: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 15: How can I get non-drug treatment for depression and anxiety?
+##
+query 16: SUBJECT: autonomic and arthritis . MESSAGE: Hi there , i have a few questions about autonomic disorders combined with arthritis ? My girlfriend has arthritis and autonomic disorder. I am really worried about her and want to help her, is there any new medications out there for treatment of autonomic disorder ? Also her autonomic disorder effects her heart lungs and blood pressure , is this condition fatal ? How long does someone live with this condition ?
+summarized question 16: Where can I find information on autonomic disorder, including symptoms, treatment, and prognosis?
+##
+query 17: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 17: Are endometriosis and cysts possible complications of NF1?
+##
+query 18: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 18: Are the  long-term effects of morphine reversible?
+##
+query 19: vagual nerve stimulation and depression.  have suffered for many years complicated by frequent migraines and little help from meds   like to learn more about vagual nerve stimulation
+summarized question 19: Where can I find information on vagus nerve stimulation for the treatment of depression and migraines?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 20: What are the treatments for scalp psoriasis?
+##
+query 21: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 21: Is there a medication that can cause bleeding during sex?
+##
+query 22: SUBJECT: obese daughter MESSAGE: i'm a mother of 5 children. My son has leukemia who is the youngest. My daughter is 12yrs old and is obese. i dont know where to turn but i need some professional help. my daughter has always suffered  with weight issues. while i deal with my 11yr old son at [LOCATION] im so scared of loosing my daughter. Shes already been suicidal and her grades are so bad. please i need help. you can contact me anyt time
+summarized question 22: What resources are available for overweight children with suicidal behavior?
+##
+query 23: SUBJECT: HELLP risk MESSAGE: My sister had HELLP during her first pregancey and is viewed to to at high risk for it again. I was wondering what the risk of me having HELLP during my pregancey was
+summarized question 23: What are the causes of HELLP syndrome, and is there a genetic predisposition?
+##
+query 24: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 24: How can I find a doctor to perform tubal ligation?
+##
+query 25: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: A friend had chemo for breast cancer.  She has developed a foam in her mouth that appears to come from her gums.  She has been to every doctor, but no one can diagnose.  She has tried everything recommended and nothing seems to work.  She has gone into a deep depresstion because of this constant foam.  Would there be any studies available?  Could someone give an idea of what could be causing this problem in her mouth?  Is there any interest of looking into her case?  Thank you.
+summarized question 25: What causes foamy saliva?
+##
+query 26: SUBJECT: Skin Itching MESSAGE: At night, I have very bad lower leg skin itching.  Is this being caused by any of my prescripions?
+summarized question 26: What prescription drugs cause itching skin on legs?
+##
+query 27: MESSAGE: Please i want to know the cure to Adenomyosis. I have been going through alot of pains during my menstruation. I want to see a specialist doctor to help me out. I am dying with pains.
+summarized question 27: What are treatments for adenomyosis, and how can I find physician(s) who specialize in it?
+##
+query 28: SUBJECT: erection problems MESSAGE: I am 32 yrs. old , 5.6 ft. and 68 kg wt.,  married and have a son of two years. Since last few months , I experience erection related problems during intercourse. When aroused, I get normal erection but it does nt continue for long. I don’t smoke and very rarely drink. I do exercise also. I masturbate 4-5 times a week because my testicles experience pain if I don’t ejaculate after any intimacies or getting very aroused. When pain starts, if I ejaculate by masturbating, It is relieved.  I do have night erections which I find generally in the mornings. Out of tension, once I tried Sildenafil tablet also for erection. Please tell me if I am suffering from any erection related problems or any other problems. Is masturbation a cause for these?  Kindly guide me. I have not visited any doctor yet.
+summarized question 28: Can masturbation cause erectile dysfunction?
+##
+query 29: SUBJECT: Right Arm shoulder pain from top to bottom MESSAGE: hi, I am having an younger sister, who is suffering from severe pain of right shoulder from 7 days. The pain comes from right ear to right arm fingers and she was unable to lift a simple spoon or plate. Hence I request you to suggest me good medicine or treatment for this pain.
+summarized question 29: What are the causes and treatments for irradiating right shoulder pain and weakness in the arm?
+##
+query 30: "My sister was diagnosed with meningitis 13 years ago and lost her sight. She's had multiple doctors tell her that she's lying about not being able to see or that they do not see why she can't see given that her eyes reacts to light. Fast forward 13 years, I spoke with her today and she was a little overjoyed. She said that ""she's been having good days"". I asked her to elaborate and she said that sometimes she can see shadows and sometimes she can see light. From my self-knowledge, I thought that this kind of vision loss could not be repaired. I'm writing you all for possible answers or if you could point me in the right direction toward getting them. Thanks in advance."
+summarized question 30: Can vision loss due to meningitis be restored?
+##
+query 31: "SUBJECT: bowel movements MESSAGE: whenever I eat ANYTHING within 10-15 minutes I start having slight stomach cramps and I have to rush to the bathroom and my stool is from slightly firm to liquid - what's causing this?  I'm afraid to eat out at restaurants - it's been happening for about 3 years now  I'm a 53 year old, 5', 7"" in height, african-american woman, never had children, about 50 lbs overweight"
+summarized question 31: What are the causes of cramps and diarrhea after eating?
+##
+query 32: SUBJECT: lymphedema MESSAGE: HelloI was suffering from filariasis before 6 month, then i observed that I started having leg swelling about 6 months ago.It's lymphedema of my left leg. I has seen many doctors for this problem. but nobody help me to cure this.Finally they answer me there is no treatment for this. i have to live with this disease. but i can't spend whole life with this disease. Better then i will comit or prefer sucide and say goodbye to life.So please suggest me treatment if any treatment available.please reply atleast if no solution.
+summarized question 32: What are the treatments for lymphedema?
+##
+query 33: Hello, My sister suffers from obsessive-compulsive disorder for more than ten years And I want to know why the symptoms of obsessive-compulsive disorder increase during the menstrual period for this she is  very afraid and use contraceptive pills a monthly to prevent the menstrual cycle and is used this way since 5 years The first question is why the symptoms of obsessive-compulsive disorder increase during menstruation? The second question Are there any side effects as a result of the use of pills a month? I hope to help me found the answers because her conditions is very bad and please told me what we can do to help her. thank you very much and thank you for your time.
+summarized question 33:

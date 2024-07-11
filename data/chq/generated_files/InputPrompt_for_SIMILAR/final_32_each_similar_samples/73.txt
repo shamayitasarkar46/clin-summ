@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: MESSAGE: I have to start applying ciclopirox to infected toes. I know u cannot use nail polish bit can I put a band aid on once the medication has dried?
+summarized question 1: Can i cover ciclopirox with bandaids?
+##
+query 2: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 2: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 3: SUBJECT: Rehabbing a finger that was splinted MESSAGE: I badlydislocated my finger 7 weeks ago.  I reset it myself as it happened late in the evening. I splinted it myself with a store-bought splint because of concern for a break as well as ligament damage.  I just went to see an orthopedic doctor for the first time today (yes, I'm kicking myself for not going earlier).  The X-ray showed that the finger is still offset somewhat, perhaps indicating that some of the ligaments were ruptured. (The bone was ok.  I guess we won't know if it was ever broken.)  Nonetheless, I have to see a surgeon for an opinion in a few days.  Meanwhile, there is still some swelling and the ring finger that was in the splint is out but stiff as a board.  I'm concerned and not sure what possibilities to expect.  I certainly know you won't know what the situation is or what the surgeon will say but I was curious (a) what possibilities I might expect and (b) how problematic it is that the finger is so stiff...should I expect to regain motion...can it be rehabbed?  I'm assuming so, and if so, how long does it take to regain motion from a finger that has been splinted for so long?
+summarized question 3: What are the treatments and prognosis for a dislocated finger not initially treated?
+##
+query 4: SUBJECT: lack of adhesive while I swim MESSAGE: I weekly apply the clonidine transdermal patch. Medically it is effective. I swim 3 or 4 times a week for 30-45 minutes. Quite often the patch loses it's adhesive quality and falls off my skin. What can I do to help it stick on my arm? thanks
+summarized question 4: What can I do to keep the clonidine transdermal patch secure during swimming?
+##
+query 5: SUBJECT: Amputed finger MESSAGE: SIr; my 4 yrs old daughter left hand ring finger was crushed in fatal door closure... expert plastic surgeons were consulted and it was finally decided to remove the dead balck portion of finger  and sealed it; now i wish to know to knw wht best treatement I can get for her... she is having pain as her finger/hand  is still in plaster...... I need expert opinions ; pl help ////  regards [NAME]  Father [CONTACT]
+summarized question 5: What is the treatment and prognosis for a crushed finger on a child?
+##
+query 6: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 6: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 7: SUBJECT: Body Lice MESSAGE: How do I get rid of these little devils? Me and My mom have tried so many things to get rid of these bugs and they just don't go away were the family that takes 2 showers and now about 3 showers a day we never understood how they could have infected us but I was just wondering is washing our clothes the best bet to get rid of these things, because apparently it hasn't worked for us. So is there any suggestions?
+summarized question 7: What are the treatments for body lice?
+##
+query 8: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 8: How can I find a doctor to perform tubal ligation?
+##
+query 9: Attachment disorder.  Ok I am 21 years old and I have Attachment disorder I had it all my life and I don't know what to do in my life. I don't let my girlfriend in or to close to me when I feel like the relationship is going good and she's getting to close I push her away or I leave and go to the next girl and my career as a pro boxer I don't want to keep doing this to her or to other people in my life. Can someone please help me. I am tried of dealing with this.
+summarized question 9: How can I get help for attachment disorder?
+##
+query 10: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 10: What are the treatments for lichen planus?
+##
+query 11: SUBJECT: babygirl vagina itching MESSAGE: My newborn is 9 weeks and I noticed when I went to clean inside her vagina there was a little bit of spotting. Should I be concerned?
+summarized question 11: What are the causes of and treatment for newborn vaginal itching and spotting?
+##
+query 12: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 12: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 13: SUBJECT: dressings MESSAGE: my dad had some skin cancer removed 3 wks ago and a skin graft was performed. The doner site is healing well, but the graft site is still very sore and having dressings changed every 2/3 days, dad isnt convinced that the wet gauze dressings are any good. Which type of dressings should be being used?
+summarized question 13: What types of dressings are used for skin graft sites?
+##
+query 14: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 14: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 15: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 15: What options are available for scar repair?
+##
+query 16: MESSAGE: Afternoon my name is [NAME] i just need a clarity on ACL repair. [DATE] i done ACL repair as the doctors told me after my discharge i attend physiotherapy but after the physio my leg get swallow so i stopped as there was no progress. now my knee is stiff and swallow also it change colour and doctors tells me they don't see anything. so i need an advise what can i do or where can i go and get help.  regards   [NAME]
+summarized question 16: What is the recovery process after ACL surgery?
+##
+query 17: Re: 16p-13.11 duplication of genes. Dear all, I am a health professional and have recently assessed a 9 year old boy on my caseload whose mother reported that he has been diagnosed with 16p-13.11 duplication of genes.  I have never come across it and when I looked on the internet I could not find anything coherent.  I have been in contact with the paediatrician who used to be in charge of that child but she is unfortunately on long term sick.  Would you be able to give me some information on this condition with key features please? Are there behavioural, coordination, sensory difficulties, etc...that can be associated with it?
+summarized question 17: Where can I find information on 16p-13.11 duplication, including symptoms?
+##
+query 18: SUBJECT: lymphedema MESSAGE: HelloI was suffering from filariasis before 6 month, then i observed that I started having leg swelling about 6 months ago.It's lymphedema of my left leg. I has seen many doctors for this problem. but nobody help me to cure this.Finally they answer me there is no treatment for this. i have to live with this disease. but i can't spend whole life with this disease. Better then i will comit or prefer sucide and say goodbye to life.So please suggest me treatment if any treatment available.please reply atleast if no solution.
+summarized question 18: What are the treatments for lymphedema?
+##
+query 19: SUBJECT: Right Arm shoulder pain from top to bottom MESSAGE: hi, I am having an younger sister, who is suffering from severe pain of right shoulder from 7 days. The pain comes from right ear to right arm fingers and she was unable to lift a simple spoon or plate. Hence I request you to suggest me good medicine or treatment for this pain.
+summarized question 19: What are the causes and treatments for irradiating right shoulder pain and weakness in the arm?
+##
+query 20: MESSAGE: I have been battling Anal fissure for close to two years now and it has refused to heal all these while. Please what do you suggest i do?  Thanks
+summarized question 20: What are the treatments for chronic anal fissure?
+##
+query 21: DIABITIC.  My sister is diabitic since age 8, now age 20. she is not coping well with it, i've been to the nutrition DR.s with her and we have since change our diet at home just for her, but it's still too havy on her. i want to help her, maybe if i can get her a couselor or support group that understands her situation/diabits.
+summarized question 21: Where can I find information on counselors or support groups for diabetes?
+##
+query 22: SUBJECT: Need help! MESSAGE: I have a knot about the size of a BB in my right forearm about 2-3 inches from my elbow. It's been there for about 5 years and hurts sometimes. Mostly only notice it when i put pressure on it. You can't see it but can feel it pretty good. It will move about a cm in any direction. I went to the doctors about 4 years ago to have it looked at but they did no xray and said its prob a BB from when i was younger. It's starting to hurt more now without me putting pressure on it so i'm thinking i need to have something done about it. Any ideas on what it could be or what i should do about it?
+summarized question 22: What causes lumps on the arm?
+##
+query 23: polymicrogyria. My 16 month old son has this. Does not sit up our crawl yet but still trying and is improving in grabbing things etc etc. Have read about other cases that seem 10000 time worse. It's it possible for this post of his brain to grown to normal and he grow out of it?
+summarized question 23: What is the prognosis for polymicrogyria?
+##
+query 24: SUBJECT: Scabbies/ treatment area MESSAGE: My husband and I had scabie . I used it in my vaginal area.  I don't know how to treat The reaction I'm having. I think I have burned the delicate tissue in that area.  What can I do to treat the reaction. Please help any suggestions?
+summarized question 24: How is sgenital cabies treated?
+##
+query 25: SUBJECT: dark spot MESSAGE: i had a black spot on my skin face which was formed due to pimple by ithcing on it. this was formed one year before and i dont use any creams for it or i have not contacted any doctors for it but now want to remove it as soon as possible, i am from hyderbad.what to do?
+summarized question 25: Where can I get help with a facial dark spot in Hyderabad?
+##
+query 26: chromosome 20 reattachment. Results of my amniocentesis states that a part of chromosome 20 broke then reattached itself to the same chromosome in a funny way.  They are unable to determine what gene if any has been affected.  Are you aware of any similar situations, and if so, what symptoms should I expect my baby to have?  Is there anyone else you suggest I contact for further information?
+summarized question 26: Where can I find information on disorders caused by chromosome 20 abnormalities?
+##
+query 27: SUBJECT: severe vaginal bleeding MESSAGE: I've been bleeding for almost 9 long years. I've been to the doctor and he just put me on birth control saying it will balance itself out. That didn't work. We tried another birth control..it didn't work either. Ever since this problem started I've had terrible migraines, I gained weight (which I've tried to exercise and diet off), severe vaginal pain, cramping, heavy bleeding, blood clots the size of my hand. I've probably gone through 1000's of underwear and my life revolves around this issue. My sex life is one sided (which sucks) and I just want help..what should I do..I feel like I should have another doctor..
+summarized question 27: What are the treatments for severe vaginal bleeding?
+##
+query 28: SUBJECT: vaginal rashes after periods that leads to vaginal itching MESSAGE: period rashes proceed to vaginal itching. then it develop fungal infection with thick white discharge. i then take flucanazole (antifungal)which cure it. but m worried of taking allopatic medicines. pls tell me what primitive or traditional methods do i use to avoid it. i also have a sensitive skin.
+summarized question 28: How can I prevent vaginal skin rashes and fungal infection?
+##
+query 29: SUBJECT: I have an irresistible fungal on my leg and i have treated it,but refuse to go.pls what should i do? From [NAME] [CONTACT] MESSAGE: I have an irresistible fungal on my leg which i have treated with different drug and cream,but refuse to go and it keep on spreading.pls what should i do? From [NAME]
+summarized question 29: What are the treatments for fungus on my leg that does not respond to OTC topical antifungals?
+##
+query 30: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 30: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 31: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 31: What are the treatments for deafness caused by gentamicin?
+##
+query 32: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 32: Where can I find information on russell-silver syndrome?
+##
+query 33: SUBJECT: don't know what to do about keeping dressing on my 17 month olds stitches. MESSAGE: I have a 17 month old that had stitches on his left index finger and he wont keep on the dressing / bandage. please help me to figure out what to do.
+summarized question 33:

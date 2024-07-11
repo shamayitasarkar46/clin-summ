@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 1: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 2: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 2: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 3: genetic condition passed from mother. I am looking for the name of a genetic condition passed on from the mother. Female children are carriers, but only male children are symptomatic. It is often mistaken for a milk protein allergy, causes excessive spitting up and hiccups, and rounded teeth. Often male children do not make it to their 1st birthday. I have lost two boys, and am about to have a third, i desperately need to find the name of this condition. Please help, my childs life depends on it. My doctors say they do not know what to test for or how to proceed without a name.
+summarized question 3: What genetic condition causes excessive spitting up, hiccups, and rounded teeth?
+##
+query 4: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 4: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 5: SUBJECT: Request for literature for Chromosome 16 duplication MESSAGE: I have 3 week old who was admitted in our [LOCATION] for being growth retarded.  He was delivered term but weighed only 1.44 kg.  There was polyhydramnios during pregnancy but the rest of the antenatal scans did not detect any other abnormalities. When the baby was born, we noted some dysmorphysm, namely:  small head, low set ears, round face with wide phlitrum, slight hyperteloris, wide spaced nipples, clinodactyly and stubby toes.  blood was sent for karyotype and showed 46XY,dup(16)(q13q23). I looked up any information about this condition and could not find any on-line. Can u please forward any literature you may have so as I can better appraise the parents of the prognosis and make a more detailed treatment plan for the patient. Thank you
+summarized question 5: Where can I find information on chromosome 16 duplication, specifically karyotype 46XY,dup(16)(q13q23)?
+##
+query 6: Re: 16p-13.11 duplication of genes. Dear all, I am a health professional and have recently assessed a 9 year old boy on my caseload whose mother reported that he has been diagnosed with 16p-13.11 duplication of genes.  I have never come across it and when I looked on the internet I could not find anything coherent.  I have been in contact with the paediatrician who used to be in charge of that child but she is unfortunately on long term sick.  Would you be able to give me some information on this condition with key features please? Are there behavioural, coordination, sensory difficulties, etc...that can be associated with it?
+summarized question 6: Where can I find information on 16p-13.11 duplication, including symptoms?
+##
+query 7: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 7: What are the inheritance patterns for pierre robins syndrome?
+##
+query 8: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 8: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 9: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 9: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 10: Dear sir/madam I am 40 year old man  & have vericoceal on my left side .My wife is 24year old ,we are trying for a baby for the last 4 months with no positive result. doctor suggest me try for baby for at least 1 year. Please suggest me what i have to do for a baby. i will be highly obliged . thank you [NAME] [LOCATION]
+summarized question 10: What are treatments for male fertility issues and varicocele?
+##
+query 11: SUBJECT: finastride and pregnancy MESSAGE: my wife is pregnant. She is in week30 of pregnancy. Now i am going to  consume finastride 1mg for my hair loss.is it dangerous for pregnancy  for my wife and her fetus؟ i use condom when i have sex with my wife.  please answer me .can finastride shift to mothers body by my sweat orskin contact?please answer me .thank you.
+summarized question 11: Can finasteride be transmitted via bodily fluid or skin contact?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Are there any studies looking at familial/longetudnal fragile X or other related disorders? We are 4 generations of a family with similar traits in the males in each of those generations (only 1 male in each), My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder as a child (at [LOCATION]) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and very similar intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed?
+summarized question 12: Where can I find information on Fragile X sydrome and inheritance patterns?
+##
+query 13: SUBJECT: Múltiple Misscarriage MESSAGE: I had 4 misscarriage before I had my healthy daugther. I had another misscarriage a month ago. The Kareotipe for the fetus show genetic problems. Trisomy 8 and 15. Im 39 years old. Is the first time that I know the reason for the lost. I had the Kareotipe for me and my husband and there is no problem. The infertility Dr told me that I have progesterone problems Because I dont know the reason for the four misscarriage I am scared thinking the reason for all the lost babies is for genetic causes. I want another baby. What are the chances of having a baby with genetic problems?
+summarized question 13: After a miscarriage of a fetus with trisomy 8 and 15, what are the chances of a successful pregnancy?
+##
+query 14: My grand child was born on [DATE] with Multicystic dysplastic kidneys.  After reading your article I would like to know whether the stem cell could bring hope to this child. Is this possible?  How to go about? Cloning? Please give me something to work on.
+summarized question 14: What are the latest treatments for multicystic dysplastic kidneys, including stem cell therapy?
+##
+query 15: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 15: Is Astigmatism related to Aarskog Syndrome?
+##
+query 16: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 16: What are the inheritance patterns for senior loken syndrome?
+##
+query 17: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 17: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 18: SUBJECT: congenital diaphragmatic hernia MESSAGE: I need to know if CDH can be passed down to future generations.  I just learned that this condition most likely caused the death of my first child back in 1971.  I was then told it was merely a fluke.  I had NO trauma during the full-term pregnancy, and I and my then husband were in very good health.  Now my son (from a different husband) and his wife are due to have fraternal twins in [DATE] 2015.  Does the term 'congenital' mean that it could be passed down to another generation?  I do not want to alarm my son and his wife.  I just would like to inform whatever pediatrician is caring for these babies as to my experience.  Unfortunately my son and I are estranged.  And I do not know who is their pediatrician.  My child's CDH was very severe.  I know there are far less severe cases that can go undetected &/or undiagnosed unless there is a reason to suspect such a condition.  Please respond to my concerns.
+summarized question 18: What causes congenital diaphragmatic hernia?
+##
+query 19: SUBJECT: pregnancy MESSAGE: I just want to ask if have some ways or have a operation to be pregnant a woman like me had a tubal ligation before  7yrs. Ago..
+summarized question 19: Where can I find information on tubal ligation reversal?
+##
+query 20: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 years old boy that was diagnose with Periventricular Heterotopia and long time ago I read something that say that the most someone last with that syndrome is 309years.Is that true. And do you know about someone interested in wanting to do research about it? I will like to lern more about it. But theres not much information.
+summarized question 20: Where can I find information on Periventricular Heterotopia, including prognosis?
+##
+query 21: SUBJECT: Chromosomes 6 MESSAGE: i had a son born with a very small part of chromosome 6 missing , caused several surgeries and then death . But I don't find any information , even similar to his . Is there anywhere else I can look for Any information on what would cause this piece to be missing
+summarized question 21: What could cause part of chromosome 6 missing?
+##
+query 22: SUBJECT: Undesecnded testis MESSAGE: Hello Sir  I am a young man of age 27  I was born with a problem of descended testis  to this age  I have always experience one of them go down to the real position at times  and then run back to the abdomen  but of recent it stopped going down  Please Sir I will like to know what my situation is and is there a remedy for it ? Thanks an i wait for your reply
+summarized question 22: What are the treatments for undescended testicles?
+##
+query 23: Genetic testing.  My mother in law is in the last stage if lung cancer and only has days to live.  My question is...testing her and comparing her tests with my husbands and his sisters test help to determine if it is genetic?  My mother in law ([NAME]) and her mother and her mithers sister both had lung cancer and none if them were smokers.  I'm real worried about my husband getting lung cancer now and I want find out what we can do to protect him.Thank you,[NAME]
+summarized question 23: What are the genetic factors for lung cancer?
+##
+query 24: Fetal skull not closed. We recently found out that our grandchild ,which is unborn and only 3 mos in the womb, has a genetic disorder where the skull is not closed . The doctor says the baby will not survive. Our daughter has been told she could carry the baby to term or could miscarry at anytime. Can you give any information on this subject. We are devastated.
+summarized question 24: Where can I find information on a baby's skull not closing completely during pregnancy?
+##
+query 25: chromosome 3. chromosome 3 found in the bloods between the father and son,,,would this mean that my son,s blood is not the same as mine,,i was told it was all about learning problems,,,but i am woried that theres more involved,,can you send me a chart or some thing describeing ch 3 is all about and too what area of the body its being tested on espicaly a 9 year old child ,,thanks
+summarized question 25: What health conditions are associated with changes in chromosome 3?
+##
+query 26: Angelman syndrome. Can a person with Angelman Syndrome have children? If so, can the disorder be passed on to offspring?
+summarized question 26: How is angelman syndrome inherited?
+##
+query 27: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 27: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 28: Prenatal exams for leigh syndrome. I am looking for information about having prenatal exams anmnio or chorionic villus sampling for NARP and leigh syndrome. Thank you in advance
+summarized question 28: Where can I find information on prenatal genetic tests for NARP and leigh syndrome?
+##
+query 29: "SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: We are 4 generations of a family with similar traits in the males in each of those generations, My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder (at Yale) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed? Is there anyone out there looking at familial/longetudnal fragile X or other disorders that might be interested in our ""story""?"
+summarized question 29: Are there any researchers interested in testing a family with ADD and low IQ for fragile X?
+##
+query 30: SUBJECT: Teen pregnancy MESSAGE: Good morning,   I am a student from Carver Military Academy on the far south side of Chicago. My fellow classmates and I are conducting a research project on social issues and problems we are affected by everyday mine is Teen Pregnancy. Since I am a teenager I know how having a child can really affect our young lives. They can stop our achievements in school, goals for the future,all our fun would stop,and our dreams. I would like to ask someone from your organization a few questions because it seems as though your organization could provide me with valuable information about teen pregnancy,statistics,facts, and your opinion about it. Your time and assistance would be greatly appreciated and I hope to hear from you soon.   Thank you,  [NAME]
+summarized question 30: Where can I find information on teen pregnancy?
+##
+query 31: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 31: What are the treatments for ocular albinism?
+##
+query 32: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 32: Where can I find information on Wang syndrome, including support groups?
+##
+query 33: my boyriend was taking tasigna and i became pregnant i want to know what kind of birth defects can it cause to my unborn child.
+summarized question 33:

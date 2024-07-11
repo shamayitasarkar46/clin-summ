@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Treatment for Nodular Goiter MESSAGE: Hi,  I'm suffering from nodular goiter. The size of enlarged thyroid gland is visible, but not like a big one. I need treatment for this. Some Doctors have suggested surgery which I don't want to go through. What are the other treatment options. Also let me know the place where I can visit to consult.  Thanks, [NAME]
+summarized question 1: What are the non-surgical treatments for nodular goiter and where can I find a specialist to treat it?
+##
+query 2: Tests for Haemophilia. Hi, I was wondering if blood clotting assays are always positive if one has mild-moderate hemophilia and what the name is of the genetic tests for hemophilia? I have a history of internal spontaneous bleeding into the joints or with eating garlic or onions (in large amounts).I also hemmorhage after injuries (arm injury, head injury hemmorhage, and pregnancy birth hemmorhage--both times).  I've had to have blood transfusions and shots to control the bleeding but it's usually possible to control it. I believe I may have passed this on to my son as he was determined by a doctor to be a heavy bleeder at circumcision. While on the [LOCATION]t, I was asked by a [LOCATION] if anyone had done a work-up on me for hemophilia or any clotting disorder and I said not to my knowledge.  I asked if they were going to do it and she said to follow up with a primary doctor for it.  She also said it could be expensive. This is why I'm asking, if I go to a medical appointment as a private-pay patient, and want to have testing done, which tests would you recommend? [NAME]
+summarized question 2: How is hemophilia diagnosed, and are there genetic tests for it?
+##
+query 3: SUBJECT: fibroadenomas MESSAGE: i have a fibroadenomas? my question is it can remove without surgery? taking medicine is help to reduce or remove this? or if i didnt undergo operation it is safe? because surgery is expensive here at the philippines
+summarized question 3: Can fibroadenoma be treated without surgery?
+##
+query 4: SUBJECT: Laparoscopic Splenectomy MESSAGE: Dear Sir/Madam My brother [NAME] is diagnosed ITP. His doctor advises Laparoscopic Splenectomy for him. Can you please mail me detail and cost of this surgery. His Platletts count is decreased to 12 and his doctors giving him Injection Mebthera today to increase plattlets count. We are form [LOCATION], [LOCATION]. Please mail us as soon possible. Thanks & Best Regards [NAME]
+summarized question 4: Where can I find information on laparoscopic splenectomy, including cost?
+##
+query 5: My name is [NAME] and i am 45 years old and come from [LOCATION]. I got involved in a shock cerebral (Brain stroke in Cerebellum) and took apoplexy cerebral. I did a surgery for placing shunt. After my surgery i lost my body balance to some extent. Now i am trying to improve my condition with physiotherapy, swimming and etc. My doctor says the shunt is not necessary longer. I found your name between scientists which are involved in research on brain stroke so my request is if you could advice me with new methods for curing my problem. I can come to [LOCATION] if needed to do further therapy for my problem. I would be very thankful of your help
+summarized question 5: What are the treatments and recovery for cerebellar stroke?
+##
+query 6: SUBJECT: Abscess in lungs MESSAGE: Is abscess in lungs curable?  My Dad has surgery and found 2 abscess in his lungs. After a week out of surgery room, he developed fluid. The doctor is telling us they can use the syringe to remove the fluid, nothing else can be done.   There is  a small bottle attached to his surgical area which is collecting liquid from infection.  Thank you for your reply. My dad is 84 yo.
+summarized question 6: What are the treatments for lung abscess?
+##
+query 7: Dear Doctors, Good day, I would like to ask about the possibility to make a Liver transplantation surgery for my uncle. his liver is damaged and need to be replaced so could you please advise me with the possibility to make the surgery and the approximately cost . also any other details should I know. Your Quick response is highly appreciated and thanks in advance for your cooperation.
+summarized question 7: Where can I find information on liver transplants, including cost?
+##
+query 8: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 8: Are endometriosis and cysts possible complications of NF1?
+##
+query 9: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 9: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 10: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 10: Are there any medicines for dry mouth?
+##
+query 11: broken veins in legs.  is vein surgery for mostly cosmetic reasons recommended any dangers serious side effects
+summarized question 11: What are the complications of varicose vein surgery?
+##
+query 12: SUBJECT: Blood pressure MESSAGE: Take blood pressure med atenolol 50mg, blood pressure running 91/59 HR65, most of the time lower in the upper to mid 80's.  My doc is not in for 3 day's.  What can I do to raise it.  I am on anxiety, pain & muscle relaxers for a medical condition in my neck and legs that I can't have surgery on again.  Please how do I get my pressure back up until I can get to my doctor?  I am so tired and can't get rid of the headache.
+summarized question 12: What are the treatments for low blood pressure?
+##
+query 13: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 13: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 14: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 14: What are the treatments for brain tumors and spinal tumors?
+##
+query 15: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 15: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 16: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 16: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 17: SUBJECT: imitrex to be prescriped to 72 year old woman MESSAGE: I was in hospital for pancretitis.  On the 2nd day I was doing ok but came down with a migraine headache.  I have not had one in 2 years. but have the imitrex  tab.  which I did not have in the hospital  They gave me Toradol injection and it worked.  but they told me I should not take imitex as an older person.  I plan to go to my internist.  but decide to ask this question.   thanks
+summarized question 17: Is imitrex contraindicated in the elderly?
+##
+query 18: I have an hernia I would love to take care off it ASAP I was wondering if you guys could help me . Thanks
+summarized question 18: What are the treatments for hernia?
+##
+query 19: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 19: What are the treatments for serratia marcescens infection?
+##
+query 20: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 20: What are the treatments for scoliosis pain?
+##
+query 21: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 21: What are the treatments for hand tremors?
+##
+query 22: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 22: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 23: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 23: What are the treatments for nocturia?
+##
+query 24: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 24: What are alternatives to phenobarbital?
+##
+query 25: "SUBJECT: cosmetic leg shortening surgery MESSAGE: Hi,  I am a tall girl(5'8""), who wants to undergo leg shortening sugery of 2 inches for cosmetic purpose. It would be good if I can get more information about it. I would like to know the cost of this surgery, the recovery time and the risks associated with it. How long should I stay in the hospital?  Thanks and regards"
+summarized question 25: Where can I find information on leg shortening surgery, including risks, cost, and recovery time?
+##
+query 26: Aortic Valve Replacement surgery.  Is Minimally Invasive Surgery (MIAVR, not TAVR) any less effective, or riskier than the Conventional Method where the breast bone is split? Can the surgeon do as good a job if the MIAVR procedure is used?
+summarized question 26: How does MIAVR compare to TAVR in effectiveness and risk?
+##
+query 27: Does high Thyroid level (31.13) interfere with recovery I just had double knee replacement on 01/15/2014. I take Levothyroxin 137mg dailey for my thyroid condition.  I take no other meds on a regular basis except for the normal pain meds prescribed during my recovery. During my recovery, I never felt comfortable and free of pain. I finally asked for a blood test and discovered my TSH level at 31.13.  My question is, will a high TSH level interfere with healing and recovery of muscle tissue and bones?  I am now taking a higher dose of Levthyroxin, can I expect a longer than normal recovery period due to a high TSH level?  Thank You, [NAME]
+summarized question 27: Can high TSH levels or Levothyroxine impact muscle tissue recovery?
+##
+query 28: "SUBJECT: is there any medicines for peristaltic movements? MESSAGE: I V[NAME] From [LOCATION] which is located at INDIA. I am a patient of less peristaltic movements which was digests the eaten food in 3 to 4 hours... In normal humans which was digests the eaten food in 2 to 3 hours...  I visited several hospitals in [LOCATION] which is located in INDIA...  When i was visited [LOCATION]"" Hospital at HYDERBAD in the year of 2010..  There Doctors has told there is no medicins for this problem..  Is  there any medicines to improve my  peristaltic movements?  Please Replay to My E-mail[CONTACT] and My Mobile Number is: [CONTACT]  Thanking You taking my request...."
+summarized question 28: What are the treatments for slow peristaltic movements?
+##
+query 29: SUBJECT: Anxiety MESSAGE: How does one deal with anxiety and the looming feeling that I am about to have a heart attack?  I am taking clonazepam which helps but I would rather go back to the person I used to be without this condition.  How can I re-train my brain into not thinking a heart attach is about to hit me?
+summarized question 29: What are the non-drug treatments for anxiety?
+##
+query 30: SUBJECT: Ear Infection Treatment MESSAGE: I was cleaning my ear with a pointed metal and mistakenly it got stock into my ear and I started seeing some blood from my ear,Since than I have being some pains in my ear and can I can be hearing some echo sound in my ear. I would be very glad to know the best medication for my ear treatment.
+summarized question 30: What are the treatments for punctured eardrum?
+##
+query 31: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 31: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 32: SUBJECT: I need help MESSAGE: Dear sir, I need  your help. I am [NAME], I have some question to ask you. My uncle a heart problem due to a gastro problem and bleeding from the intestinal the doctor says. He is an handicap person. Now he is a little bit ok , it's just that he is suffering from his belly a lot, but he is stop bleeding from inside. He often have breath problem also, i give him smetimes ventoline spray. We don't know what we treatment we should give him, Please I need your help. Thank you in advance sir.  Best regards [NAME].
+summarized question 32: What are the treatments for breathing difficulties?
+##
+query 33: SUBJECT: Factor VII. MESSAGE: I have Glanzmans Thrombastinia which is a rare platelet disorder. I am concerned about invasive emergency surgery.  I have had minor surgeries and have bled profusely-even with pre-op meds of DDAVP and Amicar.. I understand Factor VII (or a drug to reduce or stop unnessary bleeding,if administered prior to surgery can alleviate bleeding problems in an invasive procedure. What drug(s) would you recommend and how readily available is the drug and how much does it cost. Thank You, E. W. [NAME]
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 1: Are there any medicines for dry mouth?
+##
+query 2: SUBJECT: GERD MESSAGE: in reviewing some meds that treat GERD, i dont see much difference between Prilosec,Nexium,Tagament and Zantac. It is said that Prilosec and Nexium are proton pump inhibitors and Zantac and Tagamet H2 blockers. Their definitions of action are the the same that they reduce the amount of stomach acid.Are their really any big differences in these 4 medicnes?
+summarized question 2: What are the differences between GERD medications Prilosec, Nexium, Tagament, and Zantac?
+##
+query 3: SUBJECT: what to eat MESSAGE: I have very bad diarrhea for last two months. Doctors have not found what causing it. It reserve watery.I need to know what I can eat. And is lactase milk and yougar is ok are not?
+summarized question 3: What foods should I eat when I have diarrhea?
+##
+query 4: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 4: What are the ingredients of Glyburide and is it gluten free?
+##
+query 5: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 5: What are the treatments for lichen planus?
+##
+query 6: SUBJECT: Gastroesophageal Reflux Disease MESSAGE: Can GERD BE CURED? I AM SUFFERING FROM THIS DISEASE FOR ALMOST THREE YEARS NOW.I HAVE GONE TO MANY HOSPITALS  BUT STILL CAN'T BE CURED.I HAVE BEEN GIVEN OMEPRAZOLE CAPSULES MANY TIMES.PLEASE HELP ME.
+summarized question 6: What are the treatments for GERD and can it be cured?
+##
+query 7: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 7: Where can I find information on pain relief for Hirayama's disease?
+##
+query 8: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 8: What are the treatments for lactose intolerance and can it be cured?
+##
+query 9: SUBJECT: Mayonnaise and food poisoning MESSAGE: I have researched many other sites that say that mayonnaise is a safe food and that it is a myth that it causes food poisoning.  It seems to get a bad rap because it is used in combination with other items that cause food poisoning.  Some sites insist that it can even prevent the onslaught of bacterial growth, thus helping to ward off food poisoning because of its acidic nature.  Apparently it often used to be made at home, with eggs, and the eggs would go bad.....mayonnaise has thus carried this stigma ever since.  But many sites insist it is safe.  I was wondering what you think of these findings?   Thank you!
+summarized question 9: Does mayonnaise cause food poisoning?
+##
+query 10: "SUBJECT: is there any medicines for peristaltic movements? MESSAGE: I V[NAME] From [LOCATION] which is located at INDIA. I am a patient of less peristaltic movements which was digests the eaten food in 3 to 4 hours... In normal humans which was digests the eaten food in 2 to 3 hours...  I visited several hospitals in [LOCATION] which is located in INDIA...  When i was visited [LOCATION]"" Hospital at HYDERBAD in the year of 2010..  There Doctors has told there is no medicins for this problem..  Is  there any medicines to improve my  peristaltic movements?  Please Replay to My E-mail[CONTACT] and My Mobile Number is: [CONTACT]  Thanking You taking my request...."
+summarized question 10: What are the treatments for slow peristaltic movements?
+##
+query 11: SUBJECT: treatment options versus migraine types MESSAGE: Migraine seems to be a spectrum of conditions rather than only one easily diagnosed affliction.  Many innovative migraine treatments are now in use, but it seems that each treatment only addresses a narrow set of conditions; for example, my daughter has tried many different treatment options (QEEG, HEG, TMS, topamax, ...) without success.  Has any research been done to characterize which treatment types are effective against which migraine types?
+summarized question 11: Has any research been done to characterize which treatment types are effective against which migraine types?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 12: What are the treatments for scalp psoriasis?
+##
+query 13: SUBJECT: vaginal rashes after periods that leads to vaginal itching MESSAGE: period rashes proceed to vaginal itching. then it develop fungal infection with thick white discharge. i then take flucanazole (antifungal)which cure it. but m worried of taking allopatic medicines. pls tell me what primitive or traditional methods do i use to avoid it. i also have a sensitive skin.
+summarized question 13: How can I prevent vaginal skin rashes and fungal infection?
+##
+query 14: "SUBJECT: treatment for dry mouth caused by necessary medicine MESSAGE: My provider can't help (I asked.) I am intolerant of all the ""sugar alcohols"" such as maltilol, sorbitol, xylitol, etc. and need something for dry mouth caused by med which I have to take.  Biotene products help for only about two minutes."
+summarized question 14: What are treatments for dry mouth that do not contain sugar alcohols?
+##
+query 15: sarcoidosis.  One thing no physician has been able to tell me is whether or not fatigue--ongoing--is a part of this disease. I was diagnosed in 2006, and have noted a lessening of energy, endurance. If this is a possible side effect, I have not found it in any info on this. Please add to your information if this is a viable issue. Thanks so much! [NAME]
+summarized question 15: Is fatigue a symptom of sarcoidosis?
+##
+query 16: SUBJECT: Bipolar and Generalized Anxiety Disorder MESSAGE: I read about TMS Therapy.  Do you know anything about it?  Has it had success?  Also wondering about ECT?  Finally, I've been told acupuncture can help for mood disorders.  Is that true for mixed bipolar and generalized anxiety disorder along with meds?  Have you ever heard of this?
+summarized question 16: What are the treatments for bipolar disorder with generalized anxiety disorder?
+##
+query 17: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 17: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 18: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 18: Is there a cure for hepatitis B?
+##
+query 19: SUBJECT: Cure for hoe in lung MESSAGE: I certainly would like to request for medical for hoe in the lung  Please help all the necessary information on how to cure this hoe in lung, I have be try some medical here they are not help the situation. Please reply immediately with necessary information.
+summarized question 19: What are the treatments for water in the lung?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 20: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 21: SUBJECT: Peptic Ulcers & Tylenol MESSAGE: I have a history of peptic ulcers, so I don't take aspirin or anything that contains it. However, I still experience ulcerative pain when I take Tylenol, especially on the second day of it's administration in recommended doses.   Why is this so?
+summarized question 21: Can tylenol cause ulcerative pain?
+##
+query 22: "SUBJECT: pseudogout MESSAGE: @ http://www.nlm.nih.gov/medlineplus/ency/article/000421.htm I see the statement ""There is no known way to prevent this disorder. However, treating other problems that may cause pseudogout may make the condition less severe"" which I would like to have explained, especially what those other problems are &how they may be treated. I'm especially interested in whether supplemental calcium may not be good to take."
+summarized question 22: What are the treatments for pseudogout?
+##
+query 23: "SUBJECT: Complex Regional Pain Syndrome (CRPS) or Regional Sympathetic Dystrophy (RSD) MESSAGE: I have searched your pages and website for information on this medical condition but found nothing. I know there's not a lot of research on this but I'm pretty certain that my father had it in his legs and now I do to. Is there any evidence this condition is genetic or is it an ""Unknown at this time""?  Thanks"
+summarized question 23: What causes Complex regional pain syndrome?
+##
+query 24: Hello. I am writing this mail from [LOCATION]. This in regards with seeking help for Ulceratice colitis. My mother is suffering from this diseases from last 3 Years. Her treatment is going with [LOCATION] from past a year and half. Below are the symptoms of her disease : 1. Mucas Pus flow in quantity while passing stool 2. Blood flow while passing stool 3. Heavy weakness 4. Heavy and steady weight loss 5. Weak Eyesight 6. Heavy cramps after meal 7. stomach pain sometimes after lifting heavy weight 8. Poor appetite Below are the medicines given by the doctor during the course : Cap SonprazD, Tab Coolgut 1.5 , tab Falute, Mesacol Supporteries, Cap A to Z , Tab siho fix, and Tab omnacortil , rabelco rd cap , coolgut , folvitc , entofoam , bevon , anovate. She had undergone Colonoscopy , Endoscopy , Stool test , Urine tests and Blood test many times ( i can mail the reports of all the above if needed ). Her progress was very good at initial stage of the treatment. But eventually after due course of time , Her Blood and mucas flow while passing stool had increased. Even after taking her regular medication and proper diet. Her colonoscopy and Endoscopy shows result of erosion on some part of Rectum. Though doctor told the Ulcer is getting cured day by day. Still , from these past days her Blood and mucas flow is continuous and heavy. She is complaining a lot about weakness. Her daily medications is showing very less effect. This makes me to write this mail to u for seeking some advice and help in this case. As i understood this is the best known institute i can find for gastroenterology. My study on this disease help me understand that there are surgical treatment available for this kind of situation like Proctocolectomy and ileoanal reservoir. Please suggest on this. whether my mother requires this surgery at this stage of disease by looking into the Symptoms. We are very worried a
+summarized question 24: Where can I get advice and help for ulceratice colitis?
+##
+query 25: MESSAGE: I just read an article submitted by you that stated your research shows that you've identified the mechanism that causes burning mouth syndrome. Also because of these findings you can find a treatment. I've had this for 15 yrs and am just holding on. When will a good treatment be available??  I belong to a group of over 500 bmsers. We're suffering terribly and were from all over the world. What would the treatment be?
+summarized question 25: What are the treatments for burning mouth syndrome?
+##
+query 26: "SUBJECT: BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium a MESSAGE: Hello, I want to purchase from you a remedy. I have Multiple Sclerosis, and there is much talk in the media about ""C. perfringens, Type B"" being a trigger for Multiple Sclerosis. Here is a link of the news http://www.bbc.com/news/health-25925658. I would like to purchase this product ""BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid"".  Or could you kindly recommend a remedy that will address this bacteria?  And email me how I should purchase and the total cost including the shipping so I can order it. I'm eager for your reply and thank you Kindly. Below are all my details: [NAME] [LOCATION] [CONTACT] [EMAIL]"
+summarized question 26: Where can I purchase BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid and how much does it cost?
+##
+query 27: SUBJECT: chemical reactions to meds. MESSAGE: What is the clinical name for people who have chemical reactions to medications? Is there a cure?  Thanks
+summarized question 27: What are the treatments for drug reactions?
+##
+query 28: "MESSAGE: I have a fungal infection on my two legs which i have treated  several month with Lamisil 1o/o cream ,Betamethasone-N cream and sulphur skin ointmentcream. And the drugs-: terbanfine, fuschin,ampiclus beecham vitamin ""c"" etc. But with all of these,the fungal still remain the same.pls, which strong antifungal drug or injection would you people recomend for me or what advice would you give ? Yours faithfully  [NAME]"
+summarized question 28: What are the treatments for severe skin fungal infections resistant to over the counter medications?
+##
+query 29: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 29: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 30: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 30: How do I stop taking wellbutrin HCL XL?
+##
+query 31: Have been on methadone for four years.  I am interested in the rapid withdrawl under anesthesia, but do not have a clue where I can find a doctor or hospital who does this.  I also would like to know the approximate cost and if or what insurance companies pay for this.
+summarized question 31: How can I find physician(s) or hospital(s) who specialize in rapid methadone withdrawal under anesthesia, and the cost and insurance benefits for the procedure?
+##
+query 32: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 32: What are tarlov cysts of the spine and how are they treated?
+##
+query 33: Can IBS be cured with the patent Medicines      say Mebverine or others as prescribed the      Doctor.       Does Probiotics are helpful in controlling       the IBS. Some says Peeper Mint can also be       suitable. These are few general questions       as regards IBS and not personal.
+summarized question 33:

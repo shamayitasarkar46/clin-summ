@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Responsible for the Research on stem cells and tissue regeneration MESSAGE: Dear colleague Good day, my name is [NAME], 48, doctor; I was affected by a bladder cancer where the removal of the organ was needed. I read about the work of his lab and I wonder if there is interest or any possibility of using pluripotent stem cells redo a piece of fabric of my bladder, for so I can do a transplant with acellular matrix and repopulate this matrix with these modified stem cells . I'm using bricker, which depress me, I lost my self esteem, lost quality of life and already thought to suicide. Until that came the hope that transplantation of acellular matrix.  I am looking forward to answer, anxious and carefully.   [NAME] CRM88878  I just can not understand the difficulty in finding a laboratory or institution that can solve this problem as the peritoneal layer of the bladder peritoneum is I already own, the inner layer is smooth muscle, which can also be acquired via endoscopic biopsy of the stomach or a arterial tissue and the layer It is coated internally by internal polymorph or transitional epithelium which can be acquired from another organ. It would just replicate small pieces so that after implanted in the acellular scaffold covered.
+summarized question 1: What is the latest research on using pluripotent stem cells and acellular matrix for  bladder regeneration?
+##
+query 2: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 2: What are the treatments for nocturia?
+##
+query 3: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 3: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 4: I am interested in learning about treatments for intraductal papillary mucinous neoplasm (IPMN). I'm particularly interested in new treatments, perhaps less invasive surgery or alternative treatments.  It would be good to know who is conducting the research in this area and where it is being conducted. Thank you, [NAME] -- [CONTACT]
+summarized question 4: What is the latest research on and treatments for intraductal papillarymucinous neoplasm (IPMN)?
+##
+query 5: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 5: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 6: SUBJECT: After Rectal Prolapse! MESSAGE: My boyfriend had surgery on his rectum because It came out of him It's been a few years! Is It normal for him to stick his finger up his anus to go to the bathroom?
+summarized question 6: What are potential complications after rectal prolapse surgery?
+##
+query 7: May I can find a cure for my case in therapeutic your center that I have an infection chronic granulomatous Mastitis take and how much the treatment period. Please advise me of the post by you.to this my Email Note : that I have all the medical reports and tests for this disease ??? this case of my wife and can be send your comment by below E-mail
+summarized question 7: What are the treatments for chronic granulomatous mastitis?
+##
+query 8: What can I use when I feel my bladder is sore when I urinate my bladder just burn and its awkward for me its the second time now what should I use or take? Please I need your help
+summarized question 8: "What drugs are there to relieve ""burning bladder"" on urination?"
+##
+query 9: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 9: Are endometriosis and cysts possible complications of NF1?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 10: What are the treatments and prognosis for a small GIST?
+##
+query 11: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 11: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 12: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 12: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 13: SUBJECT: Please help me MESSAGE: I have been dealing with undiagnosed issues. It started 3 years ago as nausea and dull achy pain. Doctors decided to remove my gallbladder, even though it only had scarring. Since the surgery ([DATE]) I have had a sharp, stabbing random pain in that area and around it. I also get dull, crampy pain. Finally, the surgeon ordered a CT scan because the pain is so bad. His nurse called and said everything was fine. So I went to my primary, who noticed that I have ascites on my liver. My side is slightly bloated, was not before. And I am scared because I don't know what I'm supposed to do. No one will help me and I do not want to be on pain meds my whole life.  Please let me know your thoughts or guide me in the direction I need, please.  I live in south carolina, i dont know why when I made my email it had the co.uk
+summarized question 13: What are the treatments for ascites?
+##
+query 14: SUBJECT: •Radical neck dissection MESSAGE: Hi, I had this surgery 10 years ago as a result of thyroid cancer and have had a lot of problems with my rights side neck and shoulder exactly as you described in your article.  Can you recommend any treatment?  When I mentioned it to my surgeon post surgery he did not think it had anything to do with the operation.  I had the SCM muscle removed as well as the parathyroids, total thyroid removal, artery, &12 lymph nodes.
+summarized question 14: Can you recommend any treatment for neck and shoulder problems following radical neck dissection for thyroid cancer?
+##
+query 15: SUBJECT: Treatment for Nodular Goiter MESSAGE: Hi,  I'm suffering from nodular goiter. The size of enlarged thyroid gland is visible, but not like a big one. I need treatment for this. Some Doctors have suggested surgery which I don't want to go through. What are the other treatment options. Also let me know the place where I can visit to consult.  Thanks, [NAME]
+summarized question 15: What are the non-surgical treatments for nodular goiter and where can I find a specialist to treat it?
+##
+query 16: MESSAGE: I have had renal organ transplant surgery a year ago. What risk factos must I avoid to prevent the recurrance of ESRD and to maintain a healthy &functioning grafted kidney ?
+summarized question 16: How do I care for my kidney after renal transplant?
+##
+query 17: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 17: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 18: I have painful sores around my genitals..what could  be..i realy need an answer urgently or to talk to one of your consultants
+summarized question 18: What causes genital sores?
+##
+query 19: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 19: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 20: SUBJECT: pregnancy MESSAGE: I just want to ask if have some ways or have a operation to be pregnant a woman like me had a tubal ligation before  7yrs. Ago..
+summarized question 20: Where can I find information on tubal ligation reversal?
+##
+query 21: SUBJECT: after surgery of ear drum still same problem MESSAGE: i got surgery for hole in my ear drum(hole was in my ear from 5 0r 6 ears but i did not know it but when i came to know i got surgery) but after  two year surgery still i have same problem. problem in listening and continuous noise like buzzing or ringing in my right ear.so sir what should i do right now? plz sir help me. buzzing in my both has been started from last 3 year.plz help me....
+summarized question 21: What are the treatments for perforated eardrum?
+##
+query 22: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 22: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 23: SUBJECT: Abscess in lungs MESSAGE: Is abscess in lungs curable?  My Dad has surgery and found 2 abscess in his lungs. After a week out of surgery room, he developed fluid. The doctor is telling us they can use the syringe to remove the fluid, nothing else can be done.   There is  a small bottle attached to his surgical area which is collecting liquid from infection.  Thank you for your reply. My dad is 84 yo.
+summarized question 23: What are the treatments for lung abscess?
+##
+query 24: Dear Doctors, Good day, I would like to ask about the possibility to make a Liver transplantation surgery for my uncle. his liver is damaged and need to be replaced so could you please advise me with the possibility to make the surgery and the approximately cost . also any other details should I know. Your Quick response is highly appreciated and thanks in advance for your cooperation.
+summarized question 24: Where can I find information on liver transplants, including cost?
+##
+query 25: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 25: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 26: SUBJECT: glossopharyngeal neuralgia MESSAGE: how long would i take the medication. what is the success rate of surgery. can you tell me how much radiation method work and where is the treatment available in [LOCATION]
+summarized question 26: What are the treatments and their success rates for glossopharyngeal neuralgia?
+##
+query 27: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 27: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 28: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm 33 years old and got diagnosed with rhabdomyosarcoma stage 4 last December. I went through 13 weeks on intense chemotherapy and my last scan showed that I'm in remission. I'm looking for more guidence as far as a stem cell replacement goes.
+summarized question 28: Is stem cell therapy appropriate for stage 4 rhabdomyosarcoma in remission?
+##
+query 29: SUBJECT: Cervical Cancer MESSAGE: Can a long term untreated bladder infection aid in the cause of cervical cancer? And can the fact that my mom has cervical cancer aid in my chance of getting cervical cancer?
+summarized question 29: What causes cervical cancer, and is it hereditary?
+##
+query 30: SUBJECT: dressings MESSAGE: my dad had some skin cancer removed 3 wks ago and a skin graft was performed. The doner site is healing well, but the graft site is still very sore and having dressings changed every 2/3 days, dad isnt convinced that the wet gauze dressings are any good. Which type of dressings should be being used?
+summarized question 30: What types of dressings are used for skin graft sites?
+##
+query 31: SUBJECT: ctscan see through mesh from hernia repair ? MESSAGE: I have mesh that repaired a hernia on my lower abdomen. Now I need a ctscan. Will the ct scan see through the mesh ??????
+summarized question 31: Will surgical mesh show up or interfere in a CT scan?
+##
+query 32: My age is 56 years. And i am suffering from non-toxic goiter on left neck of size about 13cm from 5 years. My thyroid test of T3,T4,T5 are normal,FNAC test is normal and i am having no complications right now.  1) Please suggest should i go for operation of my thyroid gland.? 2) Is Radioiodine treatment better then surgery for me? Thanks  [NAME]
+summarized question 32: What is the best treatment for non-toxic goiter?
+##
+query 33: MESSAGE: I have been dignosed Bladder Cancer and in [DATE] surgery Radical cystoprostatectomy with bilateral PLND under EA/GA was done.I would like to know if the stoma closure is possible? Request to please guide me.
+summarized question 33:

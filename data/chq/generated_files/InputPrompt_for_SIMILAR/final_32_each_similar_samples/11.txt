@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Right Arm shoulder pain from top to bottom MESSAGE: hi, I am having an younger sister, who is suffering from severe pain of right shoulder from 7 days. The pain comes from right ear to right arm fingers and she was unable to lift a simple spoon or plate. Hence I request you to suggest me good medicine or treatment for this pain.
+summarized question 1: What are the causes and treatments for irradiating right shoulder pain and weakness in the arm?
+##
+query 2: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 2: What are treatments for excessive sweating?
+##
+query 3: SUBJECT: Irritation on the gland MESSAGE: There is a problem on my penis gland, due to using lidokaine a lot. The skin is irritating and very sensitive especially when it is wet. Also, the gland is peeling every 3 or 4 days during a week leading to very high stimulating feelings. I have undergone several treatments for skin as well as my neurotic system but with no result at all. Please help me to cure this. Some doctors said there is no treatment for me and there would be no sexual contact forever.
+summarized question 3: What are the treatments for sensitive, irritated skin on the penis?
+##
+query 4: SUBJECT: broken the shoulder. MESSAGE: how to provide the treatment of broken shoulder lock problem ?
+summarized question 4: What are the treatments for broken shoulder?
+##
+query 5: SUBJECT: burning rash MESSAGE: my left buttocks has painful sores a nurse at my work said to put cortisol10 cream on it but its not helping she thinks i got this by being in a dirty hottub! i hope its not something bad. please help
+summarized question 5: How can I get help for a burning rash on my buttocks that does not respond to OTC hydrocortisone cream?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 6: What are the early symptoms of Stiff person Syndrome?
+##
+query 7: erection problems.  how to get rid of erections?
+summarized question 7: What are the treatments for erection problems?
+##
+query 8: SUBJECT: still very sore under my middle rib cage and little swollen MESSAGE: any suggestions for this discomfort ? sore and swollen from auto accident was wearing seat belt.
+summarized question 8: What are the treatments for rib pain and swelling after car accident?
+##
+query 9: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 9: What are the treatments for lichen planus?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 10: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 11: SUBJECT: ears itch burn and have soreness at times MESSAGE: I was wondering I get my ears cleaned out because of allot of wax build up but I constantly have this itch in both of them and sometimes they burn little and they pain a touch, in the day I don't notice it as much as in the evening and at night sometimes I think I even feel draining in them but nothing drains out- If I take some clartin it does help but I hate doing clartin everyday what do you think I need to do ENT's don't do much for it or seem to think its a problem - I also get a little rining in the ears at night some high pitch sound not to bothersome but there and they did check my hearing and said it was fine, so I wonder what it could be something I am taking supplement wise or allergies or what? is there some kind of test that would tell what this is and how to overcome this nuisance thanks so much for any help
+summarized question 11: What are the causes and treatments of ear pain, itching, and ringing?
+##
+query 12: I have painful sores around my genitals..what could  be..i realy need an answer urgently or to talk to one of your consultants
+summarized question 12: What causes genital sores?
+##
+query 13: SUBJECT: bruised blood/bleeding under the skin MESSAGE: what causes the above? Certain pressure(s) applied to body leaves long lasting dark spot(s)
+summarized question 13: What causes bleeding under the skin?
+##
+query 14: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 14: What are the prevention and  treatments for plantar fasciitis?
+##
+query 15: SUBJECT: Excessive Eye Water MESSAGE: Thank for your information on my earlier question regarding what is causing skin itching. I have another question on another problem that I'm having. This problem is excessive eye water (tears) occurring all the time and filling my nose up mostly at night and stops using my nose while in bed after a couple of hours. This there any medicine that would reduce all these excessive tears?
+summarized question 15: What are the treatments for watery eyes?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 16: What are tarlov cysts of the spine and how are they treated?
+##
+query 17: Hello. I am writing this mail from [LOCATION]. This in regards with seeking help for Ulceratice colitis. My mother is suffering from this diseases from last 3 Years. Her treatment is going with [LOCATION] from past a year and half. Below are the symptoms of her disease : 1. Mucas Pus flow in quantity while passing stool 2. Blood flow while passing stool 3. Heavy weakness 4. Heavy and steady weight loss 5. Weak Eyesight 6. Heavy cramps after meal 7. stomach pain sometimes after lifting heavy weight 8. Poor appetite Below are the medicines given by the doctor during the course : Cap SonprazD, Tab Coolgut 1.5 , tab Falute, Mesacol Supporteries, Cap A to Z , Tab siho fix, and Tab omnacortil , rabelco rd cap , coolgut , folvitc , entofoam , bevon , anovate. She had undergone Colonoscopy , Endoscopy , Stool test , Urine tests and Blood test many times ( i can mail the reports of all the above if needed ). Her progress was very good at initial stage of the treatment. But eventually after due course of time , Her Blood and mucas flow while passing stool had increased. Even after taking her regular medication and proper diet. Her colonoscopy and Endoscopy shows result of erosion on some part of Rectum. Though doctor told the Ulcer is getting cured day by day. Still , from these past days her Blood and mucas flow is continuous and heavy. She is complaining a lot about weakness. Her daily medications is showing very less effect. This makes me to write this mail to u for seeking some advice and help in this case. As i understood this is the best known institute i can find for gastroenterology. My study on this disease help me understand that there are surgical treatment available for this kind of situation like Proctocolectomy and ileoanal reservoir. Please suggest on this. whether my mother requires this surgery at this stage of disease by looking into the Symptoms. We are very worried a
+summarized question 17: Where can I get advice and help for ulceratice colitis?
+##
+query 18: SUBJECT: oleander poisoning MESSAGE: If oleandor was ingested by touching the plant stems inner part and then directly eating without washing hands, how long would u exspect symptoms would start? And how severe would you say symptoms may get.
+summarized question 18: When do symptoms of oleander poisoning appear after ingesting the plant, and how severe can they get?
+##
+query 19: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 19: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 20: SUBJECT: entire body is red with itching and sclera of eyes are red MESSAGE: what causes the skin of the entire body to turn red including the sclera of the eyes.  Also there is itching of the skin.
+summarized question 20: What are the causes of red, itchy skin and sclera?
+##
+query 21: Crainosynstosis. My 2.5 year old daughter has this condition with the metoptic, Sagittal and bi-coronals sutures prematurely fusing. Do you know if any syndrome deals with those three fusing together?  She also has flabby eyelids, a flatter/wider nose, a blueish tint around her nose and the metoptic suture, fat big toes, deep lines on her hands, shorter chubbier hands, somewhat sucken eyes, a butt dimple (ruled out tethered spine) and rule out a displaced anus. I am in between genetics doctors.Thanks, [NAME]
+summarized question 21: What syndromes are associated with Craniosynostosis?
+##
+query 22: MESSAGE: I have a gland on the bottom left side of my jaw that swells up and gets really hard causing pain. The only way to relieve it is to push it with my fingers till it runs out of a hole inside my cheek into my mouth. What could b causing this? I just want to know if i should b concerned about a type of cancer since my grandmother passed from cancer in her lymph nodes.
+summarized question 22: What are the causes and treatments for salivary gland swelling and pain?
+##
+query 23: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 23: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 24: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 24: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 25: Spinal Cord.  My Brother is 58 years old have spinal cord problem his both legs he cannot move them wheelchair user his legs are very heavy as he had urinaire infection after the other now the test comes positive and the infection still going cannot clear so his Doctor cannot give him any treatment for his main problem (Spinal cord) I want to help him what he should do I want to get advice please baging you for help and advice, many thank you
+summarized question 25: What are the treatments for urinary tract infection?
+##
+query 26: SUBJECT: Need help! MESSAGE: I have a knot about the size of a BB in my right forearm about 2-3 inches from my elbow. It's been there for about 5 years and hurts sometimes. Mostly only notice it when i put pressure on it. You can't see it but can feel it pretty good. It will move about a cm in any direction. I went to the doctors about 4 years ago to have it looked at but they did no xray and said its prob a BB from when i was younger. It's starting to hurt more now without me putting pressure on it so i'm thinking i need to have something done about it. Any ideas on what it could be or what i should do about it?
+summarized question 26: What causes lumps on the arm?
+##
+query 27: SUBJECT: uncontrollable jerking movements MESSAGE: When I am exercising hard, the left side of my body will start to do strange things. When lifting weights overhead, my left upper lift will jerk up into sort of a sneer.  When doing core work, my left arm will start jerking so hard that it's impossible to hold onto anything. The jerking stops after the exercise ends; but my left arm feels worn out.  No pain. A few months ago, my left leg completely lost any strength for weeks. It first appeared when I was just trying to do a squat with a plastic pipe in my hand. Eventually was able to work strength back. Again - no pain.  Should I be alarmed?
+summarized question 27: What causes jerking movements during exercise?
+##
+query 28: W What are the causes of pulmonary artery sling? Is it genetics or what?my 10 month granson is having surery on tuesday at little rock hospital in ar.
+summarized question 28: What causes pulmonary artery sling?
+##
+query 29: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I HAVE CRONIC PAIN FROM SEVERE SHINGLES.THE BLISTERS ARE GONE BUT THE PAIN IS SEVERE.WHAT SHOULD I DO. I CAN' KEEP THIS PAIN
+summarized question 29: What are the treatments for shingles pain?
+##
+query 30: SUBJECT: athrtics MESSAGE: My right shoulder is getting pain and my right hand is not moving up and back freely.  Doctor explained me that it is pediathratic problem.  I have done some pschyotharapi treatment. Mr doctor advised me that there in no medicine and regular exercise required. What is the next stage I want to do.  Please explain.
+summarized question 30: What are the treatments for shoulder pain and loss of hand movements?
+##
+query 31: SUBJECT: SHINGLES   OR HIV MESSAGE: HELP I HAVE HAD THIS ON AND OFF FOR 13 YEARS   MOST RASH STARTED ON RT ARM HIP, 3 ON STOMACK AND SPOTS A FEW ON LEG. WHEN I GET UPSET I BREAK OUT.
+summarized question 31: What are the diagnosis and treatments for shingles?
+##
+query 32: "SUBJECT: allergic reactions MESSAGE: I have RLS. I had allergic reactions (my neurologist is confused) to Ropinirole and the Neupro patch. I need to know if the pramipexole made by your company has a ""something - sulfite"" as a stablizing ingredient. This is what, seems, oddly, to be causing swelling of my hands, feet, nose, throat, eyelids and tongue. Could I get an email or a drug package insert so I could find out all the inactive ingredients. I am desperate to find relief from this horrifying affliction. I not only has the sensations in my legs but also my arms. Thank you for your time and information. My mailing address: [CONTACT] or perhaps a voicemail message: [CONTACT]"
+summarized question 32: What are the inactive ingredients of pramipexole?
+##
+query 33: outbreak of red raise sores on back shoulder and arms from shoulder to wrist with raised bulbs of liquid. treatment and maintenance ?
+summarized question 33:
