@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1071, "inputs": "scrotum swelling scarring from water retention what ointment, cream to treat", "target": "What is the treatment for swollen and scarred scrotum? "}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 546, "inputs": "SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?", "target": "What are the causes of and treatment for scrotal rash?"}}
