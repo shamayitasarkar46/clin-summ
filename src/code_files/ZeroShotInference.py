@@ -21,10 +21,10 @@ import time
 import re
 import os
 # os.environ['socks_proxy'] = 'socks5://10.5.20.149:1200'
-system_message = """You are an expert medical professional.
-####
+# system_message = """You are an expert medical professional.
+# ####
 
-"""
+# """
 
 # Replace with your API keys and endpoint URLs
 #api_keys = ["<API_KEY_1>", "<API_KEY_2>", "<API_KEY_3>"]
