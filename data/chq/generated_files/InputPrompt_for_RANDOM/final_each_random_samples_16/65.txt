@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: treatment required MESSAGE: we need treatment for balance disorder. my father losses his balance while walking or climbing steps so please so please help us in curing the disorder.
+summarized question 1: What are the treatments for balance disorder?
+##
+query 2: SUBJECT: morphine withdrawal symptoms MESSAGE: I was taking 600 mgm ms contin over a long period - of course I didnt start on that high dose but over 20 years I ended up there. I weaned myself off last year, and when I finally got to zero I started having these leg spasms, is this from the morphine? I can stop them taking 15 mgm ms contin daily which irritates me to to no end, I do NOT want to take the stuff! BUT, if I don't take it I get the spasms and end up sitting up all nite and sometimes during the day with them. I get them in my arms sometimes as well as both legs, and my legs jump a lot! My limbs feel kind of numb when it is going to start, so I know it is coming. What can I do? Is this ever going to stop? Thanks for your help.....[NAME]
+summarized question 2: What are symptoms of morphine withdrawal and how are they treated?
+##
+query 3: SUBJECT: blocked ear drum MESSAGE: got a head cold and now left ear drum has bean blocked for three weeks now.taking amoxicillin trihydrate three times a day also apo-mometasone spray once a day. its bean five days now on medication and not any better
+summarized question 3: How long does it take for antibiotics to clear up a blocked ear?
+##
+query 4: SUBJECT: Otic suspensions MESSAGE: Dear Sir/Madam, I am looking for list of approved products of Otic suspensions for human use.Kindly help me to get the details. Regards/[NAME]
+summarized question 4: Where can I get information on otic suspensions for human use?
+##
+query 5: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 5: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 6: Thrush Article.  Maybe I over read the article, but I saw nothing about thrush being transferred from one Person to another. Weather it can happen or can't it should be told somewhere in the article. [NAME]
+summarized question 6: How is thrush transmitted?
+##
+query 7: I have had two groing area hernias 1-mesh 10 years ago Dr [NAME] [LOCATION],& 1-plug& mesh 1 year ago Dr [NAME] [LOCATION], after serious pain & huge bulge that never went away and serious nerve dicomfort in upper thigh area for last year, I got mri and it says I have another hernia! I then seen a Dr [NAME] [LOCATION], he says I must lose 30 pounds before operation.,he says he wants to attach mesh to hip bones thuss using bigger mesh holding etire groing area!unfortionatly I am getting apears to be infection in bulging area, I am a heavy equipment operator seatbelted in to giant bouncing earthmovers all day, most likely moving mesh inside my groing area? I dont know! question is? is this proceedure sound feasible and have researchers heard of it? I am interested in a research program if I can be helped once and for all if possible! please  give me some feedback or at least a great proceedure with a great surgin in palm springs area. thank you [NAME] [LOCATION]
+summarized question 7: Where can I find the latest research on surgery for groin hernia, and and how can I find physician(s) in Palm Springs who specialize in it?
+##
+query 8: neurosyphilis.  how can someone have neurosyphilis and there partner not get syphilis
+summarized question 8: Are partners of people with neurosyphilis at risk for syphilis?
+##
+query 9: SUBJECT: sir!  i m hasitate during talking. for exam MESSAGE: Sir!        I m  hasitate during  talking. For example:         Name (na...na...name)  welcome ( wev....wev....wev....welcome).
+summarized question 9: Where can I find information and help for stuttering?
+##
+query 10: SUBJECT: adenoma carcinom pancreatic MESSAGE: Patient 65 year,without any other disorder has now diagnose solid adenocarcinom with 4 hepar metastases.IS possible treatment wit oncolytic virus with Gemcitabine? Who and where make it?
+summarized question 10: What are the treatments for pancreatic adenocarcinoma?
+##
+query 11: Need information about Thalassemia medical center in Aisa Hello dear sir/Madam, My son has Thalassemia, and i have been looking for his treatment. I need you to guide me where I can take my son for his treatment? actually, I am in Afghanistan and there is no hospital for his treatment. so please guide me
+summarized question 11: How can I find physician(s) or hospital(s) in Asia who specialize in Thalassemia?
+##
+query 12: How helpful is radiation for melanoma of heel and spread all the way up the leg? Would this effect treatment of trial drugs or other treatments?
+summarized question 12: Is radiation an effective treatment for skin melanoma and would it preclude experimental treatments?
+##
+query 13: SUBJECT: Request for literature for Chromosome 16 duplication MESSAGE: I have 3 week old who was admitted in our [LOCATION] for being growth retarded.  He was delivered term but weighed only 1.44 kg.  There was polyhydramnios during pregnancy but the rest of the antenatal scans did not detect any other abnormalities. When the baby was born, we noted some dysmorphysm, namely:  small head, low set ears, round face with wide phlitrum, slight hyperteloris, wide spaced nipples, clinodactyly and stubby toes.  blood was sent for karyotype and showed 46XY,dup(16)(q13q23). I looked up any information about this condition and could not find any on-line. Can u please forward any literature you may have so as I can better appraise the parents of the prognosis and make a more detailed treatment plan for the patient. Thank you
+summarized question 13: Where can I find information on chromosome 16 duplication, specifically karyotype 46XY,dup(16)(q13q23)?
+##
+query 14: SUBJECT: Pneumococcal Polysaccharide - 23 MESSAGE: I received the Pnuemoccoal Polysaccharide 23 vaccine in 2009 at the age of 67 years. I was told I would never need the vaccine again. Is that still true or has the vaccine been updated? Should I get it again now at the age of 72?
+summarized question 14: What are the guidelines for updating pneumococcal polysaccharide 23 vaccine for persons 65 and over?
+##
+query 15: MESSAGE: I was told not to take the shingles vaccine..i have many healthe problems and many allergies…
+summarized question 15: When is the shingles vaccine contraindicated?
+##
+query 16: SUBJECT: Can I safely take prednisone and levaquin the same day several hours apart? MESSAGE: can I safely take levaquin and prednisone the same day not at the same time several hours apart?
+summarized question 16: Are there drug interactions between prednisone and levaquin?
+##
+query 17: hi, can malarone turn  your tongue black? if so, do u know why?  and how to fix?  Thx
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 1: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 2: SUBJECT: methadone causing COPD MESSAGE: My daughter said there was a study done  and it concluded that methadone can cause COPD. Do you know if there is any truth to this and if so where can I get info on it. Thank you [NAME]
+summarized question 2: What are the side effects of methadone?
+##
+query 3: Pupil Dilation.  How often can a pupil dilation or eye fundus can be performed? For example is there a problem if I had one last week and then to have another this week? I appreciate your quick answer.  Thank you
+summarized question 3: How often can pupil dilation be performed?
+##
+query 4: SUBJECT: shingles MESSAGE: Hi I had shingles a while ago on my left forehead and above my eye, not long after it started again, this time under my left breast, extremely painful and am wondering can this start again ? ty [NAME]
+summarized question 4: Where can I find information on recurrent shingles?
+##
+query 5: SUBJECT: prestigious place in USA for treatment to Common peroneal nerve dysfunction MESSAGE: Hello, I have foot drop for damage to the common peroneal nerve, caused by surgery on knee in November 2012.Please which is the most prestigious institution or place in USA for treatment or surgery of this type of injury. thanks a lot
+summarized question 5: How can I find physician(s) who specialize in Common peroneal nerve dysfunction?
+##
+query 6: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 6: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 7: ClinicalTrials.gov - Question - general information.  hello. my mane is [NAME], i am 34 years old . I have AIDS .well now everybody my co-workeds      knows my diagnose.what should i do ?how can i life ?Also store manager [LOCATION] told me ( i am jerk ,  idiot)
+summarized question 7: Where can I find support groups for people with HIV/AIDS?
+##
+query 8: MESSAGE: I have been battling Anal fissure for close to two years now and it has refused to heal all these while. Please what do you suggest i do?  Thanks
+summarized question 8: What are the treatments for chronic anal fissure?
+##
+query 9: chromosome 3. chromosome 3 found in the bloods between the father and son,,,would this mean that my son,s blood is not the same as mine,,i was told it was all about learning problems,,,but i am woried that theres more involved,,can you send me a chart or some thing describeing ch 3 is all about and too what area of the body its being tested on espicaly a 9 year old child ,,thanks
+summarized question 9: What health conditions are associated with changes in chromosome 3?
+##
+query 10: I am a type 1 diabetic and have been since I was nine months old.  I am now 34 and would love to talk to anyone interested in trials on the reversal vaccine that I have read articles about.  I currently live in [LOCATION].  I was not sure if any local Endo Doctors are running trials similar, or would be interested in working with a patient that has had t1d for as long as I have.  I am very active in my community with JDRF and would love nothing more than to be cured of this terrible disease.  Please contact me via email or my cell# [CONTACT], I welcome any information that can be provided.  Thank you, [NAME]
+summarized question 10: Where can I find information on clinical trials for type 1 diabetes reversal vaccines?
+##
+query 11: SUBJECT: lupus MESSAGE: Hi,  I  want to know about Lupus and its treatment. Best,  [NAME]
+summarized question 11: Where can I find information on lupus and what are the treatments for it?
+##
+query 12: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 12: How do I stop taking wellbutrin HCL XL?
+##
+query 13: SUBJECT: Mental Health (Anxiety) interview MESSAGE: I would like to interview someone by email in order to obtain information over Generalized Anxiety Disorder for a Newsletter project in my Abnormal Psychology Class at [LOCATION]. Thank you very much
+summarized question 13: Where can I find information on generalized anxiety disorder?
+##
+query 14: SUBJECT: Arthritis MESSAGE: Is the medication Trimethoprim/ sulfamethozle useful in arthritis.?         Thank you
+summarized question 14: Is Trimethoprim / sulfamethazole indicated for arthritis?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My daughter was recently diagnosed with a CTNNB1 mutation and there are only 4 published cases.   Can you tell me where I may be able to find more information
+summarized question 15: Where can I find information about CTNNB1 mutation?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 16: What are the treatments for severe endometriosis in adolescents?
+##
+query 17: I have been tested twice and it has been determined that I have 2 copies of the gene for FACTOR V, and I am concerned about my family.  If 1 parent has been diagnosed negative, is it even possible for me to have 2 copies of the gene without something being misdiagnosed?  I have 3 children and 8 grandchildren and would like to know if this should be called to their attention?  Information will be appreciated.
+summarized question 17:

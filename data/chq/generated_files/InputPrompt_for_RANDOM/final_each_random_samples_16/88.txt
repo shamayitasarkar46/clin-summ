@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 1: What are tarlov cysts of the spine and how are they treated?
+##
+query 2: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 2: What are the ingredients of Glyburide and is it gluten free?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hi, I have mixed diagnosis of autoimmune connective tissue disease and would like to submit information about this disease. I also need some serious rheumatologist recommended in Argentina or Latin America. From already thank you very much
+summarized question 3: How can I find  rheumatologist(s) who specialize in mixed connective tissue disease in Latin America?
+##
+query 4: SUBJECT: hearing loss MESSAGE: have you experience in hearing loss due to autoimmune disorder called Cogan syndrome? If yes I will contact you for my 18year old son.
+summarized question 4: Can Cogan syndrome cause hearing loss?
+##
+query 5: I understand that you cannot provide opinions,nor suggest, any type of therpy.  My son (dob-[DATE]), was called back to the hospital four days after birth due to a abnormal PKU, which suggested adrenal hyperplasia. After test the endocrine physians felt he did not have the condition. Several years later he began having severe headaches preceded by violent vomiting epidodes  that lasted for hours. When he was admitted to [LOCATION],  he was suffering from bleeding esphogal ulcers,  and severe dehydration and, malnutrician. His urine (24 hr), blood plasma,& VMA,showed increased values of catacholomines.He also demostrated intermittent hypertension, and tachcardia through out the day (he had been diagnoised with ADHD several years earlier). His MIGB clearly showed bifocal uptake in both adrenal glands. The mri did not show tumors at that time ([DATE]. He has since been diagnoised with antral polys (biosphy's taken were misplaced, and the gastrologist would not redo the test), aberrant right subclavian artery,  esphogas pushed to the side, low oxygen intake, high levels of gastrin, cyclic vomiting syndrome, severe sinus attacks that come and go, without infection present.  His symptons that I have not already include heat intolerence, pallor, poor appetite with little weight gain, anxiety, tremor of hands, and stomach pain. After his mri, which I was told would take about 45mins, took over 5 hrs. Since then we have been having no luck with finding doctors that will take my son as a patient. Are you able to suggest a hospital that is knowlegable with pheochromocytomas? My son's father is mia, but during our 7 yrs together,  he also suffered severe headaches, and intermittent hypertension. He never followed up with a physian. Any help would be appreciated. I do not know what to do, and I do not want my son to end up a statistic.  Last night his BB was 180/115, with HR-50, half hour later his BP was 68/44 with HR of 122. I fear he is going to go in shoc
+summarized question 5: How can I find physician(s) or hospital(s) who specialize in pheochromocytomas?
+##
+query 6: Cardiac Event Loop Recorder.  is there a Cardiac Event Loop Recorder intrinsically safe?
+summarized question 6: What are the risks of a cardiac event recorder?
+##
+query 7: MESSAGE: Afternoon my name is [NAME] i just need a clarity on ACL repair. [DATE] i done ACL repair as the doctors told me after my discharge i attend physiotherapy but after the physio my leg get swallow so i stopped as there was no progress. now my knee is stiff and swallow also it change colour and doctors tells me they don't see anything. so i need an advise what can i do or where can i go and get help.  regards   [NAME]
+summarized question 7: What is the recovery process after ACL surgery?
+##
+query 8: SUBJECT: Pentoxifyline MESSAGE: My husband mistakingly took a pack of 5 in the place of his morning medacation. Is he in any danger? Is there something i should do. He just feels sick at his stomach.
+summarized question 8: What is the treatment for Pentoxifyline overdose?
+##
+query 9: glucose tolerance test.  Is Mountain Dew an acceptable glucose tolerance test drink?
+summarized question 9: Can soda be used as the glucose test drink?
+##
+query 10: SUBJECT: Does my circadian rhythm need adjusting? If so, how? MESSAGE: I had a saliva test last July, which showed my cortisol level at 9 @ 6:30am, 5.1 @ 11:30am, 4.2 @ 4:30pm, 3.3@ 9:30pm. I wake frequently during the night and my brain seems to engage in much thought, making it difficult to go back to sleep. I wake well before the 5:45 alarm and drag myself out of bed. I am exhausted all day and can fall asleep at day or evening events I have seen endocrinologists, in addition to my GYN and primary care dr., all of whom tell me all my blood tests are normal. I take 2 sport yoga classes and a Qi Gong class weekly. I was a young 65, but at 66, the lack of sleep has finally caught up with me and I feel much older than my 66 years. I feel lethargic and heavy-chested. I want my life back. I have never seen or read anything about how or where help can be found. Can you help?
+summarized question 10: Where can I find information on low cortisol levels, including symptoms, causes and treatments?
+##
+query 11: MESSAGE: Hi, I would like to know if the legs shortening can be done for a regular person as well, to simply reduce the overall body height. Thank you!
+summarized question 11: Is leg shortening surgery performed to reduce body height?
+##
+query 12: SUBJECT: duchenne. MESSAGE: My name is [NAME] from Morocco I am 27 years old. I have muscular dystrophy disease category duchenne. Are there any effective treatment for this disease
+summarized question 12: What are the treatments for duchenne muscular dystrophy?
+##
+query 13: SUBJECT: menkes syndrome /kinky hair syndrome MESSAGE: My daughter has menkes syndrome and would like to know how to go about. Thx
+summarized question 13: Where can I get information and help for Menkes syndrome / kinky hair syndrome?
+##
+query 14: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 14: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 15: "SUBJECT: Complex Regional Pain Syndrome (CRPS) or Regional Sympathetic Dystrophy (RSD) MESSAGE: I have searched your pages and website for information on this medical condition but found nothing. I know there's not a lot of research on this but I'm pretty certain that my father had it in his legs and now I do to. Is there any evidence this condition is genetic or is it an ""Unknown at this time""?  Thanks"
+summarized question 15: What causes Complex regional pain syndrome?
+##
+query 16: Williams' syndrome I would like to have my daughter tested for William's syndrome. Could you please tell me where I would go or who does it in my area?  Thank you!!
+summarized question 16: Where can I get genetic testing for william's syndrome?
+##
+query 17: SUBJECT: lithtrypsy complications. MESSAGE: lithotripsy performed 1986, [LOCATION], [NAME] hostile &defensive that it caused PMR &Giant Cell arteritis. Onset of autoimmune disease between 4 &8 hrs. later. Never worked again (Head &Neck surgeon). Still battling hypertension, arteritis, Inflammatory myositis (biopsy USC, [NAME]). Most Drs. know squat about autoimmune diseases &the trigger. Your info only
+summarized question 17:

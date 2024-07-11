@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: meaning of label directions MESSAGE: asked if med label says ""take with food"", how much food is required and found no asnwer.  not supposed to eat at nite when med is to be taken.     no answer."
+summarized question 1: "What does ""take with food"" mean on medication labels?"
+##
+query 2: SUBJECT: RE: RX MESSAGE: I am taking Metafolic Plus caplet I know this helps memory of the brain.  What else does it help the brain with?
+summarized question 2: What remedies improve memory?
+##
+query 3: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 3: How long does swelling from sleep apnea take to heal?
+##
+query 4: SUBJECT: insomnia MESSAGE: What can I give my [AGE] father to help him sleep? He said he will take whatever. He is not on any medication, not allergic to anything.  Fully ambilatory!
+summarized question 4: What are treatments for insomnia?
+##
+query 5: thyroid panel prep.  Do I need to prepare in any specific way for the thyroid panel?  Do I need to fast?  I have been taking a very low dose of Lithium nightly.  How long do I need to stay off of it before having the panel done?
+summarized question 5: What preparations are required for a thyroid panel test?
+##
+query 6: SUBJECT: Do Shrimp Allergies Subside Over Time MESSAGE: I used to eat shrimp all the time but suddenly developed an allergy to it when I turned 24. I went to an allergist and I definitely tested positive for shrimp allergy (all other shellfish like lobster, crab, etc. oddly was negative).  Are food allergies that develop later in life like this known to disappear over time? I'm just wondering if there's a safe way to test it if I'm too lazy/poor to go see an allergist again. It's been 8 years since I was diagnosed.  I'm not asking for a recommendation to my personal case but was just wondering the answer to my first question above.  Thanks
+summarized question 6: Is it possible for a shrimp allergy to go away?
+##
+query 7: SUBJECT: Demand MESSAGE: I have read on your website about the perirenal abscess. My mother is in the situation stipulated here http://www.nlm.nih.gov/medlineplus/ency/article/001274.htm I would really appreciate a recommendation as to where she could treat (a doctor, a clinic, a hospital, etc.). The Dr/Drs who wrote the article is/are professional and i think they could give me a hand.
+summarized question 7: Where can I find information on perirenal abscess, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 8: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 8: How long does the tetanus vaccine last?
+##
+query 9: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 9: What are the treatments for mouth ulcers?
+##
+query 10: MESSAGE: Four years back my ankle had hit by the stone and there is small reddish pot from inside the ankle, due to which I can't walk properly and it pains and even gets swollen once I start walking. Is this pain temporary or life long or it will never get heel forever.  What type of pain is this? What treatment would you suggest me?
+summarized question 10: What are the causes and treatments for ankle swelling and pain?
+##
+query 11: "Good day doctor.... My name is [NAME] from Nigeria in West Africa. Please I'll appreciate so much if you will reach me urgently with any advice that can be valuable to a total cure of the diabetes that I came down with since the year 2008... at ""[CONTACT]"" . I'll be eagerly waiting for your response soonest, please.... Thanks for your anticipated corporation. [NAME]"
+summarized question 11: What are the treatments for diabetes and can it be reversed?
+##
+query 12: SUBJECT: Gelatin MESSAGE: My daughter has a dairy allergy and I wanted to know about the gelatin used in your adderall xr capsules. Does it contain dairy proteins?  Thank you
+summarized question 12: What are the ingredients of adderall xr capsules, and is it dairy free?
+##
+query 13: SUBJECT: broken the shoulder. MESSAGE: how to provide the treatment of broken shoulder lock problem ?
+summarized question 13: What are the treatments for broken shoulder?
+##
+query 14: SUBJECT: Regarding falaria diseases MESSAGE: Sir, my wife has been suffering from falaria disease in her right leg for 2 years , please show/ tell me the treatment. my contact no. is [CONTACT].
+summarized question 14: What are the treatments for filarial disease?
+##
+query 15: MESSAGE: HI, THIS IS [NAME]. SUPPOSE WE REMOVED THE EYE DUCT DUE TO TEAR TUBE DAMAGE, IS IT ANY PROBLEM WILL COME??
+summarized question 15: What are the prognosis and complications of tear duct surgery?
+##
+query 16: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 16: What are the treatments for serratia marcescens infection?
+##
+query 17: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 17:

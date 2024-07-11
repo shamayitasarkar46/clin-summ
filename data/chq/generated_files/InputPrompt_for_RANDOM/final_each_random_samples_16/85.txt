@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bipolar and Generalized Anxiety Disorder MESSAGE: I read about TMS Therapy.  Do you know anything about it?  Has it had success?  Also wondering about ECT?  Finally, I've been told acupuncture can help for mood disorders.  Is that true for mixed bipolar and generalized anxiety disorder along with meds?  Have you ever heard of this?
+summarized question 1: What are the treatments for bipolar disorder with generalized anxiety disorder?
+##
+query 2: DNA. I know (or think I know) that random mutations can change human DNA. Can environment change DNA?
+summarized question 2: What are the effects of environmental factors on DNA?
+##
+query 3: CITROBACTOR FREUNDII.  Does ciprofaxin work well? Is there a better drug if so what.
+summarized question 3: What are the treatments for citrobacter freundii infection?
+##
+query 4: SUBJECT: high inner eye pressure above 21 possible glacoma MESSAGE: have seen inner eye pressure increase as I have begin taking Rizatriptan. I understand the med narrows blood vessels.  Can this med.  cause or effect the closed or wide angle issues with the eye lense/glacoma.
+summarized question 4: Can Rizatriptan cause glaucoma?
+##
+query 5: SUBJECT: bone marrow transplation MESSAGE: my blood tests showing very low number of  blood platelets (16,100). according to the further tests no cancerous cells, no tb, no dengu is found.  but the count is drastically decreasing.  now my doctors advised me for bone marrow transplant.  kindly help me with proper treatment.
+summarized question 5: What causes low platelet count, and what treatments are available?
+##
+query 6: MESSAGE: Hantavirus virus if the urine and feces are old droppings-5 years better and never cleaned. Can the virus still be passed from old droppings and maybe dried urine that cant be seen? [CONTACT]
+summarized question 6: Can hantavirus be spread by old droppings and urine?
+##
+query 7: SUBJECT: fibroadenomas MESSAGE: i have a fibroadenomas? my question is it can remove without surgery? taking medicine is help to reduce or remove this? or if i didnt undergo operation it is safe? because surgery is expensive here at the philippines
+summarized question 7: Can fibroadenoma be treated without surgery?
+##
+query 8: SUBJECT: What is the difference? MESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?
+summarized question 8: What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?
+##
+query 9: SUBJECT: You know Diabetes Insipidus? MESSAGE: I was born with Diabetes Insipidus and have many problems since the cell was removed when I was 22 and ALL
+summarized question 9: Where can I find information on diabetes insipidus?
+##
+query 10: MESSAGE: I have clostridium and am testing pos for Lyme need info. [NAME]
+summarized question 10: Is there a connection between clostridium and Lyme disease?
+##
+query 11: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 11: What does w/exertion mean on a prescription for oxygen?
+##
+query 12: Are there any guidelines to tell how quickly Humalog becomes active after injection?  I believe it remains active for about 4 hours.  Is this reasonable?
+summarized question 12: How long does it take for humalog to start working, and how long does it last?
+##
+query 13: SUBJECT: Asthma MESSAGE: I have been treated for breast cancer and had chemotherapy and readiation.  I am on many drugs but since stopping treatment I have now presented as having asthma.  I take Letrozole. 2.5 to block any estrogen in my body as my tumor was estrogen positive. What type of drugs impact asthma symptoms?   Please advise
+summarized question 13: Where can I find information on drug-induced asthma?
+##
+query 14: "SUBJECT: allergic reactions MESSAGE: I have RLS. I had allergic reactions (my neurologist is confused) to Ropinirole and the Neupro patch. I need to know if the pramipexole made by your company has a ""something - sulfite"" as a stablizing ingredient. This is what, seems, oddly, to be causing swelling of my hands, feet, nose, throat, eyelids and tongue. Could I get an email or a drug package insert so I could find out all the inactive ingredients. I am desperate to find relief from this horrifying affliction. I not only has the sensations in my legs but also my arms. Thank you for your time and information. My mailing address: [CONTACT] or perhaps a voicemail message: [CONTACT]"
+summarized question 14: What are the inactive ingredients of pramipexole?
+##
+query 15: SUBJECT: Hydrocortisone 1% cream MESSAGE:  I would like to know what type of GLYCERIN(animal or vegetal glycerin) is in the 1% Hydrocortisone Cream.  For religion purpose(our believes)we can not eat or use anything that has PORK in it. Thanks.
+summarized question 15: What are the ingredients of  1% Hydrocortisone Cream?
+##
+query 16: SUBJECT: úlcera bucal por efectos de la radio terapia MESSAGE: What should I do if I have a cold sore? and treatments I use
+summarized question 16: What are the treatments for cold sore?
+##
+query 17: SUBJECT: INTESTINAL OBSTRUCTION WITHOUT SURGERY. MESSAGE: From Our Family, 35 years old female patient has been diagnosed adenocarcinoma with multiple metastases all over abdomen along with pancreatic tail bulky. Ovary and Uteruses has been removed. Patient has received TWO Cycles of Chemotherapy presently at 3rd Stage and is admitted with intestinal obstruction pancreas. Please Suggest for Intestinal Obstruction without Surgery. Please Reply Urgently.
+summarized question 17:

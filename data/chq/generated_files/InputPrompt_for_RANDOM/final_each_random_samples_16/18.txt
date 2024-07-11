@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: bile.  because reason vomit bile?
+summarized question 1: What causes vomiting bile?
+##
+query 2: GERD.  I'm a 72 year old female, and have diverticulosis,gastritis, and esophagitis.  I tried to see three different doctors today, but all were booked.  I honestly don't know what to do.  It hurts in my chest, and I can hardly talk.
+summarized question 2: How to treat chest pain potentially associated with  diverticulosis, gastritis, and esophagitis?
+##
+query 3: SUBJECT: Painful menstrual periods MESSAGE: My wife has suffered this . How can treat this.
+summarized question 3: What are the treatments for painful menstrual periods?
+##
+query 4: What are the causes of rib cage pain? And and the remedy
+summarized question 4: What are the causes and treatments for rib cage pain?
+##
+query 5: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 5: What are the treatments for kidney stones?
+##
+query 6: SUBJECT: Side affects of diuretic MESSAGE: I have been taking Mylan Indapamide (1.25 mg) for 3 days. Today (3rd day) I began experiencing blurred vision.  What should I do? Discontinue till I see my doctor?
+summarized question 6: Is blurred vision a side effect of Mylan Indapamide?
+##
+query 7: I was at my endocrinologist today and he said I should look into testing or new reshearch for someone like myself.  I am type 1 diabetic and my doctor said my case is unique he suggested I contact you to see if you may have research that could help me
+summarized question 7: What is the latest research on type one diabetes testing and treatments?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 8: What are the treatments for scalp psoriasis?
+##
+query 9: Customer Service Request. Doing a genealogy search, I have been contacted by a person from the same ancestral line as myself, we are decendants of the [NAME] ancestral line and she told me that anderson tawil syndrome runs through our [NAME] line, What does it look like? I understand that it changes the face features. This 82 year old great grandma would like to know more about this.   Many thanks,
+summarized question 9: Where can I find information on andersen tawil syndrome?
+##
+query 10: SUBJECT: Need glucosamine sulfate not containing shellfish meats MESSAGE: Can you please help me? I have been taking a glucosamine sulfate product with MSM for my arthritis. My nutritionist warned me I could develop a shellfish allergy if it is made from the shellfish meat. The customer service of the product that I am taking confirmed their product is made from the shellfish meat of 3 crustaceans. Can you direct me to how I can find this product not made from the meats, but the shells instead. (I don't want the vegetarian version because it is so hard on the stomach). I appreciate your help.
+summarized question 10: What glucosamine sulfate is manufactured only from shellfish shells?
+##
+query 11: Williams' syndrome I would like to have my daughter tested for William's syndrome. Could you please tell me where I would go or who does it in my area?  Thank you!!
+summarized question 11: Where can I get genetic testing for william's syndrome?
+##
+query 12: solve the erectio problem.  sir, some time my penis erect and some time it does not work . So please help me . My contect nomber is [CONTACT]
+summarized question 12: What are the treatments for erectile dysfunction?
+##
+query 13: Dear sir/madam I am 40 year old man  & have vericoceal on my left side .My wife is 24year old ,we are trying for a baby for the last 4 months with no positive result. doctor suggest me try for baby for at least 1 year. Please suggest me what i have to do for a baby. i will be highly obliged . thank you [NAME] [LOCATION]
+summarized question 13: What are treatments for male fertility issues and varicocele?
+##
+query 14: Was giving pudding loaded with steroids I am allergic to steroids need to know way to flush system of them since they attack organs like poison. [NAME] [LOCATION]
+summarized question 14: How can I flush steriods from my system?
+##
+query 15: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 15: What are the causes of abdominal pain and swelling?
+##
+query 16: PTEN. Hi my name is [NAME]. I have a 13 Year old brother is Autism and PTEN, My father passed away from a some type of kidney cancer, and his sister just passed from some sort of cancer. I'm in search of finding out if this PTEN gene is in me, and my other brother, and if there is any testing or any solutions to help our health. I'm only 19 and my other brother is 10. If you could help me in anyway possible, god bless you. Thank you.
+summarized question 16: How can I be tested for the PTEN cancer gene and learn about treatment options?
+##
+query 17: did anyone have this and does it require surgery? my mri says forminal stenosis from bone spurs c4,5,6. my nerve test shows severe nerve compression c7,8. i’m in so much pain, mostly my arm and shoulder and leg. waiting to see the pain specialist to see what’s next. would love to know what you guys think is required..
+summarized question 17:

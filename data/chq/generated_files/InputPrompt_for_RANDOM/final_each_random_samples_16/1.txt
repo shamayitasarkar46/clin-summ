@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 1: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 2: SUBJECT: drugs/liver failure MESSAGE: I don't know if you can answer this, but I thought I'd try. If someone used to use drugs, mainly heroin,  and they've stopped using and are around 30 days clean, will they not be able to test negative for drugs if their liver is failing?
+summarized question 2: How long is heroin detectable in your system?
+##
+query 3: "SUBJECT: is there any medicines for peristaltic movements? MESSAGE: I V[NAME] From [LOCATION] which is located at INDIA. I am a patient of less peristaltic movements which was digests the eaten food in 3 to 4 hours... In normal humans which was digests the eaten food in 2 to 3 hours...  I visited several hospitals in [LOCATION] which is located in INDIA...  When i was visited [LOCATION]"" Hospital at HYDERBAD in the year of 2010..  There Doctors has told there is no medicins for this problem..  Is  there any medicines to improve my  peristaltic movements?  Please Replay to My E-mail[CONTACT] and My Mobile Number is: [CONTACT]  Thanking You taking my request...."
+summarized question 3: What are the treatments for slow peristaltic movements?
+##
+query 4: SUBJECT: varicella  shingles MESSAGE: How can I determine whether or not I've had chicken pox.  If there is a test for it, what are the results of the tests I need to know that will tell me whether or not I have had chicken pox?  I want to know this to determine if I should have shingles vaccine  (Zostavax) Thank you.
+summarized question 4: How do i find out if i had chickenpox?
+##
+query 5: SUBJECT: taking medications options MESSAGE: If my doctor gives prescription for Inderal 40 mg  twice a day,  pharmacist says take 80mg time release once day.  Is it appropriate to follow pharmacists directions rather than doctors prescription 40 mg twice a day.  Does 40 MG twice day equal constant 40 mg,  or does it build to 80 and maintain 80 mg?
+summarized question 5: Is Inderal 40 mg  twice a day equivalent to 80mg time release once a day?
+##
+query 6: Trisomy 13. I had a trisomy 13 mosaic infant and now my sister in law has just been diagnosed with a trisomy pregnancy. Is it possible both brothers may carry a translocation?
+summarized question 6: Is trisomy 13 inherited, and what is the pattern?
+##
+query 7: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 7: What are the treatments for lactose intolerance and can it be cured?
+##
+query 8: SUBJECT: I have an irresistible fungal on my leg and i have treated it,but refuse to go.pls what should i do? From [NAME] [CONTACT] MESSAGE: I have an irresistible fungal on my leg which i have treated with different drug and cream,but refuse to go and it keep on spreading.pls what should i do? From [NAME]
+summarized question 8: What are the treatments for fungus on my leg that does not respond to OTC topical antifungals?
+##
+query 9: need up todate current treatment programs for advanced cancer plus informaton for hemp oil solutons for ths cancer.   pub med/ 21475304
+summarized question 9: What is the latest research on treatments for hepatocellular carcinoma, including hemp oil?
+##
+query 10: SUBJECT: adrenoleukodystrophy MESSAGE: A child I have been asked to work with has been diagnosed with this condition.I am so far unable to find info pertaining to this illness. Can you help??
+summarized question 10: Where can I find information on adrenoleukodystrophy?
+##
+query 11: Customer Service Request.  My daughter has Turner syndrome but she's beaten all odds. She developed on our own, got her period on her own, she is now pregnant on her own with identical twins. My question is can she have normal children or do they have more of a chance of having Turner syndrome.  My daughter has been tested many times to confirm her diagnosis of Turner syndrome and she is a full XO not mosaic but still does not display many of the characteristics. Again, I am just questioning the safety of the pregnancy and the health of the babies. Thank you for your help
+summarized question 11: What is the inheritance pattern of Turner syndrome?
+##
+query 12: MESSAGE: Greetings: Iam [NAME], from [LOCATION]. I would like to know some of the Medications to Treat Coronary Artery Blockage. I will be grateful if you could let me know. Best Regards, [NAME]. [LOCATION]. [DATE]
+summarized question 12: What are the drug treatments for coronary artery blockage?
+##
+query 13: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 13: Is Astigmatism related to Aarskog Syndrome?
+##
+query 14: stomach pain.  My son of 13y is facing upper abdominal pain siverly in the mornig time and slightly after eating lunch and in the night time after dinner.kindly i went five doctors and ultra scan also but problem not resolved.pls advaice me what to do.
+summarized question 14: Where can I find information on upper abdominal pain, including diagnosis and treatment?
+##
+query 15: SUBJECT: Suggestion on ILD problem MESSAGE: Dear I am suffering from ILD problem as per my doctor suggestion I am taking the home oxygen on this problem. Can you suggest me the perfect medicine on this problem it is helpful for my day to day activities as well as improve my life style.  Please suggest  I am waiting for your reply.  [NAME]
+summarized question 15: What are the treatments for ILD?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I would like to know if there is a side affect from taking mestinone while tanning in a booth.  it seems if have a rash on back and burning on chest and stomach which has never happened before I started taking mestinon.   are we more sensitive to sun while on this medication?
+summarized question 16: What are the side effects of mestinon and tanning?
+##
+query 17: 23 surgeries and counting......lower lip birthmark, have tried all options out the there and guess what still have it, continues to grow back.....any suggestions? Is there a cure coming in the next few years hopefully?
+summarized question 17:

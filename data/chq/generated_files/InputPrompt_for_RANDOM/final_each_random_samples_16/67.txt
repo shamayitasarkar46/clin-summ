@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 1: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 2: Prenatal exams for leigh syndrome. I am looking for information about having prenatal exams anmnio or chorionic villus sampling for NARP and leigh syndrome. Thank you in advance
+summarized question 2: Where can I find information on prenatal genetic tests for NARP and leigh syndrome?
+##
+query 3: SUBJECT: shingles MESSAGE: Hi I had shingles a while ago on my left forehead and above my eye, not long after it started again, this time under my left breast, extremely painful and am wondering can this start again ? ty [NAME]
+summarized question 3: Where can I find information on recurrent shingles?
+##
+query 4: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 4: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am writing on behalf of my friend that is reading us in copy but doesn't speak english as good as me. His name is: [NAME] He was born in Italy, on [DATE] He lives in Milan, Italy. He is affected by HCV Genotype IIIA with a cirrhosis of the liver, in evolution, and his present desease does not permit to be attactd by regular medicines/therapies. (platelet minus of 50.000) He has a prescription, for Sovaldi treatment, from an italian doctor and he is ready to come to US or other country to get it also from an American Doctor, but the cost of such treatment is impossible for him. In italy the medicine is not available. He is followed by [LOCATION], one of the top italian hospital. His doctor is [NAME], that is ready to talk with you whenever needed. [NAME], suggested by his doctor, is interested to become one of your patient as a case study. [NAME] would like to enter into the research/trial program, in subject, with you in order not to pay the cost of Sovaldi that he cannot afford. According to his doctor his treatment should go on for 6 month with a conjunction of Sovaldi and Ribavirina. All my info you can find them below, and for [NAME] the email is the one in copy ([CONTACT]). You can send both to me directly and cc him or viceversa. Anyhow i will have to make the translation!!! In case, hopefully not, the treatment will not work, he is ready to change treatment with eventually other new products you are testing  and or new association. Looking forward in hearing from you soon. sincerely [NAME] [CONTACT]
+summarized question 5: Are there clinical trials for patients with Hepatitis C genotype 3A?
+##
+query 6: GERD.  I'm a 72 year old female, and have diverticulosis,gastritis, and esophagitis.  I tried to see three different doctors today, but all were booked.  I honestly don't know what to do.  It hurts in my chest, and I can hardly talk.
+summarized question 6: How to treat chest pain potentially associated with  diverticulosis, gastritis, and esophagitis?
+##
+query 7: "SUBJECT: Normal physical traits but no period MESSAGE: I'm a 40 yr. old woman that has infantile reproductive organs and have never experienced a mensus. I have had Doctors look but they all say I just have infantile female reproductive organs. When I try to look for answers on the internet I cannot find anything. ALL my ""girly"" parts are normal. My organs never matured. Could you give me more information please."
+summarized question 7: Where can I find information on developmental disorders of the female reproductive system?
+##
+query 8: SUBJECT: Ingredients !! MESSAGE: Hi, Please help me to find ingredients for fluoxetine hcl liquid. I want to know is there any gelatin or animal product in there or not? Please send me any information or web link where i can find information. Thank you
+summarized question 8: What are the ingredients of liquid fluoxetine HCL?
+##
+query 9: cinca sindrome. where the treatment of cinca sindrome.
+summarized question 9: What are the tratments for cinca syndrome?
+##
+query 10: Diphtheria.  Is there a definitive history of diphtheria in the United States available in print? I have read quite a few articles in the NLM from the 19th century, and I'd like to find an overview of this disease, particularly a history of epidemics in the U.S. Any help you can provide would be greatly appreciated. Thank you - [NAME] M.D.
+summarized question 10: Where can I find a definitive book on diptheria in the United States?
+##
+query 11: SUBJECT: what are the chemicals or meds in lidocaine? MESSAGE: what are the chemicals or meds in lidocaine?
+summarized question 11: What are the ingredients of lidocaine?
+##
+query 12: SUBJECT: tongue problem MESSAGE: I can speak every thing I have mistake some word like r,n I can n't speak.this is my problem .every person tell me..please give me suggestion..
+summarized question 12: What are the treatments for speech disorders?
+##
+query 13: SUBJECT: NDC# for Injection, Testosterone Cypionate, 1mg MESSAGE: I am trying to find the NDC# for the above-mentioned injection. There is a new HCPCS code J1071 ([DATE]), the code is still new and no ones knows how to bill the insurance yet. With NDC# we will be able to figure out how the injection is packaged. Thank you for your help!
+summarized question 13: What is the NDC code for 1 mg Testosterone Cypionate injection?
+##
+query 14: SUBJECT: Stroke Due to Aneurysm? MESSAGE: My son had a hemmorhagic stroke at 4 weeks of age....he is now 31 years old.  In the week leading up to the stroke he had a head cold and I had been giving  him infant cold drops.  After he had the stroke the doctors at the time could only say that it was a 'fluke' and would probably never happen again.  The reason for the stroke has haunted me ever since.  Now we just recently found out that my mother has a cerebral aneurysm and they say this can be hereditary.  So my question now is 'did my son have an aneurysm that burst or was it caused by a blood clot?...is there anyway of knowing or getting an answer to that question after the event has happened?
+summarized question 14: Can the cause of hemmorhagic stroke be determined many years later?
+##
+query 15: stomach pain.  My son of 13y is facing upper abdominal pain siverly in the mornig time and slightly after eating lunch and in the night time after dinner.kindly i went five doctors and ultra scan also but problem not resolved.pls advaice me what to do.
+summarized question 15: Where can I find information on upper abdominal pain, including diagnosis and treatment?
+##
+query 16: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 16: What are the symptoms of chlamydia?
+##
+query 17: A 65 year old female friend of mine was just recently diagnosed with Frontotemporal dementia - temporal variant.  She is devastated.  I am trying to help her find resources, clinical trials, etc. to help her.  Can you give me some names of doctors to contact, pertinent institutions to contact regarding the treatment of this disease.  Thank you.  
+summarized question 17:

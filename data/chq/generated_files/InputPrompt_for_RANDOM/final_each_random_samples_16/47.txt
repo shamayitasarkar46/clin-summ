@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: treatment required MESSAGE: we need treatment for balance disorder. my father losses his balance while walking or climbing steps so please so please help us in curing the disorder.
+summarized question 1: What are the treatments for balance disorder?
+##
+query 2: SUBJECT: SPECIFY COMPONENTS MESSAGE: COENZYME Q10(100-mg). WHAT ARE THE COMPONENTS OF THIS MEDICINE? IS IT USEABLE FOR MUSLIMS?
+summarized question 2: What are the ingredients of coenzyme q10?
+##
+query 3: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 3: What clinical trials are available for hepatitis C?
+##
+query 4: SUBJECT: athrtics MESSAGE: My right shoulder is getting pain and my right hand is not moving up and back freely.  Doctor explained me that it is pediathratic problem.  I have done some pschyotharapi treatment. Mr doctor advised me that there in no medicine and regular exercise required. What is the next stage I want to do.  Please explain.
+summarized question 4: What are the treatments for shoulder pain and loss of hand movements?
+##
+query 5: I have had two groing area hernias 1-mesh 10 years ago Dr [NAME] [LOCATION],& 1-plug& mesh 1 year ago Dr [NAME] [LOCATION], after serious pain & huge bulge that never went away and serious nerve dicomfort in upper thigh area for last year, I got mri and it says I have another hernia! I then seen a Dr [NAME] [LOCATION], he says I must lose 30 pounds before operation.,he says he wants to attach mesh to hip bones thuss using bigger mesh holding etire groing area!unfortionatly I am getting apears to be infection in bulging area, I am a heavy equipment operator seatbelted in to giant bouncing earthmovers all day, most likely moving mesh inside my groing area? I dont know! question is? is this proceedure sound feasible and have researchers heard of it? I am interested in a research program if I can be helped once and for all if possible! please  give me some feedback or at least a great proceedure with a great surgin in palm springs area. thank you [NAME] [LOCATION]
+summarized question 5: Where can I find the latest research on surgery for groin hernia, and and how can I find physician(s) in Palm Springs who specialize in it?
+##
+query 6: "SUBJECT: Erythema Nodosum MESSAGE: I have read that a form of ""honey"" might be used to treat my skin condition, Erythema Nodosum. Would appreciate your comment on this."
+summarized question 6: Is honey an effective treatment for erythema nodosum?
+##
+query 7: SUBJECT: hypothyroidism MESSAGE: Can you please send me as much information as possible on &quot;hypothyroidism&quot;. I was recently diagnosed with the disease and I am struggling to figure out what it is and how I got it. My name and address is: [NAME] [LOCATION] [CONTACT] Thank you in advance for your help!!!
+summarized question 7: Where can I find information on hypothyroidism and its causes?
+##
+query 8: SUBJECT: Low Platelet Count MESSAGE: hello i am facing low platelet count in my blood ( PTI ) and am taking the therapy ( 1 Pill Prednisone 2mg Morning -  MyFortic 2 Pills Morning - 2 Pills Night )  i want to ask [NAME] MD, Professor of Medicine if removing the spleen will cause anything or if there any side effects when removing it.  and what is the cause of this ( PTI )  Been in this 4 months  and my platelet count are ( 70 000 - 140 000 - 65 000 - 90 000 ) didnt reach the normal count. is this therapy good and will it help?  i just need some answers please.  waiting to hear from you soon  sincerely, [NAME]
+summarized question 8: What are the causes and best treatments for low platelet counts?
+##
+query 9: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 9: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 10: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 10: Where can I find information on russell-silver syndrome?
+##
+query 11: Vitamins.  Can I take zinc and zinc citrate at the same time?
+summarized question 11: Can zinc and zinc citrate be taken together?
+##
+query 12: SUBJECT: contents of barium sulfate solution MESSAGE: I have your Readi-Cat 2 barium sulfate solution.  21% w/v, 2.0% w/w.  I need to know of this contains any gluten or dairy.  Also, do you know if it contains any salicylates or anything similar to aspirin?
+summarized question 12: What are the ingredients of Readi-Cat 2 barium sulfate solution, and is it gluten and dairy free?
+##
+query 13: MESSAGE: hi my name is [NAME] I'm currently working with [LOCATION] and I was wondering  I came across some of you healthy tip fliers for HIV/Aids treatment .at the moment we have a study  going on that helps HIV positive transgender women into HIV quality care .so it would be great to have some more information on HIV/Aids treatment
+summarized question 13: What are the treatments for HIV/AIDS?
+##
+query 14: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 14: What are the treatments for mouth ulcers?
+##
+query 15: Have been on methadone for four years.  I am interested in the rapid withdrawl under anesthesia, but do not have a clue where I can find a doctor or hospital who does this.  I also would like to know the approximate cost and if or what insurance companies pay for this.
+summarized question 15: How can I find physician(s) or hospital(s) who specialize in rapid methadone withdrawal under anesthesia, and the cost and insurance benefits for the procedure?
+##
+query 16: SUBJECT: EPI 747 MESSAGE: hi  My name is [NAME] My son, His age 4 month discovered it leigh disease infected from the mother side. and we have  full family history with the leigh disease.  my Daughter she lived for 7 years with the same disease, we have her Hospital reports, it is confirmed leigh Disease.  Kindly, if there is any hope for my son with EPI743 treatment, and we are appreciate to accept him in the treatment study.  i have a full reports for my son and the MRI. and all of it under your request.    Hope get your help ASAP because he is in the first stage. and we have a we are all hope he will be better.  Best Regards  [NAME]
+summarized question 16: Is EPI743 an effective treatment for leigh syndrome?
+##
+query 17: I have a detached cruciate ligament in my left knee. If I submit to reconstruction surgery, how long will recovery take? Because of my age (over 90) I need to remain as physically active as possible. I live alone. My injury occured several years ago, but only recently has been causing me major discomfort.
+summarized question 17:

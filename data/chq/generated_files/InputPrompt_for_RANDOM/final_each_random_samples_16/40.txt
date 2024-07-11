@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 years old boy that was diagnose with Periventricular Heterotopia and long time ago I read something that say that the most someone last with that syndrome is 309years.Is that true. And do you know about someone interested in wanting to do research about it? I will like to lern more about it. But theres not much information.
+summarized question 1: Where can I find information on Periventricular Heterotopia, including prognosis?
+##
+query 2: MESSAGE: What is the best way to naturally treat a 7 yr old boy with ADHD? Without prescription medicine?
+summarized question 2: What are the non-drug treatments for ADHD?
+##
+query 3: SUBJECT: dry maculare tetinal degeneration MESSAGE: my grandfather had lens implants, now he has dry macular retinal degeneration.  he can hardly see!  searching for help!
+summarized question 3: What are the treatments for dry macular retinal degeneration?
+##
+query 4: SUBJECT: G6PD deficiency adopted 1957 MESSAGE: My primary care says that even though I have had three blood tests that all confirm I am totally lacking the G6PD that my deficiency is unsubstantiated. Other than expensive genetic testing how to I get them to confirm this? I want need this in my medical records and a bracelet or necklace or something to wear that I have this so they do not give me drugs and/or vitamins supplements that I should not have at all and make me worse or kill me? I am adopted and the records are still sealed and I have a son and a daughter and four grandchildren that could have had this deficiency passed on to them so you see why this is important to me. I got injured at work years ago and they gave me some kind of anesthesia I should not of had to find a bleeder on the inside and sew it and then they could not wake me up for two days. Also same job required that I get yellow fever shot every six months. No wonder I felt so awfull back then. I do not want or need a repeat of this or worse for my family or myself again. Please how to do this as I only get $9.00 an hour. I am a [PROFESSION] female. How many more blood tests do I need to substantiate this? I ask questions but get told nothing/or told that this is unsubstantiated. I asked for a hematologist a specialist and I asked for a dietician to help me with the food avoidance and do not have problems since I have more than one condition to be concerned with it is difficult with only about $48.00 a week for foods.  Thank you for any comments or suggestions and for your time and attention to this matter. [NAME]
+summarized question 4: How is G6PD deficiency inherited and diagnosed, and what are the treatments for it?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: LOOKING FOR HELP FOR MY NEPHEW WITH GLYCOGEN STORAGE DISEASE.  HE LIVES IN VIRGINIA AND IS SUFFERING BADLY.  HE HAS BEEN HOSPITALIZED FOR SEVERE CRAMPING ABOUT 5 TIMES THIS YEAR SO FAR.  ANY GUIDANCE YOU COULD GIVE WOULD BE GREATLY APPRECIATED.
+summarized question 5: What are the treatments for Glycogen storage disease?
+##
+query 6: Prothesis to assist Facioscapulohumeral muscular dystrophy. My 22 yr old grandson has Facioscapulohumeral muscular dystrophy. Has weak arm & hands curl inward. He has difficulty picking up a plate or opening doors. Some type of shoulder harness with support for arms could help. Something electrical like limbs for amputees. Is anything being considered in this area?
+summarized question 6: Are there assistive devices for Facioscapulohumeral muscular dystrophy?
+##
+query 7: SUBJECT: Voice MESSAGE: Hi I am wondering if anyone can help me get my voice back. I have ALS in my throat and I don't want to go out on a disability. I want to keep working. Thank you.
+summarized question 7: What are the treatments for voice disorders caused by ALS?
+##
+query 8: What can I use when I feel my bladder is sore when I urinate my bladder just burn and its awkward for me its the second time now what should I use or take? Please I need your help
+summarized question 8: "What drugs are there to relieve ""burning bladder"" on urination?"
+##
+query 9: SUBJECT: Rubella MESSAGE: My grandson (4 yrs old) has contracted Rubella.  I know for sure he has had at least one of the vaccines.  They are living in Mexico right now.  Should we be worried?
+summarized question 9: What is the prognosis of rubella in a child?
+##
+query 10: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 10: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 11: SUBJECT: Can I safely take prednisone and levaquin the same day several hours apart? MESSAGE: can I safely take levaquin and prednisone the same day not at the same time several hours apart?
+summarized question 11: Are there drug interactions between prednisone and levaquin?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Hello, my name is [NAME] , and I have Fibromyalgia terribly. My father has MS, and my mother's sister has been diagnosised with ALS. I was wondering if that would have any bearing on why my Fibromyalgia is hit me so hard. I have been experiencing s/s since as far back as 3rd grade that medical records can show and I'm 40 years old now. By the time I was 18 I was told I need psychiatric help because I was to young to complain like an 80 year old. Thanks [NAME]
+summarized question 12: Is fibromyalgia hereditary and related to multiple sclerosis and amyotrophic lateral sclerosis?
+##
+query 13: MESSAGE: I have been battling Anal fissure for close to two years now and it has refused to heal all these while. Please what do you suggest i do?  Thanks
+summarized question 13: What are the treatments for chronic anal fissure?
+##
+query 14: SUBJECT: permanent cure for Nystagmus MESSAGE: For me from birth shaking of eyes disorder is there & in family nobody is having this kind of issuse. Pls. Tell me if any curable option for this disease.
+summarized question 14: What are the treatments for nystagmus and can it be cured?
+##
+query 15: SUBJECT: NEUROFIBROMATOSIS MESSAGE: Hi:  I have neurofibromatosis handed down by my Mother, (from what we understand was from spontaneous mutation).  I was diagnosed with an Optic Giloma about 25 years ago.  I have also been getting MRI’s to keep an “eye” on it (excuse the pun please), along with visual fields.  The last MRI, according to the radiologist, said it was not there and my Neurologist told me that they do disappear.  My question is, do Optic Giloma go away?  Thanks
+summarized question 15: Can an optic glioma in an adult spontaneously disappear?
+##
+query 16: NUT tumor in spine. My brother had a tumor in his cheek, which was surgically removed. He is still undergoing radiations. After dissecting the tumor, they noticed it had something to do with the chromosones. His tumor was rare. Last week they discovered very small tumors in his spine. They concluded the cancer has evolved in his bones. In [LOCATION] ([LOCATION]) they said only 2 cases of this cancer are known worldwide. They've given him 8 months!4 Months ago he was just fine. I'm looking for any information that can help him!
+summarized question 16: "Where can I get information and help for ""NUT tumor"" in the spine?"
+##
+query 17: Hello –  Do you know if there are blood or urine tests that can detect if an individual is taking Flomax??  Your assistance is appreciated. Thank you
+summarized question 17:

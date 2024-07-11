@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Levothyroxin tab 0.05 MG MESSAGE: I am happy to note that all of your medications are gluten free.  The Levothyroxin tab 0.05 MG is gluten free, ***IS THERE ANY DAIRY (including lactose, casein) in the Levothyroxin Tab 0.05 MG? Thank you!
+summarized question 1: What are the ingredients of levothyroxin and is it dairy free?
+##
+query 2: SUBJECT: help me MESSAGE: 24-year-old male. Wilson's illness severe stem cell therapy can be done? Please help us. Stem cell therapy is fit? We finance. Mongolia to treat this disease physicians, hospitals, nursing there.
+summarized question 2: Is stem cell therapy a treatment for Wilson's disease, and how can I find physician(s) or hospital(s) in Mongolia who specialize in it?
+##
+query 3: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 3: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 4: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 4: What are the symptoms of chlamydia?
+##
+query 5: SUBJECT: Definitions MESSAGE: Hi, An explaination of what is the difference between myelogenous and lymphocytic leukemia types would be helpful. Great work! Thanks
+summarized question 5: What are the differences between lymphocytic and myelogenous leukemia?
+##
+query 6: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 6: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 7: SUBJECT: autonomic and arthritis . MESSAGE: Hi there , i have a few questions about autonomic disorders combined with arthritis ? My girlfriend has arthritis and autonomic disorder. I am really worried about her and want to help her, is there any new medications out there for treatment of autonomic disorder ? Also her autonomic disorder effects her heart lungs and blood pressure , is this condition fatal ? How long does someone live with this condition ?
+summarized question 7: Where can I find information on autonomic disorder, including symptoms, treatment, and prognosis?
+##
+query 8: SUBJECT: my husband had a simple retropubic prpostectomy 6 weeks ago. he can not walk wit MESSAGE: My husband had a simple retropubic prostectomy he can not walk without the walker, he can not mmove his right leg  alone yet. I don't  think is normal. What to expect in six weeks  his urinary track is still soar when he pees. I fear  is something wrong  not been able to push the leg forward the joint in the leg is painful
+summarized question 8: What is the normal time course and symptoms of recovery from simple retropubic prostatectomy?
+##
+query 9: hypothyroidism.  My doctor started me on levothyroxene 5oMCG. for 5mths.How do I know if this is  the rite dosage? Do not want to cause myself any harm by overdosing
+summarized question 9: What is the normal dosage of levothyroxine for hypothyroidism?
+##
+query 10: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 10: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 11: SUBJECT: Pilot and Lazy Eye MESSAGE: Dear MedlinePus  I started to fly at the age of 15 and have been flying for over 3,5 years and has logged over 120 hours in my time as pilot. My dream is to become a Comerical Pilot and recently I undertook a medical class 1 which I failed in [LOCATION] because of my Eye position and Eye movment, hence I have not experienced any problem with my vision in daily life nor when I have been flying..  The problem is that my binocular vision is not good enough and the eye-doctor meant it could be a problem if I sudden developed double vision.  Is there any operation that can fix this? The Orthoptics I went to meant there was a problem with one of the eye muscles which where to thight and the other too weak. She said it can be fixed, but this is not &quot;normal&quot; in [LOCATION] because it is not big enough error she meant.  Is there anyway to fix this? I appreciate all information!  Kind Regards  [NAME]
+summarized question 11: What are the treatments for lazy eye?
+##
+query 12: SUBJECT: Omege 3 Acid capsule MESSAGE: I am currently taking Lovaza. My pharmacy, CVS, has advised me that the above, Omega 3 Acid capsule is now available as a generic alternate. My doctor has said that she is not aware of a generic for Lovaza. Who is correct?
+summarized question 12: Is there a generic version of Lovaza?
+##
+query 13: SUBJECT: asthma MESSAGE: Question. What is the consensus of medical doctors as to whether asthma can be cured? And do you have an article discussing whether asthma can be cured?
+summarized question 13: What are the treatments for asthma and can it be cured?
+##
+query 14: SUBJECT: úlcera bucal por efectos de la radio terapia MESSAGE: What should I do if I have a cold sore? and treatments I use
+summarized question 14: What are the treatments for cold sore?
+##
+query 15: SUBJECT: drugs for fat reduction MESSAGE: I'm about to do a movie in another one month and I need to shed a lot of weight for it especially on my arms and thighs. What would you recommend and can it be sent to Nigeria?
+summarized question 15: What treatments are available for rapid weight loss?
+##
+query 16: SUBJECT: how to breathe MESSAGE: Dear Sirs,  This may seem like a stupid question but here goes anyway.  I am 64 yrs old and a type II diabetic.  I walk frequently to stay fairly fit but always seem to get out of breath when going up even gentle hills. Today however I noticed that I could change how I breath. Thus, I could force air out using my diaphram (ie like blowing out a candle)then relax and just let the air flow back in or I could use my diaphram to suck in air (like breathing in the morning air)and again relax my diaphram to push it out. I also found that I could breath faster under conscious control which seemd to help my performance. I dont know if any of this makes sense to you but I would like to know what you think and whether there are any do's and dont's and if there is a 'better' way to breath.  Thanks very much for your help with this,  Regards,  [NAME]
+summarized question 16: What are techniques for  proper breathing?
+##
+query 17: SUBJECT: thick blood. MESSAGE: When I was young, my hct and hgb were low normal.  Now that I am 68, my hct is high normal and my hgb is high (18).  Why/how has my blood thickened as I aged?  What can I do to thin my blood?
+summarized question 17:

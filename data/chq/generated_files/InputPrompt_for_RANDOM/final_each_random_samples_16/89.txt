@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Theophyline MESSAGE: I have been taking this drug since 1994.  Now my PCP will not prescribe it and has sent me to a pulmonary specialist who will also not prescribe it.  She wants me to take more expensive drugs such as Advair Diskus. Neither doctor has performed a serum Theophyline level.  The pulmonologist performed a PFt and ordered a methachlorine test which I cancelled.  I don't have asthma I have bronchitis.  Both doctors told me that it was extremely dangerous to take this drug for this long of a period.  I have had no problems with it.  Now that I have stopped taking it I don't feel as well as I did with it.  My questions are is it dangerous to take Theophyline long term? Should they have stopped the drug suddenly Like they did?  Please help me.  Thanks, [NAME] (I am 57 years old)
+summarized question 1: Are there adverse effects of long term Theophylline use, and how should Theophylline be stopped?
+##
+query 2: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 2: Where can I find information on Wang syndrome, including support groups?
+##
+query 3: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 3: How do I switch from Amlodipine to atenolol?
+##
+query 4: hypothyroidism.  My doctor started me on levothyroxene 5oMCG. for 5mths.How do I know if this is  the rite dosage? Do not want to cause myself any harm by overdosing
+summarized question 4: What is the normal dosage of levothyroxine for hypothyroidism?
+##
+query 5: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 5: Where can I find information on familial mediterranean fever?
+##
+query 6: SUBJECT: Low Red Blood Cell Count MESSAGE: If a patient's Red Blood Cell Count becomes low because of a 3-month medicine regimen, will the RBC normally increase back to normal when the intake of prescribed drug ceases? Thank you. [NAME]
+summarized question 6: Will a low red blood count return to normal after the responsible medication is stopped?
+##
+query 7: Dear Doctors, Good day, I would like to ask about the possibility to make a Liver transplantation surgery for my uncle. his liver is damaged and need to be replaced so could you please advise me with the possibility to make the surgery and the approximately cost . also any other details should I know. Your Quick response is highly appreciated and thanks in advance for your cooperation.
+summarized question 7: Where can I find information on liver transplants, including cost?
+##
+query 8: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 8: Where can I find clinical trials for macular degeneration?
+##
+query 9: SUBJECT: gluten free MESSAGE: Can you tell me if this drug is gluten free. Pms-Hydrochlorothiazide thank you [NAME]
+summarized question 9: What are the ingredients of Pms-Hydrochlorothiazide and it is gluten free?
+##
+query 10: SUBJECT: LOVASA MESSAGE: I was prescribed the medication lovasa a few years ago and have been taking it.  I have become a veteranian and had some concerns about taking fish oil but my most concern is that I have a eye disease called Stargard's where any vitamin A my body doesn't use becomes waste and kills my retina cells so it is very important to me , to know exactly how much Vitamin A is in this medication Lovasa.  My doctor, pharmacy and my research shows anything.  I did have an article that says some over the counter fish oils have dangerous levels of Vitamin A.  Please any help you can give me will be so appreciated.  [NAME]
+summarized question 10: Does Lovaza contain vitamin A?
+##
+query 11: SUBJECT: how to breathe MESSAGE: Dear Sirs,  This may seem like a stupid question but here goes anyway.  I am 64 yrs old and a type II diabetic.  I walk frequently to stay fairly fit but always seem to get out of breath when going up even gentle hills. Today however I noticed that I could change how I breath. Thus, I could force air out using my diaphram (ie like blowing out a candle)then relax and just let the air flow back in or I could use my diaphram to suck in air (like breathing in the morning air)and again relax my diaphram to push it out. I also found that I could breath faster under conscious control which seemd to help my performance. I dont know if any of this makes sense to you but I would like to know what you think and whether there are any do's and dont's and if there is a 'better' way to breath.  Thanks very much for your help with this,  Regards,  [NAME]
+summarized question 11: What are techniques for  proper breathing?
+##
+query 12: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 12: What are the treatments for pain after hemorrhoidectomy?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My daughter was recently diagnosed with a CTNNB1 mutation and there are only 4 published cases.   Can you tell me where I may be able to find more information
+summarized question 13: Where can I find information about CTNNB1 mutation?
+##
+query 14: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 14: What are the symptoms of chlamydia?
+##
+query 15: SUBJECT: Quary about PSA tests MESSAGE: My grand father have examined PSA test value is 0.430 ng/ml.His age is 86 years.My question is this value is normal for his health or harmful?
+summarized question 15: What are age-specific reference ranges for PSA?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am working with a Hep C   patient who needs treatment but cannot afford Tx. How can I help her get in touch with a recruiting study? There are no numbers or ways to contact a recruiting study. Sincerely, [NAME]
+summarized question 16: Where can I find clinical trials on hepatitis C?
+##
+query 17: SUBJECT: ClinicalTrials.gov - Question - general information. MESSAGE: I have a question about Lofexidine. do you have to be on suboxone and orbuprenorphine to use it and is it approved in the [LOCATION] yet?
+summarized question 17:

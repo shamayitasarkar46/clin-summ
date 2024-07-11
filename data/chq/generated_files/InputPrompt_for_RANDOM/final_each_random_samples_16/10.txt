@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 1: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 2: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 2: How can I get non-drug treatment for depression and anxiety?
+##
+query 3: SUBJECT: possible metoclopramide side effects MESSAGE: I started taking thismedication 3/27/14, two tablets by mouth twice daily. I have now developed mouth sores on the inside of my lower lip (almost at the bottom). Could these be a side of effect of this medicine?
+summarized question 3: Are mouth sores a side effect of metoclopramide?
+##
+query 4: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 4: What are the treatments for brain tumors and spinal tumors?
+##
+query 5: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 5: Where can I find clinical trials for macular degeneration?
+##
+query 6: Respected Sir/Madam, I am [NAME], I'm from India aged 22yrs old. When I came to look across the Medical diary which was used in my childhood hood days, I found a section regarding my scan reports of Kidney. In that report a figure was given and mentioned that I'm having a S shaped Kidney. I have enclosed the images of the reports written by the doctor and please clarify whether I have ectopic kidney. Please reply at the earliest and if you need the current reports of my kidney I'm ready to take the scan of the current development of the kidneys. Thanking you. Yours faithfully, [NAME]
+summarized question 6: Where can I find information and images on ectopic kidneys?
+##
+query 7: "SUBJECT: Complex Regional Pain Syndrome (CRPS) or Regional Sympathetic Dystrophy (RSD) MESSAGE: I have searched your pages and website for information on this medical condition but found nothing. I know there's not a lot of research on this but I'm pretty certain that my father had it in his legs and now I do to. Is there any evidence this condition is genetic or is it an ""Unknown at this time""?  Thanks"
+summarized question 7: What causes Complex regional pain syndrome?
+##
+query 8: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 8: What are the treatments for hand tremors?
+##
+query 9: SUBJECT: Vasospastic angina MESSAGE: Can arteries in any part of the body spasm or is this only possible with coronary arteries? If so, does someone with vasospastic angina have a greater chance of developing spasms elsewhere in the body and is the treatment the same?
+summarized question 9: What are the causes of and treatment for artery spasms?
+##
+query 10: SUBJECT: still very sore under my middle rib cage and little swollen MESSAGE: any suggestions for this discomfort ? sore and swollen from auto accident was wearing seat belt.
+summarized question 10: What are the treatments for rib pain and swelling after car accident?
+##
+query 11: sounding in my ear every time for along time.  my ear has been sounding for along time it started 20years ago at first time it started during swimming I go to doctors in [LOCATION], [LOCATION] and [LOCATION] but it's not become correct. I wish you to give me good advice please.
+summarized question 11: What are the treatments for ringing in the ear?
+##
+query 12: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 12: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My sister have htlv-1 we are looking information or processing can help.   MI hermana es de Colombia ella tiene este virus de htlv-1 pero en Colombia no saben como tratar este virus ya que es muy raro y ella esta buscando un lugar donde puedan ayudar con su problema de salud ella esta dispuesta someterse a pruebas con las células madre adultas.
+summarized question 13: Where can I find information on htlv-1?
+##
+query 14: Aortic Valve Replacement surgery.  Is Minimally Invasive Surgery (MIAVR, not TAVR) any less effective, or riskier than the Conventional Method where the breast bone is split? Can the surgeon do as good a job if the MIAVR procedure is used?
+summarized question 14: How does MIAVR compare to TAVR in effectiveness and risk?
+##
+query 15: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 15: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 16: ClinicalTrials.gov - Question - general information.  My fathers 85 and has severe hearing loss - he has tried hearing aids which at first helped but loss has become worst - has loss the hearing on one ear - hearing aids seem to cause him lots of pain I now see that he now can't hear and is becoming isolated, which concerns me and makes me very sad and afraid he'll become very depress and not care. If you can't help us can you please direct me somewhere for help. We live in the los angeles area Thank you [NAME].  [CONTACT]
+summarized question 16: What are the treatments for hearing loss aside for hearing aids?
+##
+query 17: what/why do flu-like symtoms such as: hot/cold sweats, chills, diarrhea, nausea, vommiting, runny nose, for longer than 13 days or more? could on-going stomach/flu symtoms that persist 13 days or more be something other than a bug or virus?
+summarized question 17:

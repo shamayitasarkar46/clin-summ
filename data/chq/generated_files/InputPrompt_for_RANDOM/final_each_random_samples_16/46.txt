@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: methadone causing COPD MESSAGE: My daughter said there was a study done  and it concluded that methadone can cause COPD. Do you know if there is any truth to this and if so where can I get info on it. Thank you [NAME]
+summarized question 1: What are the side effects of methadone?
+##
+query 2: SUBJECT: When do you know you should not take Tecfidera? MESSAGE: When do you know you should not take Tecfidera? I took Tecfidera 9 days. Day 1 my legs and feet felt normal for the first time in 5 years. day 2 my legs, thighs, feet, hands, arms, and middle became so swollen I can hardly walk, move, sit or sleep. I got the flushing day 7, foggy vision day 4, and more.
+summarized question 2: What are the side effects of tecfidera and when to stop taking it?
+##
+query 3: SUBJECT: list of questions MESSAGE: I have a list of questions about Tay sachs disease and clubfoot   1. what is TSD/Clubfoot, and how does it effect a baby  2. what causes both? can it be prevented, treated, or cured  3. How common is TSD? how common is Clubfoot  4. How can your &quot;agency&quot; help a women/couple who are concerned about this congenital condition, and is there a cost?  If you can answer these few questions I would be thankful, please get back as soon as you can.
+summarized question 3: Where can I find information on tay sachs disease and clubfoot, including prevalence, causes, prevention, treatments, and tratment costs?
+##
+query 4: SUBJECT: Definitions MESSAGE: Hi, An explaination of what is the difference between myelogenous and lymphocytic leukemia types would be helpful. Great work! Thanks
+summarized question 4: What are the differences between lymphocytic and myelogenous leukemia?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: MY NAME IS [NAME]. ON [DATE] I WENT TO [LOCATION] ABOUT MY FEET BEING ASLEEEP. THEY PUT ME ON LYRICA. WELL I AM WORST NOW AS OF TODAY MY FEET HAVE BEEN ASLEEP NOW I AM IN ALOT OF PAIN AND ITS ALL THE WAY TO MT KNEES I NEED SOME KIND OF HELP. NO INSURANCE. NO MONEY WHAT CAN YOU FIND OUT FOR ME. PLEASE CONTACT ME AT [NAME] THANK YOU
+summarized question 5: Where can I get help for neuropathic foot pain?
+##
+query 6: "SUBJECT: use of spacer with inhaler/warning sound MESSAGE: I've just read the instructions for using a spacer with my symbicort inhaler.  What if I breathe in according to directions and there is a warning ""whistle"" or ""sound?  What am I doing incorrectly?"
+summarized question 6: How do I use a spacer with the symbicort inhaler?
+##
+query 7: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 7: What clinical trials are available for hepatitis C?
+##
+query 8: PAEDIATRIC AND GEATATIONAL NUTRITION.  I want detail information about pediatric and gestational nutrition.
+summarized question 8: Where can I find detailed information about pediatric and gestational nutrition?
+##
+query 9: SUBJECT: generic valsartan ingredients MESSAGE: I presently take Diovan and my insurance company is suggesting your generic valsartan.  I have celiac disease and can't have any gluten.  Can you tell me if your product is gluten free?
+summarized question 9: What are the ingredients of valsartan and is it gluten free?
+##
+query 10: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 10: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 11: SUBJECT: fluocinolone acetonide ointment tube MESSAGE: Is it possible to obtain this ointment (.25 mg) in anything other than a metal tube?  I travel a lot, and the tube constantly develops cracks, so the ointment squeezes out everywhere -- very messy.  My pharmacy doesn't know of any other packaging.  Thank you!
+summarized question 11: Does fluocinolone acetonide ointment .25 mg come in a non-metal tube or other packaging?
+##
+query 12: SUBJECT: male with breast MESSAGE: I am a 51 year old male and I have enlarged breast. My mother told me that I have bird chest. I know that I don't have bird chest. My size is a 36 B. I have to wear oversized shirts. I would like to have them removed, but I don't have the money. I was abused because of my breast.  thank you for your time.
+summarized question 12: what are the treatments for gynecomastia?
+##
+query 13: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 13: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 14: Hi, Fırst of all thanks for valuable information whıch you Published on your web sıte. http://www.cdc.gov/measles/about/complications.html I couldnt find any ınformatıon on web that ıs related early ages.. When my son 6 months old (when he was baby)  he had measles and he hadnt had vaccacine when he was ill. I saw that if you had measles you have possıbılıty for SSPE that is 4 to 20 out of 100.000 case...But I want to know (it ıs very ımportant for me) if you had measles when your son stıll baby,what is the risk.. Please help me to know the facts...Please Write me the worth case.. I want to know just truth.. Thanks, Best Regards [NAME]
+summarized question 14: What percent of babies who contracted measles will eventually develop SSPE?
+##
+query 15: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: OK. I understand your reticence to list unconfirmed 'untrigger' lipids. However, I am a trained scientist who's 72 years old, so I don't really have time to wait for confirmatory tests to be run on several K more old coots. so QUE3TION: What [NB: THE HELL] precisely are the 10 lipids in question? I would then plan to have myself checked for those 10 lipids.
+summarized question 15: What are the ten lipids that can predict dementia?
+##
+query 16: SUBJECT: GERD MESSAGE: in reviewing some meds that treat GERD, i dont see much difference between Prilosec,Nexium,Tagament and Zantac. It is said that Prilosec and Nexium are proton pump inhibitors and Zantac and Tagamet H2 blockers. Their definitions of action are the the same that they reduce the amount of stomach acid.Are their really any big differences in these 4 medicnes?
+summarized question 16: What are the differences between GERD medications Prilosec, Nexium, Tagament, and Zantac?
+##
+query 17: hi   i have NYSTAGMUS plm lAST 3 years  i want to know that any possibility to resolved my plm thanks tell me the right medicine i need your help
+summarized question 17:

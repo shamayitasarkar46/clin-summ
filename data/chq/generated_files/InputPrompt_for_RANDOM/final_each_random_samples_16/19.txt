@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Skin Itching MESSAGE: At night, I have very bad lower leg skin itching.  Is this being caused by any of my prescripions?
+summarized question 1: What prescription drugs cause itching skin on legs?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I would like to know if there is a side affect from taking mestinone while tanning in a booth.  it seems if have a rash on back and burning on chest and stomach which has never happened before I started taking mestinon.   are we more sensitive to sun while on this medication?
+summarized question 2: What are the side effects of mestinon and tanning?
+##
+query 3: "ClinicalTrials.gov - Question - general information.  Hello,  My name is [NAME],I am 30 years old and I am from [LOCATION]. I met my friend [NAME] on a chat room. [NAME] is 25 years old and he currently lives in [LOCATION], Algeria. His dad died, his brother died 2 years ago in a motorcycle accident and about 9 months ago my dear friend got into a car accident. In that car accident he suffered a T-6 and T-7 fracture which cause him to be paralyzed from his waist down. He is so young and it really hurts how much he has suffered in his short life. Not only him, but just thinking how much his mom has suffered it really breaks my heart. I asked him how or what can I do to help him, he did not asked for money or something like, he just said: ""Would you help me to research how to get cured?"". Since I met my friend there is no one day I have stopped thinking in what can I do to make his dream come true. I know we lives in an imperfect world and things happen to people but faith moves mountains. I have no experience on a situation like this, I have no knowledge on what can be done and that is why I NEED your help. Please help my friend. I will do anything necessary or anything you need. If you need money I will find it, I am not rich but there are good people out there willing to help. Please tell me what to do, I am desperate and I cannot sleep thinking about my friend. Please help [NAME]. I have his doctor’s diagnosis and it is paste below. It is in French sorry about that. Thank you very much for your help. I am very confident that we can help my friend. Thank you, [NAME] i.r.m medullaire protocole sagittales t1 se /stir sagittales/coronales frfse t2 axiales t2 frfse/t1 se myelo-irm RESULTATS MISE EN évidence de fractures complexes corporelles de t6 et t7 avec tassement cunéiforme des pl"
+summarized question 3: Where can I get information about treatment for T-6 and T-7 fracture paraplegia?
+##
+query 4: SUBJECT: coal oil MESSAGE: My father at an early age was given coal oil when he was sick with a cold or flu, my family and I are just wondering if there could have been permanent damage done to his stomach, heart, or any other internal organs.  I'm not asking for a second opinion, just want some information on this matter for our own inquiries.
+summarized question 4: What are the adverse effects of coal oil?
+##
+query 5: SUBJECT: Muscle function loss of Left Arm MESSAGE: Dear Doctor,  I am [NAME] from [LOCATION] ,first of all thank you very much for this article and its a great service.I am writing this email for my loving father ,He lost his left arm muscle because of nerve damage but he can access his finger .he cannot lift his hand without help of right hand.we already get consults from many doctors but there is no result found ,We are from village and poor family background ,i don't have much money to give good treatment for my father .so i request you please recommend a proper treatment for my father .this is my kind request to save my father . for more details required please feel free to contact me  my Email:-[CONTACT] My contact number :-[CONTACT]  With lot s of expectations,  [NAME]
+summarized question 5: What are the treatments for nerve damage in the arm?
+##
+query 6: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 6: What are the treatments for pain after hemorrhoidectomy?
+##
+query 7: SUBJECT: I need help ? MESSAGE: I have few questions and needed some help from you guys, I have a really serious problem about me and the stress I have been through for a long time, and I couldn't do anything to get rid off what I'm really in a bad feelings. And I'm really having and hard time searching and try to get rid off my pimples , I've been have these probably every since when I was 15 years old . I do not know what kind or where I can find , something that could help me, something that could work , because there's alot of products . And I'm not sure which kind could fit my skins to remove my pimples. . Please help, I'm having a serious hard time having these. Its really embarrassing, that's why I always wear long sleeve to cover it every single day, 24/7. I'm really appreciate if you guys have tine to contact me and talk about. Another thing, my question is , how can I get rid of my pimples on my upper arms and my back. Also I really don't know what kind pimples do I have on my skin. Please help me , so I wouldn't be having so many stress about my skins.
+summarized question 7: What are the treatments for pimples?
+##
+query 8: MESSAGE: There is a lot of collection. Its good. But I dont find my problem and suggestion. I want to know about male Reproductive
+summarized question 8: Where can I find information and help for male reproductive health?
+##
+query 9: SUBJECT: I want to ask a question about botox MESSAGE: I want to know if botox is useful in treating someone who had a stroke and their left arm is crippled up? The man had a cerebral hemmorhage I want to know if this helps or not?
+summarized question 9: Can botox help arm paralysis?
+##
+query 10: MESSAGE: I have to start applying ciclopirox to infected toes. I know u cannot use nail polish bit can I put a band aid on once the medication has dried?
+summarized question 10: Can i cover ciclopirox with bandaids?
+##
+query 11: PAEDIATRIC AND GEATATIONAL NUTRITION.  I want detail information about pediatric and gestational nutrition.
+summarized question 11: Where can I find detailed information about pediatric and gestational nutrition?
+##
+query 12: "SUBJECT: allergic reactions MESSAGE: I have RLS. I had allergic reactions (my neurologist is confused) to Ropinirole and the Neupro patch. I need to know if the pramipexole made by your company has a ""something - sulfite"" as a stablizing ingredient. This is what, seems, oddly, to be causing swelling of my hands, feet, nose, throat, eyelids and tongue. Could I get an email or a drug package insert so I could find out all the inactive ingredients. I am desperate to find relief from this horrifying affliction. I not only has the sensations in my legs but also my arms. Thank you for your time and information. My mailing address: [CONTACT] or perhaps a voicemail message: [CONTACT]"
+summarized question 12: What are the inactive ingredients of pramipexole?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Good day. I'm living with lupus. I just want to ask if I can take glutathione supplement? I already completed my chemotherapy last month (march) and free off steroid after two weeks. Thanks
+summarized question 13: I have lupus; can I take a glutathione supplement?
+##
+query 14: MESSAGE: hi my name is [NAME] I'm currently working with [LOCATION] and I was wondering  I came across some of you healthy tip fliers for HIV/Aids treatment .at the moment we have a study  going on that helps HIV positive transgender women into HIV quality care .so it would be great to have some more information on HIV/Aids treatment
+summarized question 14: What are the treatments for HIV/AIDS?
+##
+query 15: SUBJECT: prestigious place in USA for treatment to Common peroneal nerve dysfunction MESSAGE: Hello, I have foot drop for damage to the common peroneal nerve, caused by surgery on knee in November 2012.Please which is the most prestigious institution or place in USA for treatment or surgery of this type of injury. thanks a lot
+summarized question 15: How can I find physician(s) who specialize in Common peroneal nerve dysfunction?
+##
+query 16: SUBJECT: Stroke mobility equipment MESSAGE: Husband has had 3 strokes since 1990.  He refuses to take anymore maintenance therapy.  It is becoming more challenging to help him be mobile.  There does not seem to be any source to assist me in learning what equipment, etc.  I could or should get to help him and to help me in my role as caregiver.  Any help you can give would be much appreciated!
+summarized question 16: Where can I find information on stroke resources, including mobility equipment and caregiver support groups?
+##
+query 17: i thought i needed a knee repalcement but after having a stent placed in my heart my knee doesn't hurt what happened
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Genetic testing.  My mother in law is in the last stage if lung cancer and only has days to live.  My question is...testing her and comparing her tests with my husbands and his sisters test help to determine if it is genetic?  My mother in law ([NAME]) and her mother and her mithers sister both had lung cancer and none if them were smokers.  I'm real worried about my husband getting lung cancer now and I want find out what we can do to protect him.Thank you,[NAME]
+summarized question 1: What are the genetic factors for lung cancer?
+##
+query 2: genetically inherited ability to low cholesterol. Is there a medical term used for genetically inherited ability to low cholesterol? I have it, I am told 1 in 3000, have this. I'm 64 y/o, LDL 74, HDL 78, TRI 91, CHOL 170. You'd thing that this is good but my veins & arteries are struggling to keep my B/P up the older I get. All cardiology test are good, can't find a cause for low B/P below 90/60 issues. There has to be a medical term for this, what is it, what gene is this? Since I never knew my parent, what country does this originate?
+summarized question 2: Is low cholesterol genetic?
+##
+query 3: SUBJECT: asthma MESSAGE: Question. What is the consensus of medical doctors as to whether asthma can be cured? And do you have an article discussing whether asthma can be cured?
+summarized question 3: What are the treatments for asthma and can it be cured?
+##
+query 4: SUBJECT: pregabalin MESSAGE: I have peripheral neuropathy but not diabetes.  I have had numerous tests to try and determine the cause of the neuropathy without success.   Will pregabalin help with the pain?
+summarized question 4: Is pregabalin effective for treating pain from peripheral neuropathy?
+##
+query 5: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 5: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 6: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 6: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: chronic hypersensitivity pneumonitis. could this condition be caused by memory foam mattress'.?
+summarized question 7: What causes chronic hypersensitivity pneumonitis?
+##
+query 8: Interested in research regarding Arimidex and the pros and cons of taking it following lumpectomy and radiation for breast cancer.  Are there research results of recent research?  The possible side effects are worrying - I make decisions for my 47 year old daughter with Down Syndrome-trying to do what is best.  She has taken Anastrozole for a year now.
+summarized question 8: What is the the latest research on Arimidex, and the benefits and side effects of the drug?
+##
+query 9: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 9: How is post-polio syndrome diagnosed?
+##
+query 10: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 10: Can magnesium be taken with orange juice?
+##
+query 11: Dear Sir Several diseases including skin cancer and hypovitaminosis D occur due to migration of dark skinned and light skinned people to each others habitats, I want to know what latitude woud be best for Fitzpatrick type IIIa skin, I mean, I'm moving to Portland, Maine is my skin best suited for UV rays there and what is the best skin type for Portland Maine, with regards on the ozone depletion that expose us to more UV,thanks. yours, [NAME]
+summarized question 11: What is the best latitude for someone with Fitzpatrick type III skin?
+##
+query 12: ClinicalTrials.gov - Suggestion.  Can you tell me if there is a battery pack that could be used in power outage events. We live in a rural setting and often have power outages during the general hours of sleep? Please advise if any known means of switching c-pap to this method.
+summarized question 12: Is there is a c-pap battery pack that could be used in power outage events?
+##
+query 13: Physicians who specialize in Androgen insensitivity. Hello,I'm looking for a physician(s) who specialize in androgen insensitivity.  I came across your site on the Internet.  It has a page on the subject -http://www.ncbi.nlm.nih.gov/sites/ga?disorder=Androgen%20Insensitivity%20Syndrome - but I wasn't able to find a link to any physicians who specialize in this after I clicked on the Physician Directory link.  Any suggestions?Thanks in advance,[NAME]
+summarized question 13: How can I find physician(s) who specialize in androgen insensitivity?
+##
+query 14: SUBJECT: low WBC issue MESSAGE: respected sir,                i humbly want to say  you thanx for making this website. i am [NAME] from [LOCATION] and i want to help myself by you please help me sir i will greatful to yo(sorry sir my English is not so good)      masturbation is my hobby its my taboo really sir now i am tired i want to change myself please sir give me some suggestions ....   this is bad habit in my life but i am also a bright student since last year .............. .......... .......... i am crying... sorry ...... please help me sir plzz rply me in my id.. and wish me luck     i know you have a golden heart ....
+summarized question 14: What are techniques to stop masturbating?
+##
+query 15: glucose tolerance test.  Is Mountain Dew an acceptable glucose tolerance test drink?
+summarized question 15: Can soda be used as the glucose test drink?
+##
+query 16: Does high Thyroid level (31.13) interfere with recovery I just had double knee replacement on 01/15/2014. I take Levothyroxin 137mg dailey for my thyroid condition.  I take no other meds on a regular basis except for the normal pain meds prescribed during my recovery. During my recovery, I never felt comfortable and free of pain. I finally asked for a blood test and discovered my TSH level at 31.13.  My question is, will a high TSH level interfere with healing and recovery of muscle tissue and bones?  I am now taking a higher dose of Levthyroxin, can I expect a longer than normal recovery period due to a high TSH level?  Thank You, [NAME]
+summarized question 16: Can high TSH levels or Levothyroxine impact muscle tissue recovery?
+##
+query 17: how do you know if you have sinus rhythm, what does it mean, is it good or bad?
+summarized question 17:

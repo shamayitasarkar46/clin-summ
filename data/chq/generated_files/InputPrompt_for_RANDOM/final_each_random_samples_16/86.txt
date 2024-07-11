@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: pseudogout MESSAGE: @ http://www.nlm.nih.gov/medlineplus/ency/article/000421.htm I see the statement ""There is no known way to prevent this disorder. However, treating other problems that may cause pseudogout may make the condition less severe"" which I would like to have explained, especially what those other problems are &how they may be treated. I'm especially interested in whether supplemental calcium may not be good to take."
+summarized question 1: What are the treatments for pseudogout?
+##
+query 2: Genetic Test for IHHS heart condition. Is there a commercial genetic test for the IHHS heart condition?  My family suffers from this heridity condition and I would like to know who is susseptable.   If so, where could I get it done in [LOCATION] Texas?
+summarized question 2: Where can I get genetic testing for IHSS in Texas?
+##
+query 3: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 3: What is the half life of Chlordiazepoxide?
+##
+query 4: SUBJECT: Duloxetine DR 20 mg casules. MESSAGE: I started taking Cymbalta about three months ago.  I recently developed curvature of the spine.  Could this curvature being caused by the Cymbalta?  My pharmacist wasn't sure and suggested I contact you.  Thanks!
+summarized question 4: Can Cymbalta cause curvature of the spine?
+##
+query 5: SUBJECT: drugs/liver failure MESSAGE: I don't know if you can answer this, but I thought I'd try. If someone used to use drugs, mainly heroin,  and they've stopped using and are around 30 days clean, will they not be able to test negative for drugs if their liver is failing?
+summarized question 5: How long is heroin detectable in your system?
+##
+query 6: SUBJECT: faty leaver&high blood presure MESSAGE: Dear sir &mam my blood presur is 140/100 what can i do for normal blood presure..
+summarized question 6: What are the treatments for high blood pressure?
+##
+query 7: SUBJECT: Small intestine completely removed MESSAGE: One of my family members has a serious health issue in which his small bowel has been removed completely, due to gangarin. Could you please help and advise accordingly.
+summarized question 7: What are the prognosis and care instructions after small bowel resection?
+##
+query 8: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 8: What are the causes of nipple discharge?
+##
+query 9: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 9: What are the treatments for drop foot?
+##
+query 10: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 10: What are the side effects of barium sulfate?
+##
+query 11: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 11: What are the causes of abdominal pain and swelling?
+##
+query 12: I am interested in learning about treatments for intraductal papillary mucinous neoplasm (IPMN). I'm particularly interested in new treatments, perhaps less invasive surgery or alternative treatments.  It would be good to know who is conducting the research in this area and where it is being conducted. Thank you, [NAME] -- [CONTACT]
+summarized question 12: What is the latest research on and treatments for intraductal papillarymucinous neoplasm (IPMN)?
+##
+query 13: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 13: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 14: types or kinds of sickle cell. Pls i want to know the possibility of two people who are AS getting a baby who will be AS! AA! OR  SS!. And what are the types of sickle cell. E.g. AS
+summarized question 14: What are the types of sickle cell anemia and how is it inherited?
+##
+query 15: MESSAGE: Sometime during March I overdosed on Benadryl. I got all the symptoms but survived without medical treatment. I am just curious as to if any damage happened.  Like Neurological.
+summarized question 15: What is the prognosis for benadryl toxicity?
+##
+query 16: SUBJECT: life expectancy after double lung transplant operation MESSAGE: Hello,  My husband has cystic fibrosis and he had the double lung transplant operation 3,5 years ago. He is 53 y.old. What is the life expectancy for people with cystic fibrosis after double lung transplant? Can he has another lung transplant in the future? Thank you, [NAME]
+summarized question 16: What is the prognosis for cystic fibrosis after double lung transplant?
+##
+query 17: MESSAGE: I have been dignosed Bladder Cancer and in [DATE] surgery Radical cystoprostatectomy with bilateral PLND under EA/GA was done.I would like to know if the stoma closure is possible? Request to please guide me.
+summarized question 17:

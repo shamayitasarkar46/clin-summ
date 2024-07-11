@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Treatment for optic nerve atrophy.  Hello Name's case :[NAME] Sex : Male  Date of Birth : 1964 Nationality : [LOCATION] Diagnosis :  optic nerve atrophy .  i am suffering from optic atrophy, which led to loss of vision and inability to see, I suffer from this case from 1998 saluting suffered a fall on the head, which led to began this case even lost look, and have been performed process surgery in [LOCATION] in 1998-1999 .  And then in 2009 cured by reactive optic nerve by Russian Professor .   i want know you hospital have treatment for optic nerve atrophy , and what this treatment  i need more information about treatment of optic nerve because now  16 years old I can not vision, and I wish  could belive hope for treatment of my case. And i want know the cost of treatment . Thank you  Regards / [NAME]
+summarized question 1: What are the treatments for optic nerve atrhrophy and how much do they cost?
+##
+query 2: SUBJECT: Does my circadian rhythm need adjusting? If so, how? MESSAGE: I had a saliva test last July, which showed my cortisol level at 9 @ 6:30am, 5.1 @ 11:30am, 4.2 @ 4:30pm, 3.3@ 9:30pm. I wake frequently during the night and my brain seems to engage in much thought, making it difficult to go back to sleep. I wake well before the 5:45 alarm and drag myself out of bed. I am exhausted all day and can fall asleep at day or evening events I have seen endocrinologists, in addition to my GYN and primary care dr., all of whom tell me all my blood tests are normal. I take 2 sport yoga classes and a Qi Gong class weekly. I was a young 65, but at 66, the lack of sleep has finally caught up with me and I feel much older than my 66 years. I feel lethargic and heavy-chested. I want my life back. I have never seen or read anything about how or where help can be found. Can you help?
+summarized question 2: Where can I find information on low cortisol levels, including symptoms, causes and treatments?
+##
+query 3: broken veins in legs.  is vein surgery for mostly cosmetic reasons recommended any dangers serious side effects
+summarized question 3: What are the complications of varicose vein surgery?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 4: What are the treatments for autoimmune nerve disorder?
+##
+query 5: SUBJECT: I need help ? MESSAGE: I have few questions and needed some help from you guys, I have a really serious problem about me and the stress I have been through for a long time, and I couldn't do anything to get rid off what I'm really in a bad feelings. And I'm really having and hard time searching and try to get rid off my pimples , I've been have these probably every since when I was 15 years old . I do not know what kind or where I can find , something that could help me, something that could work , because there's alot of products . And I'm not sure which kind could fit my skins to remove my pimples. . Please help, I'm having a serious hard time having these. Its really embarrassing, that's why I always wear long sleeve to cover it every single day, 24/7. I'm really appreciate if you guys have tine to contact me and talk about. Another thing, my question is , how can I get rid of my pimples on my upper arms and my back. Also I really don't know what kind pimples do I have on my skin. Please help me , so I wouldn't be having so many stress about my skins.
+summarized question 5: What are the treatments for pimples?
+##
+query 6: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER??  WHICH ARE THE BEST?? [CONTACT]
+summarized question 6: What are the best creams for skin cancer?
+##
+query 7: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 7: Where can I find information on klinefelter syndrome?
+##
+query 8: SUBJECT: úlcera bucal por efectos de la radio terapia MESSAGE: What should I do if I have a cold sore? and treatments I use
+summarized question 8: What are the treatments for cold sore?
+##
+query 9: SUBJECT: severe vaginal bleeding MESSAGE: I've been bleeding for almost 9 long years. I've been to the doctor and he just put me on birth control saying it will balance itself out. That didn't work. We tried another birth control..it didn't work either. Ever since this problem started I've had terrible migraines, I gained weight (which I've tried to exercise and diet off), severe vaginal pain, cramping, heavy bleeding, blood clots the size of my hand. I've probably gone through 1000's of underwear and my life revolves around this issue. My sex life is one sided (which sucks) and I just want help..what should I do..I feel like I should have another doctor..
+summarized question 9: What are the treatments for severe vaginal bleeding?
+##
+query 10: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I HAVE CRONIC PAIN FROM SEVERE SHINGLES.THE BLISTERS ARE GONE BUT THE PAIN IS SEVERE.WHAT SHOULD I DO. I CAN' KEEP THIS PAIN
+summarized question 10: What are the treatments for shingles pain?
+##
+query 11: MESSAGE: I am taking Metformin and I am concerned about how can I cut back without any dangerous side effects; at the moment I weigh 182lbs. where I was weighing before at 220lbs. Is it possible I don't need to take this medicine anymore or is their another prescription medicine that I can take to replace that is not so strong, the one I have  is 500mg 60 tablets.
+summarized question 11: Should metformin dosage be reduced after weight loss?
+##
+query 12: SUBJECT: vomiting blood clots MESSAGE: Vomiting blood clots. Very small amounts
+summarized question 12: What does vomiting blood clots indicate?
+##
+query 13: SUBJECT: Undesecnded testis MESSAGE: Hello Sir  I am a young man of age 27  I was born with a problem of descended testis  to this age  I have always experience one of them go down to the real position at times  and then run back to the abdomen  but of recent it stopped going down  Please Sir I will like to know what my situation is and is there a remedy for it ? Thanks an i wait for your reply
+summarized question 13: What are the treatments for undescended testicles?
+##
+query 14: SUBJECT: ears itch burn and have soreness at times MESSAGE: I was wondering I get my ears cleaned out because of allot of wax build up but I constantly have this itch in both of them and sometimes they burn little and they pain a touch, in the day I don't notice it as much as in the evening and at night sometimes I think I even feel draining in them but nothing drains out- If I take some clartin it does help but I hate doing clartin everyday what do you think I need to do ENT's don't do much for it or seem to think its a problem - I also get a little rining in the ears at night some high pitch sound not to bothersome but there and they did check my hearing and said it was fine, so I wonder what it could be something I am taking supplement wise or allergies or what? is there some kind of test that would tell what this is and how to overcome this nuisance thanks so much for any help
+summarized question 14: What are the causes and treatments of ear pain, itching, and ringing?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm 33 years old and got diagnosed with rhabdomyosarcoma stage 4 last December. I went through 13 weeks on intense chemotherapy and my last scan showed that I'm in remission. I'm looking for more guidence as far as a stem cell replacement goes.
+summarized question 15: Is stem cell therapy appropriate for stage 4 rhabdomyosarcoma in remission?
+##
+query 16: SUBJECT: Cocaine Topical MESSAGE: Hi I wanted to inquire about NDC: 00527172874 Topical Cocaine. And how long the dye in the product lasts on the skin.
+summarized question 16: For Topical Cocaine NDC: 0527-1728-74, how long does the dye stay on the skin?
+##
+query 17: covid-19 how long to quarantine after being positive how long are you contagious if i tested positive for covid-19. how long before i can safely return to work after a positive covid 19 test
+summarized question 17:

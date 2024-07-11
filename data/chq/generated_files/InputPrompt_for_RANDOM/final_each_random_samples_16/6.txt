@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 1: What are the treatments for lichen planus?
+##
+query 2: SUBJECT: Otic suspensions MESSAGE: Dear Sir/Madam, I am looking for list of approved products of Otic suspensions for human use.Kindly help me to get the details. Regards/[NAME]
+summarized question 2: Where can I get information on otic suspensions for human use?
+##
+query 3: SUBJECT: congenital diaphragmatic hernia MESSAGE: I need to know if CDH can be passed down to future generations.  I just learned that this condition most likely caused the death of my first child back in 1971.  I was then told it was merely a fluke.  I had NO trauma during the full-term pregnancy, and I and my then husband were in very good health.  Now my son (from a different husband) and his wife are due to have fraternal twins in [DATE] 2015.  Does the term 'congenital' mean that it could be passed down to another generation?  I do not want to alarm my son and his wife.  I just would like to inform whatever pediatrician is caring for these babies as to my experience.  Unfortunately my son and I are estranged.  And I do not know who is their pediatrician.  My child's CDH was very severe.  I know there are far less severe cases that can go undetected &/or undiagnosed unless there is a reason to suspect such a condition.  Please respond to my concerns.
+summarized question 3: What causes congenital diaphragmatic hernia?
+##
+query 4: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 4: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 5: SUBJECT: babygirl vagina itching MESSAGE: My newborn is 9 weeks and I noticed when I went to clean inside her vagina there was a little bit of spotting. Should I be concerned?
+summarized question 5: What are the causes of and treatment for newborn vaginal itching and spotting?
+##
+query 6: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 6: How is post-polio syndrome diagnosed?
+##
+query 7: SUBJECT: Hydrocortisone 1% cream MESSAGE:  I would like to know what type of GLYCERIN(animal or vegetal glycerin) is in the 1% Hydrocortisone Cream.  For religion purpose(our believes)we can not eat or use anything that has PORK in it. Thanks.
+summarized question 7: What are the ingredients of  1% Hydrocortisone Cream?
+##
+query 8: SUBJECT: Friedreich's ataxia MESSAGE: I have been told I have Friedreich's ataxia.  I am looking for a treatment to reverse it. I has to do with the chromosome number 9 defective in both of my parents and possible damage to chromosome number 10.  Would you be able to tell me if number 9 is defective in me.
+summarized question 8: Where can I get genetic testing for friedreich's, and what are the treatments for it?
+##
+query 9: SUBJECT: man, 89, unable to urinate MESSAGE: My husband, 89, has been unable to urinate for 11 hours after his catheter was removed. Is it time to call the doctor?
+summarized question 9: When do you seek medical care for urinary retention after catheter removal?
+##
+query 10: "SUBJECT: Shortness of breath in the mornings MESSAGE: My wife has been having shortness of breath in the mornings (mornings only).  She has, what I think, excessive heart rate as well.  Again, mornings only. Could this be anxiety attacks?  I don't think it would be a heart issue.  She certainly isn't overweight.  SHe is 5'2"" and 100-105 pounds.  if she is having anxiety attack... what is the best course of action?  She seems to feel better when she lies down and rests.....while either watching TV...or sleeps.  WHat is weird about it is ... it only happens in the mornings.  SHe has no history in her family for heart disease either.  WHat are your thoughts?"
+summarized question 10: What could cause shortness of breath in the mornings?
+##
+query 11: SUBJECT: Azithromycin 250mg gluten MESSAGE: Hello can you please tell me if your Azithromycin 250mg tabs are gluten free?  Thank you!
+summarized question 11: What are the ingredients of Azithromycin and is it gluten free?
+##
+query 12: SUBJECT: my husband had a simple retropubic prpostectomy 6 weeks ago. he can not walk wit MESSAGE: My husband had a simple retropubic prostectomy he can not walk without the walker, he can not mmove his right leg  alone yet. I don't  think is normal. What to expect in six weeks  his urinary track is still soar when he pees. I fear  is something wrong  not been able to push the leg forward the joint in the leg is painful
+summarized question 12: What is the normal time course and symptoms of recovery from simple retropubic prostatectomy?
+##
+query 13: SUBJECT: Liquid Nutrition without Vitamin K MESSAGE: My Mother (age 84) is often not hungry and would like to try one of those liquid meals, but was told by her doctor not to take anything with Vitamin K in it.  I have looked at the labels on all of those products and they all have vitamin K in them.  Any ideas of where to look?  Thanks so much.
+summarized question 13: What nutritional drinks do not contain vitamin K?
+##
+query 14: SUBJECT: Letrozole MESSAGE: Can u please advise me what year Letrozole  was first used in the market. As I was not given this tablet after Breast surgery in 2007 and my tumour grew again. I had gone through the Menopause in 1990 so was not offered Tamoxin.
+summarized question 14: When was Letrozole approved for use?
+##
+query 15: cant use site.  I want to find a doctor who specializes in burning mouth syndrome and that could be in many specialities, I cannot understand how to do this on your website.
+summarized question 15: How can I find physician(s) who specialize in burning mouth syndrome?
+##
+query 16: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 16: Are the  long-term effects of morphine reversible?
+##
+query 17: I have myclonus as well acute respiratory distress syndrome and sleep apnea with painful left temporal pain; I actually raise for sleep start holding my left temporal and saying, ouch!! I experience in the same occurrence..all three hallucinations regarding wake sleep (audio tactile and visual). I have expressed my concerns to numerous neurologist and they tell me It's Functional. Should I be concerned?
+summarized question 17:

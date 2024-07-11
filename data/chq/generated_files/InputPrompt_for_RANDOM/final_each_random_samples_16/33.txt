@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Hi I have aquestion regarding the chikenpox vaccination. My son is now 9 years old and got his  1st dose of chikenpox vaccine in September 2007 and the second does skipped then.so please guide me if my son could gey the vaccine once again now.
+summarized question 1: Where can I find information on chickenpox vaccination schedules?
+##
+query 2: SUBJECT: erection problems MESSAGE: I am 32 yrs. old , 5.6 ft. and 68 kg wt.,  married and have a son of two years. Since last few months , I experience erection related problems during intercourse. When aroused, I get normal erection but it does nt continue for long. I don’t smoke and very rarely drink. I do exercise also. I masturbate 4-5 times a week because my testicles experience pain if I don’t ejaculate after any intimacies or getting very aroused. When pain starts, if I ejaculate by masturbating, It is relieved.  I do have night erections which I find generally in the mornings. Out of tension, once I tried Sildenafil tablet also for erection. Please tell me if I am suffering from any erection related problems or any other problems. Is masturbation a cause for these?  Kindly guide me. I have not visited any doctor yet.
+summarized question 2: Can masturbation cause erectile dysfunction?
+##
+query 3: SUBJECT: DECUBITUS ULCERS MESSAGE: To Whom This May Concern, My name is [NAME], i am a year 12 student at [LOCATION], [LOCATION]. I am doing a subject called research project, it is a compulsory subject.  My question is 'What are the biological causations of decubitus ulcers?' I am writing to you as i am in need of primary information from medical professionals. I am requesting that you complete a survey. If you are willing to participate please email me on; [CONTACT]   so i will be able to give you the survey and a letter detailing what it is for.  Thank You for spending your time reading this email, and i look forward to hearing from you. Yours Sincerely,           [NAME], Year 12 student at [LOCATION]
+summarized question 3: What causes decubitus ulcers?
+##
+query 4: "SUBJECT: physical activity MESSAGE: I am a woman aged 59 and had triple heart bypass in 2010. I am 5' 1"" and almost 14st in weight so fairly overweight. And I have very swollen ankles which ive had for probably at least 20 years. Diuretics dont seem to solve it. Ive had to take on part time work now as the government say i have to as im under pension age, working 4 hours a day, and it involves standing as its shop work. Should i really avoid this type of work as it means so much standing? Im very unfit, too weak and breathless to climb stairs. I suffer regular severe back ache standing for a time and my legs ache badly. I cant climb stairs as i get breathless and my legs are too weak. I dont smoke and dont drink alcohol frequently."
+summarized question 4: What work is recommended for a physically unfit person?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Hello, my name is [NAME] , and I have Fibromyalgia terribly. My father has MS, and my mother's sister has been diagnosised with ALS. I was wondering if that would have any bearing on why my Fibromyalgia is hit me so hard. I have been experiencing s/s since as far back as 3rd grade that medical records can show and I'm 40 years old now. By the time I was 18 I was told I need psychiatric help because I was to young to complain like an 80 year old. Thanks [NAME]
+summarized question 5: Is fibromyalgia hereditary and related to multiple sclerosis and amyotrophic lateral sclerosis?
+##
+query 6: SUBJECT: Gastroesophageal Reflux Disease MESSAGE: Can GERD BE CURED? I AM SUFFERING FROM THIS DISEASE FOR ALMOST THREE YEARS NOW.I HAVE GONE TO MANY HOSPITALS  BUT STILL CAN'T BE CURED.I HAVE BEEN GIVEN OMEPRAZOLE CAPSULES MANY TIMES.PLEASE HELP ME.
+summarized question 6: What are the treatments for GERD and can it be cured?
+##
+query 7: SUBJECT: Can a 40 year old get throat cancer... MESSAGE: I have drank a lot of alcohol and lots of drugs. Not very many fruits and vegetables. This year I have gotten strep throat twice and sore throats with ear aches. Antibiotics have taken 4 different kinds this year alone. Raspy voice, very painful when swallowing.
+summarized question 7: What are the risk factors and symptoms of throat cancer?
+##
+query 8: hearing loss due to Alports Disease. If hearing loss is due to Alports Disease, is the hearing loss the same degree of both ears?
+summarized question 8: Where can I find information on hearing loss and Alports disease?
+##
+query 9: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 9: Where can I get genetic testing for CPTII deficiency?
+##
+query 10: SUBJECT: meadicine for itiching MESSAGE: my face is itiching too much. and iam using deetol soap ....... but not feeling well is there any medicine
+summarized question 10: What are the treatments for itchy skin?
+##
+query 11: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 11: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i have hereditary cerebellar ataxia..can I find a cure from your side..plz reply.its my second msg
+summarized question 12: What are the treatments for hereditary cerebellar ataxia?
+##
+query 13: SUBJECT: Hydrochlorothiazide MESSAGE: When taking hydrochlorothiazide at the same time as other medications, can it diminish the other drugs potency? i.e. Tegretol or Lamictal
+summarized question 13: Are there drug interactions between Hydrochlorothiazide and Tegretol or Lamictal?
+##
+query 14: SUBJECT: Friedreich's ataxia MESSAGE: I have been told I have Friedreich's ataxia.  I am looking for a treatment to reverse it. I has to do with the chromosome number 9 defective in both of my parents and possible damage to chromosome number 10.  Would you be able to tell me if number 9 is defective in me.
+summarized question 14: Where can I get genetic testing for friedreich's, and what are the treatments for it?
+##
+query 15: How do I know if the cause why my penis didn't growth up to a normal penis size was because of IHH? And How can I have a treatment with hCG? Where Can I get the injections?
+summarized question 15: What are the tratments for small penis size and where can I get the treatments?
+##
+query 16: SUBJECT: ears itch burn and have soreness at times MESSAGE: I was wondering I get my ears cleaned out because of allot of wax build up but I constantly have this itch in both of them and sometimes they burn little and they pain a touch, in the day I don't notice it as much as in the evening and at night sometimes I think I even feel draining in them but nothing drains out- If I take some clartin it does help but I hate doing clartin everyday what do you think I need to do ENT's don't do much for it or seem to think its a problem - I also get a little rining in the ears at night some high pitch sound not to bothersome but there and they did check my hearing and said it was fine, so I wonder what it could be something I am taking supplement wise or allergies or what? is there some kind of test that would tell what this is and how to overcome this nuisance thanks so much for any help
+summarized question 16: What are the causes and treatments of ear pain, itching, and ringing?
+##
+query 17: My friend is interested in a girl for marriage who is with congenital ptosis, but none of her family members had previously. Would like to know the frequency that it could effect the children in future.
+summarized question 17:

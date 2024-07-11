@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: voids to avoid with ebstien-barr virus in the liver MESSAGE: In pain after I eat...wondering if I am eating wrong foods. I have been diagnosed with this and had cat scan with and without dye and it shows a clump of blood vessels infected with the virus....
+summarized question 1: What foods to  avoid with epstein barr virus and abdominal pain?
+##
+query 2: Customer Service Request. Doing a genealogy search, I have been contacted by a person from the same ancestral line as myself, we are decendants of the [NAME] ancestral line and she told me that anderson tawil syndrome runs through our [NAME] line, What does it look like? I understand that it changes the face features. This 82 year old great grandma would like to know more about this.   Many thanks,
+summarized question 2: Where can I find information on andersen tawil syndrome?
+##
+query 3: SUBJECT: Left hip replacement surgery MESSAGE: In  [DATE], I had a total left hip replacement surgery, during that surgery, my femur was broken.  Two weeks later, there was a a revision fine due to possible infection in that same left hip. Today is [DATE] and my question is what should I be expected to be doing? I still rely on my walker, I am 54 years young and I suffer from Chronic Osteoarthritis in my lower extremities which is the reason for hip replacement at such an earlier age.
+summarized question 3: What is the recovery time and expected activities for hip replacement surgery and a broken femur?
+##
+query 4: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 4: Are endometriosis and cysts possible complications of NF1?
+##
+query 5: SUBJECT: Body Lice MESSAGE: How do I get rid of these little devils? Me and My mom have tried so many things to get rid of these bugs and they just don't go away were the family that takes 2 showers and now about 3 showers a day we never understood how they could have infected us but I was just wondering is washing our clothes the best bet to get rid of these things, because apparently it hasn't worked for us. So is there any suggestions?
+summarized question 5: What are the treatments for body lice?
+##
+query 6: SUBJECT: uncontrollable jerking movements MESSAGE: When I am exercising hard, the left side of my body will start to do strange things. When lifting weights overhead, my left upper lift will jerk up into sort of a sneer.  When doing core work, my left arm will start jerking so hard that it's impossible to hold onto anything. The jerking stops after the exercise ends; but my left arm feels worn out.  No pain. A few months ago, my left leg completely lost any strength for weeks. It first appeared when I was just trying to do a squat with a plastic pipe in my hand. Eventually was able to work strength back. Again - no pain.  Should I be alarmed?
+summarized question 6: What causes jerking movements during exercise?
+##
+query 7: SUBJECT: Transderm Scop Patch (Placement options) MESSAGE: Am trying to find info on patch placement. Any reason it cannot be placed in another hairless site besides behind the ear? A specific reason for it's placement there? Am a PACU nurse. We often use for post op nausea but cannot for plastic surgery of face/neck. Have one source that says ok from neck to waist, upper thigh or outer upper arm. Is this indeed acceptable placement? If not, why? Thank you in advance [NAME]
+summarized question 7: Where could the transdermal scopolamine patch be applied besides behind the ear?
+##
+query 8: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 8: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 9: MESSAGE: Four years back my ankle had hit by the stone and there is small reddish pot from inside the ankle, due to which I can't walk properly and it pains and even gets swollen once I start walking. Is this pain temporary or life long or it will never get heel forever.  What type of pain is this? What treatment would you suggest me?
+summarized question 9: What are the causes and treatments for ankle swelling and pain?
+##
+query 10: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 10: What are the side effects of barium sulfate?
+##
+query 11: SUBJECT: Cardiomegaly with chronic chest pain MESSAGE: With cardiomegaly chest pain will the heart muscle continue to thicken? Most all the doctors have given up trying to find the cause of his pain.  It has changed his life, he enjoys work and spending time outdoors and now he can't.
+summarized question 11: What  are the causes  and treatments of chronic chest pain with cardiomegaly?
+##
+query 12: SUBJECT: Gelatin MESSAGE: My daughter has a dairy allergy and I wanted to know about the gelatin used in your adderall xr capsules. Does it contain dairy proteins?  Thank you
+summarized question 12: What are the ingredients of adderall xr capsules, and is it dairy free?
+##
+query 13: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 13: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 14: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 14: What is the prognosis and course of recovery after stroke?
+##
+query 15: SUBJECT: Tailbone trauma MESSAGE: are there any risks for an elderly person to fly with a cracked or bruised tailbone? thank you in advance
+summarized question 15: Can I fly with a tailbone injury?
+##
+query 16: Testing. Where can someone be tested to determine a diagnosis of Adult Progressive Spinal Muscular Atrophy (Aran-Duchenne syndrome)?
+summarized question 16: How and where is Adult Progressive Spinal Muscular Atrophy diagnosed?
+##
+query 17: I am seeking information regarding wandering/lazy eye correction. I have suffered from this condition since I was a child. Please forward any pertinent information. Thank you.
+summarized question 17:

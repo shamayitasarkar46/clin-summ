@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 1: Are the  long-term effects of morphine reversible?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Sir My name is [NAME]   age 44 yers old  I approaching you with much hope after reading the news online about  breakthrough in Thalassamia major treatment. I have one son name [NAME] Date of birth  [DATE].Now 5 year 2 month. As per his reports attached and analysis of   my report and My wife's ( [NAME]) report [NAME]  Hematologist   ( [LOCATION] ) My Son [NAME] is Thalassamic  Intermedia . whene we Report at 2015 shows Hb only 4 we had blood transfusion done  at Djibouti. Doctor here said the Hb level cme down due to spleen enlargemnt which was due to some infection in body. So doctor here prescribed  Antibiotic for 7 days.After having anti biotics The fever came down and now My son is ok .Even though I need a permanent solution treatment fo my son  by Lentin  Globin B305  drug I request you to mail me  possible solution permanent treatment
+summarized question 2: What are the latest treatments for Thalassamic Intermedia?
+##
+query 3: SUBJECT: Right Arm shoulder pain from top to bottom MESSAGE: hi, I am having an younger sister, who is suffering from severe pain of right shoulder from 7 days. The pain comes from right ear to right arm fingers and she was unable to lift a simple spoon or plate. Hence I request you to suggest me good medicine or treatment for this pain.
+summarized question 3: What are the causes and treatments for irradiating right shoulder pain and weakness in the arm?
+##
+query 4: SUBJECT: Treatment for Nodular Goiter MESSAGE: Hi,  I'm suffering from nodular goiter. The size of enlarged thyroid gland is visible, but not like a big one. I need treatment for this. Some Doctors have suggested surgery which I don't want to go through. What are the other treatment options. Also let me know the place where I can visit to consult.  Thanks, [NAME]
+summarized question 4: What are the non-surgical treatments for nodular goiter and where can I find a specialist to treat it?
+##
+query 5: SUBJECT: bruised blood/bleeding under the skin MESSAGE: what causes the above? Certain pressure(s) applied to body leaves long lasting dark spot(s)
+summarized question 5: What causes bleeding under the skin?
+##
+query 6: SUBJECT: coal oil MESSAGE: My father at an early age was given coal oil when he was sick with a cold or flu, my family and I are just wondering if there could have been permanent damage done to his stomach, heart, or any other internal organs.  I'm not asking for a second opinion, just want some information on this matter for our own inquiries.
+summarized question 6: What are the adverse effects of coal oil?
+##
+query 7: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 7: How long does amoxicillin retain its potency?
+##
+query 8: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 8: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 9: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 9: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 10: SUBJECT: Physical activity MESSAGE: .... Should I continue my daily exercise program ( bike riding , occasional softball practice , and dog walking ) now that I have had the Voster virus flare up and have been treated by a Dr . ? I se that the more muscle activity I perform , the more sore and fatigued I get .... Thank You much
+summarized question 10: Should I exercise with Zoster virus?
+##
+query 11: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 11: How can I find a doctor to perform tubal ligation?
+##
+query 12: SUBJECT: male with breast MESSAGE: I am a 51 year old male and I have enlarged breast. My mother told me that I have bird chest. I know that I don't have bird chest. My size is a 36 B. I have to wear oversized shirts. I would like to have them removed, but I don't have the money. I was abused because of my breast.  thank you for your time.
+summarized question 12: what are the treatments for gynecomastia?
+##
+query 13: SUBJECT: Regarding falaria diseases MESSAGE: Sir, my wife has been suffering from falaria disease in her right leg for 2 years , please show/ tell me the treatment. my contact no. is [CONTACT].
+summarized question 13: What are the treatments for filarial disease?
+##
+query 14: SUBJECT: HELP TO LOCATE DRUG MESSAGE: Received instructions from the FDA in using this site to find an anti-depressant that DOES NOT contain soy in any ingredient.  No product found.  PLEASE HELP ME!!!!
+summarized question 14: What anti-depressant fdrugs do not contain soy as an inactive ingredient?
+##
+query 15: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 15: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 16: SUBJECT: ctscan see through mesh from hernia repair ? MESSAGE: I have mesh that repaired a hernia on my lower abdomen. Now I need a ctscan. Will the ct scan see through the mesh ??????
+summarized question 16: Will surgical mesh show up or interfere in a CT scan?
+##
+query 17: is there an increased risk of infiltration, dislodgement, or phlebitis in a stroke patient with a peripheral intravenous catheter insertion in the affected extremity?
+summarized question 17:

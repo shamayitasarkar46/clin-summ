@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Airborne contact dermatitis from methylchloroisothiazolinone in wall paint. Abol MESSAGE: Hello,  I've read this article (http://www.ncbi.nlm.nih.gov/pubmed/10750849) because I have a dermatis caused by Airborne contact from methylchloroisothiazolinone in wall paint. I knwo since 1 year that I have allergie of methylchloroisothiazolinone but I didn't know it could be airborne so afte rmy husband had paint the bedroom I have begin to have dermatis, eczema and I look after the cause so I heard about airborne contact dermatitis  from methylchloroisothiazolinone in wall paint. I want to know how many times the properties of methylchloroisothiazolinone are in the wall paint ? It is enough to aerate the room and how many time ? Or should we remove the paint on ceiling, wall and painted cabinet ? I read your article about  inactivation by sodium bisulfite, how can we do that ? thanks a lot for your help because none give me answer at hospital about these questions. excuse me for my english!! Best regards,
+summarized question 1: What are the treatments for contact dermatitis from methylchloroisothiazolinone in paint?
+##
+query 2: SUBJECT: menkes syndrome /kinky hair syndrome MESSAGE: My daughter has menkes syndrome and would like to know how to go about. Thx
+summarized question 2: Where can I get information and help for Menkes syndrome / kinky hair syndrome?
+##
+query 3: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 3: Where can I find information on klinefelter syndrome?
+##
+query 4: "SUBJECT: Alzheimer's disease MESSAGE: This may sound strange, but unfortunately our family, my wife's dad, are dealing with the ugly disease of Alzheimers. To make this short, is there any way that we can challenge him to do things, or attempt to even ""get off the couch"", because he seems to respond to that type of activity. Fortunately my wife is able to spend a great deal of time with her mom and dad, but he seems to perk up when I see him at times and ""not baby him"" like the rest of the family. Thanks much."
+summarized question 4: What are stimulating activities for Alzheimer's patients?
+##
+query 5: Melanoma.  The doctor wants my father to take interferon Alfa-2b They did the surgery it was on his feet  know they want him to take the biological therapy he is very scared I just want some more info please can u get me info ASAP thank u
+summarized question 5: Where can I find information about interferon alfa-2B therapy for melanoma?
+##
+query 6: ClinicalTrials.gov - Question - general information. I was diagnosised with mucha haberman, and I need to find someone who can treat it, I live in [LOCATION]. and I need some help
+summarized question 6: How can I find physician(s) or hospital(s) who specialize in mucha habermann disease?
+##
+query 7: SUBJECT: Asthma MESSAGE: I have been treated for breast cancer and had chemotherapy and readiation.  I am on many drugs but since stopping treatment I have now presented as having asthma.  I take Letrozole. 2.5 to block any estrogen in my body as my tumor was estrogen positive. What type of drugs impact asthma symptoms?   Please advise
+summarized question 7: Where can I find information on drug-induced asthma?
+##
+query 8: SUBJECT: Maple Syrup Urine Disease MESSAGE: Gene changes or chromosomal changes of MSUD? What is the technical and simple language of MSUD? Are there any treatments for MSUD?
+summarized question 8: How is MSUD inherited and what are the treatments for it?
+##
+query 9: SUBJECT: IHSS heart condition and WPW heart condition MESSAGE: Is there any way you could send me information on both these heart conditions? My son has to get tested for them eventually and I would just like information to understand the conditions of both of them more.
+summarized question 9: Where can I find information on Idiopathic hypertrophic subaortic stenosis (IHSS) and Wolff-Parkinson-White (WPW) syndrome?
+##
+query 10: ClinicalTrials.gov - Question - general information.  hello. my mane is [NAME], i am 34 years old . I have AIDS .well now everybody my co-workeds      knows my diagnose.what should i do ?how can i life ?Also store manager [LOCATION] told me ( i am jerk ,  idiot)
+summarized question 10: Where can I find support groups for people with HIV/AIDS?
+##
+query 11: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 11: Can shingles affect the teeth and gums?
+##
+query 12: SUBJECT: Azithromycin 250mg gluten MESSAGE: Hello can you please tell me if your Azithromycin 250mg tabs are gluten free?  Thank you!
+summarized question 12: What are the ingredients of Azithromycin and is it gluten free?
+##
+query 13: My wife developed a very severe deep hoarse cough. She has asthma but this is different. This cough is not a breathing problem. It has been going on for four months day and night. She has had every test possible, no diagnosis. Her Ct scan shows her lungs are great. Could this be conversion hysteria. She is always stressed over bills.
+summarized question 13: What are the symptoms of conversion hysteria?
+##
+query 14: SUBJECT: Treatment without amputation MESSAGE: My father is 70 years old his arteries in the both limbs have blockage. He is having pace maker. Doctor's suggest to go for amputation but there is high risk in it. Please suggest treatment without amputation! He foot is turning black and blisters are forming on his limbs.  Please advice
+summarized question 14: What alternatives to amputation are available for blocked leg arteries if the foot is turning black?
+##
+query 15: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 15: What are the causes of severe body weakness?
+##
+query 16: Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.
+summarized question 16: Where can I find information about Beckwith-Wieddeman Syndrome?
+##
+query 17: SUBJECT: fever. MESSAGE: I have had a fever in the evenings only since {DATE], it is gone in the morning then resurfaces around 4pm. I babysit for my grandkids during the week, I went to the clinic and they just said it was a cold.  Lung are fine, no head congestion. So I would like to know if I am contagious to my grandkids, so I can start sitting again.
+summarized question 17:

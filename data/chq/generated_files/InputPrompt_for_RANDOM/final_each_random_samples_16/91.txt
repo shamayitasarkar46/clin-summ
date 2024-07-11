@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Hello, Im sorry about my mom, she has black her mounth, neck and arms, her skin is changed in color black, she has diabetes, she inyects insuline. Can you reccomend me something please?    Sent from my MetroPCS 4G Android device
+summarized question 1: What treatments are available for diabetic skin darkening?
+##
+query 2: MESSAGE: Can u give me more information about physiotherapy for  patient with acute stroke treated wiht trombolysis..?
+summarized question 2: Where can I find information on physical therapy after acute stroke?
+##
+query 3: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 3: What are the treatments for hand tremors?
+##
+query 4: I am a type 1 diabetic and have been since I was nine months old.  I am now 34 and would love to talk to anyone interested in trials on the reversal vaccine that I have read articles about.  I currently live in [LOCATION].  I was not sure if any local Endo Doctors are running trials similar, or would be interested in working with a patient that has had t1d for as long as I have.  I am very active in my community with JDRF and would love nothing more than to be cured of this terrible disease.  Please contact me via email or my cell# [CONTACT], I welcome any information that can be provided.  Thank you, [NAME]
+summarized question 4: Where can I find information on clinical trials for type 1 diabetes reversal vaccines?
+##
+query 5: SUBJECT: Operation for Pectus Excavatum MESSAGE: Dear Medical Doctors,  Good day!  We are a resident of [LOCATION] (previously affected with super typhoon Haiyan). We have noticed with our nephew who is 16 yrs old now that his breast is not normal the same with the other nephew that we have having the same age. As we start to consult our physician's in [LOCATION], they told us that it is just normal, however, we are worried because as we can it is a symptom of Pectus Excavatum. We want to know from you the details what to do if we want our nephew to undergo this kind of operation to correct the ribs in his breast (pectus excavatum)?  Hope to hear from you. Thank you very much.   [NAME]
+summarized question 5: Whare can I find information on surgery for Pectus Excavatum?
+##
+query 6: I have Kerataconus but my insurance does not cover the cross linking procedure because it is not FDA approved. How long approximately will it take to get this approved? I also wanted to know how can I donate my self to be apart of this study?
+summarized question 6: How long will it take the FDA to approve the cross linking procedure for Keratoconus and are there any clinical trials?
+##
+query 7: SUBJECT: Diabetis MESSAGE: Can I use Novolin instead of Novolog? Is there any difference?
+summarized question 7: What is the difference between Novolin and Novolog and are they interchangeable?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 8: What are tarlov cysts of the spine and how are they treated?
+##
+query 9: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 9: What are the treatments and prognosis for a child with AML?
+##
+query 10: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 10: How long will an insecticide application last in the house?
+##
+query 11: SUBJECT: sideeffects from tecfedera MESSAGE: Hello, My name is [NAME]. I started taking Tecfedera sometime in April. As prescribed started with the 1/2 dose, and immediately had the flushing, swelling of my lips and nose. I called my Dr. he said it's not uncommon take an aspirin with every dose. I did, and  it seemed to lessen. I started the full dose. Everyday I took the pill, my pain increased! After a few weeks, the pain I usually had in flair ups, had now multiplied to an intolerable level! I stopped the Tecfedra. Unfortunately the pain did not! Until today, my pain level is at it maximum. Nothing I've taken such as Percocet, oxycodone etc. will not relieve it!! I've also since developed frequent  sweating and cellulitis on my left thigh and abdomen! Has anyone else had these problems? PLEASE! If so, tell me what they did to stop them! Sincerely, [NAME] cell [CONTACT]
+summarized question 11: What are the side effects of tecfidera?
+##
+query 12: SUBJECT: Shingles MESSAGE: I am recovering from shingles. I am on antiviral medication. This is my second week with shingles. I have not experience any draining with my sores which are currently on the right side of my face close to my right eyebrow. My question is this: My husband is having surgery tomorrow, Can I go to the hospital with my husband?
+summarized question 12: When is shingles contagious?
+##
+query 13: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 13: Can sleep apnea occur during the day when awake?
+##
+query 14: SUBJECT: Kidney Failures MESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in
+summarized question 14: What are the stages of chronic kidney disease based on GFR results?
+##
+query 15: SUBJECT: Treatment, Paralysis MESSAGE: I have one left side leg is paralysis last 24 years, my other parts of the body is well, it is possible my leg will good for treatment, if possible how can i do the treatment and where ? THANKS
+summarized question 15: What are the treatments for leg paralysis?
+##
+query 16: SUBJECT: Thyroid Cancer MESSAGE: thyroid cancer . please send all data regarding surgery, issues after the surgery possible outcomes to the surgery.
+summarized question 16: Where can I find information on surgery for thyroid cancer, including recovery and prognosis?
+##
+query 17: SUBJECT: Setraline side effects. MESSAGE: Hi, I am writing because I have been diagnosed with depression and have been treated with several different medications because of a serious side effect I get with sertraline.  They have given me a small dosage, 25mg a day,  I have tried with Celexa, Prestiq, Paxil, Cymbalta and they all make my legs shaky.  I get weak in my legs and I get a tingling sensation.  My legs hurt and get a tingling sensastion.    Why do I get this side effect?  Is there something else I can take??  I was also wondering if it has to do with any other medications that I take.  Sometimes I take dormicum for sleeping problems and Lorazepan.    Eagerly waiting for your comments
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: grievance counseling MESSAGE: My father passed away [DATE].  Hospice helped our family with his passing and offered us counseling which at that time our family didn't use.   My brother is now interested in counseling services and I'm wondering if I can get some information on this.   Thank you.
+summarized question 1: Where can I get information on grief counseling and support groups?
+##
+query 2: SUBJECT: congenital diaphragmatic hernia MESSAGE: I need to know if CDH can be passed down to future generations.  I just learned that this condition most likely caused the death of my first child back in 1971.  I was then told it was merely a fluke.  I had NO trauma during the full-term pregnancy, and I and my then husband were in very good health.  Now my son (from a different husband) and his wife are due to have fraternal twins in [DATE] 2015.  Does the term 'congenital' mean that it could be passed down to another generation?  I do not want to alarm my son and his wife.  I just would like to inform whatever pediatrician is caring for these babies as to my experience.  Unfortunately my son and I are estranged.  And I do not know who is their pediatrician.  My child's CDH was very severe.  I know there are far less severe cases that can go undetected &/or undiagnosed unless there is a reason to suspect such a condition.  Please respond to my concerns.
+summarized question 2: What causes congenital diaphragmatic hernia?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am looking for any treatments that have been found to work for Hyperpigmentation on the face. Please let me know if you can help. [NAME]
+summarized question 3: What are the latest treatments for hytperpigmentation on the face?
+##
+query 4: SUBJECT: shingles MESSAGE: Hi I had shingles a while ago on my left forehead and above my eye, not long after it started again, this time under my left breast, extremely painful and am wondering can this start again ? ty [NAME]
+summarized question 4: Where can I find information on recurrent shingles?
+##
+query 5: "SUBJECT: Complex Regional Pain Syndrome (CRPS) or Regional Sympathetic Dystrophy (RSD) MESSAGE: I have searched your pages and website for information on this medical condition but found nothing. I know there's not a lot of research on this but I'm pretty certain that my father had it in his legs and now I do to. Is there any evidence this condition is genetic or is it an ""Unknown at this time""?  Thanks"
+summarized question 5: What causes Complex regional pain syndrome?
+##
+query 6: SUBJECT: Shoulder,back and neck paim MESSAGE: My health care provider has done nothing for but give me shots and pain medication. What can you do to stop the pain? This has been going on 1 and half years.
+summarized question 6: What are the treatments of shoulder, back, and neck pain?
+##
+query 7: SUBJECT: Gastroparesis MESSAGE: I am a current Gastroparesis fighter with a GJ feeding tube. I am also one of the admins for a GP support group and an advocacy group. I have become a volunteer advocater. I would appreciate any info you can share about Gastroparesis, Feeding tubes, and even TPN. Thanks
+summarized question 7: Where can I find information on Gastroparesis, tube feeding, and TPN?
+##
+query 8: SUBJECT: Research assignment MESSAGE: Hi, I am a grade 12 student who is doing a research assignment on neurological disorders. Do you believe that there will ever be a bonafide cure for Multiple Sclerosis? If so, what kind of time frame would put on this cure?
+summarized question 8: Can multiple sclerosis be cured?
+##
+query 9: SUBJECT: menkes syndrome /kinky hair syndrome MESSAGE: My daughter has menkes syndrome and would like to know how to go about. Thx
+summarized question 9: Where can I get information and help for Menkes syndrome / kinky hair syndrome?
+##
+query 10: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 10: Where can I get genetic testing for CPTII deficiency?
+##
+query 11: MESSAGE: I was told not to take the shingles vaccine..i have many healthe problems and many allergies…
+summarized question 11: When is the shingles vaccine contraindicated?
+##
+query 12: SUBJECT: voids to avoid with ebstien-barr virus in the liver MESSAGE: In pain after I eat...wondering if I am eating wrong foods. I have been diagnosed with this and had cat scan with and without dye and it shows a clump of blood vessels infected with the virus....
+summarized question 12: What foods to  avoid with epstein barr virus and abdominal pain?
+##
+query 13: SUBJECT: Hair loss Information Required MESSAGE: Can you provide something to help grow my hair back? I need my hair back as im the spitting double of Dr evil with no hair.
+summarized question 13: What are the treatments for hair loss?
+##
+query 14: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 14: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 15: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 15: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 16: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 16: Is Astigmatism related to Aarskog Syndrome?
+##
+query 17: SUBJECT: vomiting blood and blood clots, ( pulmonary embolisms). MESSAGE: Is it possible to vomit blood, with abdominal pain, fatigue that caused them to sleep two days, left sided chest pain ( left upper ribcage area), and suffer from Bilateral Pulmonary Embolism with Left Lower Lobe Infarction four weeks later? The blood was bright red, about one cup.
+summarized question 17:

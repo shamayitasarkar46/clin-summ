@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: cinca sindrome. where the treatment of cinca sindrome.
+summarized question 1: What are the tratments for cinca syndrome?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 2: What are the treatments for ocular albinism?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm 33 years old and got diagnosed with rhabdomyosarcoma stage 4 last December. I went through 13 weeks on intense chemotherapy and my last scan showed that I'm in remission. I'm looking for more guidence as far as a stem cell replacement goes.
+summarized question 3: Is stem cell therapy appropriate for stage 4 rhabdomyosarcoma in remission?
+##
+query 4: "SUBJECT: Morgellon Disease MESSAGE: It appears as if I have had this horrible disease for many, many years and it is getting worst.  I am trying to find a physician or specialist in the South Carolina area who can treat me for this medical/mental disease.  It seems as if this disease has ""NO"" complete treatment and it is more least a disability!"
+summarized question 4: What are the treatments for Morgellon Disease, and how can I find physician(s) in South Carolina who specialize in it?
+##
+query 5: "SUBJECT: Periventricular Heterotopia.  Scoliosis  - possibility of a known link ? MESSAGE: Question in laymen terms: Has any genetic or other correlation ever been made between these two diagnosis? My 59 y.o. sister has a diagnosis of Periventricular Heterotopia.  Her 30 y.o. daughter has been suffering with same for last 15 years.  Her 37 Y.O. daughter is clinically full-care retarded (since infancy) and has severe idiopathic scoliosis.  I have severe idiopathic scoliosis. I use the term ""severe"" to express debilitating and multiple fusion surgeries.  All four of my generation female siblings have a level of scoliosis. FYI: this PH sister died last week, her remains are at the [LOCATION]"
+summarized question 5: Is there a link between periventricular heterotopia and scoliosis?
+##
+query 6: SUBJECT: Bruxism MESSAGE: I understand that bruxism may be a result of tension or anxiety, but why that particular release? Why don't people clench their fists during sleep, or kick, or any number of activities? In other words, why is the jaw the most common location?
+summarized question 6: What are the causes of bruxism?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 7: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 8: SUBJECT: Blood Sugar Levels and Parkinson's MESSAGE: I'm wondering if there is a correlation between blood sugar level's and how it may effect the presentation of Parkinson's particularly in tremors. It seems that extreme blood sugar levels would make the tremors a great deal worse and appearing none typical.
+summarized question 8: Is there a connection between blood sugar levels and symptoms of Parkinson's disease?
+##
+query 9: I have painful sores around my genitals..what could  be..i realy need an answer urgently or to talk to one of your consultants
+summarized question 9: What causes genital sores?
+##
+query 10: "SUBJECT: intermittent breathing and coughing problem from over-use of steroids MESSAGE: My husband was a patient at [LOCATION].  If I understand correctly his room-mate (an older gentleman) had come up for help from West Virginia for what I believe to be the following problem:  he has taken steroids for a protracted period of time and the steroids have caused the following problems in his life: weakness of his leg muscles and additionally he has an intermittent problem with wheezing/coughing/breathing however the [LOCATION] specialists just could not find the cause or how to resolve it.  The ""lung symptoms"" if I understand correctly are suppressed by the steroids to some degree but the steroids are causing problem which I mention above.  Might you have a data base about such problems?   I also am asking if there are any antidotes to the muscle weakness he has from the steroids.  Thanks"
+summarized question 10: Can long term use of steriods cause muscle weakness, and what are the treatments for it?
+##
+query 11: MESSAGE: What is the best way to naturally treat a 7 yr old boy with ADHD? Without prescription medicine?
+summarized question 11: What are the non-drug treatments for ADHD?
+##
+query 12: medical articles.  I have been told that there are several medical case studies about Loin pain hematuria syndrome (aka LPHS) and Medtronic's Symplicity Renal Denervation medical equipment and that these cases have been published by PubMed.  However, I am unable to locate them.  Can you please recommend a way for me to locate and receive copies?  Thank you!
+summarized question 12: How do I find case studies in PubMed on loin pain hematuria syndrome and renal denervation?
+##
+query 13: polymicrogyria. My 16 month old son has this. Does not sit up our crawl yet but still trying and is improving in grabbing things etc etc. Have read about other cases that seem 10000 time worse. It's it possible for this post of his brain to grown to normal and he grow out of it?
+summarized question 13: What is the prognosis for polymicrogyria?
+##
+query 14: I understand that you cannot provide opinions,nor suggest, any type of therpy.  My son (dob-[DATE]), was called back to the hospital four days after birth due to a abnormal PKU, which suggested adrenal hyperplasia. After test the endocrine physians felt he did not have the condition. Several years later he began having severe headaches preceded by violent vomiting epidodes  that lasted for hours. When he was admitted to [LOCATION],  he was suffering from bleeding esphogal ulcers,  and severe dehydration and, malnutrician. His urine (24 hr), blood plasma,& VMA,showed increased values of catacholomines.He also demostrated intermittent hypertension, and tachcardia through out the day (he had been diagnoised with ADHD several years earlier). His MIGB clearly showed bifocal uptake in both adrenal glands. The mri did not show tumors at that time ([DATE]. He has since been diagnoised with antral polys (biosphy's taken were misplaced, and the gastrologist would not redo the test), aberrant right subclavian artery,  esphogas pushed to the side, low oxygen intake, high levels of gastrin, cyclic vomiting syndrome, severe sinus attacks that come and go, without infection present.  His symptons that I have not already include heat intolerence, pallor, poor appetite with little weight gain, anxiety, tremor of hands, and stomach pain. After his mri, which I was told would take about 45mins, took over 5 hrs. Since then we have been having no luck with finding doctors that will take my son as a patient. Are you able to suggest a hospital that is knowlegable with pheochromocytomas? My son's father is mia, but during our 7 yrs together,  he also suffered severe headaches, and intermittent hypertension. He never followed up with a physian. Any help would be appreciated. I do not know what to do, and I do not want my son to end up a statistic.  Last night his BB was 180/115, with HR-50, half hour later his BP was 68/44 with HR of 122. I fear he is going to go in shoc
+summarized question 14: How can I find physician(s) or hospital(s) who specialize in pheochromocytomas?
+##
+query 15: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 15: Are endometriosis and cysts possible complications of NF1?
+##
+query 16: bile.  because reason vomit bile?
+summarized question 16: What causes vomiting bile?
+##
+query 17: Is sedation or some form of twilight sleep or something for relaxation normally used for pill capsule camera for GI issues test? I have difficulty swallowing large pills and do not think I can do this awake. My mother and sister have to have their esphophgus stretched so I could possibly have some genetic factors. I am very scared of choking with this test. What is the normal procedure and do you have any suggestions? Thanks
+summarized question 17:

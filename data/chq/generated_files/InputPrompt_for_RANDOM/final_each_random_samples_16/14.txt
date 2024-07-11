@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Heightened Sense of Smell MESSAGE: Is there any information on heightened sensitivity to smells? I have difficulty smelling fragrances and chemicals especially cleaning chemicals. I sometimes have distorted smells or smells that aren't  there. It started over 6 years ago with a weird smell in my nose for days.
+summarized question 1: Where can I find information about heighted or distorted sense of smell?
+##
+query 2: SUBJECT: CRPS MESSAGE: In stage 3 can ones bones break/fracture? For example if nerve damage is in lower leg, can the bones in the foot over time fracture/break?
+summarized question 2: Can complex regional pain syndrome cause bone fractures?
+##
+query 3: SUBJECT: Abscess in lungs MESSAGE: Is abscess in lungs curable?  My Dad has surgery and found 2 abscess in his lungs. After a week out of surgery room, he developed fluid. The doctor is telling us they can use the syringe to remove the fluid, nothing else can be done.   There is  a small bottle attached to his surgical area which is collecting liquid from infection.  Thank you for your reply. My dad is 84 yo.
+summarized question 3: What are the treatments for lung abscess?
+##
+query 4: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 4: Are endometriosis and cysts possible complications of NF1?
+##
+query 5: SUBJECT: bruised blood/bleeding under the skin MESSAGE: what causes the above? Certain pressure(s) applied to body leaves long lasting dark spot(s)
+summarized question 5: What causes bleeding under the skin?
+##
+query 6: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 6: Is there a cure for hepatitis B?
+##
+query 7: SUBJECT: oleander poisoning MESSAGE: If oleandor was ingested by touching the plant stems inner part and then directly eating without washing hands, how long would u exspect symptoms would start? And how severe would you say symptoms may get.
+summarized question 7: When do symptoms of oleander poisoning appear after ingesting the plant, and how severe can they get?
+##
+query 8: SUBJECT: Ochoa syndrome MESSAGE: Where could I find more information about the rare disease, Ochoa syndrome. I think a sibling of mine might have it.
+summarized question 8: Where can I find information on ochoa syndrome?
+##
+query 9: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 9: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 10: SUBJECT: Treatment, Paralysis MESSAGE: I have one left side leg is paralysis last 24 years, my other parts of the body is well, it is possible my leg will good for treatment, if possible how can i do the treatment and where ? THANKS
+summarized question 10: What are the treatments for leg paralysis?
+##
+query 11: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 11: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 12: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 12: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 13: SUBJECT: Is Hypermobility Causal for DCD? MESSAGE: Can hypermobility cause developmental coordination disorder? Any peer reviewed literature available exploring this issue?
+summarized question 13: Can hypermobility cause developmental coordination disorder?
+##
+query 14: SUBJECT: Chromosomes 6 MESSAGE: i had a son born with a very small part of chromosome 6 missing , caused several surgeries and then death . But I don't find any information , even similar to his . Is there anywhere else I can look for Any information on what would cause this piece to be missing
+summarized question 14: What could cause part of chromosome 6 missing?
+##
+query 15: SUBJECT: dry maculare tetinal degeneration MESSAGE: my grandfather had lens implants, now he has dry macular retinal degeneration.  he can hardly see!  searching for help!
+summarized question 15: What are the treatments for dry macular retinal degeneration?
+##
+query 16: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 16: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 17: when to start anohter round of antibiotics? how long can you wait to start a new dose of an antibiotic? 
+summarized question 17:

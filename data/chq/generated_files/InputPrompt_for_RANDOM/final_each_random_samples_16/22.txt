@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 1: Are there any precautions for mixing or administering Fomepizole?
+##
+query 2: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 2: What does w/exertion mean on a prescription for oxygen?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My dear friend [NAME], 52 years, [LOCATION], recently had both legs amputated above knee. Is there any possibilities in making a miracle of giving her real legs  again?  I just had watched your television program and can't believe I had forgotten about a man I know having half of his jaw removed due to chewing tobacco looks amazing with barely a scar his jaw grew back and it just dawned on me his newline had transformed over the last year to looking very normal, that it was used on him. I have seen him a half dozen times. Wow ! [NAME] has been pretty much completely healed for awhile but has had some trouble with her left one. Phantom feelings are there. Please respond and thank you.  [CONTACT]
+summarized question 3: Is there a treatment to transplant or make amputated legs grow back?
+##
+query 4: memory losses.  Information about dealing with, or medical care for, beginning forgetfulness. Not been diagnosed w/ any disease.
+summarized question 4: What are the treatments for forgetfulness?
+##
+query 5: SUBJECT: my HDL reports shows   29  .i  need your further suggession. MESSAGE: I am 43 years male man.my HDL reports shows   29  .i  need your further suggestion.I seems very low .what i have to do its optimise,please
+summarized question 5: What are the treatments for low HDL cholesterol?
+##
+query 6: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 6: What are the prevention and  treatments for plantar fasciitis?
+##
+query 7: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 7: What are the treatments for arm and neck pain?
+##
+query 8: SUBJECT: glucosmine sulfate caplets MESSAGE: Question: when they are out of date...LOTF39460 EXP JA 2013.  Is there any real harm to contining to take these calets?
+summarized question 8: Is it harmful to take expired glucosmine sulfate caplets?
+##
+query 9: Re: 16p-13.11 duplication of genes. Dear all, I am a health professional and have recently assessed a 9 year old boy on my caseload whose mother reported that he has been diagnosed with 16p-13.11 duplication of genes.  I have never come across it and when I looked on the internet I could not find anything coherent.  I have been in contact with the paediatrician who used to be in charge of that child but she is unfortunately on long term sick.  Would you be able to give me some information on this condition with key features please? Are there behavioural, coordination, sensory difficulties, etc...that can be associated with it?
+summarized question 9: Where can I find information on 16p-13.11 duplication, including symptoms?
+##
+query 10: MESSAGE: Hi I have aquestion regarding the chikenpox vaccination. My son is now 9 years old and got his  1st dose of chikenpox vaccine in September 2007 and the second does skipped then.so please guide me if my son could gey the vaccine once again now.
+summarized question 10: Where can I find information on chickenpox vaccination schedules?
+##
+query 11: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 11: What are alternatives to phenobarbital?
+##
+query 12: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 12: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 13: SUBJECT: EPI 747 MESSAGE: hi  My name is [NAME] My son, His age 4 month discovered it leigh disease infected from the mother side. and we have  full family history with the leigh disease.  my Daughter she lived for 7 years with the same disease, we have her Hospital reports, it is confirmed leigh Disease.  Kindly, if there is any hope for my son with EPI743 treatment, and we are appreciate to accept him in the treatment study.  i have a full reports for my son and the MRI. and all of it under your request.    Hope get your help ASAP because he is in the first stage. and we have a we are all hope he will be better.  Best Regards  [NAME]
+summarized question 13: Is EPI743 an effective treatment for leigh syndrome?
+##
+query 14: [NAME] submitted the following request on [DATE]. They were searching from . NLM product:  Local Legends Web browser:  Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12F69 Safari/600.1.4 State: MO Country: NONE SPECIFIED E-Mail address: [NAME] Subject: I have a Question &Need a Response Message: My daughter was born in 1988 with a sacralcoccygeal teratoma tumor. [NAME] did there surgery to remove the tumor. [NAME] has grown up and is now having some problems with scar tissue and digestive issues. We would like to know if she could recommend a doctor to follow up with [NAME].  She is going to see [NAME],a plastic surgent on [DATE]. Do any other patients have complications from such a large tumor? Any information to help us would be  greatly appreciated. If it would be possible, I would love my daughter to meet [NAME], after all she was the one that saved my daughter's life. She is an amazing doctor. Thank you, [NAME]
+summarized question 14: What are the complications from sacralcoccygeal teratoma tumor removal, and how can I find physician(s) who specialize in it?
+##
+query 15: SUBJECT: Mayonnaise and food poisoning MESSAGE: I have researched many other sites that say that mayonnaise is a safe food and that it is a myth that it causes food poisoning.  It seems to get a bad rap because it is used in combination with other items that cause food poisoning.  Some sites insist that it can even prevent the onslaught of bacterial growth, thus helping to ward off food poisoning because of its acidic nature.  Apparently it often used to be made at home, with eggs, and the eggs would go bad.....mayonnaise has thus carried this stigma ever since.  But many sites insist it is safe.  I was wondering what you think of these findings?   Thank you!
+summarized question 15: Does mayonnaise cause food poisoning?
+##
+query 16: Genetically Engineered Foods. I am a high school student currently in a science class called [ID].  During my research, I came across this web site that has helped me better my knowledge on the topic of genetically engineered food.  I was wondering if you could tell me about the risks that come with genetically engineered food and how the modification is actually conducted.
+summarized question 16: What are the risks that come with genetically engineered food, and how is the modification actually conducted?
+##
+query 17: scrotum swelling scarring from water retention what ointment, cream to treat
+summarized question 17:

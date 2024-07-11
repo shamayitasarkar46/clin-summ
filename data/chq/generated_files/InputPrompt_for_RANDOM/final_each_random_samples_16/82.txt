@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: what are the chemicals or meds in lidocaine? MESSAGE: what are the chemicals or meds in lidocaine?
+summarized question 1: What are the ingredients of lidocaine?
+##
+query 2: SUBJECT: Scabbies/ treatment area MESSAGE: My husband and I had scabie . I used it in my vaginal area.  I don't know how to treat The reaction I'm having. I think I have burned the delicate tissue in that area.  What can I do to treat the reaction. Please help any suggestions?
+summarized question 2: How is sgenital cabies treated?
+##
+query 3: SUBJECT: Progressive Supernuclear Palsy MESSAGE: What  is the best thing to do for my Dad who we r sure has psp!  Who r the best dr to treat this cease.  We believe my uncle had pep also   He recently passed away ,  I want to give my dad the best treatment available
+summarized question 3: What are the treatments for progressive supranuclear palsy and how can I find physician(s) who specialize in it?
+##
+query 4: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 4: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 5: SUBJECT: Psoriasis for past 7-8 years MESSAGE: I had psoriasis on my scalp for nearly 10 years. Please give suggestions and medications.
+summarized question 5: What are the treatments for psoriasis?
+##
+query 6: American Ginseng.  Any publication on American Ginseng and its medicinal benefits?
+summarized question 6: What are the medicinal benfitis of American Ginseng?
+##
+query 7: I would appreciate it if you can send me or email  me  some exercises for a person who is a stroke victim. I am unable to walk due to a  arthritic knee. otherwise I am flexable..  my home address is [CONTACT], My email is [CONTACT] (mailto:[CONTACT]) Thank you, [NAME]
+summarized question 7: What are good exercises for stroke recovery in people with knee arthritis?
+##
+query 8: SUBJECT: Ingredients MESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse. Thank you!  [NAME]
+summarized question 8: What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?
+##
+query 9: "SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: We are 4 generations of a family with similar traits in the males in each of those generations, My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder (at Yale) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed? Is there anyone out there looking at familial/longetudnal fragile X or other disorders that might be interested in our ""story""?"
+summarized question 9: Are there any researchers interested in testing a family with ADD and low IQ for fragile X?
+##
+query 10: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 10: What are the treatments for drop foot?
+##
+query 11: SUBJECT: methotrexate - gluten free? MESSAGE: is the injection form of methotrexate gluten free? thanks -
+summarized question 11: Is the injection form of methotrexate gluten free?
+##
+query 12: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 12: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 13: SUBJECT: phinomea shot MESSAGE: when should this shot be taken, at what span of years... I'm 77 yrs. old.
+summarized question 13: When should you get a pneumonia vaccine?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hi, I have mixed diagnosis of autoimmune connective tissue disease and would like to submit information about this disease. I also need some serious rheumatologist recommended in Argentina or Latin America. From already thank you very much
+summarized question 14: How can I find  rheumatologist(s) who specialize in mixed connective tissue disease in Latin America?
+##
+query 15: SUBJECT: Blood in cough MESSAGE: before some time i vomit. and blood came in cough with vomit.  what to do . it happens 4-5 times.  when i ask to doc reply that its throat infection.  please advice home remedy for this.
+summarized question 15: What are the treatments for coughing up blood?
+##
+query 16: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 16: What are the treatments for nutcracker syndrome?
+##
+query 17: SUBJECT: Carbon dioxide. MESSAGE: What can happen if your level of carbon dioxide in your blood is up to 50? What things can starting changing in your body if it reaches over 50.
+summarized question 17:

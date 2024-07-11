@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Ankle Injury MESSAGE: I got hurt in my left leg ankle almost 5 months ago. I went to doctor, got x-ray, where no damage was found. He suggested me some pain killers and advised me to wear anklet. I have been following the instruction since then; I went to another doctor who advised me to go for physiotherapy (Short Wave Diathermy) and advised me some exercises. I have been following them too. But yet now, I have not been fully recovered from the pain. Especially when I try to walk quickly or try to put pressure with my left leg, I feel pain. I am very tensed about this. Can you please suggest me how to overcome the pain. Thanks.
+summarized question 1: What are the treatments for ankle injury and pain?
+##
+query 2: Literature on Cardiac amyloidosis.  Please let me know where I can get literature on Cardiac amyloidosis.  My uncle died yesterday from this disorder.  Since this is such a rare disorder, and to honor his memory, I would like to distribute literature at his funeral service.  I am a retired NIH employee, so I am familiar with the campus in case you have literature at NIH that I can come and pick up.  Thank you
+summarized question 2: Where can I find information on cardiac amyloidosis?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i have hereditary cerebellar ataxia..can I find a cure from your side..plz reply.its my second msg
+summarized question 3: What are the treatments for hereditary cerebellar ataxia?
+##
+query 4: Metastatic malignant melanoma.  I've got skin cancer, and I want this treatment, but RBCs Btensl Is it possible that taking this medication
+summarized question 4: What are the treatments for metastatic malignant melanoma?
+##
+query 5: SUBJECT: Can I safely take prednisone and levaquin the same day several hours apart? MESSAGE: can I safely take levaquin and prednisone the same day not at the same time several hours apart?
+summarized question 5: Are there drug interactions between prednisone and levaquin?
+##
+query 6: SUBJECT: tick bites MESSAGE: my husband was diagnosed with Rocky Mountain Spotted fever about 6 1/2 years ago.  Then about 1 1/2 years ago he was diagnosed with Lyme Disease.  With him having had both what damage if any to his body could possibly happen.  He has had alot of medical problems since.  Now has been diagnosed with type II diabetes.
+summarized question 6: What is the prognosis for Rocky Mountain Spotted fever and lyme disease?
+##
+query 7: "SUBJECT: cosmetic leg shortening surgery MESSAGE: Hi,  I am a tall girl(5'8""), who wants to undergo leg shortening sugery of 2 inches for cosmetic purpose. It would be good if I can get more information about it. I would like to know the cost of this surgery, the recovery time and the risks associated with it. How long should I stay in the hospital?  Thanks and regards"
+summarized question 7: Where can I find information on leg shortening surgery, including risks, cost, and recovery time?
+##
+query 8: Crainosynstosis. My 2.5 year old daughter has this condition with the metoptic, Sagittal and bi-coronals sutures prematurely fusing. Do you know if any syndrome deals with those three fusing together?  She also has flabby eyelids, a flatter/wider nose, a blueish tint around her nose and the metoptic suture, fat big toes, deep lines on her hands, shorter chubbier hands, somewhat sucken eyes, a butt dimple (ruled out tethered spine) and rule out a displaced anus. I am in between genetics doctors.Thanks, [NAME]
+summarized question 8: What syndromes are associated with Craniosynostosis?
+##
+query 9: MESSAGE: Can u give me more information about physiotherapy for  patient with acute stroke treated wiht trombolysis..?
+summarized question 9: Where can I find information on physical therapy after acute stroke?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 10: What are the treatments for scalp psoriasis?
+##
+query 11: Diphtheria.  Is there a definitive history of diphtheria in the United States available in print? I have read quite a few articles in the NLM from the 19th century, and I'd like to find an overview of this disease, particularly a history of epidemics in the U.S. Any help you can provide would be greatly appreciated. Thank you - [NAME] M.D.
+summarized question 11: Where can I find a definitive book on diptheria in the United States?
+##
+query 12: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 12: What are the treatments and prognosis for a child with AML?
+##
+query 13: SUBJECT: SHINGLES   OR HIV MESSAGE: HELP I HAVE HAD THIS ON AND OFF FOR 13 YEARS   MOST RASH STARTED ON RT ARM HIP, 3 ON STOMACK AND SPOTS A FEW ON LEG. WHEN I GET UPSET I BREAK OUT.
+summarized question 13: What are the diagnosis and treatments for shingles?
+##
+query 14: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 14: What are the causes of testicular pain?
+##
+query 15: Kartagener's syndrome. I am suffering from Kartagener's syndrome and wanted information from you or from Dr. [NAME]. for this syndrome. (About fertility) and if possible other symptoms. Thank you.
+summarized question 15: Where can I find information on kartagener's syndrome and its symptoms, including  fertility?
+##
+query 16: ClinicalTrials.gov - Question - general information.  I have returned from Nigeria. While there, I found out that a relative of mine has an outgrowth that has covered half his face, thus blinding him on one eye. The outgrowth is about the size of three baseballs. What can you do to help him? [NAME], [CONTACT]
+summarized question 16: What are the treatments for facial tumors, and how can I find physician(s) who specialize in it in Nigeria?
+##
+query 17: outbreak of red raise sores on back shoulder and arms from shoulder to wrist with raised bulbs of liquid. treatment and maintenance ?
+summarized question 17:

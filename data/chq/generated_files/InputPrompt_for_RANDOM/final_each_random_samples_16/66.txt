@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Ostiogenesis Imperfecta. Is it possible to take out whatever causes this disease out of a persons gene to stop this in my family.
+summarized question 1: How is Osteogenesis imperfecta inherited and is it possible to stop it?
+##
+query 2: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 2: What are the causes of testicular pain?
+##
+query 3: SUBJECT: effective exercise to counter sarcopenia MESSAGE: I would like information on timing and exercises that counter sarcopenia. Should exercise take place at a particular time of the day? several times in the day? what types of exercise are most effective to maintain strength as I get older (I am now 82) and even thought I swim daily and do a variety of resistance exercises I still find that I am losing strength and tiring easily.
+summarized question 3: What is the best exercise regimen for sarcopenia?
+##
+query 4: "SUBJECT: Levalbuterol and Budesonide Inhalation Products MESSAGE: After calling TEVA Pharmaceuticals, they relayed that the stability and storage information printed on their Levalbuterol 1.25 mg/3 mL and 0.63 mg/3 mL Inhalation Solution, as well as their Budesonide 0.5 mg/2 mL and 0.25 mg/2 mL Inhalation Suspension packages is information directly pulled from DailyMed, hence NIH. I am trying to determine if there is any extended stability information for either product, as the nebs are not singly packaged, and therefore a significant amount of product is being wasted in our facility due to the information provided. When name brand Xopenex was still available, Sepracor was able to provide our facility with more stablity information that enabled us to refrigerate the product in the foil pouch, continuing to protect it from light: i.e., ""allows use of product through its labeled expiry."" It would be greatly appreciated if some additional information could be provided regarding the above situation. Thank you for your attention to this matter. [NAME] [LOCATION] [LOCATION] [LOCATION] [CONTACT]"
+summarized question 4: Where can I find extended stability information for Levalbuterol Inhalation Solution and Budesonide Inhalation Suspension?
+##
+query 5: Breast cancer at 84.  My mother was just diagnost with breast cancer. She is 84 years old, her tumor started in the milk duct and is small in size, their is a mass as well in the same breast. He is scheduled for a lumpectomy to remove both. Because of age we would like suggestions on treatment options after surgery.
+summarized question 5: What are the treatment options after breast cancer surgery in elderly?
+##
+query 6: SUBJECT: pulmonary tuberchlosis MESSAGE: respected sir/madam, i takeing treatment of pulmonary tuberchlosis past two years now it is in 2nd stage. there is no change in my x-ray report they show constant figure. my sputum report is negative hiv test also negative in ultra sound show some fluid (water) but it shows constant. what shall i do for clear the remaining fluids.
+summarized question 6: What are the treatments for lung fluid retention after two years of anti-tuberculosis treatment?
+##
+query 7: Colon cancer cure seen on tv.  My father has colon cancer and said he saw a commercial on tv about a cure for colon cancer.  He cannot remember any details about it. I was wondering if you know anything about something like this.  Please let me know.  Thank you, [NAME]
+summarized question 7: What new treatments are available for colon cancer?
+##
+query 8: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 8: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 9: Respected sir Good day I saw PUBMED website sir . you are one of the best doctor in research of HIV vaccine sir .I am really happy to contact you sir . I am [NAME] . my age 27 old. I am from [LOCATION] .two years back i am  married . I got HIV - 1 infection from my  husband . I check with near our consultant doctor. I have Intial stage of HIV -1 .my Cell count is: CD4 -410 CD8 -1050 , CD3 1493 Is it possible to  prevent the HIV-1 infection completely??? how long it will take time for medicine sir ? my life seriously in trouble sir  . Me and my family members are totally depression . please give the future hope for the HIV treatment. we keep our hope on your entire team  researchers for HIV treatment. .
+summarized question 9: Is it possible to cure HIV-1 infection completely?
+##
+query 10: ectopic pregnancy.  Is there a chance that my daughter can have an ectopic pregnancy if my wife had it?
+summarized question 10: Does ectopic pregnancies run in families?
+##
+query 11: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 11: What are the treatments for drop foot?
+##
+query 12: SUBJECT: Diabetis MESSAGE: Can I use Novolin instead of Novolog? Is there any difference?
+summarized question 12: What is the difference between Novolin and Novolog and are they interchangeable?
+##
+query 13: SUBJECT: Relationship between Angelman Syndrome and pancreatitis MESSAGE: Have any relationships been found between Angelman Syndrome and pancreatitis?  My son with AS had recurrent pancreatitis and finally passed away at 22 from pancreatitis.
+summarized question 13: Is there a connection between angelman syndome and pancreatitis?
+##
+query 14: MESSAGE: I have to start applying ciclopirox to infected toes. I know u cannot use nail polish bit can I put a band aid on once the medication has dried?
+summarized question 14: Can i cover ciclopirox with bandaids?
+##
+query 15: I would like to get into a study for my case.  I am a 73 year old woman with type 1 diabetes since I was 7.  My A1C's run in the high range of 5 or low 6. I have suffered from chronic constipation all my life. I have been diagnosed with fibromyalgia, Now Lichen Plarvs, and chronic depression.  I am very active but suffer from chronic pain.  How can I get into a study from home.  I live in a remote area in central Washington.  Am I as hopeless as I sometimes feel?  Phone # [CONTACT]
+summarized question 15: Where can I find clinical trials for type 1 diabetes, chronic constipation, fibromyalgia, Lichen Pilaris, chronic depression, or chronic pain?
+##
+query 16: are jumping genes[transposons] associated with lynch syndrome? [NAME]
+summarized question 16: Are jumping genes [transposons] associated with Lynch syndrome?
+##
+query 17: co q10 how effective and side effects for blood pressure treatment? Cider vinegar?
+summarized question 17:

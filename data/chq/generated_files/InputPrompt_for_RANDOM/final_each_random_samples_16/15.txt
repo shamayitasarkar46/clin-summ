@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I HAVE CRONIC PAIN FROM SEVERE SHINGLES.THE BLISTERS ARE GONE BUT THE PAIN IS SEVERE.WHAT SHOULD I DO. I CAN' KEEP THIS PAIN
+summarized question 1: What are the treatments for shingles pain?
+##
+query 2: SUBJECT: Otic suspensions MESSAGE: Dear Sir/Madam, I am looking for list of approved products of Otic suspensions for human use.Kindly help me to get the details. Regards/[NAME]
+summarized question 2: Where can I get information on otic suspensions for human use?
+##
+query 3: SUBJECT: rectal prolapse MESSAGE: my rectum is stretched out and I need information mailed to me about surgical options. My address is [LOCATION]
+summarized question 3: Where can I find information on rectal prolapse surgery?
+##
+query 4: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 4: What is the difference between residual and recurrent maligancy?
+##
+query 5: My mom is 82 years old suffering from anixity and depression for the last 10 years was dianosed early on set deminita 3 years ago. Do yall have a office in [LOCATION] NC? Can you recommend someone. she has seretona syndrome and nonething helps her.
+summarized question 5: Where can I find information on early onset dementia, and how can I find physician(s) who specialize in it in North Carolina?
+##
+query 6: SUBJECT: Arthritis on elderly MESSAGE: Is there something available, in English or Spanish, about Phisiotherapy specific for ankle arthritis? Just to know something more. There is a case in my Family and it is being followed by both a phisician and a phisiotherapist. My e-mail is [CONTACT]. Thanks. [NAME].
+summarized question 6: Where can I find information on physical therapy for ankle arthritis?
+##
+query 7: SUBJECT: insomnia MESSAGE: What can I give my [AGE] father to help him sleep? He said he will take whatever. He is not on any medication, not allergic to anything.  Fully ambilatory!
+summarized question 7: What are treatments for insomnia?
+##
+query 8: SUBJECT: Airborne contact dermatitis from methylchloroisothiazolinone in wall paint. Abol MESSAGE: Hello,  I've read this article (http://www.ncbi.nlm.nih.gov/pubmed/10750849) because I have a dermatis caused by Airborne contact from methylchloroisothiazolinone in wall paint. I knwo since 1 year that I have allergie of methylchloroisothiazolinone but I didn't know it could be airborne so afte rmy husband had paint the bedroom I have begin to have dermatis, eczema and I look after the cause so I heard about airborne contact dermatitis  from methylchloroisothiazolinone in wall paint. I want to know how many times the properties of methylchloroisothiazolinone are in the wall paint ? It is enough to aerate the room and how many time ? Or should we remove the paint on ceiling, wall and painted cabinet ? I read your article about  inactivation by sodium bisulfite, how can we do that ? thanks a lot for your help because none give me answer at hospital about these questions. excuse me for my english!! Best regards,
+summarized question 8: What are the treatments for contact dermatitis from methylchloroisothiazolinone in paint?
+##
+query 9: SUBJECT: ctscan see through mesh from hernia repair ? MESSAGE: I have mesh that repaired a hernia on my lower abdomen. Now I need a ctscan. Will the ct scan see through the mesh ??????
+summarized question 9: Will surgical mesh show up or interfere in a CT scan?
+##
+query 10: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 10: What are the risks of smoking?
+##
+query 11: SUBJECT: morphine withdrawal symptoms MESSAGE: I was taking 600 mgm ms contin over a long period - of course I didnt start on that high dose but over 20 years I ended up there. I weaned myself off last year, and when I finally got to zero I started having these leg spasms, is this from the morphine? I can stop them taking 15 mgm ms contin daily which irritates me to to no end, I do NOT want to take the stuff! BUT, if I don't take it I get the spasms and end up sitting up all nite and sometimes during the day with them. I get them in my arms sometimes as well as both legs, and my legs jump a lot! My limbs feel kind of numb when it is going to start, so I know it is coming. What can I do? Is this ever going to stop? Thanks for your help.....[NAME]
+summarized question 11: What are symptoms of morphine withdrawal and how are they treated?
+##
+query 12: SUBJECT: Ingredients MESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse. Thank you!  [NAME]
+summarized question 12: What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?
+##
+query 13: SUBJECT: shingles MESSAGE: I am having symptoms of shingles, no rash or blisters, is it too late to get the vaccine? I have had the chicken pox and take acylovir on a as needed basis for blisters I get on my buttocks
+summarized question 13: I am having symptoms of shingles; is it too late to get the vaccine?
+##
+query 14: SUBJECT: New drug, want are side affect/and how does help you. MESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You
+summarized question 14: Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?
+##
+query 15: SUBJECT: Bruxism MESSAGE: I understand that bruxism may be a result of tension or anxiety, but why that particular release? Why don't people clench their fists during sleep, or kick, or any number of activities? In other words, why is the jaw the most common location?
+summarized question 15: What are the causes of bruxism?
+##
+query 16: SUBJECT: Chronic Dry mouth. MESSAGE: How can I relieve dry mouth.
+summarized question 16: What are the treatments for dry mouth?
+##
+query 17: what are the possible side effects of not taking olanzapine after having tanker it for a long period of time
+summarized question 17:

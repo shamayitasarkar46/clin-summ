@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: meaning of label directions MESSAGE: asked if med label says ""take with food"", how much food is required and found no asnwer.  not supposed to eat at nite when med is to be taken.     no answer."
+summarized question 1: "What does ""take with food"" mean on medication labels?"
+##
+query 2: SUBJECT: Plaquenil MESSAGE: I was recently diagnosed with lupus. A few months prior I had a terrible reaction to levofloxacin. My doctor wants to give me plaquenil. I am concerned as this is in the quinolone family. Should I be concerned? Is this a quinolone drug?
+summarized question 2: What are the contraindications for plaquenil?
+##
+query 3: SUBJECT: spg11 MESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,
+summarized question 3: What are the treatments and prognosis for spg11?
+##
+query 4: MESSAGE: What if someone throw up blood just a little got a little light headed and just laid down and went to sleep they said they will sleep it off but I want to take they said I'm fine. What should I do
+summarized question 4: Should someone who vomited blood and  felt lightheaded go to sleep?
+##
+query 5: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 5: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 6: MESSAGE: My son  five years old has Ganglisidose GM 1, we are looking for a drug that could help him, or at least could prolong life. He gets Miglusitat for 1 week. Can you help us or just send some information. We would be very grateful.
+summarized question 6: Where can I find information on GM1 gangliosidosis, including treatment and prognosis?
+##
+query 7: MESSAGE: wHEN ENGULFING FOOD,A SEVERE PAIN AS FOOD PASSES UPPER PART OF STOMACH. I FEEL PAIN FOR A MOMENT THAN IT BECOMES NORMAL.as such i am afraid of eating food
+summarized question 7: What are the causes of digestive pain?
+##
+query 8: Question. do you know what genetic abnormality causes lipoamide Dehydrogenase Deficiency (E3)?
+summarized question 8: What is the genetic cause of Lipoamide Dehydrogenase Deficiency?
+##
+query 9: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 9: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 10: SUBJECT: My humerus bone MESSAGE: Hello. My name is [NAME], I am 33 yearsold, from Romania in Europe and I have a 6 inches difference between my left humerus bone and my right one. It all started when I was around 4 yearsold and I had a bone illness called: bone cyst. First it affect my right femur and then my left shoulder. The bones were very fragile in the mentioned areas and I had fractured them many times very easily. I had 3 surgery at my shoulder and I heal up after a bone transplant from my hip and after some hidrocortisone injections. All good but as I said my left humerus bone is a lot shorter. The doctors said that my growth plate was affected that's way it is this difference between hands. It bother me a lot, especally when I m in sports (bodybuillding, basketball), I and I would like to know if there is something that can be done for me to make things right. Any suggestions is welcome but just don t tell me to give up.     Hopping in a soon answer I thank you.
+summarized question 10: What are treatments for differences in arm length,  and how can I find physician(s) or hospital(s) who specialize in it in Romania?
+##
+query 11: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 11: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 12: SUBJECT: PERIDONTITIS LEFT UNTREATED EFFECTS MESSAGE: Hi, If periodontitis is left untreated for approx 7 months will it have any affect on the condition as I need to travel.  A dentist has told me I have mod-advanced periodontitis with gum pockets of 5-9mm and bone loss 20-50>% with restorations and caries.  I have all my teeth at this stage, some are loose.  If I leave it for this amount of time is it likely to worsen at all and what could I expect?  On the other hand if I seek treatment immediately will help in any way.  Hope to hear from you.  Thanks kindly [NAME]
+summarized question 12: What is the prognosis for untreated periodontitis?
+##
+query 13: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 13: What are alternatives to phenobarbital?
+##
+query 14: SUBJECT: Arthritis MESSAGE: Is the medication Trimethoprim/ sulfamethozle useful in arthritis.?         Thank you
+summarized question 14: Is Trimethoprim / sulfamethazole indicated for arthritis?
+##
+query 15: SUBJECT: gabapentin MESSAGE: How long is Gabapentin good at room temperature? Thank you, [NAME]
+summarized question 15: For how long can Gabapentin be stored at room temperature?
+##
+query 16: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 16: For how long can Atorvastatin be stored at room temperature?
+##
+query 17: I’m 30 years old and when I was 23 my period wasnt coming every month, and I still don’t get my period , last time I got it was 4 months ago and I’m really worried.
+summarized question 17:

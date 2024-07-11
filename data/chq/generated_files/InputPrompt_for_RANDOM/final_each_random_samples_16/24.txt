@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Name: [NAME] Date and Time of Contact: Thu, 1 Jan 2015 16:10:06 GMT Application: myncbi SessionId: CE9069DE4A56A0A1_0093SID MyNCBI UserName: Host: portal205 Snapshot: /projects/MyNCBI/myncbiPortal@2.45 Browser's user agent header: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2) Application Page Generation Time: 2015-01-01T11:03:27-05:00 Page: recentactivity Message Body: We live in [LOCATION] and my husband has been detected an insulinoma.Need further information on the matter as doctors have not seen one here. Greatly appreciate your reply. Happy New Year to you all and many many tahanks for your help.
+summarized question 1: Where can I find information on insulinoma?
+##
+query 2: "SUBJECT: is there any medicines for peristaltic movements? MESSAGE: I V[NAME] From [LOCATION] which is located at INDIA. I am a patient of less peristaltic movements which was digests the eaten food in 3 to 4 hours... In normal humans which was digests the eaten food in 2 to 3 hours...  I visited several hospitals in [LOCATION] which is located in INDIA...  When i was visited [LOCATION]"" Hospital at HYDERBAD in the year of 2010..  There Doctors has told there is no medicins for this problem..  Is  there any medicines to improve my  peristaltic movements?  Please Replay to My E-mail[CONTACT] and My Mobile Number is: [CONTACT]  Thanking You taking my request...."
+summarized question 2: What are the treatments for slow peristaltic movements?
+##
+query 3: SUBJECT: Hair loss Information Required MESSAGE: Can you provide something to help grow my hair back? I need my hair back as im the spitting double of Dr evil with no hair.
+summarized question 3: What are the treatments for hair loss?
+##
+query 4: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 4: Where can I get genetic testing for CPTII deficiency?
+##
+query 5: SUBJECT: Mayonnaise and food poisoning MESSAGE: I have researched many other sites that say that mayonnaise is a safe food and that it is a myth that it causes food poisoning.  It seems to get a bad rap because it is used in combination with other items that cause food poisoning.  Some sites insist that it can even prevent the onslaught of bacterial growth, thus helping to ward off food poisoning because of its acidic nature.  Apparently it often used to be made at home, with eggs, and the eggs would go bad.....mayonnaise has thus carried this stigma ever since.  But many sites insist it is safe.  I was wondering what you think of these findings?   Thank you!
+summarized question 5: Does mayonnaise cause food poisoning?
+##
+query 6: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 6: What are the treatments for LGMD?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 7: What are the treatments for scalp psoriasis?
+##
+query 8: SUBJECT: uncontrollable jerking movements MESSAGE: When I am exercising hard, the left side of my body will start to do strange things. When lifting weights overhead, my left upper lift will jerk up into sort of a sneer.  When doing core work, my left arm will start jerking so hard that it's impossible to hold onto anything. The jerking stops after the exercise ends; but my left arm feels worn out.  No pain. A few months ago, my left leg completely lost any strength for weeks. It first appeared when I was just trying to do a squat with a plastic pipe in my hand. Eventually was able to work strength back. Again - no pain.  Should I be alarmed?
+summarized question 8: What causes jerking movements during exercise?
+##
+query 9: SUBJECT: my infected herpes virus simplex 2 so that i can make a new baby MESSAGE: dear ! if some one are positive herpes simplex gentle, whether they can make a baby, if his wife never get the virus before due to using condom from her husband They can choose the sperm to make the IVF to preventing the virut transmit for his wife and his baby when him new born
+summarized question 9: Can herpes virus simplex 2 be transmitted through sperm?
+##
+query 10: SUBJECT: safe cold medicine to take with Graves disease MESSAGE: I have a runny nose and headache and have Graves. What is a safe cold medicine to take over the counter?
+summarized question 10: What cold medicines are safe to take with Graves disease?
+##
+query 11: SUBJECT: Parkinson's Disease MESSAGE: Has etanercept been used to assist sufferers of Parkinson's Disease?  If so, how successful was this? Thank you
+summarized question 11: Is etanercept a treatment for Parkinson's disease, and how did it perform?
+##
+query 12: SUBJECT: concussions and long term head trauma  from abuse Ii MESSAGE: I was a victim from an abusive relationship, both verbal and physical. During this time I received substantial injuries to my head. Slight concussions led to full-fledged concussions, losing the ability to talk very well, then think very well, and a subdural hematoma, on the left side, bled down inside my head to behind my left eye, which made it unable to move. Along with an intense headache and drinking a lot of coffee, the neurosurgeon didn't have to do brain surgery,  as my eye finally moved!Battered Women's told me to get out of the area a stay gone if I wanted to stay alive. So I did! Speech Therapy helped considerably, the story goes on.  Anyway, I hear and read a lot about concussions and head trauma for football players,  young and old,  and wonder if any studies have ever been done for women?   A few years ago,  I had a partial stroke,  but enough to set me back a bit.  But this time I know what I need to do to help fix my head,  again.
+summarized question 12: What is the latest research on concussions and head trauma in women?
+##
+query 13: Are there any guidelines to tell how quickly Humalog becomes active after injection?  I believe it remains active for about 4 hours.  Is this reasonable?
+summarized question 13: How long does it take for humalog to start working, and how long does it last?
+##
+query 14: Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.
+summarized question 14: Where can I find information about Beckwith-Wieddeman Syndrome?
+##
+query 15: SUBJECT: Absence seizures MESSAGE: Does any damage occurre from these spells. Mental or physical
+summarized question 15: What are the long-term effects of absence seizures?
+##
+query 16: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 16: For how long can Atorvastatin be stored at room temperature?
+##
+query 17: what electrolyte do you need to watch when someone is on a water pill and what would be a good food source for this electrolyte?
+summarized question 17:

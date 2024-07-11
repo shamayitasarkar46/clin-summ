@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bello, Im a FA patient MESSAGE: Hi, my name is [NAME], I'm a 24 old boy with Friedreich Ataxia and I have a 23 year old brother with the same disease to.  We are desperate to find a cure or something that help us because every day that pass is a step back in this desease.   We live in Mexico but we can go anywhere if its necessary. I don't know if you have Skype account to have more information of your knowledge of FA disease that can help us and talk more about our case, I will be very thankful.  I appreciate your time and wait for your answer. Kind regards.
+summarized question 1: Where can I find information on Friedreich Ataxia, including treatment options?
+##
+query 2: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 2: Where can I find information on klinefelter syndrome?
+##
+query 3: "SUBJECT: Renal Amyloidosis - best treatment for my coustin MESSAGE: This is [NAME] living in [LOCATION] . My Cousin [NAME] biopsy report suggested that he is suffering from ""Renal Amyloidosis"". He has earlier history of some hereditary diseases. PFA the reports. Please go through these reports and let me know possible best treatment for his treatment."
+summarized question 3: What are the treatments for renal amyloidosis?
+##
+query 4: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 4: Is MRSA contagious, and how is it spread?
+##
+query 5: SUBJECT: severe unprovoked vulvodynia MESSAGE: Where can I purchase topical gabapentin cream?  Do I need a prescription?
+summarized question 5: Where can I purchase topical gabapentin cream and do I need a prescription?
+##
+query 6: SUBJECT: New drug, want are side affect/and how does help you. MESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You
+summarized question 6: Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?
+##
+query 7: SUBJECT: my husband had a simple retropubic prpostectomy 6 weeks ago. he can not walk wit MESSAGE: My husband had a simple retropubic prostectomy he can not walk without the walker, he can not mmove his right leg  alone yet. I don't  think is normal. What to expect in six weeks  his urinary track is still soar when he pees. I fear  is something wrong  not been able to push the leg forward the joint in the leg is painful
+summarized question 7: What is the normal time course and symptoms of recovery from simple retropubic prostatectomy?
+##
+query 8: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 8: What is the half life of Chlordiazepoxide?
+##
+query 9: SUBJECT: congenital diaphragmatic hernia MESSAGE: I need to know if CDH can be passed down to future generations.  I just learned that this condition most likely caused the death of my first child back in 1971.  I was then told it was merely a fluke.  I had NO trauma during the full-term pregnancy, and I and my then husband were in very good health.  Now my son (from a different husband) and his wife are due to have fraternal twins in [DATE] 2015.  Does the term 'congenital' mean that it could be passed down to another generation?  I do not want to alarm my son and his wife.  I just would like to inform whatever pediatrician is caring for these babies as to my experience.  Unfortunately my son and I are estranged.  And I do not know who is their pediatrician.  My child's CDH was very severe.  I know there are far less severe cases that can go undetected &/or undiagnosed unless there is a reason to suspect such a condition.  Please respond to my concerns.
+summarized question 9: What causes congenital diaphragmatic hernia?
+##
+query 10: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 10: What are the treatments for bad breath?
+##
+query 11: MESSAGE: I have celiac.disease and.need.to start.Coumadin (Warfarin). Also I'm very allergic to food coloring,.dyes.  What manufacturer has gluten and dye free warfarin ? Please help me. I  need to start taking it tomorrow.  Thank you very , much. [NAME]
+summarized question 11: What are the ingredients of warfarin and it is gluten and dye free?
+##
+query 12: SUBJECT: high inner eye pressure above 21 possible glacoma MESSAGE: have seen inner eye pressure increase as I have begin taking Rizatriptan. I understand the med narrows blood vessels.  Can this med.  cause or effect the closed or wide angle issues with the eye lense/glacoma.
+summarized question 12: Can Rizatriptan cause glaucoma?
+##
+query 13: SUBJECT: questins MESSAGE: i am looking for the latest evidence based practice on guidelines for assessing and treating Alcohol and Opiate withdrawal. Thanks.
+summarized question 13: What are the latest evidence based treatments for alcohol and opiate withdrawal?
+##
+query 14: SUBJECT: theoretical question MESSAGE: How much time you can spend at most before a cerebral aneurysm will cause death? Sorry I'm using translator because I speak and write in Spanish if they were so kind to send me the answer to [CONTACT] Thanks.
+summarized question 14: What is the prognosis of cerebral aneurysm?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 15: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 16: MESSAGE: My son  five years old has Ganglisidose GM 1, we are looking for a drug that could help him, or at least could prolong life. He gets Miglusitat for 1 week. Can you help us or just send some information. We would be very grateful.
+summarized question 16: Where can I find information on GM1 gangliosidosis, including treatment and prognosis?
+##
+query 17: three weeks ago I saw the local doctor lady.. she listened to my description of abdominal pain down the left groin area. now the pain is occasionally not nice and there is a swelling which is uncomfortable to touch when I have the pain . The swelling is soft like a liquid pouch. I have undergon Prostrate cancer Radiotherapy which resulted in occasional mucus and blood discharge when passing stool and wind. This mucky bum has settled down and for some months I have not had any accidents (soiled pants). The doctors letter said iI had a friable back passage which bled on contact. I am due for Colonoscopy. What should I do? is it dangerous to undergo the colonoscopy with a friable weakened colon . I  am 68 year old white male. 6ft 4  tall 84 kg. reasonably fit and active.
+summarized question 17:

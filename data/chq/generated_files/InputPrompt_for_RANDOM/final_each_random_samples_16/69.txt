@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 1: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 2: SUBJECT: Shingles MESSAGE: When can I wash my hair . I have shingles in my head.
+summarized question 2: Can I wash my hair if I have shingles on my head?
+##
+query 3: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 3: What is the life expectancy of someone with free trisomy 13?
+##
+query 4: Hip replacement surgery My mother is 76 y.o. and having a lot of pain in her left hip joint.She was told that she needs a new joint. She also have a Parkinson disease (main symptom at this time is tremor in a left wrist). I would like to know if NIH providing hip replacement surgery for the patients like her, clinical trials?  Thank you.
+summarized question 4: Are there clinical trials for hip replacement with Parkinson's disease?
+##
+query 5: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 5: How do I switch from Amlodipine to atenolol?
+##
+query 6: MESSAGE: Please i want to know the cure to Adenomyosis. I have been going through alot of pains during my menstruation. I want to see a specialist doctor to help me out. I am dying with pains.
+summarized question 6: What are treatments for adenomyosis, and how can I find physician(s) who specialize in it?
+##
+query 7: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 7: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 8: SUBJECT: [NAME] Brazilian with PMD MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pelizaeus-Merzbacher leukodystrophy, we would like to know more new treatments, new techniques, since we know very little about the disease in Brazil. [NAME]
+summarized question 8: What new treatments are available for Pelizaeus-Merzbacher leukodystrophy?
+##
+query 9: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 9: What are treatments for excessive sweating?
+##
+query 10: SUBJECT: trying to loss 50 before July. MESSAGE: I am trying to loss 50 pounds before July, the problem is I work 16 hours a day. Don't have time to do anything else. Is there a deit pills or shake that I can use to help me? Also my problem area is stomach, waist, butt and hip. Please help.
+summarized question 10: Where can I find information on weight loss pills?
+##
+query 11: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 11: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 12: What are tarlov cysts of the spine and how are they treated?
+##
+query 13: SUBJECT: Stroke from high blood pressure MESSAGE: My mother is 90 yrs old recent high blood pressure minor stroke. She is sensitive w/ medication. Should she take Statin and Plavix?
+summarized question 13: What are drug treatments for high blood pressure and minor stroke in elderly?
+##
+query 14: SUBJECT: Leg pain MESSAGE: I am diabetic since last 18 years and present it is 6.6 and morning it varies from 110 to 135 and afternoon and from 125 to 175.I regularly take medicine. swimming, exercise &Yoga for 1.5 Hours in the morning &1.5 Hours in the evening but recently the  pain has started in the legs and Dr. has suggested stiloz-50.I also take Kerala juice/Methi seeds &it is water in the morning. Is this due to diabetes or any excess exercise?
+summarized question 14: What are the causes of leg pain?
+##
+query 15: SUBJECT: drugs for fat reduction MESSAGE: I'm about to do a movie in another one month and I need to shed a lot of weight for it especially on my arms and thighs. What would you recommend and can it be sent to Nigeria?
+summarized question 15: What treatments are available for rapid weight loss?
+##
+query 16: SUBJECT: Stroke Due to Aneurysm? MESSAGE: My son had a hemmorhagic stroke at 4 weeks of age....he is now 31 years old.  In the week leading up to the stroke he had a head cold and I had been giving  him infant cold drops.  After he had the stroke the doctors at the time could only say that it was a 'fluke' and would probably never happen again.  The reason for the stroke has haunted me ever since.  Now we just recently found out that my mother has a cerebral aneurysm and they say this can be hereditary.  So my question now is 'did my son have an aneurysm that burst or was it caused by a blood clot?...is there anyway of knowing or getting an answer to that question after the event has happened?
+summarized question 16: Can the cause of hemmorhagic stroke be determined many years later?
+##
+query 17: My father is having cardiomyopathy through genes. He is 83 now. He was absoulutely normal till now. recently he is getting breathlessness. and he was admitted to the hospital twice. The doctors are telling that multi dieases are attacking his heart. I just want to know exactly what is happening and what precautions that he should take in future. What are the chances of survival? Please help.
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Right Arm shoulder pain from top to bottom MESSAGE: hi, I am having an younger sister, who is suffering from severe pain of right shoulder from 7 days. The pain comes from right ear to right arm fingers and she was unable to lift a simple spoon or plate. Hence I request you to suggest me good medicine or treatment for this pain.
+summarized question 1: What are the causes and treatments for irradiating right shoulder pain and weakness in the arm?
+##
+query 2: SUBJECT: Homeostasis and hypothermia (mainly about hypothermia) MESSAGE: What is Homeostasis? Why is homeostasis so important? What technology do doctors use to cure hypothermia? What is the effectiveness of the technology? How is that technology effective to the economy and environmentally?
+summarized question 2: What is homeostasis and what are the treatments for hypothermia?
+##
+query 3: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I HAVE CRONIC PAIN FROM SEVERE SHINGLES.THE BLISTERS ARE GONE BUT THE PAIN IS SEVERE.WHAT SHOULD I DO. I CAN' KEEP THIS PAIN
+summarized question 3: What are the treatments for shingles pain?
+##
+query 4: SUBJECT: Skin Rash (Petechiae?) MESSAGE: Yesterday I noticed a large cluster of pinprick red spots underneath my chin (not on my neck). Recently I have been self induced vomiting. I know that Petechiae can be caused by vomiting but would this cause it to be underneath the chin??
+summarized question 4: Can vomiting cause petechiae on the chin?
+##
+query 5: "SUBJECT: How is ""elderly"" defined in cautionarys regarding dosage. MESSAGE: Lower dosages of various medications are recommended for ""the elderly.""  Please define that age for me.  Thank you."
+summarized question 5: "How is ""elderly"" defined in drug precautions regarding dosage?"
+##
+query 6: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 6: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 7: SUBJECT: •Radical neck dissection MESSAGE: Hi, I had this surgery 10 years ago as a result of thyroid cancer and have had a lot of problems with my rights side neck and shoulder exactly as you described in your article.  Can you recommend any treatment?  When I mentioned it to my surgeon post surgery he did not think it had anything to do with the operation.  I had the SCM muscle removed as well as the parathyroids, total thyroid removal, artery, &12 lymph nodes.
+summarized question 7: Can you recommend any treatment for neck and shoulder problems following radical neck dissection for thyroid cancer?
+##
+query 8: SUBJECT: Pilot and Lazy Eye MESSAGE: Dear MedlinePus  I started to fly at the age of 15 and have been flying for over 3,5 years and has logged over 120 hours in my time as pilot. My dream is to become a Comerical Pilot and recently I undertook a medical class 1 which I failed in [LOCATION] because of my Eye position and Eye movment, hence I have not experienced any problem with my vision in daily life nor when I have been flying..  The problem is that my binocular vision is not good enough and the eye-doctor meant it could be a problem if I sudden developed double vision.  Is there any operation that can fix this? The Orthoptics I went to meant there was a problem with one of the eye muscles which where to thight and the other too weak. She said it can be fixed, but this is not &quot;normal&quot; in [LOCATION] because it is not big enough error she meant.  Is there anyway to fix this? I appreciate all information!  Kind Regards  [NAME]
+summarized question 8: What are the treatments for lazy eye?
+##
+query 9: SUBJECT: Ankylosing Spondylitis MESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]
+summarized question 9: What are the treatments for Ankylosing Spondylitis?
+##
+query 10: SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.
+summarized question 10: Does diabetes affect bowel movements?
+##
+query 11: SUBJECT: fever in babies MESSAGE: My 9 month old has a fever of 103.5. What can I do to bring down her fever, and should I take her to the ER if her fever is this high?
+summarized question 11: What are the treatments for fever in an infant and when should we go to the ER?
+##
+query 12: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 12: What are the prevention and  treatments for plantar fasciitis?
+##
+query 13: SUBJECT: chickenpox MESSAGE: I do not know if I had chickenpox. Is there a blood test available to tell me ? And if not which vaccine should I get, if any ?
+summarized question 13: Is there a blood test for chickenpox and who should get vaccinated?
+##
+query 14: SUBJECT: hypothyroidism MESSAGE: Can you please send me as much information as possible on &quot;hypothyroidism&quot;. I was recently diagnosed with the disease and I am struggling to figure out what it is and how I got it. My name and address is: [NAME] [LOCATION] [CONTACT] Thank you in advance for your help!!!
+summarized question 14: Where can I find information on hypothyroidism and its causes?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Are there any studies looking at familial/longetudnal fragile X or other related disorders? We are 4 generations of a family with similar traits in the males in each of those generations (only 1 male in each), My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder as a child (at [LOCATION]) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and very similar intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed?
+summarized question 15: Where can I find information on Fragile X sydrome and inheritance patterns?
+##
+query 16: SUBJECT: theoretical question MESSAGE: How much time you can spend at most before a cerebral aneurysm will cause death? Sorry I'm using translator because I speak and write in Spanish if they were so kind to send me the answer to [CONTACT] Thanks.
+summarized question 16: What is the prognosis of cerebral aneurysm?
+##
+query 17: SUBJECT: Small head. MESSAGE: I am [NAME], 17 years old girl my head size is small then average.  Enough small that everybody can  notice.  My question is that wall it grow to average.  Or i have to face this throughout my life
+summarized question 17:

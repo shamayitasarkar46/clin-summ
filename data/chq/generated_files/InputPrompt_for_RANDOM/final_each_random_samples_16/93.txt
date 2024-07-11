@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i am 9 years post bleed stroke and still can not use my left arm or hand and when i walk i hip hike on my left side.  is this as good asit gets
+summarized question 1: What is the long-term prognosis of limb use after stroke?
+##
+query 2: SUBJECT: Lichen Planus yrs MESSAGE: Help help help. I have Lichen Planus and I think at times I might go crazy from the itching. I had once before about 22 yrs ago and it went away after a cycle or two of Prednisone. This time it has been over 15yrs and keeps on. It will not go away. I can not take prednisone any more!!!! It makes me mean. I need some kind of help. I use steroid creams and shots and they ease the lesions and the itching, but after a while it gets really bad again. I a at my wits end. It is all over my feet ankles legs and wrists arms back and butt. help me please!!!!!!!!
+summarized question 2: What are non-steriod treatments for lichen planus?
+##
+query 3: "MESSAGE: I have a fungal infection on my two legs which i have treated  several month with Lamisil 1o/o cream ,Betamethasone-N cream and sulphur skin ointmentcream. And the drugs-: terbanfine, fuschin,ampiclus beecham vitamin ""c"" etc. But with all of these,the fungal still remain the same.pls, which strong antifungal drug or injection would you people recomend for me or what advice would you give ? Yours faithfully  [NAME]"
+summarized question 3: What are the treatments for severe skin fungal infections resistant to over the counter medications?
+##
+query 4: SUBJECT: Seborrheic Keratosis MESSAGE: I am an African American women who have been diagnose with seborrheic keratosis on my face.  Do you have a web site that I can obtain the products so that I can clear up my face.  Please advise.  Thank You
+summarized question 4: What are the treatments for seborrheic keratosis, and where can I buy them?
+##
+query 5: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 5: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 6: SUBJECT: cirrhosis of the liver question MESSAGE: I have cirrhosis of the liver.  Do high ammonia levels effect breathing?  I have spells of not being able to breath very well. No pain.
+summarized question 6: Can high ammonia levels in the blood affect breathing?
+##
+query 7: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 7: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 8: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 8: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 9: Metastatic malignant melanoma.  I've got skin cancer, and I want this treatment, but RBCs Btensl Is it possible that taking this medication
+summarized question 9: What are the treatments for metastatic malignant melanoma?
+##
+query 10: Customer Service Request.  My daughter has Turner syndrome but she's beaten all odds. She developed on our own, got her period on her own, she is now pregnant on her own with identical twins. My question is can she have normal children or do they have more of a chance of having Turner syndrome.  My daughter has been tested many times to confirm her diagnosis of Turner syndrome and she is a full XO not mosaic but still does not display many of the characteristics. Again, I am just questioning the safety of the pregnancy and the health of the babies. Thank you for your help
+summarized question 10: What is the inheritance pattern of Turner syndrome?
+##
+query 11: SUBJECT: Diabetes Type 2 MESSAGE: I test before going to bed and the reading is 94 but when I test again in the morning, the reading is 165.  How can I lower it?  I eat dinner around 8PM and nothing until the next morning.
+summarized question 11: What affects glucose levels at night, and how can I lower it?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am writing on behalf of my friend that is reading us in copy but doesn't speak english as good as me. His name is: [NAME] He was born in Italy, on [DATE] He lives in Milan, Italy. He is affected by HCV Genotype IIIA with a cirrhosis of the liver, in evolution, and his present desease does not permit to be attactd by regular medicines/therapies. (platelet minus of 50.000) He has a prescription, for Sovaldi treatment, from an italian doctor and he is ready to come to US or other country to get it also from an American Doctor, but the cost of such treatment is impossible for him. In italy the medicine is not available. He is followed by [LOCATION], one of the top italian hospital. His doctor is [NAME], that is ready to talk with you whenever needed. [NAME], suggested by his doctor, is interested to become one of your patient as a case study. [NAME] would like to enter into the research/trial program, in subject, with you in order not to pay the cost of Sovaldi that he cannot afford. According to his doctor his treatment should go on for 6 month with a conjunction of Sovaldi and Ribavirina. All my info you can find them below, and for [NAME] the email is the one in copy ([CONTACT]). You can send both to me directly and cc him or viceversa. Anyhow i will have to make the translation!!! In case, hopefully not, the treatment will not work, he is ready to change treatment with eventually other new products you are testing  and or new association. Looking forward in hearing from you soon. sincerely [NAME] [CONTACT]
+summarized question 12: Are there clinical trials for patients with Hepatitis C genotype 3A?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 5 yr old Grandson has Tourette's, his Dad, my son also has it. His 7 yr old brother picks his arms and leaves scars, Is there anything we can do? He has been to A Neurologists once, and he said to keep records of the 6 yr old and to come back in 6 mo, or sooner if things get worse.
+summarized question 13: What are the symptoms of tourette's syndrome and their treatments?
+##
+query 14: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 14: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 15: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 15: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 16: Genetic Test for IHHS heart condition. Is there a commercial genetic test for the IHHS heart condition?  My family suffers from this heridity condition and I would like to know who is susseptable.   If so, where could I get it done in [LOCATION] Texas?
+summarized question 16: Where can I get genetic testing for IHSS in Texas?
+##
+query 17: SUBJECT: Gluten Inquiry. MESSAGE: My medication has been replaced due to discontinued of my prior manufacture.  I am wanting a response and definite answer if your corporation can give a statement in easing my thoughts on gluten free.  I take the Esterified Estrogens, Methyltestosterone full strength dark green table with 1490 labeled on it, I have looked up the ingredients and found an ingredient that shows gluten related. Can you please secure my worries and confirm if this medication is gluten free or if it does contain gluten. Thank you, R
+summarized question 17:

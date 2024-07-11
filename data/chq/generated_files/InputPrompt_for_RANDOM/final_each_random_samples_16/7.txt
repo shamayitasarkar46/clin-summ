@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Parkinson's Disease MESSAGE: Has etanercept been used to assist sufferers of Parkinson's Disease?  If so, how successful was this? Thank you
+summarized question 1: Is etanercept a treatment for Parkinson's disease, and how did it perform?
+##
+query 2: MESSAGE: I just read an article submitted by you that stated your research shows that you've identified the mechanism that causes burning mouth syndrome. Also because of these findings you can find a treatment. I've had this for 15 yrs and am just holding on. When will a good treatment be available??  I belong to a group of over 500 bmsers. We're suffering terribly and were from all over the world. What would the treatment be?
+summarized question 2: What are the treatments for burning mouth syndrome?
+##
+query 3: SUBJECT: Thoracic outlet syndrome MESSAGE: I was diagnose with TOS in my left shoulder was told surgery would help my problem. physical therapy did not help tired of the numbness in pain in hand just wondering if the stats our good percentage wise for surgery results Dr.[NAME] is my surgeon
+summarized question 3: What are the success rate and prognosis for thoracic outlet syndrome surgery?
+##
+query 4: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 4: What are the treatments for anosmia?
+##
+query 5: Hello! Ive just become handicap.  I need to learn how to live handicap.  I live in [LOCATION]
+summarized question 5: How can I learn how to live with a handicap?
+##
+query 6: SUBJECT: bowl movements question. MESSAGE: I have been having BM two or three times a day, that is not a problem, it seems natural, but the feeling that I have not finish is there every time. I feel that I have not finish and something is going back in, when I get up. I had back surgery 6 months ago.
+summarized question 6: What are the treatments for incomplete bowel emptying?
+##
+query 7: SUBJECT: burning rash MESSAGE: my left buttocks has painful sores a nurse at my work said to put cortisol10 cream on it but its not helping she thinks i got this by being in a dirty hottub! i hope its not something bad. please help
+summarized question 7: How can I get help for a burning rash on my buttocks that does not respond to OTC hydrocortisone cream?
+##
+query 8: SUBJECT: HEP C MESSAGE: IS THERE A DRUG TO TAKE IF YOU HAVE IN THE LAST 4 DAYS BEEN EXPOSED TO CONTAMINED BLOOD OF A HEP C PERSON. IE PROFOLACTIC DRUG TO LESSEN THE CHANCES OF INFECTION? IE LIKE TRUVADA FOR HIV?
+summarized question 8: Is there a prophylactic drug for exposure to hepatitis C?
+##
+query 9: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 9: Where can I find clinical trials for macular degeneration?
+##
+query 10: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 10: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 11: SUBJECT: Looking for comparison FloraQ/RisaQuad MESSAGE: My MD instructed FloraQ.  Amazon advertises RisaQuad as comparable. Your site has never heard of RisaQuad.  Amazon ad doesn't tell you much. I checked several drugstores and can't find flora q in stock Can you help
+summarized question 11: What are the differences between Flora Q and RisaQuad?
+##
+query 12: SUBJECT: my HDL reports shows   29  .i  need your further suggession. MESSAGE: I am 43 years male man.my HDL reports shows   29  .i  need your further suggestion.I seems very low .what i have to do its optimise,please
+summarized question 12: What are the treatments for low HDL cholesterol?
+##
+query 13: Dear Sir/Madam I'm [NAME] from [LOCATION], I'm 35 years old , I'd like to ask you a Medical Question as I've got an optic nerve atrophy in my eye and i lost my vision since i was 8 years old , Now I've got one eye just , So please is there treatment for optic nerve atrophy ! Please see the attachment which is a Medical report from [LOCATION], Best Wishes [NAME]
+summarized question 13: What are the treatments for optic nerve atrophy?
+##
+query 14: "SUBJECT: treatment for dry mouth caused by necessary medicine MESSAGE: My provider can't help (I asked.) I am intolerant of all the ""sugar alcohols"" such as maltilol, sorbitol, xylitol, etc. and need something for dry mouth caused by med which I have to take.  Biotene products help for only about two minutes."
+summarized question 14: What are treatments for dry mouth that do not contain sugar alcohols?
+##
+query 15: SUBJECT: Duchenne Muscular Dystropy MESSAGE: My stepson had DMD and passed away at the age of 20.  My step daughters are both carriers.  The oldest one had a healthy son, the youngest daughter had a son with DMD this month at the age of 17.  My question is about my other step son's daughters.  Is it possible our grand daughters are carriers and do they need to be tested.  We are worried about this.
+summarized question 15: What is the inheritance pattern for Duchenne Muscular Dystropy?
+##
+query 16: SUBJECT: Left hip replacement surgery MESSAGE: In  [DATE], I had a total left hip replacement surgery, during that surgery, my femur was broken.  Two weeks later, there was a a revision fine due to possible infection in that same left hip. Today is [DATE] and my question is what should I be expected to be doing? I still rely on my walker, I am 54 years young and I suffer from Chronic Osteoarthritis in my lower extremities which is the reason for hip replacement at such an earlier age.
+summarized question 16: What is the recovery time and expected activities for hip replacement surgery and a broken femur?
+##
+query 17: I an autoimmune disease and suffer with MCS. Recently I purchased a new combustion heater and went away for the first week while my friend burned it daily to allow the paint to cure. However when I returned, each time I lit it, after 1/2 a hour this pungent toxic burning plastic smell filles the house causing my mouth to burn, a rash on my face, a whooshing sound in my ears. I couldn't make a decision, had an urgency to defecate and then fight and flight panic affected so badly I had to leave my home. I had the manufactures come to my home but the didn't wait long enough for the smell to start, there were more concerned with the function of the unit, no the toxic smell. The did admit that the flu had not been correctly installed and they are going to rectify that however they assured me that the smell I described would not be coming from the fire. So I tried it again and the smell reoccurred, this time I got a friend to come and help. He suggested it might be the new vinyl flooring of gassing as the house heated up. ( I had recently had a reno done. My issue is that I need to identify what is making me ill so I can avoid it. If it proves to be the floor I will get rid of it. I cant live in my home under these conditions as this chemical effects me so much it makes me literally crazy. I cant talk, I get confused, I cry then I panic and run. This week the chemical messed with my head so badly I drove in the path of a truck? Lucky he has just started up and missed me. I just sat in the car and cried. I really really need the help of a specialist. Where do I go from here? Kindest regards
+summarized question 17:

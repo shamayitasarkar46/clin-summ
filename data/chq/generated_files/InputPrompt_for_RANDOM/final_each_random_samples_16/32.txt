@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 1: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 2: SUBJECT: Pentoxifyline MESSAGE: My husband mistakingly took a pack of 5 in the place of his morning medacation. Is he in any danger? Is there something i should do. He just feels sick at his stomach.
+summarized question 2: What is the treatment for Pentoxifyline overdose?
+##
+query 3: SUBJECT: How appendix problems affect people in the genetic family? MESSAGE: How appendix problems affect people in the genetic family?
+summarized question 3: Can appendicitis run in the family?
+##
+query 4: MESSAGE: I have a fractured nose i need it fixed. its been broke for 3 years now
+summarized question 4: What are delayed treatments for nose fracture?
+##
+query 5: SUBJECT: meadicine for itiching MESSAGE: my face is itiching too much. and iam using deetol soap ....... but not feeling well is there any medicine
+summarized question 5: What are the treatments for itchy skin?
+##
+query 6: SUBJECT: Levothyroxin tab 0.05 MG MESSAGE: I am happy to note that all of your medications are gluten free.  The Levothyroxin tab 0.05 MG is gluten free, ***IS THERE ANY DAIRY (including lactose, casein) in the Levothyroxin Tab 0.05 MG? Thank you!
+summarized question 6: What are the ingredients of levothyroxin and is it dairy free?
+##
+query 7: SUBJECT: tracheomalacia MESSAGE: My Tracheomalacia is so wide spread with 90% blockage surgery is not an option.  I wear o2 24/7 what is going to happen to me.  Will it get worse until I die please someone just be honest with me.
+summarized question 7: What is the prognosis for tracheomalacia?
+##
+query 8: SUBJECT: need to know about shingles MESSAGE: I have had shingles on my face about 6 or 7 years ago.  Should I still get a shingles Vaccine?  I really need to know.  Stress is big in my life.
+summarized question 8: Should someone who had shingles get the vaccine?
+##
+query 9: DNA. I know (or think I know) that random mutations can change human DNA. Can environment change DNA?
+summarized question 9: What are the effects of environmental factors on DNA?
+##
+query 10: SUBJECT: Looking for comparison FloraQ/RisaQuad MESSAGE: My MD instructed FloraQ.  Amazon advertises RisaQuad as comparable. Your site has never heard of RisaQuad.  Amazon ad doesn't tell you much. I checked several drugstores and can't find flora q in stock Can you help
+summarized question 10: What are the differences between Flora Q and RisaQuad?
+##
+query 11: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 11: Are endometriosis and cysts possible complications of NF1?
+##
+query 12: SUBJECT: Can I safely take prednisone and levaquin the same day several hours apart? MESSAGE: can I safely take levaquin and prednisone the same day not at the same time several hours apart?
+summarized question 12: Are there drug interactions between prednisone and levaquin?
+##
+query 13: SUBJECT: questins MESSAGE: i am looking for the latest evidence based practice on guidelines for assessing and treating Alcohol and Opiate withdrawal. Thanks.
+summarized question 13: What are the latest evidence based treatments for alcohol and opiate withdrawal?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 14: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 15: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 15: Can epilepsy be cured?
+##
+query 16: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 16: How can I find a doctor to perform tubal ligation?
+##
+query 17: I have hypertension and have Glaucoma and diverticulitis, I have developed allergies and am super sensitive to hypertension medication. I have been given multiple medication and react to the medication within 24-48 hours suffering from major side effects and must stop the medication immediately. Do you have any information if there is a medication made for individuals that suffer from allergic reactions to the hypertension medication.
+summarized question 17:

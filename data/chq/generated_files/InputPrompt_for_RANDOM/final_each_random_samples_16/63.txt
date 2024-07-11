@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Second Hand Smoking MESSAGE: Dear Sir/Madam I am interested about Second Hand Smoking and the dangers for children and hope you can help me with the questions I have.  If two smokers are smoking every day in the house only on Saturday evening and Sunday morning do not smoke in the house and there are children visiting that house on Sunday morning and staying the whole day, is there a danger of second hand smoking for the children? If yes, what is the danger?  Is there danger of second hand smoking for the children if they stay for the whole weekend in that house? If yes, what is the danger?  Is there a danger  and what for the children if a person smokes in the car?  Thank you very much in advance. Best wishes [NAME]
+summarized question 1: What are the dangers to children of secondhand smoke residue?
+##
+query 2: ClinicalTrials.gov - Question - general information.  i am a two time peg/ interferon non responder, under medical care at [LOCATION] Medical center, had an eye issue, at same time i was almost viral free. I need in a clinical trial of on new Sofosbuvir treatment.
+summarized question 2: Where can I find information on clinical trials for sofosbuvir?
+##
+query 3: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 3: Where can I find information on familial mediterranean fever?
+##
+query 4: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 4: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 5: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 5: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 6: please can chronic myeloid leukemia (CML) be cure completely. waiting for your response. thanks
+summarized question 6: What are the treatments for chronic myeloid leukemia?
+##
+query 7: SUBJECT: Vasospastic angina MESSAGE: Can arteries in any part of the body spasm or is this only possible with coronary arteries? If so, does someone with vasospastic angina have a greater chance of developing spasms elsewhere in the body and is the treatment the same?
+summarized question 7: What are the causes of and treatment for artery spasms?
+##
+query 8: MESSAGE: should Advair and Spiriva be used together?  It is my understanding that they are both control meds
+summarized question 8: Can Advair and Spiriva be taken together?
+##
+query 9: SUBJECT: Insomnia (special case) MESSAGE: Hi, Im 40 years old male. I was suffering from social anxiety since I was child.  Last year, I decided to go to a psychologist. She advised me to practice meditation, mindfulness and CBT as well.  She explained to me the great positive impact of the meditation, mindfulness on the brain activity (neuroplasticity). Since then, I've been practicing these techniques. The result was awesome. I no longer suffer from my social anxiety and my life has completely changed to the positive side. No more worry, stress, anxiety, etc.  But at the same time, I started to suffer from chronic insomnia until now. Of course, Im always in touch with my psychiatrist who has prescribed me the necessary and still following me up. Even tough, my insomnia doesn't improved.  Unfortunately, nobody can determine the real cause of my insomnia.  If I know the cause, I'll do my best to find the key to resolve this problem.  According to my mentioned story, can you help me to find the real cause of my insomnia?   Thank you, Your answer is very appreciable and important to me.   [NAME].
+summarized question 9: What are causes of and treatment for chronic insomnia?
+##
+query 10: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 10: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 11: Respected sir Good day I saw PUBMED website sir . you are one of the best doctor in research of HIV vaccine sir .I am really happy to contact you sir . I am [NAME] . my age 27 old. I am from [LOCATION] .two years back i am  married . I got HIV - 1 infection from my  husband . I check with near our consultant doctor. I have Intial stage of HIV -1 .my Cell count is: CD4 -410 CD8 -1050 , CD3 1493 Is it possible to  prevent the HIV-1 infection completely??? how long it will take time for medicine sir ? my life seriously in trouble sir  . Me and my family members are totally depression . please give the future hope for the HIV treatment. we keep our hope on your entire team  researchers for HIV treatment. .
+summarized question 11: Is it possible to cure HIV-1 infection completely?
+##
+query 12: SUBJECT: Stroke from high blood pressure MESSAGE: My mother is 90 yrs old recent high blood pressure minor stroke. She is sensitive w/ medication. Should she take Statin and Plavix?
+summarized question 12: What are drug treatments for high blood pressure and minor stroke in elderly?
+##
+query 13: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 13: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 14: Hi, I'm looking to purchase Epidermal Growth Factor to use topically in skin care creams.  Do you sell it and if so how can I learn about this?  If you don't can you give any suggestions of who might?  Any information you can provide would be greatly appreciated.  THNAK YOU!  [NAME]
+summarized question 14: Where can I buy  Epidermal Growth Factor cream?
+##
+query 15: SUBJECT: NEUROFIBROMATOSIS MESSAGE: Hi:  I have neurofibromatosis handed down by my Mother, (from what we understand was from spontaneous mutation).  I was diagnosed with an Optic Giloma about 25 years ago.  I have also been getting MRI’s to keep an “eye” on it (excuse the pun please), along with visual fields.  The last MRI, according to the radiologist, said it was not there and my Neurologist told me that they do disappear.  My question is, do Optic Giloma go away?  Thanks
+summarized question 15: Can an optic glioma in an adult spontaneously disappear?
+##
+query 16: SUBJECT: Pyloric Stenosis MESSAGE: Good day, I had pyloric when I was a baby - I am now 44 years old.  I have always suffered with stomach problems, leaky gut etc.  Is it at all possible that this is a related cause of pyloric long term?  I was the 1st baby girl to have this operation in [LOCATION] in [DATE].
+summarized question 16: What is the long-term prognosis and complications of pyloric stenosis?
+##
+query 17: Hello, My sister suffers from obsessive-compulsive disorder for more than ten years And I want to know why the symptoms of obsessive-compulsive disorder increase during the menstrual period for this she is  very afraid and use contraceptive pills a monthly to prevent the menstrual cycle and is used this way since 5 years The first question is why the symptoms of obsessive-compulsive disorder increase during menstruation? The second question Are there any side effects as a result of the use of pills a month? I hope to help me found the answers because her conditions is very bad and please told me what we can do to help her. thank you very much and thank you for your time.
+summarized question 17:

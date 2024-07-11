@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bipolar and Generalized Anxiety Disorder MESSAGE: I read about TMS Therapy.  Do you know anything about it?  Has it had success?  Also wondering about ECT?  Finally, I've been told acupuncture can help for mood disorders.  Is that true for mixed bipolar and generalized anxiety disorder along with meds?  Have you ever heard of this?
+summarized question 1: What are the treatments for bipolar disorder with generalized anxiety disorder?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 2: What are the treatments for ocular albinism?
+##
+query 3: SUBJECT: methadone causing COPD MESSAGE: My daughter said there was a study done  and it concluded that methadone can cause COPD. Do you know if there is any truth to this and if so where can I get info on it. Thank you [NAME]
+summarized question 3: What are the side effects of methadone?
+##
+query 4: SUBJECT: vaginal rashes after periods that leads to vaginal itching MESSAGE: period rashes proceed to vaginal itching. then it develop fungal infection with thick white discharge. i then take flucanazole (antifungal)which cure it. but m worried of taking allopatic medicines. pls tell me what primitive or traditional methods do i use to avoid it. i also have a sensitive skin.
+summarized question 4: How can I prevent vaginal skin rashes and fungal infection?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am keen to know about stem cell bio-engineering technology to regrow a complete human tooth with its root, its progress and expected releasing year or clinical availability I have been reading some articles related to the same for sometimes and waiting for the outcome. How much time it will take to be available at clinic?
+summarized question 5: What is the latest research on stem cell bioengineering of a human whole tooth, including progress and availability?
+##
+query 6: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 6: What are the treatments for bad breath?
+##
+query 7: SUBJECT: antacid named tritralac MESSAGE: I have taken Tritralac for years now it has been taken off the market.  What antacid is the closest one to Tritralac?  I preferred Tritralac because it came in pill form.
+summarized question 7: What antacid is the closest one to Titralac?
+##
+query 8: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 8: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 9: "SUBJECT: cosmetic leg shortening surgery MESSAGE: Hi,  I am a tall girl(5'8""), who wants to undergo leg shortening sugery of 2 inches for cosmetic purpose. It would be good if I can get more information about it. I would like to know the cost of this surgery, the recovery time and the risks associated with it. How long should I stay in the hospital?  Thanks and regards"
+summarized question 9: Where can I find information on leg shortening surgery, including risks, cost, and recovery time?
+##
+query 10: SUBJECT: tick bites MESSAGE: my husband was diagnosed with Rocky Mountain Spotted fever about 6 1/2 years ago.  Then about 1 1/2 years ago he was diagnosed with Lyme Disease.  With him having had both what damage if any to his body could possibly happen.  He has had alot of medical problems since.  Now has been diagnosed with type II diabetes.
+summarized question 10: What is the prognosis for Rocky Mountain Spotted fever and lyme disease?
+##
+query 11: "SUBJECT: Alzheimer's disease MESSAGE: This may sound strange, but unfortunately our family, my wife's dad, are dealing with the ugly disease of Alzheimers. To make this short, is there any way that we can challenge him to do things, or attempt to even ""get off the couch"", because he seems to respond to that type of activity. Fortunately my wife is able to spend a great deal of time with her mom and dad, but he seems to perk up when I see him at times and ""not baby him"" like the rest of the family. Thanks much."
+summarized question 11: What are stimulating activities for Alzheimer's patients?
+##
+query 12: SUBJECT: Childhood suffers of lead poisoning as adults MESSAGE: Hi.  My name is J[NAME]  When I was three years old, I suffered from mild/moderate lead paint poisoning.  I'm now 38 years old and looking for ways to treat the long-term symptoms that originated with the lead exposure.
+summarized question 12: What are the long-term effects of lead poisoning, and how can they be treated?
+##
+query 13: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 13: What are the inheritance patterns for pierre robins syndrome?
+##
+query 14: polymicrogyria. My 16 month old son has this. Does not sit up our crawl yet but still trying and is improving in grabbing things etc etc. Have read about other cases that seem 10000 time worse. It's it possible for this post of his brain to grown to normal and he grow out of it?
+summarized question 14: What is the prognosis for polymicrogyria?
+##
+query 15: SUBJECT: Definitions MESSAGE: Hi, An explaination of what is the difference between myelogenous and lymphocytic leukemia types would be helpful. Great work! Thanks
+summarized question 15: What are the differences between lymphocytic and myelogenous leukemia?
+##
+query 16: SUBJECT: Ankylosing Spondylitis MESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]
+summarized question 16: What are the treatments for Ankylosing Spondylitis?
+##
+query 17: I had surgery in 2011. I had an injury from a gunshot and the doctors put a stent in my carotid artery. I want to play sports. I am sure basketball is fine. I do not know about football since it is mainly a contact sport. Has anyone ever played football witha a stent in their neck ? I know there are some details I should note before furthering my want of playing sports.
+summarized question 17:

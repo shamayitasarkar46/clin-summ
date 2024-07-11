@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 1: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 2: PTEN. Hi my name is [NAME]. I have a 13 Year old brother is Autism and PTEN, My father passed away from a some type of kidney cancer, and his sister just passed from some sort of cancer. I'm in search of finding out if this PTEN gene is in me, and my other brother, and if there is any testing or any solutions to help our health. I'm only 19 and my other brother is 10. If you could help me in anyway possible, god bless you. Thank you.
+summarized question 2: How can I be tested for the PTEN cancer gene and learn about treatment options?
+##
+query 3: Hi, I'm looking to purchase Epidermal Growth Factor to use topically in skin care creams.  Do you sell it and if so how can I learn about this?  If you don't can you give any suggestions of who might?  Any information you can provide would be greatly appreciated.  THNAK YOU!  [NAME]
+summarized question 3: Where can I buy  Epidermal Growth Factor cream?
+##
+query 4: MESSAGE: My 3yrs old boy found my bleach at the laundry and I suspect he swallowed a bit of it. How do I treat this pls.
+summarized question 4: What are the treatments for bleach poisoning?
+##
+query 5: Does either of these help with skin keloids? What would help keloids?
+summarized question 5: What are the treatments for skin keloids?
+##
+query 6: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 6: Does neurofibromatosis affect congestive heart failure?
+##
+query 7: SUBJECT: Left hip replacement surgery MESSAGE: In  [DATE], I had a total left hip replacement surgery, during that surgery, my femur was broken.  Two weeks later, there was a a revision fine due to possible infection in that same left hip. Today is [DATE] and my question is what should I be expected to be doing? I still rely on my walker, I am 54 years young and I suffer from Chronic Osteoarthritis in my lower extremities which is the reason for hip replacement at such an earlier age.
+summarized question 7: What is the recovery time and expected activities for hip replacement surgery and a broken femur?
+##
+query 8: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 8: How do I stop taking wellbutrin HCL XL?
+##
+query 9: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 9: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 10: SUBJECT: Luque rod spinal fusion and reclast MESSAGE: My luque rod fusion was done in 1991 and I am going to have reclast infusion for osteoporosis [DATE]. Is there any info on anyone with existing spinal fusion having reclast? I am 36 years old with no broken bones.
+summarized question 10: Are Reclast infusions contraindicated for those with spinal fusion?
+##
+query 11: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 11: How long does swelling from sleep apnea take to heal?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 12: What are the treatments for scalp psoriasis?
+##
+query 13: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 13: What are the risks of smoking?
+##
+query 14: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 14: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 15: SUBJECT: claw hand MESSAGE: I have a claw hand and I would like you to mail me information regarding treatments for it. My address is [LOCATION] Thank you.
+summarized question 15: What are the treatments for claw hand?
+##
+query 16: How helpful is radiation for melanoma of heel and spread all the way up the leg? Would this effect treatment of trial drugs or other treatments?
+summarized question 16: Is radiation an effective treatment for skin melanoma and would it preclude experimental treatments?
+##
+query 17: Is it safe to take Relora if I seizure disorder? I had a Cavernoma removed from my brain that my drs believe caused me to have a seizure. I am now taking Keppra for seizure prevention. I would like to take Relora to combat the anxiety and to lift my mood. It seems no drs know much about supplements.
+summarized question 17:

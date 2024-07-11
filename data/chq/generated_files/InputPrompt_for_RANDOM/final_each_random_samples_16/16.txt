@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?
+summarized question 1: What is the prognosis for someone with homozygous MTHFR A1298C?
+##
+query 2: "SUBJECT: Levalbuterol and Budesonide Inhalation Products MESSAGE: After calling TEVA Pharmaceuticals, they relayed that the stability and storage information printed on their Levalbuterol 1.25 mg/3 mL and 0.63 mg/3 mL Inhalation Solution, as well as their Budesonide 0.5 mg/2 mL and 0.25 mg/2 mL Inhalation Suspension packages is information directly pulled from DailyMed, hence NIH. I am trying to determine if there is any extended stability information for either product, as the nebs are not singly packaged, and therefore a significant amount of product is being wasted in our facility due to the information provided. When name brand Xopenex was still available, Sepracor was able to provide our facility with more stablity information that enabled us to refrigerate the product in the foil pouch, continuing to protect it from light: i.e., ""allows use of product through its labeled expiry."" It would be greatly appreciated if some additional information could be provided regarding the above situation. Thank you for your attention to this matter. [NAME] [LOCATION] [LOCATION] [LOCATION] [CONTACT]"
+summarized question 2: Where can I find extended stability information for Levalbuterol Inhalation Solution and Budesonide Inhalation Suspension?
+##
+query 3: printed materials on osteoporosis.  Is there any way you can please mail me literature on osteoporosis, I was just diagnosed. Thank you, [NAME] [LOCATION] [LOCATION] [LOCATION] [LOCATION]
+summarized question 3: Where can I find information on osteoporosis?
+##
+query 4: Question..for the past 3 4 years I was get infection in my testis ball ( right hand side) now a day my Siemens come out in very low quantity and very thin in weight...give me some solution or advice .now I am getting married two months ago..and I m worried for our future
+summarized question 4: What are the treatments for low sperm count?
+##
+query 5: SUBJECT: Ingredients !! MESSAGE: Hi, Please help me to find ingredients for fluoxetine hcl liquid. I want to know is there any gelatin or animal product in there or not? Please send me any information or web link where i can find information. Thank you
+summarized question 5: What are the ingredients of liquid fluoxetine HCL?
+##
+query 6: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I am suffering from demylination sensorimotor neuropathy and need help. I am willing to try anything. Cell# [CONTACT]. [NAME]
+summarized question 6: What are the treatments for demyelinating sensorimotor neuropathy?
+##
+query 7: MESSAGE: Hi I have aquestion regarding the chikenpox vaccination. My son is now 9 years old and got his  1st dose of chikenpox vaccine in September 2007 and the second does skipped then.so please guide me if my son could gey the vaccine once again now.
+summarized question 7: Where can I find information on chickenpox vaccination schedules?
+##
+query 8: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 8: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 9: SUBJECT: Laparoscopic Splenectomy MESSAGE: Dear Sir/Madam My brother [NAME] is diagnosed ITP. His doctor advises Laparoscopic Splenectomy for him. Can you please mail me detail and cost of this surgery. His Platletts count is decreased to 12 and his doctors giving him Injection Mebthera today to increase plattlets count. We are form [LOCATION], [LOCATION]. Please mail us as soon possible. Thanks & Best Regards [NAME]
+summarized question 9: Where can I find information on laparoscopic splenectomy, including cost?
+##
+query 10: SUBJECT: morphine withdrawal symptoms MESSAGE: I was taking 600 mgm ms contin over a long period - of course I didnt start on that high dose but over 20 years I ended up there. I weaned myself off last year, and when I finally got to zero I started having these leg spasms, is this from the morphine? I can stop them taking 15 mgm ms contin daily which irritates me to to no end, I do NOT want to take the stuff! BUT, if I don't take it I get the spasms and end up sitting up all nite and sometimes during the day with them. I get them in my arms sometimes as well as both legs, and my legs jump a lot! My limbs feel kind of numb when it is going to start, so I know it is coming. What can I do? Is this ever going to stop? Thanks for your help.....[NAME]
+summarized question 10: What are symptoms of morphine withdrawal and how are they treated?
+##
+query 11: SUBJECT: Help for my diagnose MESSAGE: I have been diagnosed with SCA3. I was wondering if MedlinePlus is able to help me with resources that I may need on my journey through this disease? If not, can you help me find an organization or association that can help me.
+summarized question 11: Where can I find information on SCA3, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 12: SUBJECT: SPECIFY COMPONENTS MESSAGE: COENZYME Q10(100-mg). WHAT ARE THE COMPONENTS OF THIS MEDICINE? IS IT USEABLE FOR MUSLIMS?
+summarized question 12: What are the ingredients of coenzyme q10?
+##
+query 13: SUBJECT: Lyme Disease MESSAGE: 12 years ago I was bitten by tick while deer hunting. The bite area contained the ring as described in Lyme Disease symptoms.  I was treated with antibiotics;  however, ever since that time I have many of the symptoms cited for Lyme.  Also, usually prior to, and during these symptoms I have a reddish-pink welt appear at the site of the bite on my groin.  Can you offer any enlightment on my condition?
+summarized question 13: What is the prognosis for post-treatment Lyme Disease symptoms?
+##
+query 14: migraine. I want to know the treatment for FHM type of migrain . I had observed the all symptoms which are same as provided in information and additionally my father and my younger sister face the acidity problem too. they feel relief after vomiting so both of them do the same by drinking warm water containing salt.
+summarized question 14: What are the treatments for familial hemiplegic migraine?
+##
+query 15: SUBJECT: MLC MESSAGE: My son is patient of MLC, can we plan to another baby. What is the % of 2nd baby would be MLC or NOT.
+summarized question 15: How is Megalencephalic leukoencephalopathy with subcortical cysts (MLC) inherited?
+##
+query 16: SUBJECT: NDC# for Injection, Testosterone Cypionate, 1mg MESSAGE: I am trying to find the NDC# for the above-mentioned injection. There is a new HCPCS code J1071 ([DATE]), the code is still new and no ones knows how to bill the insurance yet. With NDC# we will be able to figure out how the injection is packaged. Thank you for your help!
+summarized question 16: What is the NDC code for 1 mg Testosterone Cypionate injection?
+##
+query 17: if you exposed to two positive covid people an your results negative but you have symptoms what are state local cdc recommendations for quarantine
+summarized question 17:

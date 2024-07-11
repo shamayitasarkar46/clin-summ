@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: I need help MESSAGE: Dear sir, I need  your help. I am [NAME], I have some question to ask you. My uncle a heart problem due to a gastro problem and bleeding from the intestinal the doctor says. He is an handicap person. Now he is a little bit ok , it's just that he is suffering from his belly a lot, but he is stop bleeding from inside. He often have breath problem also, i give him smetimes ventoline spray. We don't know what we treatment we should give him, Please I need your help. Thank you in advance sir.  Best regards [NAME].
+summarized question 1: What are the treatments for breathing difficulties?
+##
+query 2: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 2: Are there any medicines for dry mouth?
+##
+query 3: Kidney transplant.  My father is having trouble with the kidney he received from a donor.  When he first had the transplant, things were ok. Now on the kidney is giving him trouble.  Some tests came back stating that the kidnewy was damaged and the transplant still took place. What steps can we do with getting the hospital to take charge with fixing this issue? His transplant procedure was at [LOCATION] in [LOCATION].
+summarized question 3: What is the prognosis and potential complications of a kidney transplant?
+##
+query 4: Breast cancer at 84.  My mother was just diagnost with breast cancer. She is 84 years old, her tumor started in the milk duct and is small in size, their is a mass as well in the same breast. He is scheduled for a lumpectomy to remove both. Because of age we would like suggestions on treatment options after surgery.
+summarized question 4: What are the treatment options after breast cancer surgery in elderly?
+##
+query 5: williams sydrome conditon.  i need to send me more information about Williams Syndrome and some tips how to educate people with this disorder.I hope having news from you soon!!thank you
+summarized question 5: Where can I find information and educational materials on williams syndrome?
+##
+query 6: SUBJECT: Kidney disease diet MESSAGE: My aunty has a kidney disease, and wants to use a product that contains aloe. Is that ok?
+summarized question 6: Is aloe contraindicated for patients with kidney disease?
+##
+query 7: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 7: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 8: PAEDIATRIC AND GEATATIONAL NUTRITION.  I want detail information about pediatric and gestational nutrition.
+summarized question 8: Where can I find detailed information about pediatric and gestational nutrition?
+##
+query 9: neurosyphilis.  how can someone have neurosyphilis and there partner not get syphilis
+summarized question 9: Are partners of people with neurosyphilis at risk for syphilis?
+##
+query 10: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 10: Does neurofibromatosis affect congestive heart failure?
+##
+query 11: MESSAGE: its normal to expect mallot fingers to heal bent. at [LOCATION] canada.
+summarized question 11: What are the treatments and prognosis for mallet fingers?
+##
+query 12: SUBJECT: Friedreich's ataxia MESSAGE: I have been told I have Friedreich's ataxia.  I am looking for a treatment to reverse it. I has to do with the chromosome number 9 defective in both of my parents and possible damage to chromosome number 10.  Would you be able to tell me if number 9 is defective in me.
+summarized question 12: Where can I get genetic testing for friedreich's, and what are the treatments for it?
+##
+query 13: SUBJECT: chemical reactions to meds. MESSAGE: What is the clinical name for people who have chemical reactions to medications? Is there a cure?  Thanks
+summarized question 13: What are the treatments for drug reactions?
+##
+query 14: SUBJECT: what are the chemicals or meds in lidocaine? MESSAGE: what are the chemicals or meds in lidocaine?
+summarized question 14: What are the ingredients of lidocaine?
+##
+query 15: SUBJECT: generic valsartan ingredients MESSAGE: I presently take Diovan and my insurance company is suggesting your generic valsartan.  I have celiac disease and can't have any gluten.  Can you tell me if your product is gluten free?
+summarized question 15: What are the ingredients of valsartan and is it gluten free?
+##
+query 16: MESSAGE: What should I do for my excess hair growth?? hair growth on legs ,they appear when I took oral contraceptive only two time ....but the excess hairs on legs are appeared since last year after heavy itching on legs.....!what diagnosis should I do?????
+summarized question 16: What causes excess haur growth on the legs and what are the treatments?
+##
+query 17: I have 6 months twin daughter. M one daughter is ok but another one have blood less issue from start. and she required bool every month. after check . of her, her mother and my. result find out that. My report is ok from Thalassemia. Her mother have minor Thalassemia . and she (daughter) have no Thalassemia but my daughter have Anemia. so doctor give her foli acid and mother milk. but she still problem, now he sagest for bone marrow and maybe she have Anemia.. so give me some guideline that what I do.... thank..
+summarized question 17:

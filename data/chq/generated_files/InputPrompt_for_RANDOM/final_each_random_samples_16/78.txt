@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 1: What are the treatments for bad breath?
+##
+query 2: SUBJECT: Possibility to Treat Eye Injury MESSAGE: When I was 7, my young brother suffered to me an eye injury. He used to play an inject bin that was injected my mother before a night. He directed me the inject bin as he was trying to frighten me for injecting. However, everything changed and he injected the bin to my eye. Now, I'm 21years old and my eye lost the vision and crossed, So what is the solution for me?
+summarized question 2: What are the treatments for vision loss?
+##
+query 3: SUBJECT: Research Report Assistance for Sudden Cardiac Arrest in Adolescence MESSAGE: Hello,               My name is [NAME] and I am a high school freshman at the [LOCATION] in [LOCATION]. I am doing a research report on Sudden Cardiac Arrest in Adolescence and I am contacting you to see if you could send me any articles, newsletters, brochures, research, pamphelts, or any other item(s) that you think might help me with my paper (especially any research that has been done or absolutely any information that you have on my topic). I am very interested in finding out more about this and the progress that has been made. I am mainly interested in researching about causes, symptoms, warning signs, treatment (if any), detection of it, and if it is purely genetic. I was also hoping you could help me better understand Sudden Cardiac Arrest in Adolescence. Let me thank you in advance for anything you send me via e-mail or mail. (In addition, if you have absolutely anything you can send me in the mail, please just tell me and I will gladly provide you with my address.) I hope that one day we can find eliminate Sudden Cardiac Arrest in Adolescence.  Thank you for your time and help, [NAME]
+summarized question 3: Where can I find information on sudden cardiac arrest in adolescents?
+##
+query 4: "SUBJECT: Need help finding information about kidney ""nodules"".  Please help. MESSAGE: Need help finding info. on kidney ""nodule""."
+summarized question 4: Where can I find information on kidney cysts?
+##
+query 5: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 5: Are endometriosis and cysts possible complications of NF1?
+##
+query 6: SUBJECT: rectal prolapse MESSAGE: my rectum is stretched out and I need information mailed to me about surgical options. My address is [LOCATION]
+summarized question 6: Where can I find information on rectal prolapse surgery?
+##
+query 7: Thrush Article.  Maybe I over read the article, but I saw nothing about thrush being transferred from one Person to another. Weather it can happen or can't it should be told somewhere in the article. [NAME]
+summarized question 7: How is thrush transmitted?
+##
+query 8: SUBJECT: Irritation on the gland MESSAGE: There is a problem on my penis gland, due to using lidokaine a lot. The skin is irritating and very sensitive especially when it is wet. Also, the gland is peeling every 3 or 4 days during a week leading to very high stimulating feelings. I have undergone several treatments for skin as well as my neurotic system but with no result at all. Please help me to cure this. Some doctors said there is no treatment for me and there would be no sexual contact forever.
+summarized question 8: What are the treatments for sensitive, irritated skin on the penis?
+##
+query 9: DNA. I know (or think I know) that random mutations can change human DNA. Can environment change DNA?
+summarized question 9: What are the effects of environmental factors on DNA?
+##
+query 10: SUBJECT: Liquid Nutrition without Vitamin K MESSAGE: My Mother (age 84) is often not hungry and would like to try one of those liquid meals, but was told by her doctor not to take anything with Vitamin K in it.  I have looked at the labels on all of those products and they all have vitamin K in them.  Any ideas of where to look?  Thanks so much.
+summarized question 10: What nutritional drinks do not contain vitamin K?
+##
+query 11: SUBJECT: Ankylosing Spondylitis MESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]
+summarized question 11: What are the treatments for Ankylosing Spondylitis?
+##
+query 12: SUBJECT: Pentoxifyline MESSAGE: My husband mistakingly took a pack of 5 in the place of his morning medacation. Is he in any danger? Is there something i should do. He just feels sick at his stomach.
+summarized question 12: What is the treatment for Pentoxifyline overdose?
+##
+query 13: SUBJECT: Mefloquine HCl MESSAGE: My daughter's pediatrician prescribed 1/4 of a 250mg tablet once a week. Based on insurance I could only get 4 tablet for a 30 day supply. The pediatrician thought the remaining 3/4 of the tablet must be discarded once it was exposed to air, but the pharmacist had not heard this. I read through your literature on the drug and also did not see this warning. Can we use the remaining 3/4 of the tablet on additional weeks as long as it is kept at the correct storing specifications? Thank you for your time!
+summarized question 13: What are the storage requirements for Mefloquine HCL?
+##
+query 14: SUBJECT: Cure for hoe in lung MESSAGE: I certainly would like to request for medical for hoe in the lung  Please help all the necessary information on how to cure this hoe in lung, I have be try some medical here they are not help the situation. Please reply immediately with necessary information.
+summarized question 14: What are the treatments for water in the lung?
+##
+query 15: SUBJECT: cirrhosis of the liver question MESSAGE: I have cirrhosis of the liver.  Do high ammonia levels effect breathing?  I have spells of not being able to breath very well. No pain.
+summarized question 15: Can high ammonia levels in the blood affect breathing?
+##
+query 16: SUBJECT: hiatal hernia/exercise MESSAGE: i lost 24 lbs. do you have an exercise i can do to correct me hernia?
+summarized question 16: What exercises will help hiatal hernia?
+##
+query 17: SUBJECT: MRI versus CT scan for TBI/consciousness/S100B. MESSAGE: For adult patients:  Following a TBI what is considered most  conclusive for damage: MRI, MRI with contrast, CT, CT with contrast. Also, do you think whether a person losses consiousness is given too much credence for evaluating a TBI? How long is a S100B able to detect damage following a TBI? Do you yhink this is a valid test for E.D. immediately following injury?  If so, why is it not done, ignorance or expense? Could a patient demand it be drawn?  Thank you
+summarized question 17:

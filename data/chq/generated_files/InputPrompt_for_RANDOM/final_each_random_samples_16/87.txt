@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Dear sir, I feel weak on my body aspecially in the morning. so I want to know the solution to my problem. because this is long time ago. in the body joints knees and arm. thanks.
+summarized question 1: What are the treatments for body weakness?
+##
+query 2: SUBJECT: sideeffects from tecfedera MESSAGE: Hello, My name is [NAME]. I started taking Tecfedera sometime in April. As prescribed started with the 1/2 dose, and immediately had the flushing, swelling of my lips and nose. I called my Dr. he said it's not uncommon take an aspirin with every dose. I did, and  it seemed to lessen. I started the full dose. Everyday I took the pill, my pain increased! After a few weeks, the pain I usually had in flair ups, had now multiplied to an intolerable level! I stopped the Tecfedra. Unfortunately the pain did not! Until today, my pain level is at it maximum. Nothing I've taken such as Percocet, oxycodone etc. will not relieve it!! I've also since developed frequent  sweating and cellulitis on my left thigh and abdomen! Has anyone else had these problems? PLEASE! If so, tell me what they did to stop them! Sincerely, [NAME] cell [CONTACT]
+summarized question 2: What are the side effects of tecfidera?
+##
+query 3: SUBJECT: Chromosomes 6 MESSAGE: i had a son born with a very small part of chromosome 6 missing , caused several surgeries and then death . But I don't find any information , even similar to his . Is there anywhere else I can look for Any information on what would cause this piece to be missing
+summarized question 3: What could cause part of chromosome 6 missing?
+##
+query 4: SUBJECT: critical diabetic. looking for a implant MESSAGE: Hello, I am a type one diabetic. Ive recently heard about the pancreas implants. I just wanted to find out the process in which I would take to try an receive one.
+summarized question 4: What is the latest research on pancreas transplants for type one diabetes?
+##
+query 5: SUBJECT: imitrex to be prescriped to 72 year old woman MESSAGE: I was in hospital for pancretitis.  On the 2nd day I was doing ok but came down with a migraine headache.  I have not had one in 2 years. but have the imitrex  tab.  which I did not have in the hospital  They gave me Toradol injection and it worked.  but they told me I should not take imitex as an older person.  I plan to go to my internist.  but decide to ask this question.   thanks
+summarized question 5: Is imitrex contraindicated in the elderly?
+##
+query 6: SUBJECT: MMR second dosage by mistake MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 6: Is an extra dose of MMR vaccine harmful?
+##
+query 7: williams sydrome conditon.  i need to send me more information about Williams Syndrome and some tips how to educate people with this disorder.I hope having news from you soon!!thank you
+summarized question 7: Where can I find information and educational materials on williams syndrome?
+##
+query 8: SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?
+summarized question 8: What is the prognosis for someone with homozygous MTHFR A1298C?
+##
+query 9: [NAME] submitted the following request on [DATE]. They were searching from . NLM product:  Local Legends Web browser:  Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12F69 Safari/600.1.4 State: MO Country: NONE SPECIFIED E-Mail address: [NAME] Subject: I have a Question &Need a Response Message: My daughter was born in 1988 with a sacralcoccygeal teratoma tumor. [NAME] did there surgery to remove the tumor. [NAME] has grown up and is now having some problems with scar tissue and digestive issues. We would like to know if she could recommend a doctor to follow up with [NAME].  She is going to see [NAME],a plastic surgent on [DATE]. Do any other patients have complications from such a large tumor? Any information to help us would be  greatly appreciated. If it would be possible, I would love my daughter to meet [NAME], after all she was the one that saved my daughter's life. She is an amazing doctor. Thank you, [NAME]
+summarized question 9: What are the complications from sacralcoccygeal teratoma tumor removal, and how can I find physician(s) who specialize in it?
+##
+query 10: SUBJECT: are coleus and caladiums poisonous to pets MESSAGE: Are these two plants considered poisonous to pets?  The vet said to call you and check about this.
+summarized question 10: Are coleus and caladiums poisonous to pets?
+##
+query 11: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 11: Is Astigmatism related to Aarskog Syndrome?
+##
+query 12: "SUBJECT: meaning of label directions MESSAGE: asked if med label says ""take with food"", how much food is required and found no asnwer.  not supposed to eat at nite when med is to be taken.     no answer."
+summarized question 12: "What does ""take with food"" mean on medication labels?"
+##
+query 13: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 13: What is the half life of Chlordiazepoxide?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 14: What are the early symptoms of Stiff person Syndrome?
+##
+query 15: SUBJECT: questins MESSAGE: i am looking for the latest evidence based practice on guidelines for assessing and treating Alcohol and Opiate withdrawal. Thanks.
+summarized question 15: What are the latest evidence based treatments for alcohol and opiate withdrawal?
+##
+query 16: MESSAGE: Dear Sir I am newly marrired. Now from few days i am suffering erection problem. Pls suggest me. Thanks [NAME]
+summarized question 16: What are the treatments for erectile dysfunction?
+##
+query 17: I have been diagnosed with bipolar and fibromialgia and have been told I cannot take lyrica with having been put on medication for bipolar as well as the issue with side affects. Is this true?
+summarized question 17:

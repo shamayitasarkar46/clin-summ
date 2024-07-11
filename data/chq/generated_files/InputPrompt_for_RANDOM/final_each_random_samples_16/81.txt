@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm 33 years old and got diagnosed with rhabdomyosarcoma stage 4 last December. I went through 13 weeks on intense chemotherapy and my last scan showed that I'm in remission. I'm looking for more guidence as far as a stem cell replacement goes.
+summarized question 1: Is stem cell therapy appropriate for stage 4 rhabdomyosarcoma in remission?
+##
+query 2: SUBJECT: Tailbone trauma MESSAGE: are there any risks for an elderly person to fly with a cracked or bruised tailbone? thank you in advance
+summarized question 2: Can I fly with a tailbone injury?
+##
+query 3: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 3: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 4: SUBJECT: Best Disease MESSAGE: There are 38 members of our family that have Best Disease. All members of the [NAME] family. Most of us live in [LOCATION].
+summarized question 4: Where can I find information on Best disease, including inheritance patterns?
+##
+query 5: SUBJECT: Does Tolnaftate work to help nail fungus? MESSAGE: Does Tolnaftate help with toe nail fungus?
+summarized question 5: Is Tolnaftate prescribed for toenail fungus?
+##
+query 6: SUBJECT: New Hep C Virus Treatments MESSAGE: In 2006-2007, at the VAMC in [LOCATION], i went through the HEP C Treatment using Ribavirin and Interferon. My viral load was undetectable immediately at the BOT. I stayed on the treatment faithfully and painfully for a4 months; when at the EOT my viral load was still indictable. I was considered a success. When i came back after 6 months for a checkup, it was found my HCV had relapsed. Now I want to know what treatments are now available to me. I hear of these new wonder cures that have been approved in the past year and i want to be retreated. Please send me all the info you have on these new treatments while i wait here and die at age 45. I was exposed with the HCV virus from a tattoo while in the armed forces overseas.
+summarized question 6: What new treatments are available for recurrent hepatitis C?
+##
+query 7: SUBJECT: family lineage with three types of genetic disorder MESSAGE: In our family line there are three children with different genetic disorders, i want to know if this is a congenital condition that could affect future offspring in this lineage.  One has downs syndrome, one had wolf herschhorn, and one has 46xy, 46xxy and 46xxxy; together referred to as Mosaic. they are all third cousins, there are many other children who will one day possibly have offspring is there a danger, should each have genetic testing
+summarized question 7: What are the inheritnce patterns of Downs Syndrome, Wolf Hirschhorn Syndrome, and 46xy, 46xxy, 46xxxy mosaicism?
+##
+query 8: MESSAGE: My 3yrs old boy found my bleach at the laundry and I suspect he swallowed a bit of it. How do I treat this pls.
+summarized question 8: What are the treatments for bleach poisoning?
+##
+query 9: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 9: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 10: SUBJECT: Bone Marrow Cancer MESSAGE: hello Sir, i want to ask something about bone marrow marrow cancer.... its 22 year age... and have many symptoms of BMC..  often feel pain in bones....  i don't know the stage.... is treatment is possible at any stage???? how i can find stage??? if treatment is possible  how long(in months) it takes to recover???  kindly reply me...
+summarized question 10: Where can I find informaton on bone marrow cancer, includinf diagnosis, treatment, and prognosis?
+##
+query 11: SUBJECT: foreskin MESSAGE: I want to regrow my foreskin back. When will stem cell be able to regrow foreskin.
+summarized question 11: Is stem cell therapy used to regrow foreskin?
+##
+query 12: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 12: What are the treatments for loss of appetite?
+##
+query 13: SUBJECT: POMEGRANATE MESSAGE: Rosuvastatin (Crestor) Rosuvastatin (Crestor) is broken down by the body in the liver. Drinking pomegranate juice might decrease how quickly the liver breaks down rosuvastatin (Crestor). This might increase the effects and side effects of rosuvastatin (Crestor).  My question is what about Lipitor?
+summarized question 13: Does Lipitor interact with pomegranate juice?
+##
+query 14: SUBJECT: NIFEDIPINE MESSAGE: Hi, i have been taking nifedipine for about 5 years but only take it in the winter. I take it to treat my raynauds syndrome. During winter when i take the nifedipine i have regular nose bleeds that last up to 20 mins, i want to find out if this relates to the medication i am taking. Thanks for any help you can provide
+summarized question 14: Are nosebleeds a side effect of nifedipine?
+##
+query 15: SUBJECT: Can a 40 year old get throat cancer... MESSAGE: I have drank a lot of alcohol and lots of drugs. Not very many fruits and vegetables. This year I have gotten strep throat twice and sore throats with ear aches. Antibiotics have taken 4 different kinds this year alone. Raspy voice, very painful when swallowing.
+summarized question 15: What are the risk factors and symptoms of throat cancer?
+##
+query 16: SUBJECT: Gastroesophageal Reflux Disease MESSAGE: Can GERD BE CURED? I AM SUFFERING FROM THIS DISEASE FOR ALMOST THREE YEARS NOW.I HAVE GONE TO MANY HOSPITALS  BUT STILL CAN'T BE CURED.I HAVE BEEN GIVEN OMEPRAZOLE CAPSULES MANY TIMES.PLEASE HELP ME.
+summarized question 16: What are the treatments for GERD and can it be cured?
+##
+query 17: SUBJECT: time of results. MESSAGE: When a person start halt sildenafil...How long before their breathing, shortness of breath, &fatigue issues go back to normal..?
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: assisted suicide MESSAGE: physician assisted suicide legal in any state?  what is someone is dying and they really want to die with dignity before the disease ravages their mind?
+summarized question 1: What states allow physician assisted suicide?
+##
+query 2: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 2: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 3: SUBJECT: Pessary in while doing Kegels? Yes or no? MESSAGE: Hi. I have been using a pessary for a number of years and was happy with the help it provided. Lately I've been experiencing prolapse worsening during and after particular exercises so I reduced those type of exercises and decided to do more kegel exercises. My question is should I remove the pessary while doing kegel exercises?
+summarized question 3: Should I remove my pessary while doing Kegel exercises?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am keen to know about stem cell bio-engineering technology to regrow a complete human tooth with its root, its progress and expected releasing year or clinical availability I have been reading some articles related to the same for sometimes and waiting for the outcome. How much time it will take to be available at clinic?
+summarized question 4: What is the latest research on stem cell bioengineering of a human whole tooth, including progress and availability?
+##
+query 5: SUBJECT: Bendectin MESSAGE: In 1964, I began taking Bendectin for morning sickness and with each subsequent pregnancy I continued to do so. My third child developed a meningioma of the brain at 11 years old and currently, my daughter, 47 years old, has been diagnosed with a lesion(?) of the brain. I am justifiably concerned about my daughter's condition and wonder if I contributed to her status. I am only interested in helping her and not for any litigious reason. If someone also had a similar situation and was treated positively, I would so appreciate knowing about it. Thank you and God bless.
+summarized question 5: What birth defects are associated with taking bendectin during pregnancy and are there any treatments?
+##
+query 6: Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.
+summarized question 6: Where can I find information about Beckwith-Wieddeman Syndrome?
+##
+query 7: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 7: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 8: polymicrogyria. My 16 month old son has this. Does not sit up our crawl yet but still trying and is improving in grabbing things etc etc. Have read about other cases that seem 10000 time worse. It's it possible for this post of his brain to grown to normal and he grow out of it?
+summarized question 8: What is the prognosis for polymicrogyria?
+##
+query 9: SUBJECT: Seborrheic Keratosis MESSAGE: I am an African American women who have been diagnose with seborrheic keratosis on my face.  Do you have a web site that I can obtain the products so that I can clear up my face.  Please advise.  Thank You
+summarized question 9: What are the treatments for seborrheic keratosis, and where can I buy them?
+##
+query 10: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 10: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 11: "SUBJECT: cosmetic leg shortening surgery MESSAGE: Hi,  I am a tall girl(5'8""), who wants to undergo leg shortening sugery of 2 inches for cosmetic purpose. It would be good if I can get more information about it. I would like to know the cost of this surgery, the recovery time and the risks associated with it. How long should I stay in the hospital?  Thanks and regards"
+summarized question 11: Where can I find information on leg shortening surgery, including risks, cost, and recovery time?
+##
+query 12: SUBJECT: High Blood Pressure MESSAGE: I know you may not answer this but my blood pressure comes up at night when I am asleep. I take four medicines. I have asked doctors why this happens and no one knows. This morning at four A.M. It was 164 and I took a clonidine to help get it done. It worries me so.
+summarized question 12: What causes a rise in blood pressure when asleep?
+##
+query 13: SUBJECT: Mefloquine HCl MESSAGE: My daughter's pediatrician prescribed 1/4 of a 250mg tablet once a week. Based on insurance I could only get 4 tablet for a 30 day supply. The pediatrician thought the remaining 3/4 of the tablet must be discarded once it was exposed to air, but the pharmacist had not heard this. I read through your literature on the drug and also did not see this warning. Can we use the remaining 3/4 of the tablet on additional weeks as long as it is kept at the correct storing specifications? Thank you for your time!
+summarized question 13: What are the storage requirements for Mefloquine HCL?
+##
+query 14: SUBJECT: Physical activity MESSAGE: .... Should I continue my daily exercise program ( bike riding , occasional softball practice , and dog walking ) now that I have had the Voster virus flare up and have been treated by a Dr . ? I se that the more muscle activity I perform , the more sore and fatigued I get .... Thank You much
+summarized question 14: Should I exercise with Zoster virus?
+##
+query 15: SUBJECT: Bedlam MESSAGE: This pesticide was used to get rid of bed bugs where I live. It was sprayed in areas I had to sleep in, sleep sofa. I wasn't told about it and slept through 4 applications over a 10 week period. I have one lung and severe COPD. Should this have been used knowing about my respiratory issues>
+summarized question 15: What are the side effects of bedlam insecticide?
+##
+query 16: SUBJECT: autonomic and arthritis . MESSAGE: Hi there , i have a few questions about autonomic disorders combined with arthritis ? My girlfriend has arthritis and autonomic disorder. I am really worried about her and want to help her, is there any new medications out there for treatment of autonomic disorder ? Also her autonomic disorder effects her heart lungs and blood pressure , is this condition fatal ? How long does someone live with this condition ?
+summarized question 16: Where can I find information on autonomic disorder, including symptoms, treatment, and prognosis?
+##
+query 17: SUBJECT: Raynauds Syndrome. MESSAGE: My sons middle toe turned white after being in his dorm for a few hours without heat. We were wondering why all his toes did not change colors.
+summarized question 17:

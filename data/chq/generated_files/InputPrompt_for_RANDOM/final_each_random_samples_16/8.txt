@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: meloxicam MESSAGE: Does this have to be taken everyday for it to work?  Can I just take it as needed or does it have to build up in my system....
+summarized question 1: How should meloxicam be used?
+##
+query 2: I have had Tourette syndrome since age seven. Recently at the age of 72, I had an implantation of a shunt for hydrocephalus.  *What is the probability of one having both hydrocephalus and Tourette syndrome? *Is there any evidence that indicates that the head and neck tics of Tourette syndrome may be a cause of hydrocephalus?
+summarized question 2: Is there a connection between tourette syndrome and hydrocephalus?
+##
+query 3: SUBJECT: Vasectomy MESSAGE: On the text that says it is very rare that the vas deferens can grow back and my partner pregnant ... So is it possible? ... Is that my partner got pregnant, I have vasectomy 16 years .. [CONTACT]     thanks
+summarized question 3: What is the late failure rate of vasectomy?
+##
+query 4: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 4: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 5: "My sister was diagnosed with meningitis 13 years ago and lost her sight. She's had multiple doctors tell her that she's lying about not being able to see or that they do not see why she can't see given that her eyes reacts to light. Fast forward 13 years, I spoke with her today and she was a little overjoyed. She said that ""she's been having good days"". I asked her to elaborate and she said that sometimes she can see shadows and sometimes she can see light. From my self-knowledge, I thought that this kind of vision loss could not be repaired. I'm writing you all for possible answers or if you could point me in the right direction toward getting them. Thanks in advance."
+summarized question 5: Can vision loss due to meningitis be restored?
+##
+query 6: MESSAGE: I have been dealing with an autoimmune disease for almost 4 years now, I've been tested for many things and the doctors can't seem to find what excactly is wrong. It began with pain, swelling and stiffness in my feet and  toes.A lot of the pain is joint stiff n ess and my skin feels like its being burned. Over time it has moved into my knees also. I am always tired. Recently I've been getting pains in my stomache and feeling sick. Does any of this sound like Lupus?? I've tested negative for it before, but the more I read about it I feel that's what i could have. Any ideas would be greatly appreciated.
+summarized question 6: What are the symptoms of lupus?
+##
+query 7: hello medineplus, i am a student an i am suffering from muscular dystrophy...i just want to know that, is muscular dystrophy belongs to locomotor disability? thanks,  yours sincerely
+summarized question 7: What is a locomotor disability and is it related to muscular dystrophy?
+##
+query 8: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 8: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 9: MESSAGE: Sometime during March I overdosed on Benadryl. I got all the symptoms but survived without medical treatment. I am just curious as to if any damage happened.  Like Neurological.
+summarized question 9: What is the prognosis for benadryl toxicity?
+##
+query 10: Customer Service Request. I am looking for a company/research facility that can do genetic testing on the UGT group of genes.  Does such a place exist?  How would I go about getting this type of testing done?
+summarized question 10: Where can I find information on genetic testing for UGT abnormalities?
+##
+query 11: SUBJECT: glossopharyngeal neuralgia MESSAGE: how long would i take the medication. what is the success rate of surgery. can you tell me how much radiation method work and where is the treatment available in [LOCATION]
+summarized question 11: What are the treatments and their success rates for glossopharyngeal neuralgia?
+##
+query 12: SUBJECT: PROBLEM OF POLYUREA MESSAGE: RESPECTED MEDICAL TEAM ,MEDLINEPLUS I AM A pharmacist by profession and here I WANT TO GET SOME INFORMATIONS/ SUGGETIONS REGARDING THE ABOVE MENTIONED SUBJECT. THE CASE HISTORY IS THAT A  FEMALE AGED PATIENT OF 65 YEARS OLD IS SUFFRING IN POLY UREA CONDITION.SHE IS NOT A PATIENT OF diabetes.SHE FACEING A PROBLEM OF EXCESSIVE URINE AT NIGHT TO GET UP.NO CGANGE IN THE COLOR CHANG/BLOOD IN URINE,BURNING FEVER,PAIN.NOT TAKING ANY DIRETICS. ALTOUGH SHE IS A HYPERTENSIVE PATIENT.gIVE ME SOME SUGETIONS TO TREAT SUCH CASE/TEST .REGARDS
+summarized question 12: What are the tests and treatments for polyuria?
+##
+query 13: garcinia Cambodia.  In the USA and elsewhere, plenty of Adds promoting the extract of this plant(Garcinia  cambodia)to fight obesity. Any reliable information on this claim will be appreciated
+summarized question 13: Does Garcinia Cambogia help weight loss?
+##
+query 14: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 14: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 15: SUBJECT: Need information abouot Folgard OS MESSAGE: Need information about Folgard OS. I am in U.S.A. but that wasn't listed as a choice of countries!
+summarized question 15: Where can I find information on folgard OS in USA?
+##
+query 16: SUBJECT: just a question MESSAGE: hi..just wanna ask... 1.how the aspirin can affect the ear? 2. what is the cause of suddenly ringging in the ear? isn't dangerous? tq.. :)
+summarized question 16: What causes ringing in the ear, and can aspirin affect the ear?
+##
+query 17: Hi to whom this may concern: I have a non alcoholic fatty liver and when I seen my consultant he say I don't have to see Him again for 5 years and advised me to drink 3 cups of coffee a day, But I can't drink coffee at all, So I email a consultant asking if he new of a coffee tablet, So he email me back saying it properly glutathione-s-transferase enzymes in the coffee so am looking for a cheap tablet which contains.these enzymes to help repair my liver I also only have one kidney which am on long term antibiotics for I do hope you can help.  I look forward to your reply
+summarized question 17:
