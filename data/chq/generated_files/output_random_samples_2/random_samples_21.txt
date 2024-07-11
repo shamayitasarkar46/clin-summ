@@ -1,0 +1,3 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1070, "inputs": "when you check your blood with the insulin meter what is a good number", "target": "What is the normal range for insulin?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 466, "inputs": "MESSAGE: I have clostridium and am testing pos for Lyme need info. [NAME]", "target": "Is there a connection between clostridium and Lyme disease?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 3, "inputs": "Williams' syndrome I would like to have my daughter tested for William's syndrome. Could you please tell me where I would go or who does it in my area?  Thank you!!", "target": "Where can I get genetic testing for william's syndrome?"}}

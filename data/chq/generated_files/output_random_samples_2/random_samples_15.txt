@@ -1,0 +1,3 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1064, "inputs": "what are the possible side effects of not taking olanzapine after having tanker it for a long period of time", "target": "Does olanzapine have withdrawal symptoms?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 433, "inputs": "neurosyphilis.  how can someone have neurosyphilis and there partner not get syphilis", "target": "Are partners of people with neurosyphilis at risk for syphilis?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 52, "inputs": "Multiple orgasm.  If I get a  vesectomy will I still be able to have multiple orgasms? I know it's not even usual to have them as a guy, which is why I'm wondering if I would still have them if my vasectomy happened?", "target": "What is the effect of vasectomy on orgasms?"}}

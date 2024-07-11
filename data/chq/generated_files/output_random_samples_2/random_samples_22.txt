@@ -1,0 +1,3 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1071, "inputs": "scrotum swelling scarring from water retention what ointment, cream to treat", "target": "What is the treatment for swollen and scarred scrotum? "}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 566, "inputs": "irregular bowl movements.  problems in bathroom.   is affecting my work/ and or sex life", "target": "What are the treatments for irregular bowel movements?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 981, "inputs": "SUBJECT: adrenoleukodystrophy MESSAGE: A child I have been asked to work with has been diagnosed with this condition.I am so far unable to find info pertaining to this illness. Can you help??", "target": "Where can I find information on adrenoleukodystrophy? "}}

@@ -1,0 +1,3 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1088, "inputs": "Our family will go to Manila and Thailand in December and January. Please recommend any vaccinations that we should have. Thanks!!!", "target": "What vaccination is needed for travel to the Philippines and Thailand?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 859, "inputs": "SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.", "target": "What are the treatments for bad breath?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 202, "inputs": "SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.", "target": "What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?"}}
