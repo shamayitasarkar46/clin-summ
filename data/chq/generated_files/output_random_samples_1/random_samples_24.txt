@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1073, "inputs": "what electrolyte do you need to watch when someone is on a water pill and what would be a good food source for this electrolyte?", "target": "What electrolytes do I need if I am on a water pill?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 680, "inputs": "SUBJECT: vomiting blood clots MESSAGE: Vomiting blood clots. Very small amounts", "target": "What does vomiting blood clots indicate?"}}

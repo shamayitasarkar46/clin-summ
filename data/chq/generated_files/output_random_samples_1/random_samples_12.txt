@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1061, "inputs": "why does the united states have a high mortality rate of covid-19 than other countries", "target": "Why is US COVID-19 mortality rate high?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 686, "inputs": "SUBJECT: nail problem MESSAGE: My son is in problem of neals so what. I do which. Medicine is better", "target": "Which medicine is better for a nail problem?"}}

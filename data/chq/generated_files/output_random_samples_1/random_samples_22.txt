@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1071, "inputs": "scrotum swelling scarring from water retention what ointment, cream to treat", "target": "What is the treatment for swollen and scarred scrotum? "}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 674, "inputs": "SUBJECT: Congestive Heart Failure MESSAGE: Why is my daily fluid intake limited to 2 liters?  What is so special about 2 liters as opposed to any other amount?", "target": "What is the recommended daily fluid restriction for Congestive Heart Failure?"}}

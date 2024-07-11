@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1063, "inputs": "when to start anohter round of antibiotics? how long can you wait to start a new dose of an antibiotic? ", "target": "How long should I wait between rounds of antibiotics?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 799, "inputs": "\"SUBJECT: Need help finding information about kidney \"\"nodules\"\".  Please help. MESSAGE: Need help finding info. on kidney \"\"nodule\"\".\"", "target": "Where can I find information on kidney cysts?"}}

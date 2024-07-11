@@ -1,0 +1,2 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1103, "inputs": "I am seeking information regarding wandering/lazy eye correction. I have suffered from this condition since I was a child. Please forward any pertinent information. Thank you.", "target": "Is it possible to fix wandering/lazy eye in adults?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 645, "inputs": "SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help", "target": "What causes fibroid tumors on the spine?"}}
