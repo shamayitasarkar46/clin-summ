@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: In Vitro Fertilization Hi. I am interested to have In vitro Fertilization (Test Tube Baby). May I know the risk and the cost. Thanks
+summarized question 1: What are the risks of in vitro fertilization and how much does it cost?
+##
+query 2: SUBJECT: Peptic Ulcers & Tylenol MESSAGE: I have a history of peptic ulcers, so I don't take aspirin or anything that contains it. However, I still experience ulcerative pain when I take Tylenol, especially on the second day of it's administration in recommended doses.   Why is this so?
+summarized question 2: Can tylenol cause ulcerative pain?
+##
+query 3: cinca sindrome. where the treatment of cinca sindrome.
+summarized question 3: What are the tratments for cinca syndrome?
+##
+query 4: Im suffering from Beta Thalassemia Major from birth. I have been transfusing every 22 days. Now i heard about a tablet named mylostat 500 (Hydroxyurea). I wanted to know wheather the same will be suited for me.
+summarized question 4: Is mylostat 500 a treatment for Beta Thalassemia Major?
+##
+query 5: hello doctor  my frnd is suffered with  chronic myelogenous leukemia (cml) (age 47)..she is treated with a medicine  called Gleevec since 4 months ..doctor said took blood test for every week ..the problem is  platelet count rapidly decreased week by week ...last blood report shows platelet count as 90000,now her count droped to 750000..what should we do...plz help me..
+summarized question 5:

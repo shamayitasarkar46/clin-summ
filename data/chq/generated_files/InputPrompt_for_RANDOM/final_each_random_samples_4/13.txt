@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Dear Sir Several diseases including skin cancer and hypovitaminosis D occur due to migration of dark skinned and light skinned people to each others habitats, I want to know what latitude woud be best for Fitzpatrick type IIIa skin, I mean, I'm moving to Portland, Maine is my skin best suited for UV rays there and what is the best skin type for Portland Maine, with regards on the ozone depletion that expose us to more UV,thanks. yours, [NAME]
+summarized question 1: What is the best latitude for someone with Fitzpatrick type III skin?
+##
+query 2: SUBJECT: pitting edema MESSAGE: s it normal for the skin on my legs to have pitting edema even though my legs are not swollen it is there weather they are or not. I feel like my legs are made of playdough. LOL. but seriously I have rheumatoid arthritis,vasculitis,fibromyalgia.and idiopathic urticaria.
+summarized question 2: What causes pitting edema?
+##
+query 3: MESSAGE: What if someone throw up blood just a little got a little light headed and just laid down and went to sleep they said they will sleep it off but I want to take they said I'm fine. What should I do
+summarized question 3: Should someone who vomited blood and  felt lightheaded go to sleep?
+##
+query 4: DNA. I know (or think I know) that random mutations can change human DNA. Can environment change DNA?
+summarized question 4: What are the effects of environmental factors on DNA?
+##
+query 5: what are the effects when you take testosterone injections with sudafed 20 mg at the same time what’s the effects
+summarized question 5:

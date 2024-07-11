@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Multiple orgasm.  If I get a  vesectomy will I still be able to have multiple orgasms? I know it's not even usual to have them as a guy, which is why I'm wondering if I would still have them if my vasectomy happened?
+summarized question 1: What is the effect of vasectomy on orgasms?
+##
+query 2: SUBJECT: Louis Bar Syndrome MESSAGE: My brother died young from Louis Bar Syndrome. Of six pregnancies, four children either did not survive pregnancy or died very young. I would like to know is it possible that other children (like me) could have the syndrome symptoms to a lesser or greater degree:i.e., is there a continuum???
+summarized question 2: What are the symptoms of Louis Bar Syndrome?
+##
+query 3: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 3: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 4: SUBJECT: Muscle function loss of Left Arm MESSAGE: Dear Doctor,  I am [NAME] from [LOCATION] ,first of all thank you very much for this article and its a great service.I am writing this email for my loving father ,He lost his left arm muscle because of nerve damage but he can access his finger .he cannot lift his hand without help of right hand.we already get consults from many doctors but there is no result found ,We are from village and poor family background ,i don't have much money to give good treatment for my father .so i request you please recommend a proper treatment for my father .this is my kind request to save my father . for more details required please feel free to contact me  my Email:-[CONTACT] My contact number :-[CONTACT]  With lot s of expectations,  [NAME]
+summarized question 4: What are the treatments for nerve damage in the arm?
+##
+query 5: My grandson now 3yr6mo.dx at abt 9mons w/pehh and ger and bad reflux. surgery finally done and nissen has been in place ever since. Glad my daughter n son in law r both nurses. Behaviors entrenched from reflux discomfort --misery. His hand grip worries me, therapy in place for that. Visiting over Christmas I’m scared of disrupting his detailed feeding protocol. He’s finally on the wt. charts. So rare, lay people say: let him get hungry and he’ll eat. That’s so cruel it makes be angry so I don’t talk. Any info on what grama can do to ease my daughter’s workload. Read more abt? intimidating.
+summarized question 5:

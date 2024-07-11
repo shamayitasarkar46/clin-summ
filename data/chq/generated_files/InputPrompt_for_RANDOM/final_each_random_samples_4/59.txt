@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I would like to know if there is a side affect from taking mestinone while tanning in a booth.  it seems if have a rash on back and burning on chest and stomach which has never happened before I started taking mestinon.   are we more sensitive to sun while on this medication?
+summarized question 1: What are the side effects of mestinon and tanning?
+##
+query 2: SUBJECT: claw hand MESSAGE: I have a claw hand and I would like you to mail me information regarding treatments for it. My address is [LOCATION] Thank you.
+summarized question 2: What are the treatments for claw hand?
+##
+query 3: SUBJECT: kalydeco MESSAGE: hello I have cystic fibrosis, and I want to buy a kalydeco, for buy it my government gave me money, my doctor agree that I am ready to take kalydeco, if you can tell me prices for 3 month kalydeco. best regards [NAME] [LOCATION]
+summarized question 3: What is the cost for three months of kalydeco?
+##
+query 4: SUBJECT: Peptic Ulcers & Tylenol MESSAGE: I have a history of peptic ulcers, so I don't take aspirin or anything that contains it. However, I still experience ulcerative pain when I take Tylenol, especially on the second day of it's administration in recommended doses.   Why is this so?
+summarized question 4: Can tylenol cause ulcerative pain?
+##
+query 5: I have been suffering from digestive problems for 30 years. It has recently flared up bad and I am looking for ideas to try to heal. I was diagnosed with IBS at 13.   I was curious about the servings in the C-IBS Formulation. How's much of each in mgs? How many times a day? I want to take a more holistic approach as I'm going to be 42 and i am tired of suffering and the side effects of my anti nausea meds that left me with an eye tic. If any information can be given I would be greatly appreciative.
+summarized question 5:

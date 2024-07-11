@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: dupuytren's contracture.  I'm looking for a NATURAL remedy for dupuytren's contracture. do you have any suggestions. Thank you. [NAME]
+summarized question 1: What are the natural treatments for dupuytren's contracture?
+##
+query 2: Dear Sir/Madam I'm [NAME] from [LOCATION], I'm 35 years old , I'd like to ask you a Medical Question as I've got an optic nerve atrophy in my eye and i lost my vision since i was 8 years old , Now I've got one eye just , So please is there treatment for optic nerve atrophy ! Please see the attachment which is a Medical report from [LOCATION], Best Wishes [NAME]
+summarized question 2: What are the treatments for optic nerve atrophy?
+##
+query 3: SUBJECT: pitting edema MESSAGE: s it normal for the skin on my legs to have pitting edema even though my legs are not swollen it is there weather they are or not. I feel like my legs are made of playdough. LOL. but seriously I have rheumatoid arthritis,vasculitis,fibromyalgia.and idiopathic urticaria.
+summarized question 3: What causes pitting edema?
+##
+query 4: SUBJECT: Bone-Joint degeneration in the hand or fingers? MESSAGE: I notice that the joints or bones in my  hands hurt sharply when working, cooking and lately I have been dropping things from my left hand; even a sudden twist send shock thru my body-What is this?
+summarized question 4: What causes hand pain?
+##
+query 5: SUBJECT: don't know what to do about keeping dressing on my 17 month olds stitches. MESSAGE: I have a 17 month old that had stitches on his left index finger and he wont keep on the dressing / bandage. please help me to figure out what to do.
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: staphy treatment MESSAGE: Gud day, please ham having staphylococcus and I need drugs to take and your advice..my result show &quot;scanty&quot;..i 'll be expecting your reply..thank you and God Bless you
+summarized question 1: What are the treatments for staphylococcus?
+##
+query 2: SUBJECT: Frontometaphyseal dysplasia MESSAGE: My son has Frontometaphyseal Dysplasia ehich is listed on your site. Do you have any information realgarding how to contact anyone else with this syndrome? Kind regarfs
+summarized question 2: Where can I find support groups for people with Frontometaphyseal dysplasia?
+##
+query 3: "SUBJECT: is there any medicines for peristaltic movements? MESSAGE: I V[NAME] From [LOCATION] which is located at INDIA. I am a patient of less peristaltic movements which was digests the eaten food in 3 to 4 hours... In normal humans which was digests the eaten food in 2 to 3 hours...  I visited several hospitals in [LOCATION] which is located in INDIA...  When i was visited [LOCATION]"" Hospital at HYDERBAD in the year of 2010..  There Doctors has told there is no medicins for this problem..  Is  there any medicines to improve my  peristaltic movements?  Please Replay to My E-mail[CONTACT] and My Mobile Number is: [CONTACT]  Thanking You taking my request...."
+summarized question 3: What are the treatments for slow peristaltic movements?
+##
+query 4: SUBJECT: adenoma carcinom pancreatic MESSAGE: Patient 65 year,without any other disorder has now diagnose solid adenocarcinom with 4 hepar metastases.IS possible treatment wit oncolytic virus with Gemcitabine? Who and where make it?
+summarized question 4: What are the treatments for pancreatic adenocarcinoma?
+##
+query 5: Good morning, I'm not sure where to start with this so am hoping you could point me in the right direction please? My husband recently saw a specialist in relation to his elbow. He was told he would need an elbow reconstruction. The specialist mentioned that someone in the US had made something to fix this problem but even though it was patented, it didn't sell so it is now not made anymore. Would you know what this was and called, and who I could get in contact with about it please? We live in  Australia. My husband is a keen sportsman and is not taking this news very well as he's been told he won't be able to play sport again. Any help would be greatly appreciated.
+summarized question 5:

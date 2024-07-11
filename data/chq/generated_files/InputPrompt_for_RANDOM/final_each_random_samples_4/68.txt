@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Customer Service Request. I am looking for recent information and treatment for Ledderhose Disease also know as Plantar Fibromotisis. I would be interested in doctors specializing in this disease.
+summarized question 1: Where can I find information on Ledderohose disease, including the latest treatments, and how can I find physician(s) who specialize in it?
+##
+query 2: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 2: What are the symptoms of chlamydia?
+##
+query 3: I have painful sores around my genitals..what could  be..i realy need an answer urgently or to talk to one of your consultants
+summarized question 3: What causes genital sores?
+##
+query 4: SUBJECT: Bone Marrow Cancer MESSAGE: hello Sir, i want to ask something about bone marrow marrow cancer.... its 22 year age... and have many symptoms of BMC..  often feel pain in bones....  i don't know the stage.... is treatment is possible at any stage???? how i can find stage??? if treatment is possible  how long(in months) it takes to recover???  kindly reply me...
+summarized question 4: Where can I find informaton on bone marrow cancer, includinf diagnosis, treatment, and prognosis?
+##
+query 5: Lewy Body Disease. I have been researching Lewy Body Disease and have a few questions.1) Is this disease hereditary2) Does alcoholism play a role in the beginning process of this disease3) What are the initial symptoms of the diseaseAny information you could forward would be greatly appreciated.
+summarized question 5:

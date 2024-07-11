@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 1: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 2: Was giving pudding loaded with steroids I am allergic to steroids need to know way to flush system of them since they attack organs like poison. [NAME] [LOCATION]
+summarized question 2: How can I flush steriods from my system?
+##
+query 3: I would appreciate it if you can send me or email  me  some exercises for a person who is a stroke victim. I am unable to walk due to a  arthritic knee. otherwise I am flexable..  my home address is [CONTACT], My email is [CONTACT] (mailto:[CONTACT]) Thank you, [NAME]
+summarized question 3: What are good exercises for stroke recovery in people with knee arthritis?
+##
+query 4: SUBJECT: Peptic Ulcers & Tylenol MESSAGE: I have a history of peptic ulcers, so I don't take aspirin or anything that contains it. However, I still experience ulcerative pain when I take Tylenol, especially on the second day of it's administration in recommended doses.   Why is this so?
+summarized question 4: Can tylenol cause ulcerative pain?
+##
+query 5: Can IBS be cured with the patent Medicines      say Mebverine or others as prescribed the      Doctor.       Does Probiotics are helpful in controlling       the IBS. Some says Peeper Mint can also be       suitable. These are few general questions       as regards IBS and not personal.
+summarized question 5:

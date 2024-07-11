@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: HEP C MESSAGE: IS THERE A DRUG TO TAKE IF YOU HAVE IN THE LAST 4 DAYS BEEN EXPOSED TO CONTAMINED BLOOD OF A HEP C PERSON. IE PROFOLACTIC DRUG TO LESSEN THE CHANCES OF INFECTION? IE LIKE TRUVADA FOR HIV?
+summarized question 1: Is there a prophylactic drug for exposure to hepatitis C?
+##
+query 2: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 2: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 3: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 3: What is the life expectancy of someone with free trisomy 13?
+##
+query 4: Spinal Cord.  My Brother is 58 years old have spinal cord problem his both legs he cannot move them wheelchair user his legs are very heavy as he had urinaire infection after the other now the test comes positive and the infection still going cannot clear so his Doctor cannot give him any treatment for his main problem (Spinal cord) I want to help him what he should do I want to get advice please baging you for help and advice, many thank you
+summarized question 4: What are the treatments for urinary tract infection?
+##
+query 5: MESSAGE: I have been dignosed Bladder Cancer and in [DATE] surgery Radical cystoprostatectomy with bilateral PLND under EA/GA was done.I would like to know if the stoma closure is possible? Request to please guide me.
+summarized question 5:

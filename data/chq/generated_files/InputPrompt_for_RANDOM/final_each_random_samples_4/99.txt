@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: printed materials on osteoporosis.  Is there any way you can please mail me literature on osteoporosis, I was just diagnosed. Thank you, [NAME] [LOCATION] [LOCATION] [LOCATION] [LOCATION]
+summarized question 1: Where can I find information on osteoporosis?
+##
+query 2: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 2: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 3: I need help with a rare disorder Hello, As I stated I need help with a rare disorder. I have tested   positive for lupus then - negative I have tests   positive for a blood clotting disorder then - negative I have tested positive for Brain Vasculitus then brian Vasculopathy? I have tested positive for a Brain infection then not.  I don't know what to think.  I need a special testing center
+summarized question 3: Where can I receive comprehensive testing for difficult to diagnose symptoms?
+##
+query 4: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 4: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 5: "SUBJECT: BREATHLESSNESS. MESSAGE: I am 77  , nown case of dibetes 2 & BP both under control with Medication viz Amryl M -1mg ( Sanofi) twice a day & Benitech A for BP .HbA1c being around 5.8-6.2 , sugar fasting around 80-90 , but PP is above 175 to 225, Bp is normal 140/75,pulse 50-64.However Amylase & Lipase are around 150. My TMT and Ultrasound Abdomon are normal , Chest X ray is clear I am 5'6"" , wt -70kg , girth at navel 40"" These days I am feeling problem of Breathlessness, even on slight exertion , I can walk but only at a very slow pace. Pl. advise can it be on account of any problem with my lungs pl & symptoms/tests for same  These days"
+summarized question 5:

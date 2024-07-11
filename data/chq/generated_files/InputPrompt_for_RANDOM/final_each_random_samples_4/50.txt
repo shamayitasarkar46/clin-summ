@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 1: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 2: congenital diaphragmatic hernia. what are the causes of congenital diaphragmatic hernia? Can cousin marriage cause this? What kind of lung disease the baby might experience life long?
+summarized question 2: What causes congenital diaphragmatic hernia and what lung complications could arise?
+##
+query 3: SUBJECT: Teen pregnancy MESSAGE: Good morning,   I am a student from Carver Military Academy on the far south side of Chicago. My fellow classmates and I are conducting a research project on social issues and problems we are affected by everyday mine is Teen Pregnancy. Since I am a teenager I know how having a child can really affect our young lives. They can stop our achievements in school, goals for the future,all our fun would stop,and our dreams. I would like to ask someone from your organization a few questions because it seems as though your organization could provide me with valuable information about teen pregnancy,statistics,facts, and your opinion about it. Your time and assistance would be greatly appreciated and I hope to hear from you soon.   Thank you,  [NAME]
+summarized question 3: Where can I find information on teen pregnancy?
+##
+query 4: SUBJECT: thalamic lacunar strokes MESSAGE: I am interested in anything you have on this condition. I have this stroke and am aiming for knowledge. If at all possible, my thalamic lacunar stroke is yours to study.
+summarized question 4: Where can I find information on thalamic lacunar strokes?
+##
+query 5: my mother passed away Sunday from Sepsis-Bowel Perforation and I needed to know what it is. She wasn’t sick till the night before after she ate supper. She said her stomace was hurting. She feel the next moning and hit her head. She was ice cold with alittle sweat on her neck. Please, explain this to me.
+summarized question 5:

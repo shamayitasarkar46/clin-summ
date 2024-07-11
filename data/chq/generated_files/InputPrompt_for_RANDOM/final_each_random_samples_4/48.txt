@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: CITROBACTOR FREUNDII.  Does ciprofaxin work well? Is there a better drug if so what.
+summarized question 1: What are the treatments for citrobacter freundii infection?
+##
+query 2: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 2: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 3: MESSAGE: My 3yrs old boy found my bleach at the laundry and I suspect he swallowed a bit of it. How do I treat this pls.
+summarized question 3: What are the treatments for bleach poisoning?
+##
+query 4: GERD.  I'm a 72 year old female, and have diverticulosis,gastritis, and esophagitis.  I tried to see three different doctors today, but all were booked.  I honestly don't know what to do.  It hurts in my chest, and I can hardly talk.
+summarized question 4: How to treat chest pain potentially associated with  diverticulosis, gastritis, and esophagitis?
+##
+query 5: I have a patchy skin and it has become very dull these days and also i find few rash\pimples on my face. could you please suggest me the food tha i have to take to increase my complexion and get rid of this dullness and rash\pimples.
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Why and how does Isotretinoin build up in the body system? Does it's structure contribute to the build up of it?
+summarized question 1: Why and how does Isotretinoin build up in the body?
+##
+query 2: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 2: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: will dalfampridine be effective for people with spinal musclar atrophy. is this a possibility in the future
+summarized question 3: Is dalfampridine an effective treatment for spinal muscular atrophy?
+##
+query 4: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 4: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 5: SUBJECT: Loss of sense of taste. MESSAGE: I have not been able to taste most foods for over a year ( I am 54 and in good health for the most part, I do not have a loos of sense of taste and do not have gum disease.) either due to using a vaperizor where the fluid leaked and got on my throat or where my smoking did.  I am also Hypothyroid classified with Hashimots's.  I am at my breaking point and need something medically to fix this.  Is there such a medicine?  No one will help me it seems. Thanks, [NAME]
+summarized question 5:

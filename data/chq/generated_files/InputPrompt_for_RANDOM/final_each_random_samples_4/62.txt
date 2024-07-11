@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 1: What are the treatments for bad breath?
+##
+query 2: SUBJECT: autonomic and arthritis . MESSAGE: Hi there , i have a few questions about autonomic disorders combined with arthritis ? My girlfriend has arthritis and autonomic disorder. I am really worried about her and want to help her, is there any new medications out there for treatment of autonomic disorder ? Also her autonomic disorder effects her heart lungs and blood pressure , is this condition fatal ? How long does someone live with this condition ?
+summarized question 2: Where can I find information on autonomic disorder, including symptoms, treatment, and prognosis?
+##
+query 3: SUBJECT: Gastroesophageal Reflux Disease MESSAGE: Can GERD BE CURED? I AM SUFFERING FROM THIS DISEASE FOR ALMOST THREE YEARS NOW.I HAVE GONE TO MANY HOSPITALS  BUT STILL CAN'T BE CURED.I HAVE BEEN GIVEN OMEPRAZOLE CAPSULES MANY TIMES.PLEASE HELP ME.
+summarized question 3: What are the treatments for GERD and can it be cured?
+##
+query 4: SUBJECT: bundle blockage MESSAGE: could you please tell me what a bundle blockage is. what are the symptoms. what is usually done for this?    Thank you
+summarized question 4: Where can I find information on bundle branch block, including symptoms and treatments?
+##
+query 5: I ask the home health aide to give me an enema. the home health aide has never given an enema. what should the home health aide do? I have not had a bowel movement in three days
+summarized question 5:

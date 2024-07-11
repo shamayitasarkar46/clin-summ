@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Wolff Parkinson White- slow heart rate. Your article is very illuminating but does not refer to the rarer slow rate WPW which my husband has. Where can I find this information?
+summarized question 1: Where can i find information on Wolff Parkinson White syndrome with bradycardia?
+##
+query 2: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 2: What are the treatments for erectile dysfunction?
+##
+query 3: SUBJECT: Is Hypermobility Causal for DCD? MESSAGE: Can hypermobility cause developmental coordination disorder? Any peer reviewed literature available exploring this issue?
+summarized question 3: Can hypermobility cause developmental coordination disorder?
+##
+query 4: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 4: What are the treatments for scoliosis pain?
+##
+query 5: Is sedation or some form of twilight sleep or something for relaxation normally used for pill capsule camera for GI issues test? I have difficulty swallowing large pills and do not think I can do this awake. My mother and sister have to have their esphophgus stretched so I could possibly have some genetic factors. I am very scared of choking with this test. What is the normal procedure and do you have any suggestions? Thanks
+summarized question 5:

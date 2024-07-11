@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I will love to try diet I need. To lose weight
+summarized question 1: Where can I get help with a weight-loss diet?
+##
+query 2: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 2: How do I stop taking oxycodone?
+##
+query 3: Ostiogenesis Imperfecta. Is it possible to take out whatever causes this disease out of a persons gene to stop this in my family.
+summarized question 3: How is Osteogenesis imperfecta inherited and is it possible to stop it?
+##
+query 4: SUBJECT: adema MESSAGE: I have adema in my ankles/shins.  What can I do to lesson the severity of the adema ( I take bp meds w/ diaretic) ?
+summarized question 4: What are the treatments for leg edema?
+##
+query 5: outbreak of red raise sores on back shoulder and arms from shoulder to wrist with raised bulbs of liquid. treatment and maintenance ?
+summarized question 5:

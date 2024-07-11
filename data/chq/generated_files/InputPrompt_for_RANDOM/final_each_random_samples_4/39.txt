@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: OK. I understand your reticence to list unconfirmed 'untrigger' lipids. However, I am a trained scientist who's 72 years old, so I don't really have time to wait for confirmatory tests to be run on several K more old coots. so QUE3TION: What [NB: THE HELL] precisely are the 10 lipids in question? I would then plan to have myself checked for those 10 lipids.
+summarized question 1: What are the ten lipids that can predict dementia?
+##
+query 2: "SUBJECT: VD MESSAGE: A lot of yrs. ago I went to my Dr. because I had blister like bumps on the inside of the vagina. He squeezed all of them and I have always wondered if my husband had given me some kind of veneral disease. They came back and I squeezed them myself. They had runny stuff in them. I ask the dr. what they were and he only said this ""oh nothing to worry about, some women just get these."" Was this some kind of VD do you think.? thank you for a reply. We are divorced now and he has passed away. [NAME]"
+summarized question 2: Could blister-like bumps on the inside of the vagina be indicative of veneral disease?
+##
+query 3: SUBJECT: Gastroparesis MESSAGE: I am a current Gastroparesis fighter with a GJ feeding tube. I am also one of the admins for a GP support group and an advocacy group. I have become a volunteer advocater. I would appreciate any info you can share about Gastroparesis, Feeding tubes, and even TPN. Thanks
+summarized question 3: Where can I find information on Gastroparesis, tube feeding, and TPN?
+##
+query 4: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I am suffering from demylination sensorimotor neuropathy and need help. I am willing to try anything. Cell# [CONTACT]. [NAME]
+summarized question 4: What are the treatments for demyelinating sensorimotor neuropathy?
+##
+query 5: Our family will go to Manila and Thailand in December and January. Please recommend any vaccinations that we should have. Thanks!!!
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Múltiple Misscarriage MESSAGE: I had 4 misscarriage before I had my healthy daugther. I had another misscarriage a month ago. The Kareotipe for the fetus show genetic problems. Trisomy 8 and 15. Im 39 years old. Is the first time that I know the reason for the lost. I had the Kareotipe for me and my husband and there is no problem. The infertility Dr told me that I have progesterone problems Because I dont know the reason for the four misscarriage I am scared thinking the reason for all the lost babies is for genetic causes. I want another baby. What are the chances of having a baby with genetic problems?
+summarized question 1: After a miscarriage of a fetus with trisomy 8 and 15, what are the chances of a successful pregnancy?
+##
+query 2: SUBJECT: Tamsulosin MESSAGE: Is Tamsulosin gluten-free and where is it manufactured? Thank you. [NAME], RN, BA
+summarized question 2: Is Tamsulosin gluten-free and where is it manufactured?
+##
+query 3: "SUBJECT: use of spacer with inhaler/warning sound MESSAGE: I've just read the instructions for using a spacer with my symbicort inhaler.  What if I breathe in according to directions and there is a warning ""whistle"" or ""sound?  What am I doing incorrectly?"
+summarized question 3: How do I use a spacer with the symbicort inhaler?
+##
+query 4: hello medineplus, i am a student an i am suffering from muscular dystrophy...i just want to know that, is muscular dystrophy belongs to locomotor disability? thanks,  yours sincerely
+summarized question 4: What is a locomotor disability and is it related to muscular dystrophy?
+##
+query 5: 8 month old child suffering from constant vomiting what could be the medicine used for treatment
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Question. do you know what genetic abnormality causes lipoamide Dehydrogenase Deficiency (E3)?
+summarized question 1: What is the genetic cause of Lipoamide Dehydrogenase Deficiency?
+##
+query 2: SUBJECT: Help for my diagnose MESSAGE: I have been diagnosed with SCA3. I was wondering if MedlinePlus is able to help me with resources that I may need on my journey through this disease? If not, can you help me find an organization or association that can help me.
+summarized question 2: Where can I find information on SCA3, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 3: SUBJECT: bruised blood/bleeding under the skin MESSAGE: what causes the above? Certain pressure(s) applied to body leaves long lasting dark spot(s)
+summarized question 3: What causes bleeding under the skin?
+##
+query 4: Referral Vacationing in and near [LOCATION] Puerto Rico. How to I find a dentist for toothache?
+summarized question 4: How can I find dentist(s) to treat toothaches in Puerto Rico?
+##
+query 5: my boyriend was taking tasigna and i became pregnant i want to know what kind of birth defects can it cause to my unborn child.
+summarized question 5:

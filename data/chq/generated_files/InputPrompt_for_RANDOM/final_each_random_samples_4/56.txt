@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: vaginal yeast infection MESSAGE: Hey, my name is [NAME]. Last night my vaginal area was itching but I didn't think to much of it.  Well when I woke up this morning it started itching out of control.  I don't see discharge coming from the vaginal area.  Now I do use Summer's Eve vaginal spray, I don't know if it is a vaginal yeast infection or not, but how should I go about this process.
+summarized question 1: What causes vaginal itching and what are the treatments?
+##
+query 2: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 2: What is the life expectancy of someone with free trisomy 13?
+##
+query 3: "SUBJECT: pseudogout MESSAGE: @ http://www.nlm.nih.gov/medlineplus/ency/article/000421.htm I see the statement ""There is no known way to prevent this disorder. However, treating other problems that may cause pseudogout may make the condition less severe"" which I would like to have explained, especially what those other problems are &how they may be treated. I'm especially interested in whether supplemental calcium may not be good to take."
+summarized question 3: What are the treatments for pseudogout?
+##
+query 4: hearing loss due to Alports Disease. If hearing loss is due to Alports Disease, is the hearing loss the same degree of both ears?
+summarized question 4: Where can I find information on hearing loss and Alports disease?
+##
+query 5: I have a problem. I am not remember my study always forget .I am not consntrate on study. When i am reading i am thinking any others topic. I am confused Is this a Alhizmer.I think i am loss my memory .Please help me and suggest me.
+summarized question 5:

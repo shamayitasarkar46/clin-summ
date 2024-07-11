@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: babygirl vagina itching MESSAGE: My newborn is 9 weeks and I noticed when I went to clean inside her vagina there was a little bit of spotting. Should I be concerned?
+summarized question 1: What are the causes of and treatment for newborn vaginal itching and spotting?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: what can happen if you donot use your humifier or moisterizing equipment when  you have a thractoastamy tube? (forgive my spelling)
+summarized question 2: What are the adverse effects of not using a humidifier with a tracheostomy tube ?
+##
+query 3: Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.
+summarized question 3: Where can I find information about Beckwith-Wieddeman Syndrome?
+##
+query 4: SUBJECT: critical diabetic. looking for a implant MESSAGE: Hello, I am a type one diabetic. Ive recently heard about the pancreas implants. I just wanted to find out the process in which I would take to try an receive one.
+summarized question 4: What is the latest research on pancreas transplants for type one diabetes?
+##
+query 5: SUBJECT: lithtrypsy complications. MESSAGE: lithotripsy performed 1986, [LOCATION], [NAME] hostile &defensive that it caused PMR &Giant Cell arteritis. Onset of autoimmune disease between 4 &8 hrs. later. Never worked again (Head &Neck surgeon). Still battling hypertension, arteritis, Inflammatory myositis (biopsy USC, [NAME]). Most Drs. know squat about autoimmune diseases &the trigger. Your info only
+summarized question 5:

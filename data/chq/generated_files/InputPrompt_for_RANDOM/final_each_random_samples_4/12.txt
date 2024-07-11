@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am keen to know about stem cell bio-engineering technology to regrow a complete human tooth with its root, its progress and expected releasing year or clinical availability I have been reading some articles related to the same for sometimes and waiting for the outcome. How much time it will take to be available at clinic?
+summarized question 1: What is the latest research on stem cell bioengineering of a human whole tooth, including progress and availability?
+##
+query 2: SUBJECT: Bleeding Gums MESSAGE: My brother has denture the lower denture hurts his gum and it makes it bleed and his gum is sore were he has a hard time to chew anything. He needs to know what can he do for it?
+summarized question 2: What are the treatments for bleeding gums under dentures?
+##
+query 3: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 3: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 4: Would appreciate any good info on Lewy Body Dementia, we need to get people aware of this dreadful disease, all they talk about is alzheimers.  Thank you
+summarized question 4: Where can I find information on  lewy body dementia?
+##
+query 5: why does the united states have a high mortality rate of covid-19 than other countries
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Question. do you know what genetic abnormality causes lipoamide Dehydrogenase Deficiency (E3)?
+summarized question 1: What is the genetic cause of Lipoamide Dehydrogenase Deficiency?
+##
+query 2: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 2: What are the treatments for loss of appetite?
+##
+query 3: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 3: What are the risks of smoking?
+##
+query 4: SUBJECT: staphy treatment MESSAGE: Gud day, please ham having staphylococcus and I need drugs to take and your advice..my result show &quot;scanty&quot;..i 'll be expecting your reply..thank you and God Bless you
+summarized question 4: What are the treatments for staphylococcus?
+##
+query 5: SUBJECT: streched or torn tendons/ left leg. MESSAGE: I have torn or streched tendons in my wrist,or ankle,before.The one incident ended up having to be corrected through an OP.The cartilegde known as Discus Triangulares grew back wrong and the scarred tissue,pushed on a nerve,causing my hand and arm to go numb.          My question concerns a fall I had about 5 weeks ago.In this fall,I hurt my left wrist,and leg,my wrist took about 3 weeks to heal up,and no longer bothers me.My left leg,however,is still bothering me.Is it possible that I tore something that is pinching a nerve in my leg??While standing,for prolonged intervals my upper thigh tingles,as if my leg has gone to sleep.The front and side of my thigh are tender to touch,(as if I burnt myself badly,or someone hit me with something real hard.)The original pain I had,was in the back of my knee.I know that a tendon takes 8 weeks or more to heal,it has now been almost 6 weeks.
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Peruvian girl MESSAGE: Dear Sir/Madam, I am writing you on behalf of [NAME], who is very stress and with a lot of tension,looking for HELP for her daughter [NAME].  [NAME] has a complex hearth defect called Tetralogy of Fallot, she is about 7 months old and her family dont have resources to cover her treatment in order to get her welfare.  [NAME] has a very low income, lives in a rented room with her husband and her two children, in [LOCATION] - Peru. She works at [LOCATION] and she has been taking her daughter to children hospital in [LOCATION] but she cant afford the medicines and treatment that they ask for, she is looking desperately for help for her daughter.  I was wondering if you guys have any contact here in [LOCATION] of any organization, who can help [NAME]. I have been looking but cant find or never not came back to me when I asked them.  If you please know about any organization who can help us here in [LOCATION] Peru, I will really appreciate and we can make help to give [NAME] a better life :-)  I am a Health and Social care worker and work at the hospital too with the employees. Thank you very much for your time  [NAME]  [CONTACT]
+summarized question 1: Which organizations provide support for Tetralogy of Fallot in Peru?
+##
+query 2: SUBJECT: lupus MESSAGE: Hi,  I  want to know about Lupus and its treatment. Best,  [NAME]
+summarized question 2: Where can I find information on lupus and what are the treatments for it?
+##
+query 3: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 3: What are the treatments for brain tumors and spinal tumors?
+##
+query 4: SUBJECT: my husband had a simple retropubic prpostectomy 6 weeks ago. he can not walk wit MESSAGE: My husband had a simple retropubic prostectomy he can not walk without the walker, he can not mmove his right leg  alone yet. I don't  think is normal. What to expect in six weeks  his urinary track is still soar when he pees. I fear  is something wrong  not been able to push the leg forward the joint in the leg is painful
+summarized question 4: What is the normal time course and symptoms of recovery from simple retropubic prostatectomy?
+##
+query 5: A 65 year old female friend of mine was just recently diagnosed with Frontotemporal dementia - temporal variant.  She is devastated.  I am trying to help her find resources, clinical trials, etc. to help her.  Can you give me some names of doctors to contact, pertinent institutions to contact regarding the treatment of this disease.  Thank you.  
+summarized question 5:

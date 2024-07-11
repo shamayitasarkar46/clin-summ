@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Possibility to Treat Eye Injury MESSAGE: When I was 7, my young brother suffered to me an eye injury. He used to play an inject bin that was injected my mother before a night. He directed me the inject bin as he was trying to frighten me for injecting. However, everything changed and he injected the bin to my eye. Now, I'm 21years old and my eye lost the vision and crossed, So what is the solution for me?
+summarized question 1: What are the treatments for vision loss?
+##
+query 2: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 2: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 3: "SUBJECT: physical activity MESSAGE: I am a woman aged 59 and had triple heart bypass in 2010. I am 5' 1"" and almost 14st in weight so fairly overweight. And I have very swollen ankles which ive had for probably at least 20 years. Diuretics dont seem to solve it. Ive had to take on part time work now as the government say i have to as im under pension age, working 4 hours a day, and it involves standing as its shop work. Should i really avoid this type of work as it means so much standing? Im very unfit, too weak and breathless to climb stairs. I suffer regular severe back ache standing for a time and my legs ache badly. I cant climb stairs as i get breathless and my legs are too weak. I dont smoke and dont drink alcohol frequently."
+summarized question 3: What work is recommended for a physically unfit person?
+##
+query 4: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 4: For how long can Atorvastatin be stored at room temperature?
+##
+query 5: Someone I know discovered she had TB in the past (unknowingly).  I don’t know if she had TB disease or a TB infection.  She believes she caught it from her aunt who worked as a dietician at a TB sanitarium.  The aunt DID NOT have TB.  Is this even possible?  Thanks very much.
+summarized question 5:

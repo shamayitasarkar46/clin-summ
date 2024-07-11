@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: still very sore under my middle rib cage and little swollen MESSAGE: any suggestions for this discomfort ? sore and swollen from auto accident was wearing seat belt.
+summarized question 1: What are the treatments for rib pain and swelling after car accident?
+##
+query 2: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 2: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 3: SUBJECT: fluocinolone acetonide ointment tube MESSAGE: Is it possible to obtain this ointment (.25 mg) in anything other than a metal tube?  I travel a lot, and the tube constantly develops cracks, so the ointment squeezes out everywhere -- very messy.  My pharmacy doesn't know of any other packaging.  Thank you!
+summarized question 3: Does fluocinolone acetonide ointment .25 mg come in a non-metal tube or other packaging?
+##
+query 4: SUBJECT: Mysthenia Gravis MESSAGE: hi i am 34 & a half years old, unmarried female.in 2011 i was diagnosed with MG ( early stage)when my right eyelid drooped a lot. the special blood test & enlarged thymus confirmed it. i was on prescribed medication since then till 3 months back when i discontinued the medicines assuming i am ok. but the drooping has again started though thymus is no longer enlarged ( as per latest CT scan ) so my doc has told me to continue the medicines lifelong. i am OK with it. but i dont want to pass on this disease to my kids. pls tell me if there is any way by which i can ensure that my kids dont get this disease during pregnancy? is it genetic or do the antobodies pass on from pregnant mother to the foetus? is there any way out to save the baby from this disease/ pls tell .
+summarized question 4: Is myasthenia gravis inherited and can it be passed from mother to fetus?
+##
+query 5: is there an increased risk of infiltration, dislodgement, or phlebitis in a stroke patient with a peripheral intravenous catheter insertion in the affected extremity?
+summarized question 5:

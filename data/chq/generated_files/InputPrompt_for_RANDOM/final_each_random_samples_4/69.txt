@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: male with breast MESSAGE: I am a 51 year old male and I have enlarged breast. My mother told me that I have bird chest. I know that I don't have bird chest. My size is a 36 B. I have to wear oversized shirts. I would like to have them removed, but I don't have the money. I was abused because of my breast.  thank you for your time.
+summarized question 1: what are the treatments for gynecomastia?
+##
+query 2: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 2: Is MRSA contagious, and how is it spread?
+##
+query 3: SUBJECT: erection problems MESSAGE: I am 32 yrs. old , 5.6 ft. and 68 kg wt.,  married and have a son of two years. Since last few months , I experience erection related problems during intercourse. When aroused, I get normal erection but it does nt continue for long. I don’t smoke and very rarely drink. I do exercise also. I masturbate 4-5 times a week because my testicles experience pain if I don’t ejaculate after any intimacies or getting very aroused. When pain starts, if I ejaculate by masturbating, It is relieved.  I do have night erections which I find generally in the mornings. Out of tension, once I tried Sildenafil tablet also for erection. Please tell me if I am suffering from any erection related problems or any other problems. Is masturbation a cause for these?  Kindly guide me. I have not visited any doctor yet.
+summarized question 3: Can masturbation cause erectile dysfunction?
+##
+query 4: SUBJECT: Side affects of diuretic MESSAGE: I have been taking Mylan Indapamide (1.25 mg) for 3 days. Today (3rd day) I began experiencing blurred vision.  What should I do? Discontinue till I see my doctor?
+summarized question 4: Is blurred vision a side effect of Mylan Indapamide?
+##
+query 5: My father is having cardiomyopathy through genes. He is 83 now. He was absoulutely normal till now. recently he is getting breathlessness. and he was admitted to the hospital twice. The doctors are telling that multi dieases are attacking his heart. I just want to know exactly what is happening and what precautions that he should take in future. What are the chances of survival? Please help.
+summarized question 5:

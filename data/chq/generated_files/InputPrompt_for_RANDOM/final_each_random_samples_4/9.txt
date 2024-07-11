@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: cirrhosis of the liver question MESSAGE: I have cirrhosis of the liver.  Do high ammonia levels effect breathing?  I have spells of not being able to breath very well. No pain.
+summarized question 1: Can high ammonia levels in the blood affect breathing?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am working with a Hep C   patient who needs treatment but cannot afford Tx. How can I help her get in touch with a recruiting study? There are no numbers or ways to contact a recruiting study. Sincerely, [NAME]
+summarized question 2: Where can I find clinical trials on hepatitis C?
+##
+query 3: Duchenne Muscular Dystrophy. I am doing a research project on this genetic disease and I would like to know more about it from a professional.  I am researching the mode of inheritance, symptoms, treatments/ support groups, and relative cost to family.
+summarized question 3: Where can I find information about Duchenne Muscular Dystrophy, specifically mode of inheritance, symptoms, treatments/ support groups, and relative cost to family?
+##
+query 4: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 4: Is MRSA contagious, and how is it spread?
+##
+query 5: covid-19 how long to quarantine after being positive how long are you contagious if i tested positive for covid-19. how long before i can safely return to work after a positive covid 19 test
+summarized question 5:

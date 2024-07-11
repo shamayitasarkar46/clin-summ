@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 1: What are the inheritance patterns for senior loken syndrome?
+##
+query 2: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 2: How is post-polio syndrome diagnosed?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: MY NAME IS [NAME]. ON [DATE] I WENT TO [LOCATION] ABOUT MY FEET BEING ASLEEEP. THEY PUT ME ON LYRICA. WELL I AM WORST NOW AS OF TODAY MY FEET HAVE BEEN ASLEEP NOW I AM IN ALOT OF PAIN AND ITS ALL THE WAY TO MT KNEES I NEED SOME KIND OF HELP. NO INSURANCE. NO MONEY WHAT CAN YOU FIND OUT FOR ME. PLEASE CONTACT ME AT [NAME] THANK YOU
+summarized question 3: Where can I get help for neuropathic foot pain?
+##
+query 4: SUBJECT: Subject MESSAGE: I'm calling because I would like to know more advice on crating Risperdoine medicine and gain experiences on the medication. And creating the medication
+summarized question 4: Where can I find information on risperidone, including how it is manufactured?
+##
+query 5: SUBJECT: Gluten Inquiry. MESSAGE: My medication has been replaced due to discontinued of my prior manufacture.  I am wanting a response and definite answer if your corporation can give a statement in easing my thoughts on gluten free.  I take the Esterified Estrogens, Methyltestosterone full strength dark green table with 1490 labeled on it, I have looked up the ingredients and found an ingredient that shows gluten related. Can you please secure my worries and confirm if this medication is gluten free or if it does contain gluten. Thank you, R
+summarized question 5:

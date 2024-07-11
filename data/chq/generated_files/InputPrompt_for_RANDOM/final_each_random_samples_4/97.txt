@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: varicella  shingles MESSAGE: How can I determine whether or not I've had chicken pox.  If there is a test for it, what are the results of the tests I need to know that will tell me whether or not I have had chicken pox?  I want to know this to determine if I should have shingles vaccine  (Zostavax) Thank you.
+summarized question 1: How do i find out if i had chickenpox?
+##
+query 2: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 2: Can epilepsy be cured?
+##
+query 3: Multiple orgasm.  If I get a  vesectomy will I still be able to have multiple orgasms? I know it's not even usual to have them as a guy, which is why I'm wondering if I would still have them if my vasectomy happened?
+summarized question 3: What is the effect of vasectomy on orgasms?
+##
+query 4: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 4: What are the treatments for nutcracker syndrome?
+##
+query 5: MESSAGE: dear doctor i am 22 years old stident from Bhutan , presently studying in India. how ong does it take to develope a tseticular cancer? is this curable? can i have a baby in future? ll this ffect my fertility after the treatment?
+summarized question 5:

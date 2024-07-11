@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Are there any guidelines to tell how quickly Humalog becomes active after injection?  I believe it remains active for about 4 hours.  Is this reasonable?
+summarized question 1: How long does it take for humalog to start working, and how long does it last?
+##
+query 2: SUBJECT: CHUNT IN THE BACK MESSAGE: Can the chunt be done from the vertebra instead of the cranium. My child needed a chunt due to the high fluid pressure in the brain. I need advice which method will be the best.
+summarized question 2: What is the procedure for inserting a shunt to relieve high fluid pressure in the brain?
+##
+query 3: SUBJECT: Sensorineural hearing loss (SNHL) MESSAGE: Hi, my father has lost his hearing in one ear, and ever since he has been suffering with constant buzzing in his ear. Is there treatments that can be recommended to solve this? Kind Regards [NAME]
+summarized question 3: What are treatments for ringing in the ears?
+##
+query 4: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 4: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 5: SUBJECT: Factor VII. MESSAGE: I have Glanzmans Thrombastinia which is a rare platelet disorder. I am concerned about invasive emergency surgery.  I have had minor surgeries and have bled profusely-even with pre-op meds of DDAVP and Amicar.. I understand Factor VII (or a drug to reduce or stop unnessary bleeding,if administered prior to surgery can alleviate bleeding problems in an invasive procedure. What drug(s) would you recommend and how readily available is the drug and how much does it cost. Thank You, E. W. [NAME]
+summarized question 5:

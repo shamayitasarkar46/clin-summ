@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Diet Plan for patients having both cholesterol and diabetes.  Dear Sir/Madam, Could you send me a diet plan for patients suffering from both Cholesterol and Diabetes? It is for someone close to me. I don't want it in carbohydrates/ protein numerical data form, just what all foods they can eat (their amounts / combination). If possible could you also send it in Malayalam?
+summarized question 1: What is a good diet plan for high cholesterol and diabetes?
+##
+query 2: laser hair removal treatment.  I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!
+summarized question 2: Where can I find information on laser hair removal including long term consequences?
+##
+query 3: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 3: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 4: SUBJECT: theoretical question MESSAGE: How much time you can spend at most before a cerebral aneurysm will cause death? Sorry I'm using translator because I speak and write in Spanish if they were so kind to send me the answer to [CONTACT] Thanks.
+summarized question 4: What is the prognosis of cerebral aneurysm?
+##
+query 5: SUBJECT: Alpha 1 normal ranges. MESSAGE: Hi I was wondering if you could help me. I am a student in which I have to complete a case study on a patient with severe COPD. The patient's alpha 1 ant-trips sin level is 1.33. I am aware the normal ranges is 0.075-0.15g/L. Does this mean this patient has the genetic disease? Thanking You [NAME]
+summarized question 5:
