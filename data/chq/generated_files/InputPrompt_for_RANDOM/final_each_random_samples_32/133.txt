@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Skin Itching MESSAGE: At night, I have very bad lower leg skin itching.  Is this being caused by any of my prescripions?
+summarized question 1: What prescription drugs cause itching skin on legs?
+##
+query 2: Pemphigus, vulgaris.  I have a family member who is suffering from Pemphigus, vulgaris.  It has been going on for last 6 months she is a young lady ages 29yrs old, has been on steriods for treatment, i am worried if she can have a baby?
+summarized question 2: Does pemphigus vulgaris or steriod treatment for it affect female fertility?
+##
+query 3: SUBJECT: diabetes MESSAGE: It was really helpful after reading about type 1 diabetes but would like some more suggestions from you .my friend is 35 year old and its been 1 year of his diabetes n his sugar level is around 100 or 120 OR SO.. each time he tests his sugar level. is there ANY COMPLICATIONS? HE ALSO GO FOR EXERCISES AND BLOOD TEST EVERY 2 OR 3 MONTHS N TAKES A PROPER DIET LIKE GREEN JUICE,OLIVE OIL AND ALL. WAITING FOR YOUR FEED BACK. THANK YOU.
+summarized question 3: What are the complications of type 1 diabetes?
+##
+query 4: MESSAGE: can I take Sam e with my blood pressure med and simvastatin? pressure med is metoprolol. im 65 and have panic attacks. I am not on any other meds. I have a physical this week and a blood test. will Sam e interfere with a blood test ? I also have spinal stenosis with numbness and prickly feelings in my body. Im going to talk to my dr about all of this on Friday. Dosage ? Thank you
+summarized question 4: What are the dosage, side effects,  and drug interactions for Sam E?
+##
+query 5: SUBJECT: Hydrocortisone 1% cream MESSAGE:  I would like to know what type of GLYCERIN(animal or vegetal glycerin) is in the 1% Hydrocortisone Cream.  For religion purpose(our believes)we can not eat or use anything that has PORK in it. Thanks.
+summarized question 5: What are the ingredients of  1% Hydrocortisone Cream?
+##
+query 6: In Vitro Fertilization Hi. I am interested to have In vitro Fertilization (Test Tube Baby). May I know the risk and the cost. Thanks
+summarized question 6: What are the risks of in vitro fertilization and how much does it cost?
+##
+query 7: SUBJECT: Possibility to Treat Eye Injury MESSAGE: When I was 7, my young brother suffered to me an eye injury. He used to play an inject bin that was injected my mother before a night. He directed me the inject bin as he was trying to frighten me for injecting. However, everything changed and he injected the bin to my eye. Now, I'm 21years old and my eye lost the vision and crossed, So what is the solution for me?
+summarized question 7: What are the treatments for vision loss?
+##
+query 8: MESSAGE: I m 33 year old. I m having hand and leg tremors for sometime. Is there any permanent treatment for this. I had visited doctor, they told its a Parkinson desease and cannot be cured permanently. Could you please provide me 2nd opinion on this
+summarized question 8: What are the causes and treatments for tremors in 33 year-old?
+##
+query 9: "SUBJECT: allergic reactions MESSAGE: I have RLS. I had allergic reactions (my neurologist is confused) to Ropinirole and the Neupro patch. I need to know if the pramipexole made by your company has a ""something - sulfite"" as a stablizing ingredient. This is what, seems, oddly, to be causing swelling of my hands, feet, nose, throat, eyelids and tongue. Could I get an email or a drug package insert so I could find out all the inactive ingredients. I am desperate to find relief from this horrifying affliction. I not only has the sensations in my legs but also my arms. Thank you for your time and information. My mailing address: [CONTACT] or perhaps a voicemail message: [CONTACT]"
+summarized question 9: What are the inactive ingredients of pramipexole?
+##
+query 10: SUBJECT: drugs for fat reduction MESSAGE: I'm about to do a movie in another one month and I need to shed a lot of weight for it especially on my arms and thighs. What would you recommend and can it be sent to Nigeria?
+summarized question 10: What treatments are available for rapid weight loss?
+##
+query 11: MESSAGE: I am taking Metformin and I am concerned about how can I cut back without any dangerous side effects; at the moment I weigh 182lbs. where I was weighing before at 220lbs. Is it possible I don't need to take this medicine anymore or is their another prescription medicine that I can take to replace that is not so strong, the one I have  is 500mg 60 tablets.
+summarized question 11: Should metformin dosage be reduced after weight loss?
+##
+query 12: SUBJECT: Leg pain MESSAGE: I am diabetic since last 18 years and present it is 6.6 and morning it varies from 110 to 135 and afternoon and from 125 to 175.I regularly take medicine. swimming, exercise &Yoga for 1.5 Hours in the morning &1.5 Hours in the evening but recently the  pain has started in the legs and Dr. has suggested stiloz-50.I also take Kerala juice/Methi seeds &it is water in the morning. Is this due to diabetes or any excess exercise?
+summarized question 12: What are the causes of leg pain?
+##
+query 13: ClinicalTrials.gov - Question - general information.  My fathers 85 and has severe hearing loss - he has tried hearing aids which at first helped but loss has become worst - has loss the hearing on one ear - hearing aids seem to cause him lots of pain I now see that he now can't hear and is becoming isolated, which concerns me and makes me very sad and afraid he'll become very depress and not care. If you can't help us can you please direct me somewhere for help. We live in the los angeles area Thank you [NAME].  [CONTACT]
+summarized question 13: What are the treatments for hearing loss aside for hearing aids?
+##
+query 14: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 14: Can sleep apnea occur during the day when awake?
+##
+query 15: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 15: What are the treatments for lichen planus?
+##
+query 16: SUBJECT: Shingles MESSAGE: I have had /Shingles for over 10 years, and have been working with my physician, using Lidocain and Lyrica. Even with these, it's painful, particularly in my house, and some rooms in the building where I work. I experience this during, and immediately after these rooms are been cleaned with detergents. Is this my imagination, or there is a connection between certain detergents and pain, with Shingles?
+summarized question 16: Do detergents exacerbate shingles pain?
+##
+query 17: SUBJECT: Subcutaneous retrocalcaneal bursitis MESSAGE: Haglund's deformity of the calcaneum.  I have this problem.  Can you please help to overcome this?
+summarized question 17: Where can I find information about Subcutaneous retrocalcaneal bursitis and Haglund's deformity of the calcaneum, specifically treatment information?
+##
+query 18: G6PD. I have been searching for detailed information of what someone with G6PD can and cannot eat or have in contact, but am getting conflicting information. Any help?
+summarized question 18: What foods should be avoided with G6PD deficiency?
+##
+query 19: MESSAGE: My son  five years old has Ganglisidose GM 1, we are looking for a drug that could help him, or at least could prolong life. He gets Miglusitat for 1 week. Can you help us or just send some information. We would be very grateful.
+summarized question 19: Where can I find information on GM1 gangliosidosis, including treatment and prognosis?
+##
+query 20: "SUBJECT: bathing MESSAGE: Can I go in tub , pool or shower while wearing the lidocaine patch?  If not, can I take off the patch (2or 3), and put a new one on in a different area for the remainder of the 12 hr. ""on"" period"
+summarized question 20: Can the lidocaine patch get wet or be replaced after getting wet?
+##
+query 21: SUBJECT: headache which can precede a stroke MESSAGE: Headaches are many and varied.  Could you describe the headache which precedes a stroke?
+summarized question 21: Could you describe the headache which precedes a stroke?
+##
+query 22: "SUBJECT: bowel movements MESSAGE: whenever I eat ANYTHING within 10-15 minutes I start having slight stomach cramps and I have to rush to the bathroom and my stool is from slightly firm to liquid - what's causing this?  I'm afraid to eat out at restaurants - it's been happening for about 3 years now  I'm a 53 year old, 5', 7"" in height, african-american woman, never had children, about 50 lbs overweight"
+summarized question 22: What are the causes of cramps and diarrhea after eating?
+##
+query 23: SUBJECT: bruised blood/bleeding under the skin MESSAGE: what causes the above? Certain pressure(s) applied to body leaves long lasting dark spot(s)
+summarized question 23: What causes bleeding under the skin?
+##
+query 24: MESSAGE: Sometime during March I overdosed on Benadryl. I got all the symptoms but survived without medical treatment. I am just curious as to if any damage happened.  Like Neurological.
+summarized question 24: What is the prognosis for benadryl toxicity?
+##
+query 25: genetic condition passed from mother. I am looking for the name of a genetic condition passed on from the mother. Female children are carriers, but only male children are symptomatic. It is often mistaken for a milk protein allergy, causes excessive spitting up and hiccups, and rounded teeth. Often male children do not make it to their 1st birthday. I have lost two boys, and am about to have a third, i desperately need to find the name of this condition. Please help, my childs life depends on it. My doctors say they do not know what to test for or how to proceed without a name.
+summarized question 25: What genetic condition causes excessive spitting up, hiccups, and rounded teeth?
+##
+query 26: SUBJECT: I need help ? MESSAGE: I have few questions and needed some help from you guys, I have a really serious problem about me and the stress I have been through for a long time, and I couldn't do anything to get rid off what I'm really in a bad feelings. And I'm really having and hard time searching and try to get rid off my pimples , I've been have these probably every since when I was 15 years old . I do not know what kind or where I can find , something that could help me, something that could work , because there's alot of products . And I'm not sure which kind could fit my skins to remove my pimples. . Please help, I'm having a serious hard time having these. Its really embarrassing, that's why I always wear long sleeve to cover it every single day, 24/7. I'm really appreciate if you guys have tine to contact me and talk about. Another thing, my question is , how can I get rid of my pimples on my upper arms and my back. Also I really don't know what kind pimples do I have on my skin. Please help me , so I wouldn't be having so many stress about my skins.
+summarized question 26: What are the treatments for pimples?
+##
+query 27: SUBJECT: Rehabbing a finger that was splinted MESSAGE: I badlydislocated my finger 7 weeks ago.  I reset it myself as it happened late in the evening. I splinted it myself with a store-bought splint because of concern for a break as well as ligament damage.  I just went to see an orthopedic doctor for the first time today (yes, I'm kicking myself for not going earlier).  The X-ray showed that the finger is still offset somewhat, perhaps indicating that some of the ligaments were ruptured. (The bone was ok.  I guess we won't know if it was ever broken.)  Nonetheless, I have to see a surgeon for an opinion in a few days.  Meanwhile, there is still some swelling and the ring finger that was in the splint is out but stiff as a board.  I'm concerned and not sure what possibilities to expect.  I certainly know you won't know what the situation is or what the surgeon will say but I was curious (a) what possibilities I might expect and (b) how problematic it is that the finger is so stiff...should I expect to regain motion...can it be rehabbed?  I'm assuming so, and if so, how long does it take to regain motion from a finger that has been splinted for so long?
+summarized question 27: What are the treatments and prognosis for a dislocated finger not initially treated?
+##
+query 28: MESSAGE: its normal to expect mallot fingers to heal bent. at [LOCATION] canada.
+summarized question 28: What are the treatments and prognosis for mallet fingers?
+##
+query 29: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 29: Where can I find information on SIDS?
+##
+query 30: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 30: What are the treatments for deafness caused by gentamicin?
+##
+query 31: SEARCHING FOR ARTICLES. HOW CAN I SERACH FOR THE  ASSOCIATION BETWEEN GENE MUTATION AND CONGESTIVE HEART FAILURE.
+summarized question 31: Where can I find informaton on gene mutations and congestive heart failure?
+##
+query 32: SUBJECT: lack of adhesive while I swim MESSAGE: I weekly apply the clonidine transdermal patch. Medically it is effective. I swim 3 or 4 times a week for 30-45 minutes. Quite often the patch loses it's adhesive quality and falls off my skin. What can I do to help it stick on my arm? thanks
+summarized question 32: What can I do to keep the clonidine transdermal patch secure during swimming?
+##
+query 33: my daughter has lichen sclerosis and we are wondering if you have any research on stem cell treatment?  She now has it effecting her ureatha and the Dr she is seeing  has no idea how to treat it, as she has never seen it do this.  She was diagnosed when she was 22 with a severe case of LS and has had little relief with current treatments.  Thank you for your time in this matter.  Also are there any clinical trials coming up she may participate in?
+summarized question 33:

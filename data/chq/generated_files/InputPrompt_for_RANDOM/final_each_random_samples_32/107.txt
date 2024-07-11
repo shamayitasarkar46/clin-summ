@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Purpura MESSAGE: My brother has purpura disease since 2003. kindly gude us with the correct medicine and if you know any good doctor then please let us know.  Thank You
+summarized question 1: What are the treatments for purpura and how can I find physician(s) who specialize in it?
+##
+query 2: TMAU.  Please find a way to research TMAU And how to cure it with gene therapy. I'm tired kg smelling like fish/feces And getting talked about everyday of my life.
+summarized question 2: What is the latest research on TMAU and treatments for it?
+##
+query 3: SUBJECT: You know Diabetes Insipidus? MESSAGE: I was born with Diabetes Insipidus and have many problems since the cell was removed when I was 22 and ALL
+summarized question 3: Where can I find information on diabetes insipidus?
+##
+query 4: SUBJECT: Kidney Failures MESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in
+summarized question 4: What are the stages of chronic kidney disease based on GFR results?
+##
+query 5: SUBJECT: hydatidiform mole MESSAGE: Iam hoping to find a scientist that is doing research on hydatidiform mole.  I had thins in my early 20s I am now 66 years old and its back.  There is some ver interesting information about this demon that invaded my body. There were thee of me friends of mine in the early 70s.  All three of us lived in [LOCATION]. All three of us could not have children after that and have had many medical problems. I have taken test and this has returned.I am just hoping someone is doing research and I could help in some way.  This has had serious problems for me the last 46 years. Thank you [NAME]
+summarized question 5: Who is doing research on hydatidiform mole?
+##
+query 6: SUBJECT: Body Lice MESSAGE: How do I get rid of these little devils? Me and My mom have tried so many things to get rid of these bugs and they just don't go away were the family that takes 2 showers and now about 3 showers a day we never understood how they could have infected us but I was just wondering is washing our clothes the best bet to get rid of these things, because apparently it hasn't worked for us. So is there any suggestions?
+summarized question 6: What are the treatments for body lice?
+##
+query 7: genetic beriberi. Is it true that wet and dry beriberi usually occur in the same patient?
+summarized question 7: Can wet beriberi and dry beriberi occur in the same person?
+##
+query 8: SUBJECT: meadicine for itiching MESSAGE: my face is itiching too much. and iam using deetol soap ....... but not feeling well is there any medicine
+summarized question 8: What are the treatments for itchy skin?
+##
+query 9: Dear sir, I was affected on trichoepithilioma in my nose on 12yrs.i consult the multiple doctorand skin specialists.but no one can do cure that
+summarized question 9: What are the treatments for trichoepithilioma?
+##
+query 10: MESSAGE: Sir .my problem based on nerves ..my sister legs nerves tried  each other how i can treat
+summarized question 10: What are the treatments for leg nerves?
+##
+query 11: SUBJECT: Duchenne Muscular Dystropy MESSAGE: My stepson had DMD and passed away at the age of 20.  My step daughters are both carriers.  The oldest one had a healthy son, the youngest daughter had a son with DMD this month at the age of 17.  My question is about my other step son's daughters.  Is it possible our grand daughters are carriers and do they need to be tested.  We are worried about this.
+summarized question 11: What is the inheritance pattern for Duchenne Muscular Dystropy?
+##
+query 12: "SUBJECT: Shortness of breath in the mornings MESSAGE: My wife has been having shortness of breath in the mornings (mornings only).  She has, what I think, excessive heart rate as well.  Again, mornings only. Could this be anxiety attacks?  I don't think it would be a heart issue.  She certainly isn't overweight.  SHe is 5'2"" and 100-105 pounds.  if she is having anxiety attack... what is the best course of action?  She seems to feel better when she lies down and rests.....while either watching TV...or sleeps.  WHat is weird about it is ... it only happens in the mornings.  SHe has no history in her family for heart disease either.  WHat are your thoughts?"
+summarized question 12: What could cause shortness of breath in the mornings?
+##
+query 13: ClinicalTrials.gov - Question - general information. my name is [NAME] from [LOCATION],my 10year old boy has duchenne muscular dystrophy  patient. my question is what is exon skipping & it can help for dmd  patient ?
+summarized question 13: What is exon skipping, and is it an effective treatment for  duchenne muscular dystrophy?
+##
+query 14: SUBJECT: Definitions MESSAGE: Hi, An explaination of what is the difference between myelogenous and lymphocytic leukemia types would be helpful. Great work! Thanks
+summarized question 14: What are the differences between lymphocytic and myelogenous leukemia?
+##
+query 15: SUBJECT: Do Shrimp Allergies Subside Over Time MESSAGE: I used to eat shrimp all the time but suddenly developed an allergy to it when I turned 24. I went to an allergist and I definitely tested positive for shrimp allergy (all other shellfish like lobster, crab, etc. oddly was negative).  Are food allergies that develop later in life like this known to disappear over time? I'm just wondering if there's a safe way to test it if I'm too lazy/poor to go see an allergist again. It's been 8 years since I was diagnosed.  I'm not asking for a recommendation to my personal case but was just wondering the answer to my first question above.  Thanks
+summarized question 15: Is it possible for a shrimp allergy to go away?
+##
+query 16: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 16: Is lincomycin still prescribed for human use?
+##
+query 17: SUBJECT: Need help! MESSAGE: I have a knot about the size of a BB in my right forearm about 2-3 inches from my elbow. It's been there for about 5 years and hurts sometimes. Mostly only notice it when i put pressure on it. You can't see it but can feel it pretty good. It will move about a cm in any direction. I went to the doctors about 4 years ago to have it looked at but they did no xray and said its prob a BB from when i was younger. It's starting to hurt more now without me putting pressure on it so i'm thinking i need to have something done about it. Any ideas on what it could be or what i should do about it?
+summarized question 17: What causes lumps on the arm?
+##
+query 18: need up todate current treatment programs for advanced cancer plus informaton for hemp oil solutons for ths cancer.   pub med/ 21475304
+summarized question 18: What is the latest research on treatments for hepatocellular carcinoma, including hemp oil?
+##
+query 19: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 19: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 20: SUBJECT: Tailbone trauma MESSAGE: are there any risks for an elderly person to fly with a cracked or bruised tailbone? thank you in advance
+summarized question 20: Can I fly with a tailbone injury?
+##
+query 21: SUBJECT: antacid named tritralac MESSAGE: I have taken Tritralac for years now it has been taken off the market.  What antacid is the closest one to Tritralac?  I preferred Tritralac because it came in pill form.
+summarized question 21: What antacid is the closest one to Titralac?
+##
+query 22: "SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: We are 4 generations of a family with similar traits in the males in each of those generations, My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder (at Yale) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed? Is there anyone out there looking at familial/longetudnal fragile X or other disorders that might be interested in our ""story""?"
+summarized question 22: Are there any researchers interested in testing a family with ADD and low IQ for fragile X?
+##
+query 23: SUBJECT: Customer Service Request MESSAGE: Hi, We are 2 sisters and a brother. My brother at age of 24 is detected with catract, however it is mild so operation is not required. But doctor said, there are chances he has this from Birth. However only from past 1.5years he had a little blur vision. And in my entire family Mom and Dad said no one has had catract from Birth. We are a big family, my grapa had 7 brothers and 2 sisters no one from their family or my mom has catract from birth or even at early age. My concern is, if i am pregnant will my children have any issue like this. I amd my sister, mom, dad we all have got our eyes checked. we dont have any issue. I am really tensed as i am expecting. Can you please help me with the answer.
+summarized question 23: Who is at risk of developing infantile cataracts?
+##
+query 24: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 24: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 25: "SUBJECT: physical activity MESSAGE: I am a woman aged 59 and had triple heart bypass in 2010. I am 5' 1"" and almost 14st in weight so fairly overweight. And I have very swollen ankles which ive had for probably at least 20 years. Diuretics dont seem to solve it. Ive had to take on part time work now as the government say i have to as im under pension age, working 4 hours a day, and it involves standing as its shop work. Should i really avoid this type of work as it means so much standing? Im very unfit, too weak and breathless to climb stairs. I suffer regular severe back ache standing for a time and my legs ache badly. I cant climb stairs as i get breathless and my legs are too weak. I dont smoke and dont drink alcohol frequently."
+summarized question 25: What work is recommended for a physically unfit person?
+##
+query 26: Im suffering from Beta Thalassemia Major from birth. I have been transfusing every 22 days. Now i heard about a tablet named mylostat 500 (Hydroxyurea). I wanted to know wheather the same will be suited for me.
+summarized question 26: Is mylostat 500 a treatment for Beta Thalassemia Major?
+##
+query 27: SUBJECT: Possibility to Treat Eye Injury MESSAGE: When I was 7, my young brother suffered to me an eye injury. He used to play an inject bin that was injected my mother before a night. He directed me the inject bin as he was trying to frighten me for injecting. However, everything changed and he injected the bin to my eye. Now, I'm 21years old and my eye lost the vision and crossed, So what is the solution for me?
+summarized question 27: What are the treatments for vision loss?
+##
+query 28: SUBJECT: gilberts diseases MESSAGE: my name is [NAME].  5days later i admitted in a hospital in treatment of viral fever.In hospital lot of tests blood,urine,ultrasound scan.In all tests my organs (lever,kidney,etc) are normal but my bilirubin Total is higher than normal. In my admission in hospital bilirubin is 3.2. Day by day my bilirubin decreased in the way of 2.8, 2.6, 2.4, 2.6, 2.5, respectevely. The other contents of blood and urine are normal at all. Hepatitis A,B,C are also negative.Today  Bilirubin direct  is 0.8. Doctor says it is Gilberts disease. Sir what can i do?. what is the reason for this?. what is your opinion sir? please reply soon .
+summarized question 28: What causes gilberts syndrome and what are the treatments for it?
+##
+query 29: polymicrogyria. My 16 month old son has this. Does not sit up our crawl yet but still trying and is improving in grabbing things etc etc. Have read about other cases that seem 10000 time worse. It's it possible for this post of his brain to grown to normal and he grow out of it?
+summarized question 29: What is the prognosis for polymicrogyria?
+##
+query 30: Genetically Engineered Foods. I am a high school student currently in a science class called [ID].  During my research, I came across this web site that has helped me better my knowledge on the topic of genetically engineered food.  I was wondering if you could tell me about the risks that come with genetically engineered food and how the modification is actually conducted.
+summarized question 30: What are the risks that come with genetically engineered food, and how is the modification actually conducted?
+##
+query 31: ClinicalTrials.gov - Suggestion.  I have ostonecrois I need a booklet on it who best doctor to help me I live [LOCATION] I need to see a doctor for necrosis thank you
+summarized question 31: How can I find physician(s) who specialize in osteonecrosis?
+##
+query 32: SUBJECT: possible metoclopramide side effects MESSAGE: I started taking thismedication 3/27/14, two tablets by mouth twice daily. I have now developed mouth sores on the inside of my lower lip (almost at the bottom). Could these be a side of effect of this medicine?
+summarized question 32: Are mouth sores a side effect of metoclopramide?
+##
+query 33: where on site does it tell how diabetes and neuropathy causes other things like neck and knee pain and other ailments
+summarized question 33:

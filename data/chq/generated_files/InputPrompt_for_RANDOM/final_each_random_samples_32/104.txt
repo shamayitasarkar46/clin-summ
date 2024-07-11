@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: rectal prolapse MESSAGE: my rectum is stretched out and I need information mailed to me about surgical options. My address is [LOCATION]
+summarized question 1: Where can I find information on rectal prolapse surgery?
+##
+query 2: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 2: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 3: chromosome 20 reattachment. Results of my amniocentesis states that a part of chromosome 20 broke then reattached itself to the same chromosome in a funny way.  They are unable to determine what gene if any has been affected.  Are you aware of any similar situations, and if so, what symptoms should I expect my baby to have?  Is there anyone else you suggest I contact for further information?
+summarized question 3: Where can I find information on disorders caused by chromosome 20 abnormalities?
+##
+query 4: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 4: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 5: SUBJECT: life expectancy after double lung transplant operation MESSAGE: Hello,  My husband has cystic fibrosis and he had the double lung transplant operation 3,5 years ago. He is 53 y.old. What is the life expectancy for people with cystic fibrosis after double lung transplant? Can he has another lung transplant in the future? Thank you, [NAME]
+summarized question 5: What is the prognosis for cystic fibrosis after double lung transplant?
+##
+query 6: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 6: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 7: SUBJECT: sir!  i m hasitate during talking. for exam MESSAGE: Sir!        I m  hasitate during  talking. For example:         Name (na...na...name)  welcome ( wev....wev....wev....welcome).
+summarized question 7: Where can I find information and help for stuttering?
+##
+query 8: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 8: What are the treatments for erectile dysfunction?
+##
+query 9: Thrush Article.  Maybe I over read the article, but I saw nothing about thrush being transferred from one Person to another. Weather it can happen or can't it should be told somewhere in the article. [NAME]
+summarized question 9: How is thrush transmitted?
+##
+query 10: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 10: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 11: spina bifida; vertbral fusion;syrinx tethered cord. can u help for treatment of these problem
+summarized question 11: What are the treatments for spina bifida, vertebral fusion, and syrinx tethered cord?
+##
+query 12: SUBJECT: treatment required MESSAGE: we need treatment for balance disorder. my father losses his balance while walking or climbing steps so please so please help us in curing the disorder.
+summarized question 12: What are the treatments for balance disorder?
+##
+query 13: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 13: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 14: Question. do you know what genetic abnormality causes lipoamide Dehydrogenase Deficiency (E3)?
+summarized question 14: What is the genetic cause of Lipoamide Dehydrogenase Deficiency?
+##
+query 15: SUBJECT: MLC MESSAGE: My son is patient of MLC, can we plan to another baby. What is the % of 2nd baby would be MLC or NOT.
+summarized question 15: How is Megalencephalic leukoencephalopathy with subcortical cysts (MLC) inherited?
+##
+query 16: SUBJECT: Gastroparesis MESSAGE: I am a current Gastroparesis fighter with a GJ feeding tube. I am also one of the admins for a GP support group and an advocacy group. I have become a volunteer advocater. I would appreciate any info you can share about Gastroparesis, Feeding tubes, and even TPN. Thanks
+summarized question 16: Where can I find information on Gastroparesis, tube feeding, and TPN?
+##
+query 17: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 17: What are the side effects of barium sulfate?
+##
+query 18: "SUBJECT: Normal physical traits but no period MESSAGE: I'm a 40 yr. old woman that has infantile reproductive organs and have never experienced a mensus. I have had Doctors look but they all say I just have infantile female reproductive organs. When I try to look for answers on the internet I cannot find anything. ALL my ""girly"" parts are normal. My organs never matured. Could you give me more information please."
+summarized question 18: Where can I find information on developmental disorders of the female reproductive system?
+##
+query 19: "Many women who are reading this are excited to give it a try. They think that their obese belly's from diabetes might go away, an answer to their horror to look in a mirror. You need to tell us the truth ,especially you Dr. Oz!! Some of us just know we cannot take this without better advise and our ""primary doctors"" have no interest in doing any discovery for their patients. I resent this whole thing, being singled out. I want to lose my belly too, what do I do?"
+summarized question 19: I want to lose my obese belly, what do I do?
+##
+query 20: SUBJECT: Mefloquine HCl MESSAGE: My daughter's pediatrician prescribed 1/4 of a 250mg tablet once a week. Based on insurance I could only get 4 tablet for a 30 day supply. The pediatrician thought the remaining 3/4 of the tablet must be discarded once it was exposed to air, but the pharmacist had not heard this. I read through your literature on the drug and also did not see this warning. Can we use the remaining 3/4 of the tablet on additional weeks as long as it is kept at the correct storing specifications? Thank you for your time!
+summarized question 20: What are the storage requirements for Mefloquine HCL?
+##
+query 21: SUBJECT: ? MESSAGE: Well the story is I had sex a couple of days after my period but I have been getting sore sides and sore stomach what does these signs mean
+summarized question 21: What causes abdominal pain after intercourse?
+##
+query 22: MESSAGE: its normal to expect mallot fingers to heal bent. at [LOCATION] canada.
+summarized question 22: What are the treatments and prognosis for mallet fingers?
+##
+query 23: SUBJECT: about manturation cycle MESSAGE: My mensuration cycle is not uniform.. there are many days gap in a month. Some time the gap is more then 1month. What I have to do.
+summarized question 23: What are the treatments for irregular periods?
+##
+query 24: SUBJECT: Arthritis on elderly MESSAGE: Is there something available, in English or Spanish, about Phisiotherapy specific for ankle arthritis? Just to know something more. There is a case in my Family and it is being followed by both a phisician and a phisiotherapist. My e-mail is [CONTACT]. Thanks. [NAME].
+summarized question 24: Where can I find information on physical therapy for ankle arthritis?
+##
+query 25: SUBJECT: does fluocinonide contain tea tree oil?  An allergist determined I am allergic. MESSAGE: Tea tree oil is identified on a product as fragrance and I  used this product yesterday and my fingers are broken out  significantly and I'd like to know if I am allergic to fluocinonide.
+summarized question 25: Does tea tree oil contain fluocinonide?
+##
+query 26: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 26: Where can I get genetic testing for CPTII deficiency?
+##
+query 27: ClinicalTrials.gov - Question - specific study. I WOULD LIKE TO SEE STUDY OF -5P CHROMOSOME SYNDROME, WHAT IS THE ORIGEN, TREATMENT
+summarized question 27: What causes the 5p chromosome syndrome and what are the treatments?
+##
+query 28: I would appreciate it if you can send me or email  me  some exercises for a person who is a stroke victim. I am unable to walk due to a  arthritic knee. otherwise I am flexable..  my home address is [CONTACT], My email is [CONTACT] (mailto:[CONTACT]) Thank you, [NAME]
+summarized question 28: What are good exercises for stroke recovery in people with knee arthritis?
+##
+query 29: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 29: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 30: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: will dalfampridine be effective for people with spinal musclar atrophy. is this a possibility in the future
+summarized question 30: Is dalfampridine an effective treatment for spinal muscular atrophy?
+##
+query 31: congenital diaphragmatic hernia. what are the causes of congenital diaphragmatic hernia? Can cousin marriage cause this? What kind of lung disease the baby might experience life long?
+summarized question 31: What causes congenital diaphragmatic hernia and what lung complications could arise?
+##
+query 32: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 32: What are the treatments for kidney stones?
+##
+query 33: Do they still use cow bone for a L5-S1 fusion, or what are the options. The disk is bulging and herniated and had to go.  Please advise. 
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Chronic Dry mouth. MESSAGE: How can I relieve dry mouth.
+summarized question 1: What are the treatments for dry mouth?
+##
+query 2: SUBJECT: gluten free MESSAGE: Can you tell me if this drug is gluten free. Pms-Hydrochlorothiazide thank you [NAME]
+summarized question 2: What are the ingredients of Pms-Hydrochlorothiazide and it is gluten free?
+##
+query 3: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 3: What are the inheritance patterns for pierre robins syndrome?
+##
+query 4: sepsis.  Can sepsis be prevented. Can someone get this from a hospital?
+summarized question 4: What are the causes and prevention of sepsis?
+##
+query 5: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 5: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 6: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 6: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 7: SUBJECT: scitica nerve pain treatment MESSAGE: I am from [LOCATION]. my cousin elder father suffering from sciatic nerve pain since long and his family members have already spent all their saving funds towards his treatment. At present they helpless and the patient is lying on bed. Nobody can help him to get recoup.
+summarized question 7: What are the treatments for sciatica?
+##
+query 8: SUBJECT: Azithromycin Oral Suspension Stability/Storage MESSAGE: I am a pharmacy technician, and I work at an in-patient pharmacy. We carry Azithomycin 100mg/5mL Oral Suspension. We have been having some technicians putting the Reconstituted Suspension into our fridge. Our fridge is kept at a pretty steady 5* Celsius temperature. I know that the lower range of the stability is at 5*C. Is it a problem to keep it that cold? Should the suspension be kept out of the fridge?
+summarized question 8: How should Azithomycin Oral Suspension be stored?
+##
+query 9: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 9: What are the treatments for mouth ulcers?
+##
+query 10: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 10: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 11: SUBJECT: Lyme Disease MESSAGE: 12 years ago I was bitten by tick while deer hunting. The bite area contained the ring as described in Lyme Disease symptoms.  I was treated with antibiotics;  however, ever since that time I have many of the symptoms cited for Lyme.  Also, usually prior to, and during these symptoms I have a reddish-pink welt appear at the site of the bite on my groin.  Can you offer any enlightment on my condition?
+summarized question 11: What is the prognosis for post-treatment Lyme Disease symptoms?
+##
+query 12: SUBJECT: Second Hand Smoking MESSAGE: Dear Sir/Madam I am interested about Second Hand Smoking and the dangers for children and hope you can help me with the questions I have.  If two smokers are smoking every day in the house only on Saturday evening and Sunday morning do not smoke in the house and there are children visiting that house on Sunday morning and staying the whole day, is there a danger of second hand smoking for the children? If yes, what is the danger?  Is there danger of second hand smoking for the children if they stay for the whole weekend in that house? If yes, what is the danger?  Is there a danger  and what for the children if a person smokes in the car?  Thank you very much in advance. Best wishes [NAME]
+summarized question 12: What are the dangers to children of secondhand smoke residue?
+##
+query 13: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 13: Are there any precautions for mixing or administering Fomepizole?
+##
+query 14: SUBJECT: drugs/liver failure MESSAGE: I don't know if you can answer this, but I thought I'd try. If someone used to use drugs, mainly heroin,  and they've stopped using and are around 30 days clean, will they not be able to test negative for drugs if their liver is failing?
+summarized question 14: How long is heroin detectable in your system?
+##
+query 15: SUBJECT: Health innformation MESSAGE: Please. Advise what can inhibit and disassemble genetic tau. Aggregation.  I suffer from a rare tau aggregation illness called pallido ponto nigral degeneration
+summarized question 15: Where can I find information about pallido ponto nigral degeneration, including treatments?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Good day. I'm living with lupus. I just want to ask if I can take glutathione supplement? I already completed my chemotherapy last month (march) and free off steroid after two weeks. Thanks
+summarized question 16: I have lupus; can I take a glutathione supplement?
+##
+query 17: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 17: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 18: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 18: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 19: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 19: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 20: SUBJECT: lymphedema MESSAGE: HelloI was suffering from filariasis before 6 month, then i observed that I started having leg swelling about 6 months ago.It's lymphedema of my left leg. I has seen many doctors for this problem. but nobody help me to cure this.Finally they answer me there is no treatment for this. i have to live with this disease. but i can't spend whole life with this disease. Better then i will comit or prefer sucide and say goodbye to life.So please suggest me treatment if any treatment available.please reply atleast if no solution.
+summarized question 20: What are the treatments for lymphedema?
+##
+query 21: "Many women who are reading this are excited to give it a try. They think that their obese belly's from diabetes might go away, an answer to their horror to look in a mirror. You need to tell us the truth ,especially you Dr. Oz!! Some of us just know we cannot take this without better advise and our ""primary doctors"" have no interest in doing any discovery for their patients. I resent this whole thing, being singled out. I want to lose my belly too, what do I do?"
+summarized question 21: I want to lose my obese belly, what do I do?
+##
+query 22: American Ginseng.  Any publication on American Ginseng and its medicinal benefits?
+summarized question 22: What are the medicinal benfitis of American Ginseng?
+##
+query 23: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 23: What are the treatments for kidney stones?
+##
+query 24: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 24: What are the inheritance patterns for rickets?
+##
+query 25: SUBJECT: Treatment, Paralysis MESSAGE: I have one left side leg is paralysis last 24 years, my other parts of the body is well, it is possible my leg will good for treatment, if possible how can i do the treatment and where ? THANKS
+summarized question 25: What are the treatments for leg paralysis?
+##
+query 26: SUBJECT: Bone-Joint degeneration in the hand or fingers? MESSAGE: I notice that the joints or bones in my  hands hurt sharply when working, cooking and lately I have been dropping things from my left hand; even a sudden twist send shock thru my body-What is this?
+summarized question 26: What causes hand pain?
+##
+query 27: Tests for Haemophilia. Hi, I was wondering if blood clotting assays are always positive if one has mild-moderate hemophilia and what the name is of the genetic tests for hemophilia? I have a history of internal spontaneous bleeding into the joints or with eating garlic or onions (in large amounts).I also hemmorhage after injuries (arm injury, head injury hemmorhage, and pregnancy birth hemmorhage--both times).  I've had to have blood transfusions and shots to control the bleeding but it's usually possible to control it. I believe I may have passed this on to my son as he was determined by a doctor to be a heavy bleeder at circumcision. While on the [LOCATION]t, I was asked by a [LOCATION] if anyone had done a work-up on me for hemophilia or any clotting disorder and I said not to my knowledge.  I asked if they were going to do it and she said to follow up with a primary doctor for it.  She also said it could be expensive. This is why I'm asking, if I go to a medical appointment as a private-pay patient, and want to have testing done, which tests would you recommend? [NAME]
+summarized question 27: How is hemophilia diagnosed, and are there genetic tests for it?
+##
+query 28: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 28: What are the symptoms of complex regional pain syndrome?
+##
+query 29: SUBJECT: Azithromycin 250mg gluten MESSAGE: Hello can you please tell me if your Azithromycin 250mg tabs are gluten free?  Thank you!
+summarized question 29: What are the ingredients of Azithromycin and is it gluten free?
+##
+query 30: SUBJECT: uncontrollable jerking movements MESSAGE: When I am exercising hard, the left side of my body will start to do strange things. When lifting weights overhead, my left upper lift will jerk up into sort of a sneer.  When doing core work, my left arm will start jerking so hard that it's impossible to hold onto anything. The jerking stops after the exercise ends; but my left arm feels worn out.  No pain. A few months ago, my left leg completely lost any strength for weeks. It first appeared when I was just trying to do a squat with a plastic pipe in my hand. Eventually was able to work strength back. Again - no pain.  Should I be alarmed?
+summarized question 30: What causes jerking movements during exercise?
+##
+query 31: SUBJECT: MMR vaccine MESSAGE: My doctor recommended I get the MMR vaccine, which covers mumps, measles, and rubella.  Isn't rubella a form of measles?  As a child, I had the 3-day measles--was that German measles or the other kind?  As a child I also had mumps.  Do I really need the MMR or just a vaccine for the rubella?
+summarized question 31: Who should get the MMR vaccination?
+##
+query 32: "SUBJECT: Need help finding information about kidney ""nodules"".  Please help. MESSAGE: Need help finding info. on kidney ""nodule""."
+summarized question 32: Where can I find information on kidney cysts?
+##
+query 33: My brother and I are twins. We both have XLCSNB and but I have 50% and my brother has 100%. We have an older brother with 15/20 in both eyes with no other complications. The disease came from our mom's side, and she has a sister and an aunt and uncle who also carried the gene. Our aunt has two kids who don't have the disease. If you could get back to me about latest research for XLCSNB that would be great.
+summarized question 33:

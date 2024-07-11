@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Eye muscle surgery as a result fo a TBI cycling accident MESSAGE: I had surgery on the muscles of two eyes as a result of a cycling accident in [LOCATION] in [DATE] 2012 resulted in hospitalized care for s Traumatic Brain Injury.  My eyes were given a year to heal but some double vision occurred and my vision was off center.  Recovery amazing but eyes were a problem (double vision),  Surgery 10 days ago (May) getting mixed opinions on when to go back to sports; cycling, lifting small weights.  Is it 2 week, 4 weeks or 8 weeks of doing nothing.
+summarized question 1: When can I resume exercising  after eye muscle surgery?
+##
+query 2: SUBJECT: Amputed finger MESSAGE: SIr; my 4 yrs old daughter left hand ring finger was crushed in fatal door closure... expert plastic surgeons were consulted and it was finally decided to remove the dead balck portion of finger  and sealed it; now i wish to know to knw wht best treatement I can get for her... she is having pain as her finger/hand  is still in plaster...... I need expert opinions ; pl help ////  regards [NAME]  Father [CONTACT]
+summarized question 2: What is the treatment and prognosis for a crushed finger on a child?
+##
+query 3: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 3: What are the inheritance patterns for rickets?
+##
+query 4: Physician.  I am looking for a type of physician that specializes in treating leg cramps in the elderly.  Specifically, possibly one that provides treatment for leg circulation issues.  What medical specialty is that called?
+summarized question 4: What type of physician treats poor circulation in the legs?
+##
+query 5: SUBJECT: once you open the bottle of Releev, how long is it good for? MESSAGE: once you open the bottle of Releev, how long is it good for?
+summarized question 5: How long does releev retain its potency after opening?
+##
+query 6: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 6: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 7: Respected Sir/Madam, I am [NAME], I'm from India aged 22yrs old. When I came to look across the Medical diary which was used in my childhood hood days, I found a section regarding my scan reports of Kidney. In that report a figure was given and mentioned that I'm having a S shaped Kidney. I have enclosed the images of the reports written by the doctor and please clarify whether I have ectopic kidney. Please reply at the earliest and if you need the current reports of my kidney I'm ready to take the scan of the current development of the kidneys. Thanking you. Yours faithfully, [NAME]
+summarized question 7: Where can I find information and images on ectopic kidneys?
+##
+query 8: SUBJECT: Maple Syrup Urine Disease MESSAGE: Gene changes or chromosomal changes of MSUD? What is the technical and simple language of MSUD? Are there any treatments for MSUD?
+summarized question 8: How is MSUD inherited and what are the treatments for it?
+##
+query 9: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 9: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 10: ClinicalTrials.gov - Suggestion.  I have ostonecrois I need a booklet on it who best doctor to help me I live [LOCATION] I need to see a doctor for necrosis thank you
+summarized question 10: How can I find physician(s) who specialize in osteonecrosis?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Hi  i am  having a littel eye trouble  like  a glare  or blurr vision and  i am a typed 2 diabitic  since 2010 this promble been going own now four - six monthes now and i have low pressure in my right  eye and cloudy and blurr a  lil. I need  to know what my  problem is and can it  fix  and without going  blinding ..Reply back. .To  [CONTACT]  voice mail  or email text are accepted or [CONTACT]
+summarized question 11: Can type 2 diabetes cause blurry vision, and what are the treatments for it?
+##
+query 12: SUBJECT: SKIN CANCER?? MESSAGE: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER?? 1. WHAT EFFECT DO SKIN CREAMS WITH VIT C HAVE ON SKIN CANCER? 2.WHAT EFFECT DO SKIN CREAMS WITH ASPIRIN HAVE ON SKIN CANCER?
+summarized question 12: Are skin creams with vitamin C or aspirin a treatment for skin cancer?
+##
+query 13: SUBJECT: concussions and long term head trauma  from abuse Ii MESSAGE: I was a victim from an abusive relationship, both verbal and physical. During this time I received substantial injuries to my head. Slight concussions led to full-fledged concussions, losing the ability to talk very well, then think very well, and a subdural hematoma, on the left side, bled down inside my head to behind my left eye, which made it unable to move. Along with an intense headache and drinking a lot of coffee, the neurosurgeon didn't have to do brain surgery,  as my eye finally moved!Battered Women's told me to get out of the area a stay gone if I wanted to stay alive. So I did! Speech Therapy helped considerably, the story goes on.  Anyway, I hear and read a lot about concussions and head trauma for football players,  young and old,  and wonder if any studies have ever been done for women?   A few years ago,  I had a partial stroke,  but enough to set me back a bit.  But this time I know what I need to do to help fix my head,  again.
+summarized question 13: What is the latest research on concussions and head trauma in women?
+##
+query 14: polands syndrome. i have polands syndrome and cannot find it anywhere
+summarized question 14: Where can I find information on Poland syndrome?
+##
+query 15: SUBJECT: Treatment without amputation MESSAGE: My father is 70 years old his arteries in the both limbs have blockage. He is having pace maker. Doctor's suggest to go for amputation but there is high risk in it. Please suggest treatment without amputation! He foot is turning black and blisters are forming on his limbs.  Please advice
+summarized question 15: What alternatives to amputation are available for blocked leg arteries if the foot is turning black?
+##
+query 16: SUBJECT: contents of barium sulfate solution MESSAGE: I have your Readi-Cat 2 barium sulfate solution.  21% w/v, 2.0% w/w.  I need to know of this contains any gluten or dairy.  Also, do you know if it contains any salicylates or anything similar to aspirin?
+summarized question 16: What are the ingredients of Readi-Cat 2 barium sulfate solution, and is it gluten and dairy free?
+##
+query 17: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 17: How is thalassemia inherited?
+##
+query 18: How do I know if the cause why my penis didn't growth up to a normal penis size was because of IHH? And How can I have a treatment with hCG? Where Can I get the injections?
+summarized question 18: What are the tratments for small penis size and where can I get the treatments?
+##
+query 19: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 19: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 20: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 20: What are the treatments for kidney stones?
+##
+query 21: SUBJECT: enlarge prostate MESSAGE: Hi, I have some questions about enlarge prostate. My bf has that and he tried different pills and now his been on just 1 type of pill which are SANDOZ-ALFUZOSIN...hes been on them for over 2 years i think...but his sex drive has decrease...and so i was wondering if he has surgery will his sex drive increase again or it would there be still a chance of that side effect? He has talked to his dr. but that doesnt seem to help much. So i was wondering if you have any suggestions because i would like for this situation to change if thats at all possible.  Please let me know what your opinion are. thank-you
+summarized question 21: What are the treatments for enlarged prostate, and how do they affect sex drive?
+##
+query 22: SUBJECT: voids to avoid with ebstien-barr virus in the liver MESSAGE: In pain after I eat...wondering if I am eating wrong foods. I have been diagnosed with this and had cat scan with and without dye and it shows a clump of blood vessels infected with the virus....
+summarized question 22: What foods to  avoid with epstein barr virus and abdominal pain?
+##
+query 23: Genetic Test for IHHS heart condition. Is there a commercial genetic test for the IHHS heart condition?  My family suffers from this heridity condition and I would like to know who is susseptable.   If so, where could I get it done in [LOCATION] Texas?
+summarized question 23: Where can I get genetic testing for IHSS in Texas?
+##
+query 24: Hi All, I am from India and really worried. I have a 6 months old baby girl. I have read the article on Lactose intolerance. She is unable to digest any formula milk or any milk products. When she was a new born, I started giving her Lactogen (a formula milk) a little bit along with my milk. She was fine with it but after 3 weeks, I switched her to another formula milk named Nan Pro 0 which is for babies upto 1 year. She started drinking that along with my breast milk. After 2 weeks, she started getting Diarrhea and a severe one where she pooped at least 15 times in one day. Therefore, I consulted the doctor and the doctor immediately asked me to put her on breast milk only. I did try that but she was hungry and crying therefore, I gave her a little bit of formula milk aswell. She was file with all the medicines. However, once the medicine stooped, she again started getting diarrhea. This continued on and off. After a while, the doctor asked me to stop the formula milk and start giving her Zerolac (soy milk) along with breast feeding. I did that and everything smoothened. However, after 2 months, I asked my doctor if we can start giving her any type of milk apart from zerolac as I was concerned about her getting calcium in her body with having milk. The doctor asked me to give her formula milk (Nan Pro 0). I did that but just after half an hour, she suddenly started vomiting which continued till she had the milk in her stomach. Once that stopped, she started getting diarrhea which continued till 3 days. She was put back on Zerolac again and breast milk. As she is now 6 months old, I thought of giving Cerelac to her but again she did not digest it and went through the same problem again. I am unable to find the right doctor here in India where I live. Please help my daughter in this situation. Please let me know the contact detail may be an email address of any doctor with whom I can discuss my case. Please help us. Thanks for all your help. Regards, [cid:
+summarized question 24: Where can I get help for my 6 months old baby girl with Lactose intolerance in India?
+##
+query 25: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 25: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 26: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 26: Is there a cure for hepatitis B?
+##
+query 27: SUBJECT: Anxiety MESSAGE: How does one deal with anxiety and the looming feeling that I am about to have a heart attack?  I am taking clonazepam which helps but I would rather go back to the person I used to be without this condition.  How can I re-train my brain into not thinking a heart attach is about to hit me?
+summarized question 27: What are the non-drug treatments for anxiety?
+##
+query 28: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 28: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 29: "SUBJECT: Vamousse head lice treatment labe claims MESSAGE: To the best of my knowledge, any head lice treatment that claims to ""Kill"" lice and/or eggs is considered by FDA to be a drug claim and therefore needs to contain an FDA-registered pediculicide (kills lice) or an FDA-approved ovicide (kills eggs).  Otherwise the product is considered to be misbranded and a ""new drug"" requiring appropriate testing.  The ""Vamousse"" head lice treatment claims ""Kills 100% lice and eggs"" and does not conform.  In addition, the claim ""kills 100%"" is in violation of FTC rulings which prohibit claiming ""100%"".  This company has also introduced a Head Lice Prevention product which is also in violation of FTC rulings (see FTC vs Lornamead).  I think that you should research these issues and publish your findings.  Thank you."
+summarized question 29: Does Vamoose head lice treatment conform to FDA and FTC labeling guidelines?
+##
+query 30: Hello! Ive just become handicap.  I need to learn how to live handicap.  I live in [LOCATION]
+summarized question 30: How can I learn how to live with a handicap?
+##
+query 31: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 31: What are the causes of nipple discharge?
+##
+query 32: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 32: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 33: I have Pulsatile Tinnitus for more than 12 years . I am a girl of 24 years and live in Pakistan. Doctors here, didn't recognize the problem. And now I have mild hearing loss and tinnitus also along with pulsatile tinnitus . it  interrupts my daily life and doesn't let me sleep at night time. Please sir help me , tell me how can I abolish my pulsatile tinnitus because I am now bothered and depressed so much
+summarized question 33:

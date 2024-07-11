@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: loss of  taste MESSAGE: i  have  giant  cell arteritis.  on  steroids.  lost  taste  .  is  this  related  to  the  illness  (  was  it  ever  reported  in  GCA  ?  )  or  side  rx  to  prednisone.  i   wish  a  rheumatologist  at  NIH  responds
+summarized question 1: What causes loss of  taste and is it related to GCA or steroids?
+##
+query 2: "MESSAGE: I have a fungal infection on my two legs which i have treated  several month with Lamisil 1o/o cream ,Betamethasone-N cream and sulphur skin ointmentcream. And the drugs-: terbanfine, fuschin,ampiclus beecham vitamin ""c"" etc. But with all of these,the fungal still remain the same.pls, which strong antifungal drug or injection would you people recomend for me or what advice would you give ? Yours faithfully  [NAME]"
+summarized question 2: What are the treatments for severe skin fungal infections resistant to over the counter medications?
+##
+query 3: SUBJECT: insulin-dependent diabetes in children MESSAGE: Hi, What are the causes of insulin-dependent diabetes in children? I am searching for information on the causes of insulin-dependent diabetes in children. Please help.
+summarized question 3: What causes type 1 diabetes in children?
+##
+query 4: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 4: For how long can Atorvastatin be stored at room temperature?
+##
+query 5: SUBJECT: my husband had a simple retropubic prpostectomy 6 weeks ago. he can not walk wit MESSAGE: My husband had a simple retropubic prostectomy he can not walk without the walker, he can not mmove his right leg  alone yet. I don't  think is normal. What to expect in six weeks  his urinary track is still soar when he pees. I fear  is something wrong  not been able to push the leg forward the joint in the leg is painful
+summarized question 5: What is the normal time course and symptoms of recovery from simple retropubic prostatectomy?
+##
+query 6: ClinicalTrials.gov - Suggestion.  Can you tell me if there is a battery pack that could be used in power outage events. We live in a rural setting and often have power outages during the general hours of sleep? Please advise if any known means of switching c-pap to this method.
+summarized question 6: Is there is a c-pap battery pack that could be used in power outage events?
+##
+query 7: SUBJECT: prestigious place in USA for treatment to Common peroneal nerve dysfunction MESSAGE: Hello, I have foot drop for damage to the common peroneal nerve, caused by surgery on knee in November 2012.Please which is the most prestigious institution or place in USA for treatment or surgery of this type of injury. thanks a lot
+summarized question 7: How can I find physician(s) who specialize in Common peroneal nerve dysfunction?
+##
+query 8: SUBJECT: meloxicam MESSAGE: Does this have to be taken everyday for it to work?  Can I just take it as needed or does it have to build up in my system....
+summarized question 8: How should meloxicam be used?
+##
+query 9: SUBJECT: Irritation on the gland MESSAGE: There is a problem on my penis gland, due to using lidokaine a lot. The skin is irritating and very sensitive especially when it is wet. Also, the gland is peeling every 3 or 4 days during a week leading to very high stimulating feelings. I have undergone several treatments for skin as well as my neurotic system but with no result at all. Please help me to cure this. Some doctors said there is no treatment for me and there would be no sexual contact forever.
+summarized question 9: What are the treatments for sensitive, irritated skin on the penis?
+##
+query 10: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 10: Is there a medication that can cause bleeding during sex?
+##
+query 11: Eye.  i do see black things what couse it? or likd a sand i my Eye? how can i get treatment?
+summarized question 11: What are the causes and treatments for eye floaters?
+##
+query 12: MESSAGE: Dear Sir I am newly marrired. Now from few days i am suffering erection problem. Pls suggest me. Thanks [NAME]
+summarized question 12: What are the treatments for erectile dysfunction?
+##
+query 13: ClinicalTrials.gov - Question - general information.  I have returned from Nigeria. While there, I found out that a relative of mine has an outgrowth that has covered half his face, thus blinding him on one eye. The outgrowth is about the size of three baseballs. What can you do to help him? [NAME], [CONTACT]
+summarized question 13: What are the treatments for facial tumors, and how can I find physician(s) who specialize in it in Nigeria?
+##
+query 14: SUBJECT: Bello, Im a FA patient MESSAGE: Hi, my name is [NAME], I'm a 24 old boy with Friedreich Ataxia and I have a 23 year old brother with the same disease to.  We are desperate to find a cure or something that help us because every day that pass is a step back in this desease.   We live in Mexico but we can go anywhere if its necessary. I don't know if you have Skype account to have more information of your knowledge of FA disease that can help us and talk more about our case, I will be very thankful.  I appreciate your time and wait for your answer. Kind regards.
+summarized question 14: Where can I find information on Friedreich Ataxia, including treatment options?
+##
+query 15: SUBJECT: morphine withdrawal symptoms MESSAGE: I was taking 600 mgm ms contin over a long period - of course I didnt start on that high dose but over 20 years I ended up there. I weaned myself off last year, and when I finally got to zero I started having these leg spasms, is this from the morphine? I can stop them taking 15 mgm ms contin daily which irritates me to to no end, I do NOT want to take the stuff! BUT, if I don't take it I get the spasms and end up sitting up all nite and sometimes during the day with them. I get them in my arms sometimes as well as both legs, and my legs jump a lot! My limbs feel kind of numb when it is going to start, so I know it is coming. What can I do? Is this ever going to stop? Thanks for your help.....[NAME]
+summarized question 15: What are symptoms of morphine withdrawal and how are they treated?
+##
+query 16: "SUBJECT: Normal physical traits but no period MESSAGE: I'm a 40 yr. old woman that has infantile reproductive organs and have never experienced a mensus. I have had Doctors look but they all say I just have infantile female reproductive organs. When I try to look for answers on the internet I cannot find anything. ALL my ""girly"" parts are normal. My organs never matured. Could you give me more information please."
+summarized question 16: Where can I find information on developmental disorders of the female reproductive system?
+##
+query 17: SUBJECT: glossopharyngeal neuralgia MESSAGE: how long would i take the medication. what is the success rate of surgery. can you tell me how much radiation method work and where is the treatment available in [LOCATION]
+summarized question 17: What are the treatments and their success rates for glossopharyngeal neuralgia?
+##
+query 18: Hello, Im sorry about my mom, she has black her mounth, neck and arms, her skin is changed in color black, she has diabetes, she inyects insuline. Can you reccomend me something please?    Sent from my MetroPCS 4G Android device
+summarized question 18: What treatments are available for diabetic skin darkening?
+##
+query 19: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 19: How is hypomaturation type IIA2 inherited?
+##
+query 20: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 20: What is the difference between residual and recurrent maligancy?
+##
+query 21: SUBJECT: sti. infection and circumcised MESSAGE: I have noticed that I have an Sti virus on my Penis called Warts human virus(Hpy) so I need a help
+summarized question 21: What are the treatments for HPV genital warts?
+##
+query 22: SUBJECT: Nephrotic Syndrome MESSAGE: What is Nephrotic Syndrome.  What are its causes and cures?
+summarized question 22: What is Nephrotic Syndrome, its causes and cures?
+##
+query 23: SUBJECT: pots puffy tumor MESSAGE: what will happen to a 53 year old woman who has been dignoised with pots puffy tumor if she doesnt have the surgery? she has been on antibiotics for akmost a year now but scared to have surgery and it is getting worse thank you for your time [NAME]
+summarized question 23: What is the prognosis for untreated pott's puffy tumor?
+##
+query 24: SUBJECT: Operation for Pectus Excavatum MESSAGE: Dear Medical Doctors,  Good day!  We are a resident of [LOCATION] (previously affected with super typhoon Haiyan). We have noticed with our nephew who is 16 yrs old now that his breast is not normal the same with the other nephew that we have having the same age. As we start to consult our physician's in [LOCATION], they told us that it is just normal, however, we are worried because as we can it is a symptom of Pectus Excavatum. We want to know from you the details what to do if we want our nephew to undergo this kind of operation to correct the ribs in his breast (pectus excavatum)?  Hope to hear from you. Thank you very much.   [NAME]
+summarized question 24: Whare can I find information on surgery for Pectus Excavatum?
+##
+query 25: MESSAGE: Bleach on bed sores? Yes or no? Hear to add water and rag?
+summarized question 25: Can I put bleach on bed sores?
+##
+query 26: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 26: Can shingles affect the teeth and gums?
+##
+query 27: anemia in kids. My daughter is 6 years old she is suffering from microcytic anemia for last three years.in 2009 she has been blood transfused but now her hb count is 4.5.Doctors are unable to find out the cause of her anemia.we are much worried about her.plz if u can guide us in regard.
+summarized question 27: What are the causes of  and treatments for microcytic anemia?
+##
+query 28: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 28: What are the causes of nipple discharge?
+##
+query 29: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Are there any studies looking at familial/longetudnal fragile X or other related disorders? We are 4 generations of a family with similar traits in the males in each of those generations (only 1 male in each), My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder as a child (at [LOCATION]) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and very similar intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed?
+summarized question 29: Where can I find information on Fragile X sydrome and inheritance patterns?
+##
+query 30: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 30: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 31: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 31: What are the inheritance patterns for rickets?
+##
+query 32: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 32: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 33: Hi my 4 year old son has uncomfortable hair syndrome is there a register that i should put him on. Regards
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Teen pregnancy MESSAGE: Good morning,   I am a student from Carver Military Academy on the far south side of Chicago. My fellow classmates and I are conducting a research project on social issues and problems we are affected by everyday mine is Teen Pregnancy. Since I am a teenager I know how having a child can really affect our young lives. They can stop our achievements in school, goals for the future,all our fun would stop,and our dreams. I would like to ask someone from your organization a few questions because it seems as though your organization could provide me with valuable information about teen pregnancy,statistics,facts, and your opinion about it. Your time and assistance would be greatly appreciated and I hope to hear from you soon.   Thank you,  [NAME]
+summarized question 1: Where can I find information on teen pregnancy?
+##
+query 2: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 2: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 3: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 3: How can I find a doctor to perform tubal ligation?
+##
+query 4: "SUBJECT: Erythema Nodosum MESSAGE: I have read that a form of ""honey"" might be used to treat my skin condition, Erythema Nodosum. Would appreciate your comment on this."
+summarized question 4: Is honey an effective treatment for erythema nodosum?
+##
+query 5: SUBJECT: low WBC issue MESSAGE: respected sir,                i humbly want to say  you thanx for making this website. i am [NAME] from [LOCATION] and i want to help myself by you please help me sir i will greatful to yo(sorry sir my English is not so good)      masturbation is my hobby its my taboo really sir now i am tired i want to change myself please sir give me some suggestions ....   this is bad habit in my life but i am also a bright student since last year .............. .......... .......... i am crying... sorry ...... please help me sir plzz rply me in my id.. and wish me luck     i know you have a golden heart ....
+summarized question 5: What are techniques to stop masturbating?
+##
+query 6: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 6: What are the treatments for scoliosis pain?
+##
+query 7: My name is [NAME] and i am 45 years old and come from [LOCATION]. I got involved in a shock cerebral (Brain stroke in Cerebellum) and took apoplexy cerebral. I did a surgery for placing shunt. After my surgery i lost my body balance to some extent. Now i am trying to improve my condition with physiotherapy, swimming and etc. My doctor says the shunt is not necessary longer. I found your name between scientists which are involved in research on brain stroke so my request is if you could advice me with new methods for curing my problem. I can come to [LOCATION] if needed to do further therapy for my problem. I would be very thankful of your help
+summarized question 7: What are the treatments and recovery for cerebellar stroke?
+##
+query 8: MESSAGE: Hi, I would like to know if the legs shortening can be done for a regular person as well, to simply reduce the overall body height. Thank you!
+summarized question 8: Is leg shortening surgery performed to reduce body height?
+##
+query 9: ClinicalTrials.gov - Suggestion.  Can you tell me if there is a battery pack that could be used in power outage events. We live in a rural setting and often have power outages during the general hours of sleep? Please advise if any known means of switching c-pap to this method.
+summarized question 9: Is there is a c-pap battery pack that could be used in power outage events?
+##
+query 10: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 10: What is the life expectancy of someone with free trisomy 13?
+##
+query 11: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 11: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 12: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 12: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 13: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 13: What are the ingredients of Glyburide and is it gluten free?
+##
+query 14: MESSAGE: I will love to try diet I need. To lose weight
+summarized question 14: Where can I get help with a weight-loss diet?
+##
+query 15: SUBJECT: percutaneous nephrolithotomy MESSAGE: I am trying to get travel insurance and the insurance company don't recognise the condition by this name or nephrostomy is there a name that would be recognised by the insurance company? Thanking you.
+summarized question 15: What are other names for percutaneous nephrolithotomy or nephrostomy?
+##
+query 16: MESSAGE: I have a fractured nose i need it fixed. its been broke for 3 years now
+summarized question 16: What are delayed treatments for nose fracture?
+##
+query 17: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 17: What are the treatments for mercury poisoning?
+##
+query 18: SUBJECT: [NAME] Brazilian with PMD MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pelizaeus-Merzbacher leukodystrophy, we would like to know more new treatments, new techniques, since we know very little about the disease in Brazil. [NAME]
+summarized question 18: What new treatments are available for Pelizaeus-Merzbacher leukodystrophy?
+##
+query 19: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 19: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 20: SUBJECT: Anxiety MESSAGE: How does one deal with anxiety and the looming feeling that I am about to have a heart attack?  I am taking clonazepam which helps but I would rather go back to the person I used to be without this condition.  How can I re-train my brain into not thinking a heart attach is about to hit me?
+summarized question 20: What are the non-drug treatments for anxiety?
+##
+query 21: "SUBJECT: Periventricular Heterotopia.  Scoliosis  - possibility of a known link ? MESSAGE: Question in laymen terms: Has any genetic or other correlation ever been made between these two diagnosis? My 59 y.o. sister has a diagnosis of Periventricular Heterotopia.  Her 30 y.o. daughter has been suffering with same for last 15 years.  Her 37 Y.O. daughter is clinically full-care retarded (since infancy) and has severe idiopathic scoliosis.  I have severe idiopathic scoliosis. I use the term ""severe"" to express debilitating and multiple fusion surgeries.  All four of my generation female siblings have a level of scoliosis. FYI: this PH sister died last week, her remains are at the [LOCATION]"
+summarized question 21: Is there a link between periventricular heterotopia and scoliosis?
+##
+query 22: MESSAGE: I have a gland on the bottom left side of my jaw that swells up and gets really hard causing pain. The only way to relieve it is to push it with my fingers till it runs out of a hole inside my cheek into my mouth. What could b causing this? I just want to know if i should b concerned about a type of cancer since my grandmother passed from cancer in her lymph nodes.
+summarized question 22: What are the causes and treatments for salivary gland swelling and pain?
+##
+query 23: Customer Service Request.  My daughter has Turner syndrome but she's beaten all odds. She developed on our own, got her period on her own, she is now pregnant on her own with identical twins. My question is can she have normal children or do they have more of a chance of having Turner syndrome.  My daughter has been tested many times to confirm her diagnosis of Turner syndrome and she is a full XO not mosaic but still does not display many of the characteristics. Again, I am just questioning the safety of the pregnancy and the health of the babies. Thank you for your help
+summarized question 23: What is the inheritance pattern of Turner syndrome?
+##
+query 24: ClinicalTrials.gov - Error Found - in a study. Dear all, I am [NAME] from Malaysia. My mother has suffered from MSA and it is be discovered on 2009year. I have a question. From this, it showed that this disease is not to be hereditary. I got a real life example is that my grandpa was suffered with this disease and he had passed away, follow by my uncle that had inheritated this disease. My mother also got the same disease with her father. And this disease is discovered and proven by [LOCATION]. Is that really not hereditary? If my mother suffered from this disease, what is my probability to i will get this disease? I now feel worry about my future. I scared i will got the disease from mother. Could you please reply my message? Looking forward for your precious answer. Thank you. Yours sincerely, [NAME]
+summarized question 24: Is MSA disease hereditary?
+##
+query 25: SUBJECT: Small intestine completely removed MESSAGE: One of my family members has a serious health issue in which his small bowel has been removed completely, due to gangarin. Could you please help and advise accordingly.
+summarized question 25: What are the prognosis and care instructions after small bowel resection?
+##
+query 26: [NAME] submitted the following request on [DATE]. They were searching from . NLM product:  Local Legends Web browser:  Mozilla/5.0 (iPad; CPU OS 8_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) GSA/5.2.43972 Mobile/12F69 Safari/600.1.4 State: MO Country: NONE SPECIFIED E-Mail address: [NAME] Subject: I have a Question &Need a Response Message: My daughter was born in 1988 with a sacralcoccygeal teratoma tumor. [NAME] did there surgery to remove the tumor. [NAME] has grown up and is now having some problems with scar tissue and digestive issues. We would like to know if she could recommend a doctor to follow up with [NAME].  She is going to see [NAME],a plastic surgent on [DATE]. Do any other patients have complications from such a large tumor? Any information to help us would be  greatly appreciated. If it would be possible, I would love my daughter to meet [NAME], after all she was the one that saved my daughter's life. She is an amazing doctor. Thank you, [NAME]
+summarized question 26: What are the complications from sacralcoccygeal teratoma tumor removal, and how can I find physician(s) who specialize in it?
+##
+query 27: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 27: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 28: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 28: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 29: who makes bromocriptine i am wondering what company makes the drug bromocriptine, i need it for a mass i have on my pituitary gland and the cost just keeps raising. i cannot ever buy a full prescription because of the price and i was told if i get a hold of the maker of the drug sometimes they offer coupons or something to help me afford the medicine. if i buy 10 pills in which i have to take 2 times a day it costs me 78.00. and that is how i have to buy them.  thanks.
+summarized question 29: Who manufactures bromocriptine?
+##
+query 30: MESSAGE: Sir .my problem based on nerves ..my sister legs nerves tried  each other how i can treat
+summarized question 30: What are the treatments for leg nerves?
+##
+query 31: My mother has Pulmonary ARTERIAL hypertension in the left side of her heart.  Is there anything that can be done to improve her health.
+summarized question 31: What are the treatments for Pulmonary Arterial Hypertension?
+##
+query 32: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 32: What are the treatments for nutcracker syndrome?
+##
+query 33: My 37 year old daughter is dying of Crohn's disease. It is very desperate.  Is there anything you can do? Time is of the essence.
+summarized question 33:

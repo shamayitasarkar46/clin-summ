@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: Degenerative bone &disk disease MESSAGE: Like to know more about Degenerative Bone &Disk Disease..I have had it for over 10 yrs..I'm losing muscle in my legs,at the point I can only walk about 30-40 steps my his freeze up with pain &pressure,hince I need a wheelchair,need more information on this disease...healthcare providers ""need surg.don't need surg"" I'm stuck in small town America....O I'm 59yrsold...any info would be apprec..."
+summarized question 1: Where can I find information on degenerative disc disease, including treatments?
+##
+query 2: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 2: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 3: SUBJECT: loss of  taste MESSAGE: i  have  giant  cell arteritis.  on  steroids.  lost  taste  .  is  this  related  to  the  illness  (  was  it  ever  reported  in  GCA  ?  )  or  side  rx  to  prednisone.  i   wish  a  rheumatologist  at  NIH  responds
+summarized question 3: What causes loss of  taste and is it related to GCA or steroids?
+##
+query 4: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I am suffering from demylination sensorimotor neuropathy and need help. I am willing to try anything. Cell# [CONTACT]. [NAME]
+summarized question 4: What are the treatments for demyelinating sensorimotor neuropathy?
+##
+query 5: SUBJECT: Achromobacter xylosoxidans colonisation MESSAGE: What are implications of A. xylosoxidans colonisation? Background: bronchiectasis, colonised Psa, MDR muc-strain Psa; MRSA also with A denitrificans.
+summarized question 5: What are treatments for Achromobacter xylosoxidans colonisation?
+##
+query 6: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 6: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 7: SUBJECT: Voice MESSAGE: Hi I am wondering if anyone can help me get my voice back. I have ALS in my throat and I don't want to go out on a disability. I want to keep working. Thank you.
+summarized question 7: What are the treatments for voice disorders caused by ALS?
+##
+query 8: SUBJECT: ODD facilities MESSAGE: Two friends of ours have an 8-year-old child with Oppositional Defiant Disorder and autism, and they are being told by a facility that they need to institutionalize him there. Our friends are heartbroken. Are there any excellent places in the country that specialize in ODD in combination with autism that might offer other options for them? Thanks for any counsel you might have.
+summarized question 8: How can I find physician(s) or hospital(s) who specialize in oppositional defiant disorder and autism?
+##
+query 9: GERD.  I'm a 72 year old female, and have diverticulosis,gastritis, and esophagitis.  I tried to see three different doctors today, but all were booked.  I honestly don't know what to do.  It hurts in my chest, and I can hardly talk.
+summarized question 9: How to treat chest pain potentially associated with  diverticulosis, gastritis, and esophagitis?
+##
+query 10: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 10: What is the prognosis and course of recovery after stroke?
+##
+query 11: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 11: What are the treatments for strabismus, including stem cell therapies?
+##
+query 12: SUBJECT: glucosmine sulfate caplets MESSAGE: Question: when they are out of date...LOTF39460 EXP JA 2013.  Is there any real harm to contining to take these calets?
+summarized question 12: Is it harmful to take expired glucosmine sulfate caplets?
+##
+query 13: SUBJECT: menstruation MESSAGE: What causes women menses over a month ? And how bad it is interms of their health ?
+summarized question 13: What causes prolonged periods?
+##
+query 14: Patient Handouts.  Are there patient handouts we can order on the topic of gum/periodontal disease? If so how can we order some?
+summarized question 14: Where can I find patient handouts on gum/periodontal disease?
+##
+query 15: MESSAGE: I have been battling Anal fissure for close to two years now and it has refused to heal all these while. Please what do you suggest i do?  Thanks
+summarized question 15: What are the treatments for chronic anal fissure?
+##
+query 16: SUBJECT: Daily Fluid Intake MESSAGE: What is the significance of keeping my daily fluid intake at @2 liters per day?  Why that particular amount?    I have been diagnosed with Congestive Heart Failure.  Thanks
+summarized question 16: For Congestive Heart Failure, what is the significance of keeping my daily fluid intake at 2 liters per day?
+##
+query 17: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dental/sjogrens. Because of Sjogrens, my teeth have decayed Severely in the past 2 years.I have a few teeth that have not decayed. It is devastating!  What should I do...implants or dentures? What about funds?  Help.    [NAME]
+summarized question 17: What teeth replacements are better for sjogren's: implants or dentures?
+##
+query 18: SUBJECT: prob gum MESSAGE: My. Teeth gum blood comeing what medicine I use
+summarized question 18: What are treatments for bleeding gums?
+##
+query 19: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Are there any studies looking at familial/longetudnal fragile X or other related disorders? We are 4 generations of a family with similar traits in the males in each of those generations (only 1 male in each), My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder as a child (at [LOCATION]) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and very similar intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed?
+summarized question 19: Where can I find information on Fragile X sydrome and inheritance patterns?
+##
+query 20: Genetic testing.  My mother in law is in the last stage if lung cancer and only has days to live.  My question is...testing her and comparing her tests with my husbands and his sisters test help to determine if it is genetic?  My mother in law ([NAME]) and her mother and her mithers sister both had lung cancer and none if them were smokers.  I'm real worried about my husband getting lung cancer now and I want find out what we can do to protect him.Thank you,[NAME]
+summarized question 20: What are the genetic factors for lung cancer?
+##
+query 21: Hi All, I am from India and really worried. I have a 6 months old baby girl. I have read the article on Lactose intolerance. She is unable to digest any formula milk or any milk products. When she was a new born, I started giving her Lactogen (a formula milk) a little bit along with my milk. She was fine with it but after 3 weeks, I switched her to another formula milk named Nan Pro 0 which is for babies upto 1 year. She started drinking that along with my breast milk. After 2 weeks, she started getting Diarrhea and a severe one where she pooped at least 15 times in one day. Therefore, I consulted the doctor and the doctor immediately asked me to put her on breast milk only. I did try that but she was hungry and crying therefore, I gave her a little bit of formula milk aswell. She was file with all the medicines. However, once the medicine stooped, she again started getting diarrhea. This continued on and off. After a while, the doctor asked me to stop the formula milk and start giving her Zerolac (soy milk) along with breast feeding. I did that and everything smoothened. However, after 2 months, I asked my doctor if we can start giving her any type of milk apart from zerolac as I was concerned about her getting calcium in her body with having milk. The doctor asked me to give her formula milk (Nan Pro 0). I did that but just after half an hour, she suddenly started vomiting which continued till she had the milk in her stomach. Once that stopped, she started getting diarrhea which continued till 3 days. She was put back on Zerolac again and breast milk. As she is now 6 months old, I thought of giving Cerelac to her but again she did not digest it and went through the same problem again. I am unable to find the right doctor here in India where I live. Please help my daughter in this situation. Please let me know the contact detail may be an email address of any doctor with whom I can discuss my case. Please help us. Thanks for all your help. Regards, [cid:
+summarized question 21: Where can I get help for my 6 months old baby girl with Lactose intolerance in India?
+##
+query 22: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 22: What are the treatments for autoimmune nerve disorder?
+##
+query 23: Prenatal exams for leigh syndrome. I am looking for information about having prenatal exams anmnio or chorionic villus sampling for NARP and leigh syndrome. Thank you in advance
+summarized question 23: Where can I find information on prenatal genetic tests for NARP and leigh syndrome?
+##
+query 24: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 24: Where can I find information on familial mediterranean fever?
+##
+query 25: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 25: What are tarlov cysts of the spine and how are they treated?
+##
+query 26: SUBJECT: Peyronies Disease - Questions MESSAGE: Dear sir/Madam  my name is [NAME]. i am 16 years old and i live in [LOCATION]. i have a couple of questions about Peyronies Disease.  i have recently discovered about this ... STD (or should i call it a disease?) and i noticed that i also have a bent penis , but none of the following points , which are on the Peyronies Page , match my Penis (ofcourse besides the bend). so i was wondering. is it also possible to get a bent penis just from masturbation? because if that is so , then i may know where the problem lies with me (i may have to switch hands then :/ )  i hope you can answer my questions. hope to hear from you soon.  -[NAME]
+summarized question 26: What causes a bent penis?
+##
+query 27: W What are the causes of pulmonary artery sling? Is it genetics or what?my 10 month granson is having surery on tuesday at little rock hospital in ar.
+summarized question 27: What causes pulmonary artery sling?
+##
+query 28: Breast cancer at 84.  My mother was just diagnost with breast cancer. She is 84 years old, her tumor started in the milk duct and is small in size, their is a mass as well in the same breast. He is scheduled for a lumpectomy to remove both. Because of age we would like suggestions on treatment options after surgery.
+summarized question 28: What are the treatment options after breast cancer surgery in elderly?
+##
+query 29: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 29: Where can I find information on klinefelter syndrome?
+##
+query 30: pls guide us.  Dear sir/Madam pls guide us recently we found one of woman staying with us ,she coughing and blood coming from mouth so she went to doctor on 2012 they did blood test and sputm test ct scan also they didnt find anything ,recently she went to indonesia [LOCATION] ,they found repot was PROGRESSIVE DISEASE,ACTIVE LUNG TBINTHE RIGHT B2 AND B4 SEGMENS,THE EXUDATIVE LESIONS IS INCREASING WITH SMALL CAVITY .so what we have to do for her is this contages ,who is the pople staying with her need to do test ?pls guide me thank u my contact [CONTACT]
+summarized question 30: What are the treatments for tuberculosis, and is it contagious?
+##
+query 31: "SUBJECT: Periventricular Heterotopia.  Scoliosis  - possibility of a known link ? MESSAGE: Question in laymen terms: Has any genetic or other correlation ever been made between these two diagnosis? My 59 y.o. sister has a diagnosis of Periventricular Heterotopia.  Her 30 y.o. daughter has been suffering with same for last 15 years.  Her 37 Y.O. daughter is clinically full-care retarded (since infancy) and has severe idiopathic scoliosis.  I have severe idiopathic scoliosis. I use the term ""severe"" to express debilitating and multiple fusion surgeries.  All four of my generation female siblings have a level of scoliosis. FYI: this PH sister died last week, her remains are at the [LOCATION]"
+summarized question 31: Is there a link between periventricular heterotopia and scoliosis?
+##
+query 32: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 32: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 33: I had the bladder sling surgery and the incontinence was cured for 1 week and then the leaking began again.  The Dr wanted to prescribe a pill to stop the leaking but I waited until I went back  for my one month check up, all the while leaking just as bad as I did before the surgery.  When she examined me she said the bladder had slipped out of the sling and we would have to do the surgery again this time she would suture it to the ligament behind the pelvic bone.   My question is this:  #1. why would it slip?  was she supposed to suture it before to prevent the slipping? what guarantees that it won't slip again?  I am very concerned about having to go under anesthesia again and certainly do not want to risk having to go yet a 3rd time to solve my stress incontinence issues. Thank you for ever help you can give with these answers.
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: New drug, want are side affect/and how does help you. MESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You
+summarized question 1: Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?
+##
+query 2: SUBJECT: Ochoa syndrome MESSAGE: Where could I find more information about the rare disease, Ochoa syndrome. I think a sibling of mine might have it.
+summarized question 2: Where can I find information on ochoa syndrome?
+##
+query 3: SUBJECT: SKIN CANCER?? MESSAGE: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER?? 1. WHAT EFFECT DO SKIN CREAMS WITH VIT C HAVE ON SKIN CANCER? 2.WHAT EFFECT DO SKIN CREAMS WITH ASPIRIN HAVE ON SKIN CANCER?
+summarized question 3: Are skin creams with vitamin C or aspirin a treatment for skin cancer?
+##
+query 4: SUBJECT: X-OUT WASH-IN TREATMENT- benzoyl peroxide gel MESSAGE: Can you please tell me if the product X-OUT WASH-IN TREATMENT- benzoyl peroxide gel would contain any animal, dairy, insect, seafood or human by-products? Also would it contain any honey? Thank you for your help in researching this information for me. Make it a great day! Best Regards, [NAME] [CONTACT]
+summarized question 4: What are the active and inactive ingredients of X-OUT WASH-IN TREATMENT- benzoyl peroxide gel?
+##
+query 5: SUBJECT: Diltiazem BVF 120MG MESSAGE: I had a patient contact our office and states her pharmacy told her that TEZA was no longer going to be dispensing Diltiazem BVF 120MG. Is this fact?
+summarized question 5: Does TEZA manufacture  Diltiazem BVF 120MG?
+##
+query 6: SUBJECT: Theophyline MESSAGE: I have been taking this drug since 1994.  Now my PCP will not prescribe it and has sent me to a pulmonary specialist who will also not prescribe it.  She wants me to take more expensive drugs such as Advair Diskus. Neither doctor has performed a serum Theophyline level.  The pulmonologist performed a PFt and ordered a methachlorine test which I cancelled.  I don't have asthma I have bronchitis.  Both doctors told me that it was extremely dangerous to take this drug for this long of a period.  I have had no problems with it.  Now that I have stopped taking it I don't feel as well as I did with it.  My questions are is it dangerous to take Theophyline long term? Should they have stopped the drug suddenly Like they did?  Please help me.  Thanks, [NAME] (I am 57 years old)
+summarized question 6: Are there adverse effects of long term Theophylline use, and how should Theophylline be stopped?
+##
+query 7: SUBJECT: hydatidiform mole MESSAGE: Iam hoping to find a scientist that is doing research on hydatidiform mole.  I had thins in my early 20s I am now 66 years old and its back.  There is some ver interesting information about this demon that invaded my body. There were thee of me friends of mine in the early 70s.  All three of us lived in [LOCATION]. All three of us could not have children after that and have had many medical problems. I have taken test and this has returned.I am just hoping someone is doing research and I could help in some way.  This has had serious problems for me the last 46 years. Thank you [NAME]
+summarized question 7: Who is doing research on hydatidiform mole?
+##
+query 8: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 8: Is Astigmatism related to Aarskog Syndrome?
+##
+query 9: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 9: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 10: who makes bromocriptine i am wondering what company makes the drug bromocriptine, i need it for a mass i have on my pituitary gland and the cost just keeps raising. i cannot ever buy a full prescription because of the price and i was told if i get a hold of the maker of the drug sometimes they offer coupons or something to help me afford the medicine. if i buy 10 pills in which i have to take 2 times a day it costs me 78.00. and that is how i have to buy them.  thanks.
+summarized question 10: Who manufactures bromocriptine?
+##
+query 11: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 11: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 12: SUBJECT: canadida of the esophagus MESSAGE: I cannot locate any information on this condition: causes, symptoms, treatment, etc. I have had it in the past and suspect that I have it again. I would like to research this condition, but internet search only comes up with cancer. I realize that my case is not addressed in your reply. I am simply seeking general information.
+summarized question 12: Where can I find information on candida of the esophagus, including causes, symptoms, and treatment?
+##
+query 13: Customer Service Request. I am looking for recent information and treatment for Ledderhose Disease also know as Plantar Fibromotisis. I would be interested in doctors specializing in this disease.
+summarized question 13: Where can I find information on Ledderohose disease, including the latest treatments, and how can I find physician(s) who specialize in it?
+##
+query 14: Hello, Im sorry about my mom, she has black her mounth, neck and arms, her skin is changed in color black, she has diabetes, she inyects insuline. Can you reccomend me something please?    Sent from my MetroPCS 4G Android device
+summarized question 14: What treatments are available for diabetic skin darkening?
+##
+query 15: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 15: What are the treatments for pain after hemorrhoidectomy?
+##
+query 16: SUBJECT: Insomnia (special case) MESSAGE: Hi, Im 40 years old male. I was suffering from social anxiety since I was child.  Last year, I decided to go to a psychologist. She advised me to practice meditation, mindfulness and CBT as well.  She explained to me the great positive impact of the meditation, mindfulness on the brain activity (neuroplasticity). Since then, I've been practicing these techniques. The result was awesome. I no longer suffer from my social anxiety and my life has completely changed to the positive side. No more worry, stress, anxiety, etc.  But at the same time, I started to suffer from chronic insomnia until now. Of course, Im always in touch with my psychiatrist who has prescribed me the necessary and still following me up. Even tough, my insomnia doesn't improved.  Unfortunately, nobody can determine the real cause of my insomnia.  If I know the cause, I'll do my best to find the key to resolve this problem.  According to my mentioned story, can you help me to find the real cause of my insomnia?   Thank you, Your answer is very appreciable and important to me.   [NAME].
+summarized question 16: What are causes of and treatment for chronic insomnia?
+##
+query 17: SUBJECT: Amputed finger MESSAGE: SIr; my 4 yrs old daughter left hand ring finger was crushed in fatal door closure... expert plastic surgeons were consulted and it was finally decided to remove the dead balck portion of finger  and sealed it; now i wish to know to knw wht best treatement I can get for her... she is having pain as her finger/hand  is still in plaster...... I need expert opinions ; pl help ////  regards [NAME]  Father [CONTACT]
+summarized question 17: What is the treatment and prognosis for a crushed finger on a child?
+##
+query 18: SUBJECT: chemical reactions to meds. MESSAGE: What is the clinical name for people who have chemical reactions to medications? Is there a cure?  Thanks
+summarized question 18: What are the treatments for drug reactions?
+##
+query 19: SUBJECT: I need help ? MESSAGE: I have few questions and needed some help from you guys, I have a really serious problem about me and the stress I have been through for a long time, and I couldn't do anything to get rid off what I'm really in a bad feelings. And I'm really having and hard time searching and try to get rid off my pimples , I've been have these probably every since when I was 15 years old . I do not know what kind or where I can find , something that could help me, something that could work , because there's alot of products . And I'm not sure which kind could fit my skins to remove my pimples. . Please help, I'm having a serious hard time having these. Its really embarrassing, that's why I always wear long sleeve to cover it every single day, 24/7. I'm really appreciate if you guys have tine to contact me and talk about. Another thing, my question is , how can I get rid of my pimples on my upper arms and my back. Also I really don't know what kind pimples do I have on my skin. Please help me , so I wouldn't be having so many stress about my skins.
+summarized question 19: What are the treatments for pimples?
+##
+query 20: SUBJECT: esophygeal candida MESSAGE: I had a GI doc diagnose me with Candida in my esophygus.  he showed me pictures of my upper GI that had white splotches all over it (large areas of white).  I can find nothing online about this -- only thrush and vaginal candida.  Btw, I am male, not female.
+summarized question 20: Where can I get information about esophageal candidiasis?
+##
+query 21: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I HAVE CRONIC PAIN FROM SEVERE SHINGLES.THE BLISTERS ARE GONE BUT THE PAIN IS SEVERE.WHAT SHOULD I DO. I CAN' KEEP THIS PAIN
+summarized question 21: What are the treatments for shingles pain?
+##
+query 22: period.  i have so pain in period. so please suggest any best tablet for this problem.
+summarized question 22: What are the treatments for menstrual pain?
+##
+query 23: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 23: Where can I find information on russell-silver syndrome?
+##
+query 24: ClinicalTrials.gov - Question - general information. I was diagnosised with mucha haberman, and I need to find someone who can treat it, I live in [LOCATION]. and I need some help
+summarized question 24: How can I find physician(s) or hospital(s) who specialize in mucha habermann disease?
+##
+query 25: SUBJECT: generic valsartan ingredients MESSAGE: I presently take Diovan and my insurance company is suggesting your generic valsartan.  I have celiac disease and can't have any gluten.  Can you tell me if your product is gluten free?
+summarized question 25: What are the ingredients of valsartan and is it gluten free?
+##
+query 26: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 26: What are the causes of severe body weakness?
+##
+query 27: ClinicalTrials.gov - Question - specific study.  I have hcv 3a,my doctor prescribed  sovaldi  ribavirin (24 weeks)I am looking for trials using the same medication.
+summarized question 27: Where can I find clinical trials for HCV genotype 3 using sovaldi ribavirin?
+##
+query 28: SUBJECT: Undesecnded testis MESSAGE: Hello Sir  I am a young man of age 27  I was born with a problem of descended testis  to this age  I have always experience one of them go down to the real position at times  and then run back to the abdomen  but of recent it stopped going down  Please Sir I will like to know what my situation is and is there a remedy for it ? Thanks an i wait for your reply
+summarized question 28: What are the treatments for undescended testicles?
+##
+query 29: SUBJECT: What is the difference? MESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?
+summarized question 29: What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?
+##
+query 30: "ClinicalTrials.gov - Question - general information.  Hello,  My name is [NAME],I am 30 years old and I am from [LOCATION]. I met my friend [NAME] on a chat room. [NAME] is 25 years old and he currently lives in [LOCATION], Algeria. His dad died, his brother died 2 years ago in a motorcycle accident and about 9 months ago my dear friend got into a car accident. In that car accident he suffered a T-6 and T-7 fracture which cause him to be paralyzed from his waist down. He is so young and it really hurts how much he has suffered in his short life. Not only him, but just thinking how much his mom has suffered it really breaks my heart. I asked him how or what can I do to help him, he did not asked for money or something like, he just said: ""Would you help me to research how to get cured?"". Since I met my friend there is no one day I have stopped thinking in what can I do to make his dream come true. I know we lives in an imperfect world and things happen to people but faith moves mountains. I have no experience on a situation like this, I have no knowledge on what can be done and that is why I NEED your help. Please help my friend. I will do anything necessary or anything you need. If you need money I will find it, I am not rich but there are good people out there willing to help. Please tell me what to do, I am desperate and I cannot sleep thinking about my friend. Please help [NAME]. I have his doctor’s diagnosis and it is paste below. It is in French sorry about that. Thank you very much for your help. I am very confident that we can help my friend. Thank you, [NAME] i.r.m medullaire protocole sagittales t1 se /stir sagittales/coronales frfse t2 axiales t2 frfse/t1 se myelo-irm RESULTATS MISE EN évidence de fractures complexes corporelles de t6 et t7 avec tassement cunéiforme des pl"
+summarized question 30: Where can I get information about treatment for T-6 and T-7 fracture paraplegia?
+##
+query 31: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 31: How is Huntington's disease transmitted?
+##
+query 32: SUBJECT: Small Intestine Died MESSAGE: My Father-in-law died recently after his Small intestine died. He was apparently in good health and ate dinner on Saturday and had to be rushed to the hospital on Sunday. Early on Tuesday they operated on him after his blood pressure dropped. They removed 70-80% of his small intestine and part of his large intestine (dead). Is this reasonable that they would find this % of his intestine dead -- again he appeared to be OK the day before.
+summarized question 32: What causes the small intestine to die and what are the symptoms?
+##
+query 33: I need to find out about chromium, cyanide copper, acid copper, nickel, and lead build up in the human body, how it affects it,long term health, if it can be removed, Thank you.
+summarized question 33:

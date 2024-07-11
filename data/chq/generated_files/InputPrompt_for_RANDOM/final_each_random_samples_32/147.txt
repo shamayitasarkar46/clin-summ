@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: adema MESSAGE: I have adema in my ankles/shins.  What can I do to lesson the severity of the adema ( I take bp meds w/ diaretic) ?
+summarized question 1: What are the treatments for leg edema?
+##
+query 2: SUBJECT: father suffering from IBS MESSAGE: My father is suffering from IBS and is loosing weight day by day.sometimes he even faints due to weakness.He cannot digest food .please help us and suggest us upon this problem.
+summarized question 2: What are the treatments for IBS?
+##
+query 3: SUBJECT: about thalassemia treatment MESSAGE: sir,my friend is suffering from thalassemia ,in that majorly red blood anemia,white blood anemia and the blood is comming out from mouth when she got cough .her condition is very severe .in her body the red ,white blood cells are abscent .so that blood transfusion is doing for every 16-20days.then in the recent days the blood also comming out from mouth please tell me where can i get the treatment for this disease .we can travel around the world for treatment please reply me as soon as possible. thank you sir.
+summarized question 3: What are the treatments for thalassemia?
+##
+query 4: TMAU.  Please find a way to research TMAU And how to cure it with gene therapy. I'm tired kg smelling like fish/feces And getting talked about everyday of my life.
+summarized question 4: What is the latest research on TMAU and treatments for it?
+##
+query 5: SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?
+summarized question 5: What is the prognosis for someone with homozygous MTHFR A1298C?
+##
+query 6: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 6: What are the treatments for mercury poisoning?
+##
+query 7: SUBJECT: menstruation MESSAGE: What causes women menses over a month ? And how bad it is interms of their health ?
+summarized question 7: What causes prolonged periods?
+##
+query 8: MESSAGE: good day. At the age of 50 ive started swelling for about a week now. Its my whole body, especially legs and feet. Im using antistax but not sure if its helping. please advise its so frustrating, i cant get into any clothes.
+summarized question 8: What are the causes of and treatments for legand body swelling?
+##
+query 9: diagnosis of OI/ resources. I was writing to inquire about more information regarding the diagnosis of OI.  We have family members who are in the process of waiting for genetic testing to come back but are under allegations of child abuse.  Is there any information and / or resources that may be helpful to us? Any help is appreciated. Thank you,[NAME]
+summarized question 9: How is osteogenesis imperfecta diagnosed and what are its symptoms?
+##
+query 10: SUBJECT: Ingredients MESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse. Thank you!  [NAME]
+summarized question 10: What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?
+##
+query 11: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 11: What are the treatments for loss of appetite?
+##
+query 12: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 12: What are the side effects of barium sulfate?
+##
+query 13: DIABITIC.  My sister is diabitic since age 8, now age 20. she is not coping well with it, i've been to the nutrition DR.s with her and we have since change our diet at home just for her, but it's still too havy on her. i want to help her, maybe if i can get her a couselor or support group that understands her situation/diabits.
+summarized question 13: Where can I find information on counselors or support groups for diabetes?
+##
+query 14: Question..for the past 3 4 years I was get infection in my testis ball ( right hand side) now a day my Siemens come out in very low quantity and very thin in weight...give me some solution or advice .now I am getting married two months ago..and I m worried for our future
+summarized question 14: What are the treatments for low sperm count?
+##
+query 15: SUBJECT: Azithromycin Oral Suspension Stability/Storage MESSAGE: I am a pharmacy technician, and I work at an in-patient pharmacy. We carry Azithomycin 100mg/5mL Oral Suspension. We have been having some technicians putting the Reconstituted Suspension into our fridge. Our fridge is kept at a pretty steady 5* Celsius temperature. I know that the lower range of the stability is at 5*C. Is it a problem to keep it that cold? Should the suspension be kept out of the fridge?
+summarized question 15: How should Azithomycin Oral Suspension be stored?
+##
+query 16: SUBJECT: need to know about shingles MESSAGE: I have had shingles on my face about 6 or 7 years ago.  Should I still get a shingles Vaccine?  I really need to know.  Stress is big in my life.
+summarized question 16: Should someone who had shingles get the vaccine?
+##
+query 17: Dear Sir and Madame, i´m looking very urgently for help and i really hope you give me an answer. My name is [NAME], from Germany, [LOCATION], 25 years old. A year ago i got sick, Gorlin Goltz syndrome an mutation of the PCH1 Gen. My condition worsened and here in Germany, nobody can help me. Sry for my english, its not the best.  Ive heard from Gentechnik, so that defective genes can be exchanged or settled by cells or vitamins. Iam to young and i dont have much power. My doctors here in Germany partly dont know what to do and iam actually a strong person but I stay in an impasse. For me its no travel too far or too long. I fight for a long time but since I get every three weeks basaliomas I lose my zest for life. Im sure it gives an opportunity even if it is a larger intervention that I can be cured. Whatever how much it costs. I have read that they are furthest in the research which relates to cancer. I have a big heart, and no way is to long for me if you help me. PLEASE HELP ME!!! Best wishes [NAME]
+summarized question 17: What are the latest treatments for Gorlin Goltz syndrome?
+##
+query 18: SUBJECT: who and where to get cetirizine - D MESSAGE: I need/want to know who manufscturs Cetirizine. My Walmart is looking for a new supply and are not getting the recent
+summarized question 18: Who manufactures cetirizine?
+##
+query 19: SUBJECT: high inner eye pressure above 21 possible glacoma MESSAGE: have seen inner eye pressure increase as I have begin taking Rizatriptan. I understand the med narrows blood vessels.  Can this med.  cause or effect the closed or wide angle issues with the eye lense/glacoma.
+summarized question 19: Can Rizatriptan cause glaucoma?
+##
+query 20: "SUBJECT: How is ""elderly"" defined in cautionarys regarding dosage. MESSAGE: Lower dosages of various medications are recommended for ""the elderly.""  Please define that age for me.  Thank you."
+summarized question 20: "How is ""elderly"" defined in drug precautions regarding dosage?"
+##
+query 21: SUBJECT: úlcera bucal por efectos de la radio terapia MESSAGE: What should I do if I have a cold sore? and treatments I use
+summarized question 21: What are the treatments for cold sore?
+##
+query 22: McArdle's Disease.  Is there any evidence that trauma such as a physical injury i.e., neck injury, torn ligament, etc., can worsen McArdle's disease?
+summarized question 22: Does trauma worsen McArdle disease?
+##
+query 23: SUBJECT: Duloxetine DR 20 mg casules. MESSAGE: I started taking Cymbalta about three months ago.  I recently developed curvature of the spine.  Could this curvature being caused by the Cymbalta?  My pharmacist wasn't sure and suggested I contact you.  Thanks!
+summarized question 23: Can Cymbalta cause curvature of the spine?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 5 yr old Grandson has Tourette's, his Dad, my son also has it. His 7 yr old brother picks his arms and leaves scars, Is there anything we can do? He has been to A Neurologists once, and he said to keep records of the 6 yr old and to come back in 6 mo, or sooner if things get worse.
+summarized question 24: What are the symptoms of tourette's syndrome and their treatments?
+##
+query 25: MESSAGE: My urea is showing 40.IS IT DANGEROUS ? IF IT IS DANGEROUS. NOW WHAT I  HAVE TO DO. MY URIC ACID IS ALSO SHOWING 2.7. IS IT DANGEROUS AND HOW I WILL COVER IT UP. [NAME]
+summarized question 25: What are the normal ranges for urea and uric acid, and what are the treatments for high levels of urea and uric acid?
+##
+query 26: SUBJECT: imitrex to be prescriped to 72 year old woman MESSAGE: I was in hospital for pancretitis.  On the 2nd day I was doing ok but came down with a migraine headache.  I have not had one in 2 years. but have the imitrex  tab.  which I did not have in the hospital  They gave me Toradol injection and it worked.  but they told me I should not take imitex as an older person.  I plan to go to my internist.  but decide to ask this question.   thanks
+summarized question 26: Is imitrex contraindicated in the elderly?
+##
+query 27: SUBJECT: concussions and long term head trauma  from abuse Ii MESSAGE: I was a victim from an abusive relationship, both verbal and physical. During this time I received substantial injuries to my head. Slight concussions led to full-fledged concussions, losing the ability to talk very well, then think very well, and a subdural hematoma, on the left side, bled down inside my head to behind my left eye, which made it unable to move. Along with an intense headache and drinking a lot of coffee, the neurosurgeon didn't have to do brain surgery,  as my eye finally moved!Battered Women's told me to get out of the area a stay gone if I wanted to stay alive. So I did! Speech Therapy helped considerably, the story goes on.  Anyway, I hear and read a lot about concussions and head trauma for football players,  young and old,  and wonder if any studies have ever been done for women?   A few years ago,  I had a partial stroke,  but enough to set me back a bit.  But this time I know what I need to do to help fix my head,  again.
+summarized question 27: What is the latest research on concussions and head trauma in women?
+##
+query 28: medical articles.  I have been told that there are several medical case studies about Loin pain hematuria syndrome (aka LPHS) and Medtronic's Symplicity Renal Denervation medical equipment and that these cases have been published by PubMed.  However, I am unable to locate them.  Can you please recommend a way for me to locate and receive copies?  Thank you!
+summarized question 28: How do I find case studies in PubMed on loin pain hematuria syndrome and renal denervation?
+##
+query 29: SUBJECT: Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa MESSAGE: Hi, Im not sure if you can help, but my wife has Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa. I was hoping to find out some information if possible. Or to see if you could put me in touch with someone that mey be better suited to this. WE are wanting to start a family and want to know how Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa may effect the child or my wife during the proccess. She is currently taking levodopa  daily and would like to know if this in itself could have an effect on an unborn child. Not sure if ive come through to the right place or not, but just looking for some information or an indication of whom i may speak to,. I really look forward to hearing back from you, Regards,
+summarized question 29: What are the effects of dopa-responsive dystonia, retinitis pigmentosa and levodopa on pregnancy?
+##
+query 30: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 30: What are the treatments for neck lumps or neck tumors?
+##
+query 31: SUBJECT: critical diabetic. looking for a implant MESSAGE: Hello, I am a type one diabetic. Ive recently heard about the pancreas implants. I just wanted to find out the process in which I would take to try an receive one.
+summarized question 31: What is the latest research on pancreas transplants for type one diabetes?
+##
+query 32: SUBJECT: insomnia MESSAGE: What can I give my [AGE] father to help him sleep? He said he will take whatever. He is not on any medication, not allergic to anything.  Fully ambilatory!
+summarized question 32: What are treatments for insomnia?
+##
+query 33: I was on a 10 day (2 pills per day) regimen of Amox & Clav (876mg/125 mg) for bronchitis.   Two days after I finished, I developed hives on my back (left side) and right side of my face.  Is this a post use side effect?
+summarized question 33:

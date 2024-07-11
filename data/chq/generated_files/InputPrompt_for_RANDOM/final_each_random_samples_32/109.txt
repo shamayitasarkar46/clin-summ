@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: atypical pnuemonia.  what is the possibility of atypical pneumonia occurring again less than a month after treatment?
+summarized question 1: Can atypical pneumonia recur shortly after treatment?
+##
+query 2: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 2: What are the causes of severe body weakness?
+##
+query 3: SUBJECT: Pancreatitis Cancer MESSAGE: My Grandfather on my mothers side died of pancreatic cancer  and my mother also  i am the only daughter ,but also have 3 brothers is it more likely that i will have of chance of having this form of cancer that my brothers. My mom was only 57 when we lost her . I am now 51 and worry if i'm more likely to suffer with this cancer than my brothers.
+summarized question 3: What is the risk of developing  pancreatic cancer and how is it inherited?
+##
+query 4: MESSAGE: I have numbness/tingling in my lower right arm from elbow to my fingers. A EMG has shown nothing abnormal. I have had this for a long time, I need help.
+summarized question 4: Where can I find information and treatment for numbness and tingling in lower right arm?
+##
+query 5: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 5: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 6: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome I am wondering how does downs sydrome affect the daily routine of kids with downs sydrome such as using the. Bathroom or brushing their teeth? I look forward to hearing from you thank you.
+summarized question 6: How does Downs syndrome affect activities of daily living?
+##
+query 7: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 7: Where can I get genetic testing for CPTII deficiency?
+##
+query 8: SUBJECT: My humerus bone MESSAGE: Hello. My name is [NAME], I am 33 yearsold, from Romania in Europe and I have a 6 inches difference between my left humerus bone and my right one. It all started when I was around 4 yearsold and I had a bone illness called: bone cyst. First it affect my right femur and then my left shoulder. The bones were very fragile in the mentioned areas and I had fractured them many times very easily. I had 3 surgery at my shoulder and I heal up after a bone transplant from my hip and after some hidrocortisone injections. All good but as I said my left humerus bone is a lot shorter. The doctors said that my growth plate was affected that's way it is this difference between hands. It bother me a lot, especally when I m in sports (bodybuillding, basketball), I and I would like to know if there is something that can be done for me to make things right. Any suggestions is welcome but just don t tell me to give up.     Hopping in a soon answer I thank you.
+summarized question 8: What are treatments for differences in arm length,  and how can I find physician(s) or hospital(s) who specialize in it in Romania?
+##
+query 9: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 9: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 10: SUBJECT: Airborne contact dermatitis from methylchloroisothiazolinone in wall paint. Abol MESSAGE: Hello,  I've read this article (http://www.ncbi.nlm.nih.gov/pubmed/10750849) because I have a dermatis caused by Airborne contact from methylchloroisothiazolinone in wall paint. I knwo since 1 year that I have allergie of methylchloroisothiazolinone but I didn't know it could be airborne so afte rmy husband had paint the bedroom I have begin to have dermatis, eczema and I look after the cause so I heard about airborne contact dermatitis  from methylchloroisothiazolinone in wall paint. I want to know how many times the properties of methylchloroisothiazolinone are in the wall paint ? It is enough to aerate the room and how many time ? Or should we remove the paint on ceiling, wall and painted cabinet ? I read your article about  inactivation by sodium bisulfite, how can we do that ? thanks a lot for your help because none give me answer at hospital about these questions. excuse me for my english!! Best regards,
+summarized question 10: What are the treatments for contact dermatitis from methylchloroisothiazolinone in paint?
+##
+query 11: SUBJECT: How appendix problems affect people in the genetic family? MESSAGE: How appendix problems affect people in the genetic family?
+summarized question 11: Can appendicitis run in the family?
+##
+query 12: ClinicalTrials.gov - Question - general information. I was diagnosised with mucha haberman, and I need to find someone who can treat it, I live in [LOCATION]. and I need some help
+summarized question 12: How can I find physician(s) or hospital(s) who specialize in mucha habermann disease?
+##
+query 13: My mother has Pulmonary ARTERIAL hypertension in the left side of her heart.  Is there anything that can be done to improve her health.
+summarized question 13: What are the treatments for Pulmonary Arterial Hypertension?
+##
+query 14: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 14: Are there any medicines for dry mouth?
+##
+query 15: SUBJECT: Jaundice MESSAGE: Can older infants get jaundice? What is the age range?
+summarized question 15: Can older infants get jaundice?
+##
+query 16: American Ginseng.  Any publication on American Ginseng and its medicinal benefits?
+summarized question 16: What are the medicinal benfitis of American Ginseng?
+##
+query 17: SUBJECT: sir!  i m hasitate during talking. for exam MESSAGE: Sir!        I m  hasitate during  talking. For example:         Name (na...na...name)  welcome ( wev....wev....wev....welcome).
+summarized question 17: Where can I find information and help for stuttering?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 18: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 19: SUBJECT: Apraxia and Dyspraxia MESSAGE: What are the basic differences between apraxia and dyspraxia?  I get different answers from different sources. One suggests that apraxia is a motor coordination disability acquired due to damage, head injury, stroke or leasions in the brain whereas dyspraxia is inherited.  Another says that the difference is absence of coordination (apraxia) versus a more mild impairment (dyspraxia).  It is very confusing to try to sort it all out.  Thank you!
+summarized question 19: What are the differences between apraxia and dyspraxia?
+##
+query 20: Need information about Thalassemia medical center in Aisa Hello dear sir/Madam, My son has Thalassemia, and i have been looking for his treatment. I need you to guide me where I can take my son for his treatment? actually, I am in Afghanistan and there is no hospital for his treatment. so please guide me
+summarized question 20: How can I find physician(s) or hospital(s) in Asia who specialize in Thalassemia?
+##
+query 21: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 21: For how long can Atorvastatin be stored at room temperature?
+##
+query 22: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 22: When is shingles contagious?
+##
+query 23: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 23: Where can I find information on leg swelling and treatments?
+##
+query 24: SUBJECT: 46,X,dir dup(X)(q13-q26) MESSAGE: Hi I am from [LOCATION], I am wondering if you can help with some information on my duplication, I have signed up to [LOCATION] here in [LOCATION] but only me, my mum and my sister and 1 other person have been found to have this genetic abnormaility. I have no idea about the other person but my sister was affected by it when she was born, when i was born we had no idea, My sister was born and tested me and my mum, showing my mum had the condition along with my sister. at that point it seemed i never had it. When i was 20 i went to my [PROFESSION] and they said my genetics department here in [LOCATION] wanted me to get retested, Found out that i do carry the same duplication. I have three younger brothers as well, two of the youngest with Autism, None of the boys have the duplication, but i am wondering if these are linked? I am wondering what Information do you have available regarding this duplication, I have fertility issues which i don't know of it is linked or not. My AMH level for my age at 26 is low at 4.6!! my sister has had two children a boy and a girl none do not have the duplication. She also has Stage Two Kidney diease and was born with a horse shoe Kidney they thinks its linked Please help! or is there anything you can advise for me in the UK to go get looked at further ? Love from [NAME]
+summarized question 24: Where can I get information on the genetic abnormality 46,X,dir dup(X)(q13-q26), and  and how can I find physician(s) in the UK who specialize in genetic abnormalities?
+##
+query 25: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 25: Where can I find information on Wang syndrome, including support groups?
+##
+query 26: chromosome 20 reattachment. Results of my amniocentesis states that a part of chromosome 20 broke then reattached itself to the same chromosome in a funny way.  They are unable to determine what gene if any has been affected.  Are you aware of any similar situations, and if so, what symptoms should I expect my baby to have?  Is there anyone else you suggest I contact for further information?
+summarized question 26: Where can I find information on disorders caused by chromosome 20 abnormalities?
+##
+query 27: "SUBJECT: Levalbuterol and Budesonide Inhalation Products MESSAGE: After calling TEVA Pharmaceuticals, they relayed that the stability and storage information printed on their Levalbuterol 1.25 mg/3 mL and 0.63 mg/3 mL Inhalation Solution, as well as their Budesonide 0.5 mg/2 mL and 0.25 mg/2 mL Inhalation Suspension packages is information directly pulled from DailyMed, hence NIH. I am trying to determine if there is any extended stability information for either product, as the nebs are not singly packaged, and therefore a significant amount of product is being wasted in our facility due to the information provided. When name brand Xopenex was still available, Sepracor was able to provide our facility with more stablity information that enabled us to refrigerate the product in the foil pouch, continuing to protect it from light: i.e., ""allows use of product through its labeled expiry."" It would be greatly appreciated if some additional information could be provided regarding the above situation. Thank you for your attention to this matter. [NAME] [LOCATION] [LOCATION] [LOCATION] [CONTACT]"
+summarized question 27: Where can I find extended stability information for Levalbuterol Inhalation Solution and Budesonide Inhalation Suspension?
+##
+query 28: SUBJECT: life expectancy after double lung transplant operation MESSAGE: Hello,  My husband has cystic fibrosis and he had the double lung transplant operation 3,5 years ago. He is 53 y.old. What is the life expectancy for people with cystic fibrosis after double lung transplant? Can he has another lung transplant in the future? Thank you, [NAME]
+summarized question 28: What is the prognosis for cystic fibrosis after double lung transplant?
+##
+query 29: SUBJECT: Hot Flashes for Male MESSAGE: I am a 79 year old male taking Eligard shots for prostate cancer.  I am having hot flashes from these shots.  Is it possible that Brisdelle would help me?
+summarized question 29: Will Brisdelle help hot flashes caused by prostate cancer therapy ?
+##
+query 30: SUBJECT: Arthritis MESSAGE: Is the medication Trimethoprim/ sulfamethozle useful in arthritis.?         Thank you
+summarized question 30: Is Trimethoprim / sulfamethazole indicated for arthritis?
+##
+query 31: SUBJECT: Mayonnaise and food poisoning MESSAGE: I have researched many other sites that say that mayonnaise is a safe food and that it is a myth that it causes food poisoning.  It seems to get a bad rap because it is used in combination with other items that cause food poisoning.  Some sites insist that it can even prevent the onslaught of bacterial growth, thus helping to ward off food poisoning because of its acidic nature.  Apparently it often used to be made at home, with eggs, and the eggs would go bad.....mayonnaise has thus carried this stigma ever since.  But many sites insist it is safe.  I was wondering what you think of these findings?   Thank you!
+summarized question 31: Does mayonnaise cause food poisoning?
+##
+query 32: SUBJECT: Peruvian girl MESSAGE: Dear Sir/Madam, I am writing you on behalf of [NAME], who is very stress and with a lot of tension,looking for HELP for her daughter [NAME].  [NAME] has a complex hearth defect called Tetralogy of Fallot, she is about 7 months old and her family dont have resources to cover her treatment in order to get her welfare.  [NAME] has a very low income, lives in a rented room with her husband and her two children, in [LOCATION] - Peru. She works at [LOCATION] and she has been taking her daughter to children hospital in [LOCATION] but she cant afford the medicines and treatment that they ask for, she is looking desperately for help for her daughter.  I was wondering if you guys have any contact here in [LOCATION] of any organization, who can help [NAME]. I have been looking but cant find or never not came back to me when I asked them.  If you please know about any organization who can help us here in [LOCATION] Peru, I will really appreciate and we can make help to give [NAME] a better life :-)  I am a Health and Social care worker and work at the hospital too with the employees. Thank you very much for your time  [NAME]  [CONTACT]
+summarized question 32: Which organizations provide support for Tetralogy of Fallot in Peru?
+##
+query 33: Recently diagnosed with PBC and would like to see new readership or drugs  for this disease.
+summarized question 33:

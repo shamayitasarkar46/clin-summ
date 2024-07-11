@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 1: Where can I find information on familial mediterranean fever?
+##
+query 2: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 2: Can shingles affect the teeth and gums?
+##
+query 3: MESSAGE: I am taking Metformin and I am concerned about how can I cut back without any dangerous side effects; at the moment I weigh 182lbs. where I was weighing before at 220lbs. Is it possible I don't need to take this medicine anymore or is their another prescription medicine that I can take to replace that is not so strong, the one I have  is 500mg 60 tablets.
+summarized question 3: Should metformin dosage be reduced after weight loss?
+##
+query 4: Fetal skull not closed. We recently found out that our grandchild ,which is unborn and only 3 mos in the womb, has a genetic disorder where the skull is not closed . The doctor says the baby will not survive. Our daughter has been told she could carry the baby to term or could miscarry at anytime. Can you give any information on this subject. We are devastated.
+summarized question 4: Where can I find information on a baby's skull not closing completely during pregnancy?
+##
+query 5: "SUBJECT: Questions (see in comment box) on ""Vistaril"" MESSAGE: I have a few Qs related to ""Vistaril"": 1. Is ""Vistaril"" a gluten-free product? 2. If not, is it because some of the raw materials in its ingredients that is gluten related? 3. If yes to Q1, is it a ""Certified"" gluten-free product and what kind of certification it has? 4. For capsule form, does it contain any kind of starch? If it does, what starch is it? 5.  Can you email to me a list of the ingredients in this drug? Thank you very much!"
+summarized question 5: What are the ingredients of vistaril and is it gluten and starch free?
+##
+query 6: SUBJECT: MMR vaccine MESSAGE: My doctor recommended I get the MMR vaccine, which covers mumps, measles, and rubella.  Isn't rubella a form of measles?  As a child, I had the 3-day measles--was that German measles or the other kind?  As a child I also had mumps.  Do I really need the MMR or just a vaccine for the rubella?
+summarized question 6: Who should get the MMR vaccination?
+##
+query 7: SUBJECT: Múltiple Misscarriage MESSAGE: I had 4 misscarriage before I had my healthy daugther. I had another misscarriage a month ago. The Kareotipe for the fetus show genetic problems. Trisomy 8 and 15. Im 39 years old. Is the first time that I know the reason for the lost. I had the Kareotipe for me and my husband and there is no problem. The infertility Dr told me that I have progesterone problems Because I dont know the reason for the four misscarriage I am scared thinking the reason for all the lost babies is for genetic causes. I want another baby. What are the chances of having a baby with genetic problems?
+summarized question 7: After a miscarriage of a fetus with trisomy 8 and 15, what are the chances of a successful pregnancy?
+##
+query 8: SUBJECT: I have an irresistible fungal on my leg and i have treated it,but refuse to go.pls what should i do? From [NAME] [CONTACT] MESSAGE: I have an irresistible fungal on my leg which i have treated with different drug and cream,but refuse to go and it keep on spreading.pls what should i do? From [NAME]
+summarized question 8: What are the treatments for fungus on my leg that does not respond to OTC topical antifungals?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: what can happen if you donot use your humifier or moisterizing equipment when  you have a thractoastamy tube? (forgive my spelling)
+summarized question 9: What are the adverse effects of not using a humidifier with a tracheostomy tube ?
+##
+query 10: MESSAGE: wHEN ENGULFING FOOD,A SEVERE PAIN AS FOOD PASSES UPPER PART OF STOMACH. I FEEL PAIN FOR A MOMENT THAN IT BECOMES NORMAL.as such i am afraid of eating food
+summarized question 10: What are the causes of digestive pain?
+##
+query 11: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 11: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 12: SUBJECT: suggest diet MESSAGE: age 66.married.male.weight73kgs.bp120/80 no tablets used for bp,no blood sugar fasting 90 after meals120 i am a vegetarian,i am observing a gradual weight gain    how to control it   what is suggested food?
+summarized question 12: What are sucessful weight loss diets for vegetarians?
+##
+query 13: SUBJECT: Absence seizures MESSAGE: Does any damage occurre from these spells. Mental or physical
+summarized question 13: What are the long-term effects of absence seizures?
+##
+query 14: Would appreciate any good info on Lewy Body Dementia, we need to get people aware of this dreadful disease, all they talk about is alzheimers.  Thank you
+summarized question 14: Where can I find information on  lewy body dementia?
+##
+query 15: SUBJECT: we are planning to develop to cure any kind of paralysis  and stroke research. MESSAGE: How you cure Parkinson  disease.
+summarized question 15: What are the treatments for parkinson disease?
+##
+query 16: sepsis.  Can sepsis be prevented. Can someone get this from a hospital?
+summarized question 16: What are the causes and prevention of sepsis?
+##
+query 17: Attachment disorder.  Ok I am 21 years old and I have Attachment disorder I had it all my life and I don't know what to do in my life. I don't let my girlfriend in or to close to me when I feel like the relationship is going good and she's getting to close I push her away or I leave and go to the next girl and my career as a pro boxer I don't want to keep doing this to her or to other people in my life. Can someone please help me. I am tried of dealing with this.
+summarized question 17: How can I get help for attachment disorder?
+##
+query 18: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 18: What are the symptoms of complex regional pain syndrome?
+##
+query 19: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 19: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 20: SUBJECT: my husband had a simple retropubic prpostectomy 6 weeks ago. he can not walk wit MESSAGE: My husband had a simple retropubic prostectomy he can not walk without the walker, he can not mmove his right leg  alone yet. I don't  think is normal. What to expect in six weeks  his urinary track is still soar when he pees. I fear  is something wrong  not been able to push the leg forward the joint in the leg is painful
+summarized question 20: What is the normal time course and symptoms of recovery from simple retropubic prostatectomy?
+##
+query 21: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 21: What are the treatments for loss of appetite?
+##
+query 22: SUBJECT: Pentoxifyline MESSAGE: My husband mistakingly took a pack of 5 in the place of his morning medacation. Is he in any danger? Is there something i should do. He just feels sick at his stomach.
+summarized question 22: What is the treatment for Pentoxifyline overdose?
+##
+query 23: herbs and nutritional supplements have been associated with kidney injury.  I need to know the list of  herbs and nutritional supplements have been associated with kidney injury
+summarized question 23: Are there herbs or supplements that can cause kidney problems?
+##
+query 24: broken veins in legs.  is vein surgery for mostly cosmetic reasons recommended any dangers serious side effects
+summarized question 24: What are the complications of varicose vein surgery?
+##
+query 25: SUBJECT: spg11 MESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,
+summarized question 25: What are the treatments and prognosis for spg11?
+##
+query 26: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 26: Is there a cure for hepatitis B?
+##
+query 27: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 27: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 28: MESSAGE: Bleach on bed sores? Yes or no? Hear to add water and rag?
+summarized question 28: Can I put bleach on bed sores?
+##
+query 29: who makes bromocriptine i am wondering what company makes the drug bromocriptine, i need it for a mass i have on my pituitary gland and the cost just keeps raising. i cannot ever buy a full prescription because of the price and i was told if i get a hold of the maker of the drug sometimes they offer coupons or something to help me afford the medicine. if i buy 10 pills in which i have to take 2 times a day it costs me 78.00. and that is how i have to buy them.  thanks.
+summarized question 29: Who manufactures bromocriptine?
+##
+query 30: "SUBJECT: Proper average weight MESSAGE: I am a 68 year young male 5'7"" tall. Please give me a guideline as to what would be a healthy weight for me. Even though I have back problems from a vertebra fracture from 2005 and have had 4 surgeries to include a stimulator and 3 fused vertebras, Yet I keep myself pretty active. I am currently weighing 179.4 lbs.  Thank you for your help.  [NAME]"
+summarized question 30: "What is a healthy weight for a 5'7"" male?"
+##
+query 31: SUBJECT: Achromobacter xylosoxidans colonisation MESSAGE: What are implications of A. xylosoxidans colonisation? Background: bronchiectasis, colonised Psa, MDR muc-strain Psa; MRSA also with A denitrificans.
+summarized question 31: What are treatments for Achromobacter xylosoxidans colonisation?
+##
+query 32: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 32: What are the treatments for deafness caused by gentamicin?
+##
+query 33: I had the colonoscopy, stool specimen test twice.  However I have had heavy diarrhea three or 4x a day. It often looks like a black mud slide. I need stronger anti diarrhea meds as I now take 6 to 8 a day now.  It is the only way I can control it. I am planning a trip. I want some really strong meds to keep this in control for my trip.  Thank you
+summarized question 33:

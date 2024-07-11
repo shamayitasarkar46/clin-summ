@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Phobia: fear of taxidermy.  Hello, I was wondering if there was a name for the fear of taxidermy? I often find myself having the symptoms this website describes when in the presence of something I fear deeply.
+summarized question 1: Where can I find information on fear of taxidermy?
+##
+query 2: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 2: What are the inheritance patterns for rickets?
+##
+query 3: Customer Service Request.  My daughter has Turner syndrome but she's beaten all odds. She developed on our own, got her period on her own, she is now pregnant on her own with identical twins. My question is can she have normal children or do they have more of a chance of having Turner syndrome.  My daughter has been tested many times to confirm her diagnosis of Turner syndrome and she is a full XO not mosaic but still does not display many of the characteristics. Again, I am just questioning the safety of the pregnancy and the health of the babies. Thank you for your help
+summarized question 3: What is the inheritance pattern of Turner syndrome?
+##
+query 4: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 4: How do I switch from Amlodipine to atenolol?
+##
+query 5: memory losses.  Information about dealing with, or medical care for, beginning forgetfulness. Not been diagnosed w/ any disease.
+summarized question 5: What are the treatments for forgetfulness?
+##
+query 6: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 6: Who should get the MMR vaccine?
+##
+query 7: SUBJECT: Is finasteride a medication for life? MESSAGE: Hi, I have been taking this medication for the last 7 years.I asked my family doctor,since I have difficulty in my sexual desire or intercourse,if I can stop taking it.She said that is for life. My psa in normal 0,71.What you suggest? Thank you for your replay.
+summarized question 7: Are there alternative treatments to finasteride for enlarged prostate?
+##
+query 8: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 8: What are the treatments for serratia marcescens infection?
+##
+query 9: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 9: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 10: MESSAGE: I have a gland on the bottom left side of my jaw that swells up and gets really hard causing pain. The only way to relieve it is to push it with my fingers till it runs out of a hole inside my cheek into my mouth. What could b causing this? I just want to know if i should b concerned about a type of cancer since my grandmother passed from cancer in her lymph nodes.
+summarized question 10: What are the causes and treatments for salivary gland swelling and pain?
+##
+query 11: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 11: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 12: What can I use when I feel my bladder is sore when I urinate my bladder just burn and its awkward for me its the second time now what should I use or take? Please I need your help
+summarized question 12: "What drugs are there to relieve ""burning bladder"" on urination?"
+##
+query 13: SUBJECT: life expectancy after double lung transplant operation MESSAGE: Hello,  My husband has cystic fibrosis and he had the double lung transplant operation 3,5 years ago. He is 53 y.old. What is the life expectancy for people with cystic fibrosis after double lung transplant? Can he has another lung transplant in the future? Thank you, [NAME]
+summarized question 13: What is the prognosis for cystic fibrosis after double lung transplant?
+##
+query 14: SUBJECT: Serum Creatinine MESSAGE: My serum creatinine level is 1.1. I am 36 years old and having kidney stone . My question is , will the kidney stone affect the serum creatinine result?
+summarized question 14: Can a kidney stone affect the serum creatinine result?
+##
+query 15: Information please. Hi my name is [NAME] and im currently trying to write a book about a girl with ewings sarcoma, i need more information on ewings sarcoma and chemotherapy , radiation and surgical treatments. When i finish the book , i aim to have a portion of book sales to go towards cancer research as i lost my sister to cancer.By the way i am only 15, thanks heaps
+summarized question 15: Where can I find information on Ewing's sarcoma, including treatments?
+##
+query 16: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 16: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 17: SUBJECT: Rubella MESSAGE: My grandson (4 yrs old) has contracted Rubella.  I know for sure he has had at least one of the vaccines.  They are living in Mexico right now.  Should we be worried?
+summarized question 17: What is the prognosis of rubella in a child?
+##
+query 18: MESSAGE: my thumb and forefinger hurt all the time. nerves is there any medicine that will help .
+summarized question 18: Is there any medicine that will help nerve pain in my thumb and forefinger?
+##
+query 19: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 19: Can magnesium be taken with orange juice?
+##
+query 20: SUBJECT: Laparoscopic Splenectomy MESSAGE: Dear Sir/Madam My brother [NAME] is diagnosed ITP. His doctor advises Laparoscopic Splenectomy for him. Can you please mail me detail and cost of this surgery. His Platletts count is decreased to 12 and his doctors giving him Injection Mebthera today to increase plattlets count. We are form [LOCATION], [LOCATION]. Please mail us as soon possible. Thanks & Best Regards [NAME]
+summarized question 20: Where can I find information on laparoscopic splenectomy, including cost?
+##
+query 21: SUBJECT: spinal cord stenosos MESSAGE: I have acute arthritic spinal stenosis. What treatment is recommended?
+summarized question 21: What are the treatments for spinal cord stenosis due to arthritis?
+##
+query 22: "SUBJECT: meaning of label directions MESSAGE: asked if med label says ""take with food"", how much food is required and found no asnwer.  not supposed to eat at nite when med is to be taken.     no answer."
+summarized question 22: "What does ""take with food"" mean on medication labels?"
+##
+query 23: printed materials on osteoporosis.  Is there any way you can please mail me literature on osteoporosis, I was just diagnosed. Thank you, [NAME] [LOCATION] [LOCATION] [LOCATION] [LOCATION]
+summarized question 23: Where can I find information on osteoporosis?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 24: What are the treatments and prognosis for a small GIST?
+##
+query 25: SUBJECT: uncontrollable jerking movements MESSAGE: When I am exercising hard, the left side of my body will start to do strange things. When lifting weights overhead, my left upper lift will jerk up into sort of a sneer.  When doing core work, my left arm will start jerking so hard that it's impossible to hold onto anything. The jerking stops after the exercise ends; but my left arm feels worn out.  No pain. A few months ago, my left leg completely lost any strength for weeks. It first appeared when I was just trying to do a squat with a plastic pipe in my hand. Eventually was able to work strength back. Again - no pain.  Should I be alarmed?
+summarized question 25: What causes jerking movements during exercise?
+##
+query 26: SUBJECT: Hydrocortisone for 32 years, and counting MESSAGE: There are serious side-effects to Hydrocortisone, and I have to take it because of panhypopituitarism. Are there any more tolerable replacements? Thank you! [NAME]
+summarized question 26: What treatments are available for panhypopituitarism aside from hydrocortisone?
+##
+query 27: SUBJECT: gluten free MESSAGE: Can you tell me if this drug is gluten free. Pms-Hydrochlorothiazide thank you [NAME]
+summarized question 27: What are the ingredients of Pms-Hydrochlorothiazide and it is gluten free?
+##
+query 28: SUBJECT: menkes syndrome /kinky hair syndrome MESSAGE: My daughter has menkes syndrome and would like to know how to go about. Thx
+summarized question 28: Where can I get information and help for Menkes syndrome / kinky hair syndrome?
+##
+query 29: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 29: When is shingles contagious?
+##
+query 30: SUBJECT: methotrexate - gluten free? MESSAGE: is the injection form of methotrexate gluten free? thanks -
+summarized question 30: Is the injection form of methotrexate gluten free?
+##
+query 31: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 31: How can I get non-drug treatment for depression and anxiety?
+##
+query 32: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am 48 years of age..i have had shingles  since i was just 7years..i have had them over 50 times  in my life  . I am also allergic to penicillin and valtrex..most antibiotics  and most pain pills  . I have now began having seizures for last year and half  . I have had testing  done. .waiting  on some results right now  . Any suggestions
+summarized question 32: What is the latest research on treatment for shingles?
+##
+query 33: Im looking for a Dna test for mental illness. 
+summarized question 33:

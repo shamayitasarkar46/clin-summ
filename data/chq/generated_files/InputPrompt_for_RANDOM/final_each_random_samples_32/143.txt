@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: MLC MESSAGE: My son is patient of MLC, can we plan to another baby. What is the % of 2nd baby would be MLC or NOT.
+summarized question 1: How is Megalencephalic leukoencephalopathy with subcortical cysts (MLC) inherited?
+##
+query 2: SUBJECT: blind technology MESSAGE: Hello, I am a student doing a research project on blind technology. I am wondering if you have any contacts of people who have research information on this topic because I want to find out their opinions on certain technologies. Also, I would appreciate it if you could tell me ways to improve/cure blindness. For example, information on ' stem cell surgery', bionic eye', 'gene therapy to cure blindness' etc. Thankyou!
+summarized question 2: How can I find someone doing research on technologies for the blind, and what are the treatments for blindness?
+##
+query 3: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 3: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 4: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 4: Does neurofibromatosis affect congestive heart failure?
+##
+query 5: SUBJECT: Low Platelet Count MESSAGE: hello i am facing low platelet count in my blood ( PTI ) and am taking the therapy ( 1 Pill Prednisone 2mg Morning -  MyFortic 2 Pills Morning - 2 Pills Night )  i want to ask [NAME] MD, Professor of Medicine if removing the spleen will cause anything or if there any side effects when removing it.  and what is the cause of this ( PTI )  Been in this 4 months  and my platelet count are ( 70 000 - 140 000 - 65 000 - 90 000 ) didnt reach the normal count. is this therapy good and will it help?  i just need some answers please.  waiting to hear from you soon  sincerely, [NAME]
+summarized question 5: What are the causes and best treatments for low platelet counts?
+##
+query 6: SUBJECT: Amputed finger MESSAGE: SIr; my 4 yrs old daughter left hand ring finger was crushed in fatal door closure... expert plastic surgeons were consulted and it was finally decided to remove the dead balck portion of finger  and sealed it; now i wish to know to knw wht best treatement I can get for her... she is having pain as her finger/hand  is still in plaster...... I need expert opinions ; pl help ////  regards [NAME]  Father [CONTACT]
+summarized question 6: What is the treatment and prognosis for a crushed finger on a child?
+##
+query 7: SUBJECT: Ankylosing Spondylitis MESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]
+summarized question 7: What are the treatments for Ankylosing Spondylitis?
+##
+query 8: SUBJECT: Purpura MESSAGE: My brother has purpura disease since 2003. kindly gude us with the correct medicine and if you know any good doctor then please let us know.  Thank You
+summarized question 8: What are the treatments for purpura and how can I find physician(s) who specialize in it?
+##
+query 9: SUBJECT: allopurinol and diuretics MESSAGE: I am presently taking 200mg Allopurinol daily for the treatment of Gout.  My feet swell.  How dangerous is it to take a diuretic.
+summarized question 9: Can a diuretic be taken with Allopurinol?
+##
+query 10: "SUBJECT: cosmetic leg shortening surgery MESSAGE: Hi,  I am a tall girl(5'8""), who wants to undergo leg shortening sugery of 2 inches for cosmetic purpose. It would be good if I can get more information about it. I would like to know the cost of this surgery, the recovery time and the risks associated with it. How long should I stay in the hospital?  Thanks and regards"
+summarized question 10: Where can I find information on leg shortening surgery, including risks, cost, and recovery time?
+##
+query 11: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 11: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 12: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 12: Is MRSA contagious, and how is it spread?
+##
+query 13: Interested in research regarding Arimidex and the pros and cons of taking it following lumpectomy and radiation for breast cancer.  Are there research results of recent research?  The possible side effects are worrying - I make decisions for my 47 year old daughter with Down Syndrome-trying to do what is best.  She has taken Anastrozole for a year now.
+summarized question 13: What is the the latest research on Arimidex, and the benefits and side effects of the drug?
+##
+query 14: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 14: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 15: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 16: SUBJECT: thalamic lacunar strokes MESSAGE: I am interested in anything you have on this condition. I have this stroke and am aiming for knowledge. If at all possible, my thalamic lacunar stroke is yours to study.
+summarized question 16: Where can I find information on thalamic lacunar strokes?
+##
+query 17: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 17: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 18: SUBJECT: Kidney Failures MESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in
+summarized question 18: What are the stages of chronic kidney disease based on GFR results?
+##
+query 19: Dear Sir Several diseases including skin cancer and hypovitaminosis D occur due to migration of dark skinned and light skinned people to each others habitats, I want to know what latitude woud be best for Fitzpatrick type IIIa skin, I mean, I'm moving to Portland, Maine is my skin best suited for UV rays there and what is the best skin type for Portland Maine, with regards on the ozone depletion that expose us to more UV,thanks. yours, [NAME]
+summarized question 19: What is the best latitude for someone with Fitzpatrick type III skin?
+##
+query 20: ear drum repair.  could this be and option or possible to fix a deaf ear im deaf on lef ear i whas born with it and the doctors at my country  could not find a reason why im deaf on the left ear  im hoping that this could may help
+summarized question 20: What are the treatments for congenital hearing loss?
+##
+query 21: MESSAGE: I have a gland on the bottom left side of my jaw that swells up and gets really hard causing pain. The only way to relieve it is to push it with my fingers till it runs out of a hole inside my cheek into my mouth. What could b causing this? I just want to know if i should b concerned about a type of cancer since my grandmother passed from cancer in her lymph nodes.
+summarized question 21: What are the causes and treatments for salivary gland swelling and pain?
+##
+query 22: SUBJECT: duchenne. MESSAGE: My name is [NAME] from Morocco I am 27 years old. I have muscular dystrophy disease category duchenne. Are there any effective treatment for this disease
+summarized question 22: What are the treatments for duchenne muscular dystrophy?
+##
+query 23: SUBJECT: Best Disease MESSAGE: There are 38 members of our family that have Best Disease. All members of the [NAME] family. Most of us live in [LOCATION].
+summarized question 23: Where can I find information on Best disease, including inheritance patterns?
+##
+query 24: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 24: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 25: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: MY NAME IS [NAME]. ON [DATE] I WENT TO [LOCATION] ABOUT MY FEET BEING ASLEEEP. THEY PUT ME ON LYRICA. WELL I AM WORST NOW AS OF TODAY MY FEET HAVE BEEN ASLEEP NOW I AM IN ALOT OF PAIN AND ITS ALL THE WAY TO MT KNEES I NEED SOME KIND OF HELP. NO INSURANCE. NO MONEY WHAT CAN YOU FIND OUT FOR ME. PLEASE CONTACT ME AT [NAME] THANK YOU
+summarized question 25: Where can I get help for neuropathic foot pain?
+##
+query 26: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 26: What does w/exertion mean on a prescription for oxygen?
+##
+query 27: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 27: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 28: SUBJECT: prob gum MESSAGE: My. Teeth gum blood comeing what medicine I use
+summarized question 28: What are treatments for bleeding gums?
+##
+query 29: polands syndrome. i have polands syndrome and cannot find it anywhere
+summarized question 29: Where can I find information on Poland syndrome?
+##
+query 30: MESSAGE: Hantavirus virus if the urine and feces are old droppings-5 years better and never cleaned. Can the virus still be passed from old droppings and maybe dried urine that cant be seen? [CONTACT]
+summarized question 30: Can hantavirus be spread by old droppings and urine?
+##
+query 31: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 31: How do I switch from Amlodipine to atenolol?
+##
+query 32: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My sister have htlv-1 we are looking information or processing can help.   MI hermana es de Colombia ella tiene este virus de htlv-1 pero en Colombia no saben como tratar este virus ya que es muy raro y ella esta buscando un lugar donde puedan ayudar con su problema de salud ella esta dispuesta someterse a pruebas con las células madre adultas.
+summarized question 32: Where can I find information on htlv-1?
+##
+query 33: Hi,  maybe you can point me.  My Uncle, born in 1908 was made permanently bald by xrays for a back condition.  He lost ALL his hair over his whole body.  It that possible?  I assume  he had back issues in his 20s.  Have you ever heard of a case like this.  He lived to be 96 years old, never married and always wore a hairpiece.
+summarized question 33:

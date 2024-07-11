@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Diabetes Type 2 MESSAGE: I test before going to bed and the reading is 94 but when I test again in the morning, the reading is 165.  How can I lower it?  I eat dinner around 8PM and nothing until the next morning.
+summarized question 1: What affects glucose levels at night, and how can I lower it?
+##
+query 2: SUBJECT: treatment required MESSAGE: we need treatment for balance disorder. my father losses his balance while walking or climbing steps so please so please help us in curing the disorder.
+summarized question 2: What are the treatments for balance disorder?
+##
+query 3: wolfram syndrome. hi im a support worker for a 46 yr old autistic male.reading your info provided about wolfram syndrome ,he matches alot of the symptoms. he has just recently been diagnosed with type 1 diabetes and i was just doing some research about it and came across wolfram syundrome which like i said the symptoms match alot of this guys doings. my question that ive unfortunatley been able to figure an answer out for is can adults develope this syndrome? can it be a gradual process of events/symptoms or does it happen within the first approx.15-20 years of life? if you could get back to me with any info it would be highly appreciated because like many websites i have read not all doctors knowabout this syndrome.  many thanks. [NAME]
+summarized question 3: Can adults develop Wolfram syndrome?
+##
+query 4: MESSAGE: My 3yrs old boy found my bleach at the laundry and I suspect he swallowed a bit of it. How do I treat this pls.
+summarized question 4: What are the treatments for bleach poisoning?
+##
+query 5: SUBJECT: WHAT TABLETS CAN I TAKE ??? MESSAGE: I WAS A BINGE DRINKER FOR YEARS & HAVE TROUBLE WALKING & I AM ON THIAMIN 100mg  & STRONG VITAMIN B Compound & SENNA  SO WHAT ELSE CAN I TAKE ???
+summarized question 5: What are natural remedies for difficulty walking?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 6: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 7: SUBJECT: Subcutaneous retrocalcaneal bursitis MESSAGE: Haglund's deformity of the calcaneum.  I have this problem.  Can you please help to overcome this?
+summarized question 7: Where can I find information about Subcutaneous retrocalcaneal bursitis and Haglund's deformity of the calcaneum, specifically treatment information?
+##
+query 8: pubic lice.  What are some treatments for pubic lice
+summarized question 8: What are the treatments for pubic lice?
+##
+query 9: SUBJECT: Leg pain MESSAGE: I am diabetic since last 18 years and present it is 6.6 and morning it varies from 110 to 135 and afternoon and from 125 to 175.I regularly take medicine. swimming, exercise &Yoga for 1.5 Hours in the morning &1.5 Hours in the evening but recently the  pain has started in the legs and Dr. has suggested stiloz-50.I also take Kerala juice/Methi seeds &it is water in the morning. Is this due to diabetes or any excess exercise?
+summarized question 9: What are the causes of leg pain?
+##
+query 10: SEARCHING FOR ARTICLES. HOW CAN I SERACH FOR THE  ASSOCIATION BETWEEN GENE MUTATION AND CONGESTIVE HEART FAILURE.
+summarized question 10: Where can I find informaton on gene mutations and congestive heart failure?
+##
+query 11: Dear Sir/Madam I'm [NAME] from [LOCATION], I'm 35 years old , I'd like to ask you a Medical Question as I've got an optic nerve atrophy in my eye and i lost my vision since i was 8 years old , Now I've got one eye just , So please is there treatment for optic nerve atrophy ! Please see the attachment which is a Medical report from [LOCATION], Best Wishes [NAME]
+summarized question 11: What are the treatments for optic nerve atrophy?
+##
+query 12: SUBJECT: Cure for hoe in lung MESSAGE: I certainly would like to request for medical for hoe in the lung  Please help all the necessary information on how to cure this hoe in lung, I have be try some medical here they are not help the situation. Please reply immediately with necessary information.
+summarized question 12: What are the treatments for water in the lung?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Sir. I am [NAME] from  [LOCATION]. My father is 61 years older suffering with Pancreatic cancer and it's in 3/4 Rd stage. All doctors are help less for us as they told my father can't leave more then 4 months. . I want to take your suggestions and help for my father's Pancreatic cancer. I want to save my father's life . If any type of treatment is available then please help me. Please contact me on my below mobile no.  [CONTACT]
+summarized question 13: What are the treatments for stage 3/4 pancreatic cancer?
+##
+query 14: SUBJECT: meloxicam MESSAGE: Does this have to be taken everyday for it to work?  Can I just take it as needed or does it have to build up in my system....
+summarized question 14: How should meloxicam be used?
+##
+query 15: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 15: How long does the tetanus vaccine last?
+##
+query 16: SUBJECT: Rheumatoid arthritis MESSAGE: Dear Sir- my wife is suffering from subject since last couples of years, and recently diagnose that she is effected with subject. therefore i need your kind support for treatment and percussion step.  awaiting your kind reply and action. thanks and best Regards
+summarized question 16: What are the treatments for rheumatoid arthritis?
+##
+query 17: SUBJECT: Scabbies/ treatment area MESSAGE: My husband and I had scabie . I used it in my vaginal area.  I don't know how to treat The reaction I'm having. I think I have burned the delicate tissue in that area.  What can I do to treat the reaction. Please help any suggestions?
+summarized question 17: How is sgenital cabies treated?
+##
+query 18: SUBJECT: LATEST INFORMATION MESSAGE: WANT TO KNOW LATEST DEVELOPMENT IN LUNCE CANCER TREATMENT, MY FRIENDS WIFE AGE 45, NAME [NAME], [LOCATION] SUFFERING WITH THIS DISEASE,WILL BE TAKING FIRST DOSE OF ALMITA PEMETREXED ON THRUSDAY THAT IS AFTER FOUR DAYS. PL. ADD MY E-MAIL ID
+summarized question 18: What new treatments are available for lung cancer?
+##
+query 19: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 19: What are the inheritance patterns for rickets?
+##
+query 20: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 20: How is post-polio syndrome diagnosed?
+##
+query 21: We appreciate your response. My son is 24 years old. We cannot find any drugs, treatments as well as hospitals to fight against Wilson's disease in [LOCATION]. Currently there is [PHI] person with Wilson's disease in [LOCATION] who is my son. We cannot find anything good to help my son at the moment. Therefore, we need somewhere where my son can get help. We are also lack of financial condition to support full treatment for my son. However, we wish to have good medication with less expense if possible. We want to get diagnosed my son's other infected organs and want to know how we can help to get them recovered well. Regards [NAME].
+summarized question 21: What are the treatments for Wilson's disease, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 22: my mom 75 old suffering from cryptococcal menimgtisneef an assisstance.  I am desperate looking for a strong medicine that can help mom she is suffering from cryptococcal meningitis she is 75 years  old
+summarized question 22: What are the treatments for cryptococcal meningitis?
+##
+query 23: MESSAGE: About my vagina..i hve somethng fishy smell..and daily dicharge white  .but why its so bad smell..and its pain
+summarized question 23: What are the causes of vaginal odor, vaginal discharge, and vaginal pain?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hi, I have mixed diagnosis of autoimmune connective tissue disease and would like to submit information about this disease. I also need some serious rheumatologist recommended in Argentina or Latin America. From already thank you very much
+summarized question 24: How can I find  rheumatologist(s) who specialize in mixed connective tissue disease in Latin America?
+##
+query 25: SUBJECT: Jaundice MESSAGE: Can older infants get jaundice? What is the age range?
+summarized question 25: Can older infants get jaundice?
+##
+query 26: SUBJECT: Tailbone trauma MESSAGE: are there any risks for an elderly person to fly with a cracked or bruised tailbone? thank you in advance
+summarized question 26: Can I fly with a tailbone injury?
+##
+query 27: SUBJECT: my infected herpes virus simplex 2 so that i can make a new baby MESSAGE: dear ! if some one are positive herpes simplex gentle, whether they can make a baby, if his wife never get the virus before due to using condom from her husband They can choose the sperm to make the IVF to preventing the virut transmit for his wife and his baby when him new born
+summarized question 27: Can herpes virus simplex 2 be transmitted through sperm?
+##
+query 28: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 28: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 29: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 29: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 30: SUBJECT: Tamsulosin MESSAGE: Is Tamsulosin gluten-free and where is it manufactured? Thank you. [NAME], RN, BA
+summarized question 30: Is Tamsulosin gluten-free and where is it manufactured?
+##
+query 31: I have Kerataconus but my insurance does not cover the cross linking procedure because it is not FDA approved. How long approximately will it take to get this approved? I also wanted to know how can I donate my self to be apart of this study?
+summarized question 31: How long will it take the FDA to approve the cross linking procedure for Keratoconus and are there any clinical trials?
+##
+query 32: SUBJECT: My sister was told she has Breast Cancer MESSAGE:   Hello My Name is [NAME] My sister has been told that she has breast cancer. And I want to no if she could use Salinomycin to kill the breast cancer. [NAME]
+summarized question 32: Is Salinomycin a treatment for breast cancer?
+##
+query 33: Should I have ultrasound on left shoulder.  I have a defribulator (left side)? I look forward to your advice. Thank you very much.
+summarized question 33:

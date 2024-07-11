@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Arthritis MESSAGE: Is the medication Trimethoprim/ sulfamethozle useful in arthritis.?         Thank you
+summarized question 1: Is Trimethoprim / sulfamethazole indicated for arthritis?
+##
+query 2: SUBJECT: Letrozole MESSAGE: Since taking Letrozole the last 4.6 months, I now have a 4 cm. csyst in front of my right ovary that must be removed.  Why am I prescribed a drug that is also prescribed for young women trying to conceive.  I am post menopausal and had early stage breast cancer in 2010.  Now, that I am ending my 5 year run with this drug, I have adverse affects with a cysts.  Is a cysts an egg that was not fertilized from the Follupian Tubes.  I cannot understand this logic of giving me this drug?
+summarized question 2: What are the uses and side effects of letrozole in postmenopausal women?
+##
+query 3: stomach pain.  My son of 13y is facing upper abdominal pain siverly in the mornig time and slightly after eating lunch and in the night time after dinner.kindly i went five doctors and ultra scan also but problem not resolved.pls advaice me what to do.
+summarized question 3: Where can I find information on upper abdominal pain, including diagnosis and treatment?
+##
+query 4: SUBJECT: Right Arm shoulder pain from top to bottom MESSAGE: hi, I am having an younger sister, who is suffering from severe pain of right shoulder from 7 days. The pain comes from right ear to right arm fingers and she was unable to lift a simple spoon or plate. Hence I request you to suggest me good medicine or treatment for this pain.
+summarized question 4: What are the causes and treatments for irradiating right shoulder pain and weakness in the arm?
+##
+query 5: Customer Service Request. Doing a genealogy search, I have been contacted by a person from the same ancestral line as myself, we are decendants of the [NAME] ancestral line and she told me that anderson tawil syndrome runs through our [NAME] line, What does it look like? I understand that it changes the face features. This 82 year old great grandma would like to know more about this.   Many thanks,
+summarized question 5: Where can I find information on andersen tawil syndrome?
+##
+query 6: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 6: Are there any precautions for mixing or administering Fomepizole?
+##
+query 7: I need help with a rare disorder Hello, As I stated I need help with a rare disorder. I have tested   positive for lupus then - negative I have tests   positive for a blood clotting disorder then - negative I have tested positive for Brain Vasculitus then brian Vasculopathy? I have tested positive for a Brain infection then not.  I don't know what to think.  I need a special testing center
+summarized question 7: Where can I receive comprehensive testing for difficult to diagnose symptoms?
+##
+query 8: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 8: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 9: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 9: What are the causes of testicular pain?
+##
+query 10: diagnosis of OI/ resources. I was writing to inquire about more information regarding the diagnosis of OI.  We have family members who are in the process of waiting for genetic testing to come back but are under allegations of child abuse.  Is there any information and / or resources that may be helpful to us? Any help is appreciated. Thank you,[NAME]
+summarized question 10: How is osteogenesis imperfecta diagnosed and what are its symptoms?
+##
+query 11: SUBJECT: questions about products posted on the internet MESSAGE: I suffered a massive stroke on [DATE] with paralysis on my left side of my body, I'm home and conduct searches on the internet to find help with recovery, and always this product called neuroaid appears claiming to restore function. to my knowledge it isn't approved by the FDA, but it sounds so promising. do you know anything about it and id there anything approved by our FDA, that does help?
+summarized question 11: What are treatments for paralysis after stroke approved by FDA?
+##
+query 12: SUBJECT: bruised blood/bleeding under the skin MESSAGE: what causes the above? Certain pressure(s) applied to body leaves long lasting dark spot(s)
+summarized question 12: What causes bleeding under the skin?
+##
+query 13: "SUBJECT: Questions (see in comment box) on ""Vistaril"" MESSAGE: I have a few Qs related to ""Vistaril"": 1. Is ""Vistaril"" a gluten-free product? 2. If not, is it because some of the raw materials in its ingredients that is gluten related? 3. If yes to Q1, is it a ""Certified"" gluten-free product and what kind of certification it has? 4. For capsule form, does it contain any kind of starch? If it does, what starch is it? 5.  Can you email to me a list of the ingredients in this drug? Thank you very much!"
+summarized question 13: What are the ingredients of vistaril and is it gluten and starch free?
+##
+query 14: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 14: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 15: SUBJECT: Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa MESSAGE: Hi, Im not sure if you can help, but my wife has Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa. I was hoping to find out some information if possible. Or to see if you could put me in touch with someone that mey be better suited to this. WE are wanting to start a family and want to know how Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa may effect the child or my wife during the proccess. She is currently taking levodopa  daily and would like to know if this in itself could have an effect on an unborn child. Not sure if ive come through to the right place or not, but just looking for some information or an indication of whom i may speak to,. I really look forward to hearing back from you, Regards,
+summarized question 15: What are the effects of dopa-responsive dystonia, retinitis pigmentosa and levodopa on pregnancy?
+##
+query 16: Hi, Fırst of all thanks for valuable information whıch you Published on your web sıte. http://www.cdc.gov/measles/about/complications.html I couldnt find any ınformatıon on web that ıs related early ages.. When my son 6 months old (when he was baby)  he had measles and he hadnt had vaccacine when he was ill. I saw that if you had measles you have possıbılıty for SSPE that is 4 to 20 out of 100.000 case...But I want to know (it ıs very ımportant for me) if you had measles when your son stıll baby,what is the risk.. Please help me to know the facts...Please Write me the worth case.. I want to know just truth.. Thanks, Best Regards [NAME]
+summarized question 16: What percent of babies who contracted measles will eventually develop SSPE?
+##
+query 17: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 17: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 18: SUBJECT: RE: RX MESSAGE: I am taking Metafolic Plus caplet I know this helps memory of the brain.  What else does it help the brain with?
+summarized question 18: What remedies improve memory?
+##
+query 19: SUBJECT: Walgreens Low Dose Aspirin MESSAGE: I noticed there is no listing for Walgreens Low Dose Aspirin. I am allergic to Providone and just started taking their low dose aspirin. I started having trouble breathing again and am trying to find their Binding ingredient to see if it is Povidone. Can you help?
+summarized question 19: Does Walgreens low dose aspirin contain povidone?
+##
+query 20: Wolff Parkinson White- slow heart rate. Your article is very illuminating but does not refer to the rarer slow rate WPW which my husband has. Where can I find this information?
+summarized question 20: Where can i find information on Wolff Parkinson White syndrome with bradycardia?
+##
+query 21: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 21: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 22: SUBJECT: New Hep C Virus Treatments MESSAGE: In 2006-2007, at the VAMC in [LOCATION], i went through the HEP C Treatment using Ribavirin and Interferon. My viral load was undetectable immediately at the BOT. I stayed on the treatment faithfully and painfully for a4 months; when at the EOT my viral load was still indictable. I was considered a success. When i came back after 6 months for a checkup, it was found my HCV had relapsed. Now I want to know what treatments are now available to me. I hear of these new wonder cures that have been approved in the past year and i want to be retreated. Please send me all the info you have on these new treatments while i wait here and die at age 45. I was exposed with the HCV virus from a tattoo while in the armed forces overseas.
+summarized question 22: What new treatments are available for recurrent hepatitis C?
+##
+query 23: SUBJECT: Blood pressure MESSAGE: Take blood pressure med atenolol 50mg, blood pressure running 91/59 HR65, most of the time lower in the upper to mid 80's.  My doc is not in for 3 day's.  What can I do to raise it.  I am on anxiety, pain & muscle relaxers for a medical condition in my neck and legs that I can't have surgery on again.  Please how do I get my pressure back up until I can get to my doctor?  I am so tired and can't get rid of the headache.
+summarized question 23: What are the treatments for low blood pressure?
+##
+query 24: "SUBJECT: IV Ringers lactate MESSAGE: I received ""slushy"" Ringers Lactate from our supplier due to the bitter cold in Wisconsin. If I allow these fluids to thaw at room temperature will I be able to use them for IV therapy."
+summarized question 24: Can  ringers lactate be used after freezing?
+##
+query 25: SUBJECT: Congestive Heart Failure MESSAGE: Why is my daily fluid intake limited to 2 liters?  What is so special about 2 liters as opposed to any other amount?
+summarized question 25: What is the recommended daily fluid restriction for Congestive Heart Failure?
+##
+query 26: SUBJECT: missed dose MESSAGE: I missed taking my thyroid med this morning.  I usually take it when I first get up and then wait an hour before I eat.  I ate breakfast and remembered that I had not taken it.  How long after breakfast should I wait to take it?
+summarized question 26: How long should you wait to take thyroid medication after eating?
+##
+query 27: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 27: What are the treatments for anosmia?
+##
+query 28: SUBJECT: X-OUT WASH-IN TREATMENT- benzoyl peroxide gel MESSAGE: Can you please tell me if the product X-OUT WASH-IN TREATMENT- benzoyl peroxide gel would contain any animal, dairy, insect, seafood or human by-products? Also would it contain any honey? Thank you for your help in researching this information for me. Make it a great day! Best Regards, [NAME] [CONTACT]
+summarized question 28: What are the active and inactive ingredients of X-OUT WASH-IN TREATMENT- benzoyl peroxide gel?
+##
+query 29: I was at my endocrinologist today and he said I should look into testing or new reshearch for someone like myself.  I am type 1 diabetic and my doctor said my case is unique he suggested I contact you to see if you may have research that could help me
+summarized question 29: What is the latest research on type one diabetes testing and treatments?
+##
+query 30: SUBJECT: tysabri in ALS MESSAGE: dear sir My wife is 54 years old being diagnosed with ALS for the last 2 years. Currently she can,t use hands or legs, can,t talk properly but still can swallow soft food and breath. I heard that this TYSABRI injection can be of great help in my wife,s case. Please advice as soon as possible
+summarized question 30: Is natalizumab an effective treatment for ALS?
+##
+query 31: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 31: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 32: Kidney transplant.  My father is having trouble with the kidney he received from a donor.  When he first had the transplant, things were ok. Now on the kidney is giving him trouble.  Some tests came back stating that the kidnewy was damaged and the transplant still took place. What steps can we do with getting the hospital to take charge with fixing this issue? His transplant procedure was at [LOCATION] in [LOCATION].
+summarized question 32: What is the prognosis and potential complications of a kidney transplant?
+##
+query 33: I get wrist joint pain along with finger joint pains and my symptoms are similar to wrist osteoarthritis but I am diagnosed with ankylosing spondylitis because I am HLA-B27 positive. Therefore I want to know the following: I want to know whether osteoarthritis of wrist can occur in ankylosing spondylitis or it occurs in Ehlers–Danlos syndrome only?
+summarized question 33:

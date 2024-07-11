@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 1: Can epilepsy be cured?
+##
+query 2: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 2: How long will an insecticide application last in the house?
+##
+query 3: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 3: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 4: SUBJECT: Find a Doctor, a specialist on this problem MESSAGE: who is a certified Opt. in or near the Nashville, TN area who does surgery for strabismus. please help me find a trusted doctor who performs this kind of surgery
+summarized question 4: How can I find physician(s) who specialize in strabismus surgery near Nashville TN?
+##
+query 5: SUBJECT: GERD MESSAGE: in reviewing some meds that treat GERD, i dont see much difference between Prilosec,Nexium,Tagament and Zantac. It is said that Prilosec and Nexium are proton pump inhibitors and Zantac and Tagamet H2 blockers. Their definitions of action are the the same that they reduce the amount of stomach acid.Are their really any big differences in these 4 medicnes?
+summarized question 5: What are the differences between GERD medications Prilosec, Nexium, Tagament, and Zantac?
+##
+query 6: SUBJECT: Bipolar and Generalized Anxiety Disorder MESSAGE: I read about TMS Therapy.  Do you know anything about it?  Has it had success?  Also wondering about ECT?  Finally, I've been told acupuncture can help for mood disorders.  Is that true for mixed bipolar and generalized anxiety disorder along with meds?  Have you ever heard of this?
+summarized question 6: What are the treatments for bipolar disorder with generalized anxiety disorder?
+##
+query 7: "SUBJECT: BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium a MESSAGE: Hello, I want to purchase from you a remedy. I have Multiple Sclerosis, and there is much talk in the media about ""C. perfringens, Type B"" being a trigger for Multiple Sclerosis. Here is a link of the news http://www.bbc.com/news/health-25925658. I would like to purchase this product ""BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid"".  Or could you kindly recommend a remedy that will address this bacteria?  And email me how I should purchase and the total cost including the shipping so I can order it. I'm eager for your reply and thank you Kindly. Below are all my details: [NAME] [LOCATION] [CONTACT] [EMAIL]"
+summarized question 7: Where can I purchase BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid and how much does it cost?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I do have relative smoker in past diagnose with COPD I would like to see how can I find treatment .76 years old not any other health problem. He is on oxygen now. please Email me.at [CONTACT]        thank you
+summarized question 8: What are the treatments for COPD?
+##
+query 9: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 9: How long does swelling from sleep apnea take to heal?
+##
+query 10: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 10: What is the prognosis and course of recovery after stroke?
+##
+query 11: SUBJECT: MMR vaccine MESSAGE: My doctor recommended I get the MMR vaccine, which covers mumps, measles, and rubella.  Isn't rubella a form of measles?  As a child, I had the 3-day measles--was that German measles or the other kind?  As a child I also had mumps.  Do I really need the MMR or just a vaccine for the rubella?
+summarized question 11: Who should get the MMR vaccination?
+##
+query 12: SUBJECT: To shake or not to shake:  Qvar MESSAGE: Hello- Please clarify whether or not Qvar is to be shaken before each use. There is some discrepancy between the Kaiser box label, your own instructions, and a chart of inhalers my Dr. keeps in the office. Pro-Air is very clear:  SHAKE!  Qvar is not clear. Thank you, [NAME]
+summarized question 12: Should a Qvar inhaler be shaken before use?
+##
+query 13: SUBJECT: [NAME] Brazilian with PMD MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pelizaeus-Merzbacher leukodystrophy, we would like to know more new treatments, new techniques, since we know very little about the disease in Brazil. [NAME]
+summarized question 13: What new treatments are available for Pelizaeus-Merzbacher leukodystrophy?
+##
+query 14: SUBJECT: AIDS MESSAGE: A WOMEN WHO IS NOT HAVING HIV/AIDS HAS PERFORMED SEX WITH HER HUSBAND AND WITH HER BOY FRIEND AND NOW SHE HAS PERFORMED SEX WITH ME DOES IT  LEAD TO HIV OR AIDS TO ME. PLEASE KINDLY REPLY.
+summarized question 14: How is the HIV virus transmitted?
+##
+query 15: "SUBJECT: IV Ringers lactate MESSAGE: I received ""slushy"" Ringers Lactate from our supplier due to the bitter cold in Wisconsin. If I allow these fluids to thaw at room temperature will I be able to use them for IV therapy."
+summarized question 15: Can  ringers lactate be used after freezing?
+##
+query 16: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 16: Are the  long-term effects of morphine reversible?
+##
+query 17: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 17: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 18: I was trying get more information on Pain associated with Polycythemia Vera and medications usually used to treat pain in Polycythemia vera. Thank you, [NAME]
+summarized question 18: What treatments are available for  pain associated with Polycythemia Vera?
+##
+query 19: SUBJECT: Bone Marrow Cancer MESSAGE: hello Sir, i want to ask something about bone marrow marrow cancer.... its 22 year age... and have many symptoms of BMC..  often feel pain in bones....  i don't know the stage.... is treatment is possible at any stage???? how i can find stage??? if treatment is possible  how long(in months) it takes to recover???  kindly reply me...
+summarized question 19: Where can I find informaton on bone marrow cancer, includinf diagnosis, treatment, and prognosis?
+##
+query 20: MESSAGE: Please i want to know the cure to Adenomyosis. I have been going through alot of pains during my menstruation. I want to see a specialist doctor to help me out. I am dying with pains.
+summarized question 20: What are treatments for adenomyosis, and how can I find physician(s) who specialize in it?
+##
+query 21: Diet Plan for patients having both cholesterol and diabetes.  Dear Sir/Madam, Could you send me a diet plan for patients suffering from both Cholesterol and Diabetes? It is for someone close to me. I don't want it in carbohydrates/ protein numerical data form, just what all foods they can eat (their amounts / combination). If possible could you also send it in Malayalam?
+summarized question 21: What is a good diet plan for high cholesterol and diabetes?
+##
+query 22: Does high Thyroid level (31.13) interfere with recovery I just had double knee replacement on 01/15/2014. I take Levothyroxin 137mg dailey for my thyroid condition.  I take no other meds on a regular basis except for the normal pain meds prescribed during my recovery. During my recovery, I never felt comfortable and free of pain. I finally asked for a blood test and discovered my TSH level at 31.13.  My question is, will a high TSH level interfere with healing and recovery of muscle tissue and bones?  I am now taking a higher dose of Levthyroxin, can I expect a longer than normal recovery period due to a high TSH level?  Thank You, [NAME]
+summarized question 22: Can high TSH levels or Levothyroxine impact muscle tissue recovery?
+##
+query 23: SUBJECT: High Blood Pressure MESSAGE: I know you may not answer this but my blood pressure comes up at night when I am asleep. I take four medicines. I have asked doctors why this happens and no one knows. This morning at four A.M. It was 164 and I took a clonidine to help get it done. It worries me so.
+summarized question 23: What causes a rise in blood pressure when asleep?
+##
+query 24: How do I know if the cause why my penis didn't growth up to a normal penis size was because of IHH? And How can I have a treatment with hCG? Where Can I get the injections?
+summarized question 24: What are the tratments for small penis size and where can I get the treatments?
+##
+query 25: SUBJECT: human chimerism MESSAGE: My daughter, born 5 days ago, was curiously found to have c+ blood type.  Having ruled out most causes for this, we are left with a possible vanishing twin chimera and don't know where to turn for more information or research. At this point we don't even have confirmation of whether she is xx/xx or xx/xy, or concrete exclusion of microchimerism. Help? I can be reached by cellular at [CONTACT]. my husband and I are local to the [LOCATION], and both [PROFESSION]. Thank you!
+summarized question 25: Where can I find information on chimerism and twin absorption?
+##
+query 26: SUBJECT: Skin Itching MESSAGE: At night, I have very bad lower leg skin itching.  Is this being caused by any of my prescripions?
+summarized question 26: What prescription drugs cause itching skin on legs?
+##
+query 27: MESSAGE: I have clostridium and am testing pos for Lyme need info. [NAME]
+summarized question 27: Is there a connection between clostridium and Lyme disease?
+##
+query 28: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 28: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 29: MESSAGE: I have a fractured nose i need it fixed. its been broke for 3 years now
+summarized question 29: What are delayed treatments for nose fracture?
+##
+query 30: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 30: How is hypomaturation type IIA2 inherited?
+##
+query 31: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 31: Can sleep apnea occur during the day when awake?
+##
+query 32: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 32: Where can I find information on klinefelter syndrome?
+##
+query 33: My aunt has ALS. I am about to give birth to my son next month. Could I use my blood cord to help my aunt with ALS?
+summarized question 33:

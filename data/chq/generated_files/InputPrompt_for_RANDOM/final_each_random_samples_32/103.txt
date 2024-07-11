@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: IV Ringers lactate MESSAGE: I received ""slushy"" Ringers Lactate from our supplier due to the bitter cold in Wisconsin. If I allow these fluids to thaw at room temperature will I be able to use them for IV therapy."
+summarized question 1: Can  ringers lactate be used after freezing?
+##
+query 2: Genetic testing.  My mother in law is in the last stage if lung cancer and only has days to live.  My question is...testing her and comparing her tests with my husbands and his sisters test help to determine if it is genetic?  My mother in law ([NAME]) and her mother and her mithers sister both had lung cancer and none if them were smokers.  I'm real worried about my husband getting lung cancer now and I want find out what we can do to protect him.Thank you,[NAME]
+summarized question 2: What are the genetic factors for lung cancer?
+##
+query 3: SUBJECT: Is finasteride a medication for life? MESSAGE: Hi, I have been taking this medication for the last 7 years.I asked my family doctor,since I have difficulty in my sexual desire or intercourse,if I can stop taking it.She said that is for life. My psa in normal 0,71.What you suggest? Thank you for your replay.
+summarized question 3: Are there alternative treatments to finasteride for enlarged prostate?
+##
+query 4: SUBJECT: male with breast MESSAGE: I am a 51 year old male and I have enlarged breast. My mother told me that I have bird chest. I know that I don't have bird chest. My size is a 36 B. I have to wear oversized shirts. I would like to have them removed, but I don't have the money. I was abused because of my breast.  thank you for your time.
+summarized question 4: what are the treatments for gynecomastia?
+##
+query 5: SUBJECT: Can I safely take prednisone and levaquin the same day several hours apart? MESSAGE: can I safely take levaquin and prednisone the same day not at the same time several hours apart?
+summarized question 5: Are there drug interactions between prednisone and levaquin?
+##
+query 6: ClinicalTrials.gov - Question - general information.  I have returned from Nigeria. While there, I found out that a relative of mine has an outgrowth that has covered half his face, thus blinding him on one eye. The outgrowth is about the size of three baseballs. What can you do to help him? [NAME], [CONTACT]
+summarized question 6: What are the treatments for facial tumors, and how can I find physician(s) who specialize in it in Nigeria?
+##
+query 7: MESSAGE: Dear sir, I feel weak on my body aspecially in the morning. so I want to know the solution to my problem. because this is long time ago. in the body joints knees and arm. thanks.
+summarized question 7: What are the treatments for body weakness?
+##
+query 8: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 8: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 9: Name: [NAME] Date and Time of Contact: Thu, 1 Jan 2015 16:10:06 GMT Application: myncbi SessionId: CE9069DE4A56A0A1_0093SID MyNCBI UserName: Host: portal205 Snapshot: /projects/MyNCBI/myncbiPortal@2.45 Browser's user agent header: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2) Application Page Generation Time: 2015-01-01T11:03:27-05:00 Page: recentactivity Message Body: We live in [LOCATION] and my husband has been detected an insulinoma.Need further information on the matter as doctors have not seen one here. Greatly appreciate your reply. Happy New Year to you all and many many tahanks for your help.
+summarized question 9: Where can I find information on insulinoma?
+##
+query 10: My mom is 82 years old suffering from anixity and depression for the last 10 years was dianosed early on set deminita 3 years ago. Do yall have a office in [LOCATION] NC? Can you recommend someone. she has seretona syndrome and nonething helps her.
+summarized question 10: Where can I find information on early onset dementia, and how can I find physician(s) who specialize in it in North Carolina?
+##
+query 11: MESSAGE: Can u give me more information about physiotherapy for  patient with acute stroke treated wiht trombolysis..?
+summarized question 11: Where can I find information on physical therapy after acute stroke?
+##
+query 12: Eye.  i do see black things what couse it? or likd a sand i my Eye? how can i get treatment?
+summarized question 12: What are the causes and treatments for eye floaters?
+##
+query 13: bile.  because reason vomit bile?
+summarized question 13: What causes vomiting bile?
+##
+query 14: ClinicalTrials.gov - Question - general information.  My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.
+summarized question 14: What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?
+##
+query 15: SUBJECT: Need information abouot Folgard OS MESSAGE: Need information about Folgard OS. I am in U.S.A. but that wasn't listed as a choice of countries!
+summarized question 15: Where can I find information on folgard OS in USA?
+##
+query 16: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 16: Where can I find clinical trials for macular degeneration?
+##
+query 17: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 17: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i am 9 years post bleed stroke and still can not use my left arm or hand and when i walk i hip hike on my left side.  is this as good asit gets
+summarized question 18: What is the long-term prognosis of limb use after stroke?
+##
+query 19: SUBJECT: drug nutrient interaction MESSAGE: Hello: I am looking for a resource that describes nutrient ( vitamin ) depletion that results from specific medications. Hope you can help. Thank you.
+summarized question 19: Can medications cause vitamin depletion?
+##
+query 20: MESSAGE: I have been battling Anal fissure for close to two years now and it has refused to heal all these while. Please what do you suggest i do?  Thanks
+summarized question 20: What are the treatments for chronic anal fissure?
+##
+query 21: sepsis.  Can sepsis be prevented. Can someone get this from a hospital?
+summarized question 21: What are the causes and prevention of sepsis?
+##
+query 22: SUBJECT: Stroke mobility equipment MESSAGE: Husband has had 3 strokes since 1990.  He refuses to take anymore maintenance therapy.  It is becoming more challenging to help him be mobile.  There does not seem to be any source to assist me in learning what equipment, etc.  I could or should get to help him and to help me in my role as caregiver.  Any help you can give would be much appreciated!
+summarized question 22: Where can I find information on stroke resources, including mobility equipment and caregiver support groups?
+##
+query 23: SUBJECT: glossopharyngeal neuralgia MESSAGE: how long would i take the medication. what is the success rate of surgery. can you tell me how much radiation method work and where is the treatment available in [LOCATION]
+summarized question 23: What are the treatments and their success rates for glossopharyngeal neuralgia?
+##
+query 24: SUBJECT: bowel movement MESSAGE: for the second time today I have seen matter moving as in swimming on the surface of the water after a loose bowel movement.  the first was small but today it was a larger chair or elongated mass that was moving on the surface of the still toilet water.   I thought I was seeing things the first time but this time I am sure.    what is this?
+summarized question 24: How are moving specimens in a loose bowel movement identified and treated?
+##
+query 25: Hello dear sir/madam I just want to knw if any cancer person had all treatment done then cancer gonna be again or not.how long person can live after cancer treatment.please reply me as Soon as possible. Thank you Sent from my iPhone
+summarized question 25: What are the survival and recurrence rates for cancer?
+##
+query 26: SUBJECT: Walgreens Low Dose Aspirin MESSAGE: I noticed there is no listing for Walgreens Low Dose Aspirin. I am allergic to Providone and just started taking their low dose aspirin. I started having trouble breathing again and am trying to find their Binding ingredient to see if it is Povidone. Can you help?
+summarized question 26: Does Walgreens low dose aspirin contain povidone?
+##
+query 27: SUBJECT: Teen pregnancy MESSAGE: Good morning,   I am a student from Carver Military Academy on the far south side of Chicago. My fellow classmates and I are conducting a research project on social issues and problems we are affected by everyday mine is Teen Pregnancy. Since I am a teenager I know how having a child can really affect our young lives. They can stop our achievements in school, goals for the future,all our fun would stop,and our dreams. I would like to ask someone from your organization a few questions because it seems as though your organization could provide me with valuable information about teen pregnancy,statistics,facts, and your opinion about it. Your time and assistance would be greatly appreciated and I hope to hear from you soon.   Thank you,  [NAME]
+summarized question 27: Where can I find information on teen pregnancy?
+##
+query 28: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 28: Can epilepsy be cured?
+##
+query 29: ClinicalTrials.gov - Question - specific study. Do you have any more indepth information regarding pseudocholinesterace deficiency? My son 28 and myself 56 have this problem and we both have systemic muscle spasms. cramps contractions. Most seem to be caused by knots or trigger points. I assume this has something to do with this deficiency because it deals with neuro transmissions correct. Anyway we are looking for relief. The muscle relaxants help a bit but the knots do not go away and so the pain is still there at a deeper level. The doctors and neurologist have no idea. Thank you. [NAME]
+summarized question 29: Where can I find information on pseudocholinesterase deficiency icluding treatment?
+##
+query 30: SUBJECT: tracheomalacia MESSAGE: My Tracheomalacia is so wide spread with 90% blockage surgery is not an option.  I wear o2 24/7 what is going to happen to me.  Will it get worse until I die please someone just be honest with me.
+summarized question 30: What is the prognosis for tracheomalacia?
+##
+query 31: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 31: What are the treatments for drop foot?
+##
+query 32: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 32: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 33: It is unfortunate to say that my father was affected by AML M1 and  we got  to know a month ago and his age is 52. Initially he  had a blast cells percentage of 76% and later after the first cycle blast cells dropped down to 4%. After two weeks of rest, he had undergone first consolidation out of three with High intensity Ara-C and today he was discharged after one week of treatment. My father's doctor said that there will be two more cycles with a gap of 28 days in between. As chemotherapy has side effects I would like to go for ayurvedic treatment as well in order to support my father's condition. I'm unable to understand whether to take further step and go for ayurveda as I'm not aware of any proved cases. Please suggest me whether to go for ayurveda and are there any such cases recorded to keep  the disease in complete remission.
+summarized question 33:

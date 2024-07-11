@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: NDC# for Injection, Testosterone Cypionate, 1mg MESSAGE: I am trying to find the NDC# for the above-mentioned injection. There is a new HCPCS code J1071 ([DATE]), the code is still new and no ones knows how to bill the insurance yet. With NDC# we will be able to figure out how the injection is packaged. Thank you for your help!
+summarized question 1: What is the NDC code for 1 mg Testosterone Cypionate injection?
+##
+query 2: Im suffering from Beta Thalassemia Major from birth. I have been transfusing every 22 days. Now i heard about a tablet named mylostat 500 (Hydroxyurea). I wanted to know wheather the same will be suited for me.
+summarized question 2: Is mylostat 500 a treatment for Beta Thalassemia Major?
+##
+query 3: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 3: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 4: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 4: Where can I find information on SIDS?
+##
+query 5: I have had Tourette syndrome since age seven. Recently at the age of 72, I had an implantation of a shunt for hydrocephalus.  *What is the probability of one having both hydrocephalus and Tourette syndrome? *Is there any evidence that indicates that the head and neck tics of Tourette syndrome may be a cause of hydrocephalus?
+summarized question 5: Is there a connection between tourette syndrome and hydrocephalus?
+##
+query 6: Metastatic malignant melanoma.  I've got skin cancer, and I want this treatment, but RBCs Btensl Is it possible that taking this medication
+summarized question 6: What are the treatments for metastatic malignant melanoma?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 7: What are the treatments for severe endometriosis in adolescents?
+##
+query 8: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 8: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 9: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 9: What are the treatments for mouth ulcers?
+##
+query 10: My mother has Pulmonary ARTERIAL hypertension in the left side of her heart.  Is there anything that can be done to improve her health.
+summarized question 10: What are the treatments for Pulmonary Arterial Hypertension?
+##
+query 11: Wolff Parkinson White- slow heart rate. Your article is very illuminating but does not refer to the rarer slow rate WPW which my husband has. Where can I find this information?
+summarized question 11: Where can i find information on Wolff Parkinson White syndrome with bradycardia?
+##
+query 12: SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?
+summarized question 12: What is the prognosis for someone with homozygous MTHFR A1298C?
+##
+query 13: MESSAGE: I am 23yr boy,i have knock knees i want treatment. Please help me.
+summarized question 13: What are the treatments for knock-knee?
+##
+query 14: Diphtheria.  Is there a definitive history of diphtheria in the United States available in print? I have read quite a few articles in the NLM from the 19th century, and I'd like to find an overview of this disease, particularly a history of epidemics in the U.S. Any help you can provide would be greatly appreciated. Thank you - [NAME] M.D.
+summarized question 14: Where can I find a definitive book on diptheria in the United States?
+##
+query 15: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 15: Is lincomycin still prescribed for human use?
+##
+query 16: NUT tumor in spine. My brother had a tumor in his cheek, which was surgically removed. He is still undergoing radiations. After dissecting the tumor, they noticed it had something to do with the chromosones. His tumor was rare. Last week they discovered very small tumors in his spine. They concluded the cancer has evolved in his bones. In [LOCATION] ([LOCATION]) they said only 2 cases of this cancer are known worldwide. They've given him 8 months!4 Months ago he was just fine. I'm looking for any information that can help him!
+summarized question 16: "Where can I get information and help for ""NUT tumor"" in the spine?"
+##
+query 17: SUBJECT: Possibility to Treat Eye Injury MESSAGE: When I was 7, my young brother suffered to me an eye injury. He used to play an inject bin that was injected my mother before a night. He directed me the inject bin as he was trying to frighten me for injecting. However, everything changed and he injected the bin to my eye. Now, I'm 21years old and my eye lost the vision and crossed, So what is the solution for me?
+summarized question 17: What are the treatments for vision loss?
+##
+query 18: SUBJECT: Kidney Stone MESSAGE: Hello Dr.,In a case of patient with Kidney Stone size of 1.2mm x 2.3mm. What can i do? Pls i need your advice.
+summarized question 18: What are the treatments for kidney stones?
+##
+query 19: SUBJECT: is there any help available,for fibromalgia MESSAGE: is there any treatment s available.?
+summarized question 19: What are the treatments for Fibromyalgia?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 20: What are the treatments for ocular albinism?
+##
+query 21: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 21: What are the treatments for flatulance?
+##
+query 22: SUBJECT: Ear Infection Treatment MESSAGE: I was cleaning my ear with a pointed metal and mistakenly it got stock into my ear and I started seeing some blood from my ear,Since than I have being some pains in my ear and can I can be hearing some echo sound in my ear. I would be very glad to know the best medication for my ear treatment.
+summarized question 22: What are the treatments for punctured eardrum?
+##
+query 23: PAEDIATRIC AND GEATATIONAL NUTRITION.  I want detail information about pediatric and gestational nutrition.
+summarized question 23: Where can I find detailed information about pediatric and gestational nutrition?
+##
+query 24: SUBJECT: Arthritis MESSAGE: Is the medication Trimethoprim/ sulfamethozle useful in arthritis.?         Thank you
+summarized question 24: Is Trimethoprim / sulfamethazole indicated for arthritis?
+##
+query 25: genetically inherited ability to low cholesterol. Is there a medical term used for genetically inherited ability to low cholesterol? I have it, I am told 1 in 3000, have this. I'm 64 y/o, LDL 74, HDL 78, TRI 91, CHOL 170. You'd thing that this is good but my veins & arteries are struggling to keep my B/P up the older I get. All cardiology test are good, can't find a cause for low B/P below 90/60 issues. There has to be a medical term for this, what is it, what gene is this? Since I never knew my parent, what country does this originate?
+summarized question 25: Is low cholesterol genetic?
+##
+query 26: SUBJECT: Swan NDC 0869-0871-43 MESSAGE: I found 4 cases of expired (04/2010) Hydrogen Peroxide.  How do I safely dispose of this product? [LOCATION] [LOCATION] [LOCATION] [LOCATION]  [CONTACT] [NAME]
+summarized question 26: How do I dispose of hydrogen peroxide?
+##
+query 27: Dear Doctors, Good day, I would like to ask about the possibility to make a Liver transplantation surgery for my uncle. his liver is damaged and need to be replaced so could you please advise me with the possibility to make the surgery and the approximately cost . also any other details should I know. Your Quick response is highly appreciated and thanks in advance for your cooperation.
+summarized question 27: Where can I find information on liver transplants, including cost?
+##
+query 28: SUBJECT: 46,X,dir dup(X)(q13-q26) MESSAGE: Hi I am from [LOCATION], I am wondering if you can help with some information on my duplication, I have signed up to [LOCATION] here in [LOCATION] but only me, my mum and my sister and 1 other person have been found to have this genetic abnormaility. I have no idea about the other person but my sister was affected by it when she was born, when i was born we had no idea, My sister was born and tested me and my mum, showing my mum had the condition along with my sister. at that point it seemed i never had it. When i was 20 i went to my [PROFESSION] and they said my genetics department here in [LOCATION] wanted me to get retested, Found out that i do carry the same duplication. I have three younger brothers as well, two of the youngest with Autism, None of the boys have the duplication, but i am wondering if these are linked? I am wondering what Information do you have available regarding this duplication, I have fertility issues which i don't know of it is linked or not. My AMH level for my age at 26 is low at 4.6!! my sister has had two children a boy and a girl none do not have the duplication. She also has Stage Two Kidney diease and was born with a horse shoe Kidney they thinks its linked Please help! or is there anything you can advise for me in the UK to go get looked at further ? Love from [NAME]
+summarized question 28: Where can I get information on the genetic abnormality 46,X,dir dup(X)(q13-q26), and  and how can I find physician(s) in the UK who specialize in genetic abnormalities?
+##
+query 29: I have Kerataconus but my insurance does not cover the cross linking procedure because it is not FDA approved. How long approximately will it take to get this approved? I also wanted to know how can I donate my self to be apart of this study?
+summarized question 29: How long will it take the FDA to approve the cross linking procedure for Keratoconus and are there any clinical trials?
+##
+query 30: Genetic Test for IHHS heart condition. Is there a commercial genetic test for the IHHS heart condition?  My family suffers from this heridity condition and I would like to know who is susseptable.   If so, where could I get it done in [LOCATION] Texas?
+summarized question 30: Where can I get genetic testing for IHSS in Texas?
+##
+query 31: SUBJECT: Please help me MESSAGE: I have been dealing with undiagnosed issues. It started 3 years ago as nausea and dull achy pain. Doctors decided to remove my gallbladder, even though it only had scarring. Since the surgery ([DATE]) I have had a sharp, stabbing random pain in that area and around it. I also get dull, crampy pain. Finally, the surgeon ordered a CT scan because the pain is so bad. His nurse called and said everything was fine. So I went to my primary, who noticed that I have ascites on my liver. My side is slightly bloated, was not before. And I am scared because I don't know what I'm supposed to do. No one will help me and I do not want to be on pain meds my whole life.  Please let me know your thoughts or guide me in the direction I need, please.  I live in south carolina, i dont know why when I made my email it had the co.uk
+summarized question 31: What are the treatments for ascites?
+##
+query 32: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 32: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 33: I am looking for any information you have on females with congenital adrenal hyperplasia, my wife has this condition. We are searching for a doctor for her medical care, and need all the information we can find on this condition.
+summarized question 33:

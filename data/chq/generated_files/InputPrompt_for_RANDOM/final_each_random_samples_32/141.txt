@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Phobia: fear of taxidermy.  Hello, I was wondering if there was a name for the fear of taxidermy? I often find myself having the symptoms this website describes when in the presence of something I fear deeply.
+summarized question 1: Where can I find information on fear of taxidermy?
+##
+query 2: SUBJECT: daytrana MESSAGE: can daytrana be prescribed for an 18 almost 19 year old male? if so, what dosage?  he is 230 lbs.  He has tried several ADHD medications in the past.
+summarized question 2: What are dosage guidelines for Daytrana?
+##
+query 3: MESSAGE: I just read an article submitted by you that stated your research shows that you've identified the mechanism that causes burning mouth syndrome. Also because of these findings you can find a treatment. I've had this for 15 yrs and am just holding on. When will a good treatment be available??  I belong to a group of over 500 bmsers. We're suffering terribly and were from all over the world. What would the treatment be?
+summarized question 3: What are the treatments for burning mouth syndrome?
+##
+query 4: ClinicalTrials.gov - Question - general information.  My fathers 85 and has severe hearing loss - he has tried hearing aids which at first helped but loss has become worst - has loss the hearing on one ear - hearing aids seem to cause him lots of pain I now see that he now can't hear and is becoming isolated, which concerns me and makes me very sad and afraid he'll become very depress and not care. If you can't help us can you please direct me somewhere for help. We live in the los angeles area Thank you [NAME].  [CONTACT]
+summarized question 4: What are the treatments for hearing loss aside for hearing aids?
+##
+query 5: SUBJECT: Painful menstrual periods MESSAGE: My wife has suffered this . How can treat this.
+summarized question 5: What are the treatments for painful menstrual periods?
+##
+query 6: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 6: What are the treatments for anosmia?
+##
+query 7: SUBJECT: SPECIFY COMPONENTS MESSAGE: COENZYME Q10(100-mg). WHAT ARE THE COMPONENTS OF THIS MEDICINE? IS IT USEABLE FOR MUSLIMS?
+summarized question 7: What are the ingredients of coenzyme q10?
+##
+query 8: chromosome 20 reattachment. Results of my amniocentesis states that a part of chromosome 20 broke then reattached itself to the same chromosome in a funny way.  They are unable to determine what gene if any has been affected.  Are you aware of any similar situations, and if so, what symptoms should I expect my baby to have?  Is there anyone else you suggest I contact for further information?
+summarized question 8: Where can I find information on disorders caused by chromosome 20 abnormalities?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I would like to know if there is a side affect from taking mestinone while tanning in a booth.  it seems if have a rash on back and burning on chest and stomach which has never happened before I started taking mestinon.   are we more sensitive to sun while on this medication?
+summarized question 9: What are the side effects of mestinon and tanning?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dental/sjogrens. Because of Sjogrens, my teeth have decayed Severely in the past 2 years.I have a few teeth that have not decayed. It is devastating!  What should I do...implants or dentures? What about funds?  Help.    [NAME]
+summarized question 10: What teeth replacements are better for sjogren's: implants or dentures?
+##
+query 11: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 11: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 12: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 12: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 13: Hi, I'm looking to purchase Epidermal Growth Factor to use topically in skin care creams.  Do you sell it and if so how can I learn about this?  If you don't can you give any suggestions of who might?  Any information you can provide would be greatly appreciated.  THNAK YOU!  [NAME]
+summarized question 13: Where can I buy  Epidermal Growth Factor cream?
+##
+query 14: SUBJECT: Voice MESSAGE: Hi I am wondering if anyone can help me get my voice back. I have ALS in my throat and I don't want to go out on a disability. I want to keep working. Thank you.
+summarized question 14: What are the treatments for voice disorders caused by ALS?
+##
+query 15: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 15: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 16: cinca sindrome. where the treatment of cinca sindrome.
+summarized question 16: What are the tratments for cinca syndrome?
+##
+query 17: SUBJECT: Shingles MESSAGE: I am recovering from shingles. I am on antiviral medication. This is my second week with shingles. I have not experience any draining with my sores which are currently on the right side of my face close to my right eyebrow. My question is this: My husband is having surgery tomorrow, Can I go to the hospital with my husband?
+summarized question 17: When is shingles contagious?
+##
+query 18: SUBJECT: tick bites MESSAGE: my husband was diagnosed with Rocky Mountain Spotted fever about 6 1/2 years ago.  Then about 1 1/2 years ago he was diagnosed with Lyme Disease.  With him having had both what damage if any to his body could possibly happen.  He has had alot of medical problems since.  Now has been diagnosed with type II diabetes.
+summarized question 18: What is the prognosis for Rocky Mountain Spotted fever and lyme disease?
+##
+query 19: SUBJECT: gluten free status of Tolterodine Tartrate ER 4mg MESSAGE: You list starch as one of the ingredients. What is the source of the starch? Is this medication gluten free? Is it safe for someone with Celiac Disease to take?
+summarized question 19: What are the ingredients of Tolterodine Tartrate ER 4mg and is it gluten free?
+##
+query 20: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 20: How is thalassemia inherited?
+##
+query 21: hello i am looking for information related to the above (myostatin-related muscular hypertrophy) genetic condition. can you direct me to a hospital or other genetic research institution that might be doing research on this genetic condition?
+summarized question 21: Where can I find information on myostatin-related muscular hypertrophy, and how can I find an organization doing research on it?
+##
+query 22: garcinia Cambodia.  In the USA and elsewhere, plenty of Adds promoting the extract of this plant(Garcinia  cambodia)to fight obesity. Any reliable information on this claim will be appreciated
+summarized question 22: Does Garcinia Cambogia help weight loss?
+##
+query 23: SUBJECT: Stroke mobility equipment MESSAGE: Husband has had 3 strokes since 1990.  He refuses to take anymore maintenance therapy.  It is becoming more challenging to help him be mobile.  There does not seem to be any source to assist me in learning what equipment, etc.  I could or should get to help him and to help me in my role as caregiver.  Any help you can give would be much appreciated!
+summarized question 23: Where can I find information on stroke resources, including mobility equipment and caregiver support groups?
+##
+query 24: "SUBJECT: Shortness of breath in the mornings MESSAGE: My wife has been having shortness of breath in the mornings (mornings only).  She has, what I think, excessive heart rate as well.  Again, mornings only. Could this be anxiety attacks?  I don't think it would be a heart issue.  She certainly isn't overweight.  SHe is 5'2"" and 100-105 pounds.  if she is having anxiety attack... what is the best course of action?  She seems to feel better when she lies down and rests.....while either watching TV...or sleeps.  WHat is weird about it is ... it only happens in the mornings.  SHe has no history in her family for heart disease either.  WHat are your thoughts?"
+summarized question 24: What could cause shortness of breath in the mornings?
+##
+query 25: MESSAGE: Is it okay to drink alcohol in moderation when taking Ampicillin.  I was told it negates any medical effect of the drug
+summarized question 25: Can I drink alcohol while taking Amoxicillin?
+##
+query 26: SUBJECT: congenital diaphragmatic hernia MESSAGE: I need to know if CDH can be passed down to future generations.  I just learned that this condition most likely caused the death of my first child back in 1971.  I was then told it was merely a fluke.  I had NO trauma during the full-term pregnancy, and I and my then husband were in very good health.  Now my son (from a different husband) and his wife are due to have fraternal twins in [DATE] 2015.  Does the term 'congenital' mean that it could be passed down to another generation?  I do not want to alarm my son and his wife.  I just would like to inform whatever pediatrician is caring for these babies as to my experience.  Unfortunately my son and I are estranged.  And I do not know who is their pediatrician.  My child's CDH was very severe.  I know there are far less severe cases that can go undetected &/or undiagnosed unless there is a reason to suspect such a condition.  Please respond to my concerns.
+summarized question 26: What causes congenital diaphragmatic hernia?
+##
+query 27: SUBJECT: insulin-dependent diabetes in children MESSAGE: Hi, What are the causes of insulin-dependent diabetes in children? I am searching for information on the causes of insulin-dependent diabetes in children. Please help.
+summarized question 27: What causes type 1 diabetes in children?
+##
+query 28: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 28: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 29: Williams' syndrome I would like to have my daughter tested for William's syndrome. Could you please tell me where I would go or who does it in my area?  Thank you!!
+summarized question 29: Where can I get genetic testing for william's syndrome?
+##
+query 30: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 30: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 31: SUBJECT: pregabalin MESSAGE: I have peripheral neuropathy but not diabetes.  I have had numerous tests to try and determine the cause of the neuropathy without success.   Will pregabalin help with the pain?
+summarized question 31: Is pregabalin effective for treating pain from peripheral neuropathy?
+##
+query 32: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 32: What are the inheritance patterns for rickets?
+##
+query 33: I have MDS, I cannot hold on to copper? I'm on 10 mgs oral per day. I receive 8 mgs of IV  5 days per month with my Vidaiza chemo therapy. I have readings of 58 to 62 on average. I have had one 71 and one 81 normal. The doctors don't know why or who to contact? I would like Your input for where to get help?
+summarized question 33:

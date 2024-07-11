@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Ingredients MESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse. Thank you!  [NAME]
+summarized question 1: What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?
+##
+query 2: Prenatal exams for leigh syndrome. I am looking for information about having prenatal exams anmnio or chorionic villus sampling for NARP and leigh syndrome. Thank you in advance
+summarized question 2: Where can I find information on prenatal genetic tests for NARP and leigh syndrome?
+##
+query 3: Achondroplasia research.  Hello, We are students from [LOCATION] and we are doing a biology project of genetic diseases. We chose Achondroplasia as our disease to research. We have a few question and we are hoping you could answer them. Our questions are, can you tell if your child will have Achondroplasia when you are pregnant? When do people usually come in when they think something isn't right with their child? what are the worse cases of Achondroplasia you've ever seen? Thank you in advance. sincerely, [NAME]
+summarized question 3: Where can I find information on achondroplasia, including prenatal diagnosis and prognosis?
+##
+query 4: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 4: Can epilepsy be cured?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Team, In 1996, I had an accident on my left eye when a ball smashed it. Retina fallen down, lens damaged. I hadn't been operated at that point only later, in 2003 when the pressure was very high (above 30 mp). This first operation had fixed the retina with endolaser, removed vitreous body filled with silicone oil, replaced the lens with an artificial one and stabilized the pressure to around 15-10 mp. However, the eye got blood, retina got detached and it had to be operated again. This time, the oil replaced with gas. After 2 years, another attempt made with oil and lastly with gas, but the retina fallen again and again. Currently, the retina is still detached, the pressure is low (max 4 mp), has often blood around the iris and it hurts a bit when the air pressure changes. I cannot see anything with it apart from blur lights. The doctor says, this damaged eye is shrinking continuously. My other eye functioning well. I learned to live together with it, however, the doctor says, he strongly recommends enucleation. I dont know if there is any other option to avoid enucleation. I have 2 young children so if there were any option to avoid enucleatio, I would happy travel/pay for that. Kindly let me know if there is any other option. My main priority -if available- would be to live with my own or another organic eye which doesn't look scary even if it is not functional. Second priority is to have usable organic eye- but my doctor told, this is not yet possible. Please confirm. I know you are specialized in Thank you in advance -- Best regards, [CONTACT] [NAME]
+summarized question 5: What are alternatives to enucleation?
+##
+query 6: MESSAGE: Hantavirus virus if the urine and feces are old droppings-5 years better and never cleaned. Can the virus still be passed from old droppings and maybe dried urine that cant be seen? [CONTACT]
+summarized question 6: Can hantavirus be spread by old droppings and urine?
+##
+query 7: SUBJECT: vaginal rashes after periods that leads to vaginal itching MESSAGE: period rashes proceed to vaginal itching. then it develop fungal infection with thick white discharge. i then take flucanazole (antifungal)which cure it. but m worried of taking allopatic medicines. pls tell me what primitive or traditional methods do i use to avoid it. i also have a sensitive skin.
+summarized question 7: How can I prevent vaginal skin rashes and fungal infection?
+##
+query 8: SUBJECT: Pyloric Stenosis MESSAGE: Good day, I had pyloric when I was a baby - I am now 44 years old.  I have always suffered with stomach problems, leaky gut etc.  Is it at all possible that this is a related cause of pyloric long term?  I was the 1st baby girl to have this operation in [LOCATION] in [DATE].
+summarized question 8: What is the long-term prognosis and complications of pyloric stenosis?
+##
+query 9: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 9: Who should get the MMR vaccine?
+##
+query 10: SUBJECT: What is the difference? MESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?
+summarized question 10: What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?
+##
+query 11: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 11: What are the treatments for lactose intolerance and can it be cured?
+##
+query 12: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 12: Can I take Metformin pills given to me by someone else?
+##
+query 13: MESSAGE: should Advair and Spiriva be used together?  It is my understanding that they are both control meds
+summarized question 13: Can Advair and Spiriva be taken together?
+##
+query 14: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 14: Can shingles affect the teeth and gums?
+##
+query 15: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 15: What are the inheritance patterns for senior loken syndrome?
+##
+query 16: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 16: What are the treatments for bad breath?
+##
+query 17: ClinicalTrials.gov - Suggestion.  I have ostonecrois I need a booklet on it who best doctor to help me I live [LOCATION] I need to see a doctor for necrosis thank you
+summarized question 17: How can I find physician(s) who specialize in osteonecrosis?
+##
+query 18: Physicians who specialize in Androgen insensitivity. Hello,I'm looking for a physician(s) who specialize in androgen insensitivity.  I came across your site on the Internet.  It has a page on the subject -http://www.ncbi.nlm.nih.gov/sites/ga?disorder=Androgen%20Insensitivity%20Syndrome - but I wasn't able to find a link to any physicians who specialize in this after I clicked on the Physician Directory link.  Any suggestions?Thanks in advance,[NAME]
+summarized question 18: How can I find physician(s) who specialize in androgen insensitivity?
+##
+query 19: Genetic Test for IHHS heart condition. Is there a commercial genetic test for the IHHS heart condition?  My family suffers from this heridity condition and I would like to know who is susseptable.   If so, where could I get it done in [LOCATION] Texas?
+summarized question 19: Where can I get genetic testing for IHSS in Texas?
+##
+query 20: SUBJECT: MLC MESSAGE: My son is patient of MLC, can we plan to another baby. What is the % of 2nd baby would be MLC or NOT.
+summarized question 20: How is Megalencephalic leukoencephalopathy with subcortical cysts (MLC) inherited?
+##
+query 21: "SUBJECT: How can I find out if removal of ovaries relieves symptoms of PCOS? MESSAGE: Is there some way that I can access actual research information to find out if removal of ovaries has been tried in a controlled, research setting, as a ""cure"" for PCOS?  In searching, I did not find research reference on that material.  (FYI - I used to be [PROFESSION].)  Thank you for your consideration!"
+summarized question 21: What is the latest research on ovary removal as a treatment for PCOS?
+##
+query 22: SUBJECT: GENDER DYSPHORIA MESSAGE: NO HEALTH CARE ON MY SON SUFFERING FROM GENDER DYSPHORIA WHAT CAN WE DO TO HELP HIM HE WORKED OUT OF HIGH SCHOOL NO PROBLEMS NOW NOT WORKING AND SHUTTING HIMSELF IN HIS ROOM 24/7 THERES NOTHING ABOUT THIS CONDITION IN OUR AREA WE LIVE IN [LOCATION]. NO HELP IN AREA WHAT CAN WE DO HE HAS HAD BAD THOUGHTS ALREADY PLEASE HELP US WITH SOME SORT OF INFO THANK YUO [NAME] [LOCATION] [CONTACT]
+summarized question 22: Where can I find information on treatment and resources for gender dysphoria?
+##
+query 23: "SUBJECT: bathing MESSAGE: Can I go in tub , pool or shower while wearing the lidocaine patch?  If not, can I take off the patch (2or 3), and put a new one on in a different area for the remainder of the 12 hr. ""on"" period"
+summarized question 23: Can the lidocaine patch get wet or be replaced after getting wet?
+##
+query 24: SUBJECT: bone marrow transplation MESSAGE: my blood tests showing very low number of  blood platelets (16,100). according to the further tests no cancerous cells, no tb, no dengu is found.  but the count is drastically decreasing.  now my doctors advised me for bone marrow transplant.  kindly help me with proper treatment.
+summarized question 24: What causes low platelet count, and what treatments are available?
+##
+query 25: SUBJECT: Pituitary gland/high level Vitamin D MESSAGE: My sister has a high level of Vitamin D in her system/blood work.  Her specialist cannot find the cause.   Would there be any connection with her pituitary?   Had her thyroid gland removed 3 years ago, and cancer in breast/removed cancer and had radiation/cured 2 years ago.
+summarized question 25: What are the causes of high vitamin D levels?
+##
+query 26: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 26: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 27: If a 60 yo male patient has a level of cobalt or chromium  over the highest acceptable level, can that possibly create blood in urine? thank you
+summarized question 27: What are the causes of blood in the urine?
+##
+query 28: ClinicalTrials.gov - Question - general information.  i am a two time peg/ interferon non responder, under medical care at [LOCATION] Medical center, had an eye issue, at same time i was almost viral free. I need in a clinical trial of on new Sofosbuvir treatment.
+summarized question 28: Where can I find information on clinical trials for sofosbuvir?
+##
+query 29: I am interested in learning about treatments for intraductal papillary mucinous neoplasm (IPMN). I'm particularly interested in new treatments, perhaps less invasive surgery or alternative treatments.  It would be good to know who is conducting the research in this area and where it is being conducted. Thank you, [NAME] -- [CONTACT]
+summarized question 29: What is the latest research on and treatments for intraductal papillarymucinous neoplasm (IPMN)?
+##
+query 30: Question..for the past 3 4 years I was get infection in my testis ball ( right hand side) now a day my Siemens come out in very low quantity and very thin in weight...give me some solution or advice .now I am getting married two months ago..and I m worried for our future
+summarized question 30: What are the treatments for low sperm count?
+##
+query 31: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 31: Where can I find information on SIDS?
+##
+query 32: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 32: Are the  long-term effects of morphine reversible?
+##
+query 33: my son is 13 years, just now finding out hes 47xxy Klinefelter’s guy, hes is very upset when he was told about the possibility of not having children I been reading On Tesa and other ways we can try to give him the chance later in life to become a father, im looking for any help information towards where to start where to look to helping him for the future
+summarized question 33:

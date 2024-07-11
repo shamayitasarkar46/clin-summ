@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: Degenerative bone &disk disease MESSAGE: Like to know more about Degenerative Bone &Disk Disease..I have had it for over 10 yrs..I'm losing muscle in my legs,at the point I can only walk about 30-40 steps my his freeze up with pain &pressure,hince I need a wheelchair,need more information on this disease...healthcare providers ""need surg.don't need surg"" I'm stuck in small town America....O I'm 59yrsold...any info would be apprec..."
+summarized question 1: Where can I find information on degenerative disc disease, including treatments?
+##
+query 2: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 2: How is thalassemia inherited?
+##
+query 3: SUBJECT: insulin-dependent diabetes in children MESSAGE: Hi, What are the causes of insulin-dependent diabetes in children? I am searching for information on the causes of insulin-dependent diabetes in children. Please help.
+summarized question 3: What causes type 1 diabetes in children?
+##
+query 4: SUBJECT: adema MESSAGE: I have adema in my ankles/shins.  What can I do to lesson the severity of the adema ( I take bp meds w/ diaretic) ?
+summarized question 4: What are the treatments for leg edema?
+##
+query 5: SUBJECT: tick bites MESSAGE: my husband was diagnosed with Rocky Mountain Spotted fever about 6 1/2 years ago.  Then about 1 1/2 years ago he was diagnosed with Lyme Disease.  With him having had both what damage if any to his body could possibly happen.  He has had alot of medical problems since.  Now has been diagnosed with type II diabetes.
+summarized question 5: What is the prognosis for Rocky Mountain Spotted fever and lyme disease?
+##
+query 6: Kartagener's syndrome. I am suffering from Kartagener's syndrome and wanted information from you or from Dr. [NAME]. for this syndrome. (About fertility) and if possible other symptoms. Thank you.
+summarized question 6: Where can I find information on kartagener's syndrome and its symptoms, including  fertility?
+##
+query 7: Post chemo for breast ca.( methotrexate and cytoxin) I gained weight. I had always been a string bean until then. After reading about christensenella I began to wonder what might kill our little friendly gut bacteria. Antibiotics and chemo are so common in our culture. I wondered could this be  causative in the obesity that exists in the USA ?
+summarized question 7: Does antibiotic use and chemotherapy cause weight gain?
+##
+query 8: SUBJECT: spg11 MESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,
+summarized question 8: What are the treatments and prognosis for spg11?
+##
+query 9: MESSAGE: Greetings: Iam [NAME], from [LOCATION]. I would like to know some of the Medications to Treat Coronary Artery Blockage. I will be grateful if you could let me know. Best Regards, [NAME]. [LOCATION]. [DATE]
+summarized question 9: What are the drug treatments for coronary artery blockage?
+##
+query 10: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 10: Are there any medicines for dry mouth?
+##
+query 11: MESSAGE: good day. At the age of 50 ive started swelling for about a week now. Its my whole body, especially legs and feet. Im using antistax but not sure if its helping. please advise its so frustrating, i cant get into any clothes.
+summarized question 11: What are the causes of and treatments for legand body swelling?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am working with a Hep C   patient who needs treatment but cannot afford Tx. How can I help her get in touch with a recruiting study? There are no numbers or ways to contact a recruiting study. Sincerely, [NAME]
+summarized question 12: Where can I find clinical trials on hepatitis C?
+##
+query 13: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 13: What is the difference between residual and recurrent maligancy?
+##
+query 14: MESSAGE: I have been dealing with an autoimmune disease for almost 4 years now, I've been tested for many things and the doctors can't seem to find what excactly is wrong. It began with pain, swelling and stiffness in my feet and  toes.A lot of the pain is joint stiff n ess and my skin feels like its being burned. Over time it has moved into my knees also. I am always tired. Recently I've been getting pains in my stomache and feeling sick. Does any of this sound like Lupus?? I've tested negative for it before, but the more I read about it I feel that's what i could have. Any ideas would be greatly appreciated.
+summarized question 14: What are the symptoms of lupus?
+##
+query 15: SUBJECT: human chimerism MESSAGE: My daughter, born 5 days ago, was curiously found to have c+ blood type.  Having ruled out most causes for this, we are left with a possible vanishing twin chimera and don't know where to turn for more information or research. At this point we don't even have confirmation of whether she is xx/xx or xx/xy, or concrete exclusion of microchimerism. Help? I can be reached by cellular at [CONTACT]. my husband and I are local to the [LOCATION], and both [PROFESSION]. Thank you!
+summarized question 15: Where can I find information on chimerism and twin absorption?
+##
+query 16: Hello, Im sorry about my mom, she has black her mounth, neck and arms, her skin is changed in color black, she has diabetes, she inyects insuline. Can you reccomend me something please?    Sent from my MetroPCS 4G Android device
+summarized question 16: What treatments are available for diabetic skin darkening?
+##
+query 17: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 17: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 18: SUBJECT: Walgreens Low Dose Aspirin MESSAGE: I noticed there is no listing for Walgreens Low Dose Aspirin. I am allergic to Providone and just started taking their low dose aspirin. I started having trouble breathing again and am trying to find their Binding ingredient to see if it is Povidone. Can you help?
+summarized question 18: Does Walgreens low dose aspirin contain povidone?
+##
+query 19: SUBJECT: effective exercise to counter sarcopenia MESSAGE: I would like information on timing and exercises that counter sarcopenia. Should exercise take place at a particular time of the day? several times in the day? what types of exercise are most effective to maintain strength as I get older (I am now 82) and even thought I swim daily and do a variety of resistance exercises I still find that I am losing strength and tiring easily.
+summarized question 19: What is the best exercise regimen for sarcopenia?
+##
+query 20: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 20: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 21: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 21: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 22: SUBJECT: Bone Marrow Cancer MESSAGE: hello Sir, i want to ask something about bone marrow marrow cancer.... its 22 year age... and have many symptoms of BMC..  often feel pain in bones....  i don't know the stage.... is treatment is possible at any stage???? how i can find stage??? if treatment is possible  how long(in months) it takes to recover???  kindly reply me...
+summarized question 22: Where can I find informaton on bone marrow cancer, includinf diagnosis, treatment, and prognosis?
+##
+query 23: SUBJECT: Seborrheic Keratosis MESSAGE: I am an African American women who have been diagnose with seborrheic keratosis on my face.  Do you have a web site that I can obtain the products so that I can clear up my face.  Please advise.  Thank You
+summarized question 23: What are the treatments for seborrheic keratosis, and where can I buy them?
+##
+query 24: Dear Sirs, Please instruct me what the correct dose of medication: *BRONCOMAR MAXIMUM- dextromethorphan hydrobromide and guaifenesin liquid,* because: In the *labeling* says: Adults and children 12 years over 10 ml (2 tsp) every 6 hours Children 6 to under 12 years old 5 ml (1 tsp) every 6 hours And in the *insert* specifies: Adults and children 12 years over 10 ml (2 tsp) every 4 hours Children 6 to under 12 years old 5 ml (1 tsp) every 4 hours Waiting for your prompt response. *[NAME]* [PROFESSION] *[CONTACT]* [CONTACT]
+summarized question 24: What are the recommended dosages for BRONCOMAR MAXIMUM-dextromethorphan hydrobromide and guaifenesin liquid?
+##
+query 25: SUBJECT: adenoma carcinom pancreatic MESSAGE: Patient 65 year,without any other disorder has now diagnose solid adenocarcinom with 4 hepar metastases.IS possible treatment wit oncolytic virus with Gemcitabine? Who and where make it?
+summarized question 25: What are the treatments for pancreatic adenocarcinoma?
+##
+query 26: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 26: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 27: MESSAGE: What if someone throw up blood just a little got a little light headed and just laid down and went to sleep they said they will sleep it off but I want to take they said I'm fine. What should I do
+summarized question 27: Should someone who vomited blood and  felt lightheaded go to sleep?
+##
+query 28: SUBJECT: POMEGRANATE MESSAGE: Rosuvastatin (Crestor) Rosuvastatin (Crestor) is broken down by the body in the liver. Drinking pomegranate juice might decrease how quickly the liver breaks down rosuvastatin (Crestor). This might increase the effects and side effects of rosuvastatin (Crestor).  My question is what about Lipitor?
+summarized question 28: Does Lipitor interact with pomegranate juice?
+##
+query 29: SUBJECT: Bendectin MESSAGE: In 1964, I began taking Bendectin for morning sickness and with each subsequent pregnancy I continued to do so. My third child developed a meningioma of the brain at 11 years old and currently, my daughter, 47 years old, has been diagnosed with a lesion(?) of the brain. I am justifiably concerned about my daughter's condition and wonder if I contributed to her status. I am only interested in helping her and not for any litigious reason. If someone also had a similar situation and was treated positively, I would so appreciate knowing about it. Thank you and God bless.
+summarized question 29: What birth defects are associated with taking bendectin during pregnancy and are there any treatments?
+##
+query 30: SUBJECT: Bleeding Gums MESSAGE: My brother has denture the lower denture hurts his gum and it makes it bleed and his gum is sore were he has a hard time to chew anything. He needs to know what can he do for it?
+summarized question 30: What are the treatments for bleeding gums under dentures?
+##
+query 31: SUBJECT: chickenpox MESSAGE: I do not know if I had chickenpox. Is there a blood test available to tell me ? And if not which vaccine should I get, if any ?
+summarized question 31: Is there a blood test for chickenpox and who should get vaccinated?
+##
+query 32: MESSAGE: I have to start applying ciclopirox to infected toes. I know u cannot use nail polish bit can I put a band aid on once the medication has dried?
+summarized question 32: Can i cover ciclopirox with bandaids?
+##
+query 33: Hi! I would like to know if I can have some  info mail to me on Sarcoidosis
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 1: What are the treatments for serratia marcescens infection?
+##
+query 2: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 2: What are the risks of smoking?
+##
+query 3: MESSAGE: Afternoon my name is [NAME] i just need a clarity on ACL repair. [DATE] i done ACL repair as the doctors told me after my discharge i attend physiotherapy but after the physio my leg get swallow so i stopped as there was no progress. now my knee is stiff and swallow also it change colour and doctors tells me they don't see anything. so i need an advise what can i do or where can i go and get help.  regards   [NAME]
+summarized question 3: What is the recovery process after ACL surgery?
+##
+query 4: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 4: Is MRSA contagious, and how is it spread?
+##
+query 5: SUBJECT: male with breast MESSAGE: I am a 51 year old male and I have enlarged breast. My mother told me that I have bird chest. I know that I don't have bird chest. My size is a 36 B. I have to wear oversized shirts. I would like to have them removed, but I don't have the money. I was abused because of my breast.  thank you for your time.
+summarized question 5: what are the treatments for gynecomastia?
+##
+query 6: SUBJECT: Subcutaneous retrocalcaneal bursitis MESSAGE: Haglund's deformity of the calcaneum.  I have this problem.  Can you please help to overcome this?
+summarized question 6: Where can I find information about Subcutaneous retrocalcaneal bursitis and Haglund's deformity of the calcaneum, specifically treatment information?
+##
+query 7: ClinicalTrials.gov - Question - general information.  i am a two time peg/ interferon non responder, under medical care at [LOCATION] Medical center, had an eye issue, at same time i was almost viral free. I need in a clinical trial of on new Sofosbuvir treatment.
+summarized question 7: Where can I find information on clinical trials for sofosbuvir?
+##
+query 8: need up todate current treatment programs for advanced cancer plus informaton for hemp oil solutons for ths cancer.   pub med/ 21475304
+summarized question 8: What is the latest research on treatments for hepatocellular carcinoma, including hemp oil?
+##
+query 9: Physicians who specialize in Androgen insensitivity. Hello,I'm looking for a physician(s) who specialize in androgen insensitivity.  I came across your site on the Internet.  It has a page on the subject -http://www.ncbi.nlm.nih.gov/sites/ga?disorder=Androgen%20Insensitivity%20Syndrome - but I wasn't able to find a link to any physicians who specialize in this after I clicked on the Physician Directory link.  Any suggestions?Thanks in advance,[NAME]
+summarized question 9: How can I find physician(s) who specialize in androgen insensitivity?
+##
+query 10: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 10: Can sleep apnea occur during the day when awake?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I would like to know if there is a side affect from taking mestinone while tanning in a booth.  it seems if have a rash on back and burning on chest and stomach which has never happened before I started taking mestinon.   are we more sensitive to sun while on this medication?
+summarized question 11: What are the side effects of mestinon and tanning?
+##
+query 12: cinca sindrome. where the treatment of cinca sindrome.
+summarized question 12: What are the tratments for cinca syndrome?
+##
+query 13: "SUBJECT: Renal Amyloidosis - best treatment for my coustin MESSAGE: This is [NAME] living in [LOCATION] . My Cousin [NAME] biopsy report suggested that he is suffering from ""Renal Amyloidosis"". He has earlier history of some hereditary diseases. PFA the reports. Please go through these reports and let me know possible best treatment for his treatment."
+summarized question 13: What are the treatments for renal amyloidosis?
+##
+query 14: SUBJECT: GENDER DYSPHORIA MESSAGE: NO HEALTH CARE ON MY SON SUFFERING FROM GENDER DYSPHORIA WHAT CAN WE DO TO HELP HIM HE WORKED OUT OF HIGH SCHOOL NO PROBLEMS NOW NOT WORKING AND SHUTTING HIMSELF IN HIS ROOM 24/7 THERES NOTHING ABOUT THIS CONDITION IN OUR AREA WE LIVE IN [LOCATION]. NO HELP IN AREA WHAT CAN WE DO HE HAS HAD BAD THOUGHTS ALREADY PLEASE HELP US WITH SOME SORT OF INFO THANK YUO [NAME] [LOCATION] [CONTACT]
+summarized question 14: Where can I find information on treatment and resources for gender dysphoria?
+##
+query 15: SUBJECT: sodium intake MESSAGE: My mother is 96 years old and generally in good health.  I keep her on a low sodium diet and wonder if I'm not allowing enough sodium in her diet.  What is the lowest amount she should have per day?  Thank you.
+summarized question 15: What is the minimum required sodium intake per day in elderly?
+##
+query 16: SUBJECT: Details about Caustic Soda Poison MESSAGE: Hello, i'm writing from Mauritius and my name is [NAME]. A member of my family swallowed a poison which is name caustic soda. He is actually in the hospital suffering a lot. Is there any suggestion please to help him to be better or to relieve his pain?
+summarized question 16: What are the treatments for caustic soda poisoning?
+##
+query 17: My mother has Pulmonary ARTERIAL hypertension in the left side of her heart.  Is there anything that can be done to improve her health.
+summarized question 17: What are the treatments for Pulmonary Arterial Hypertension?
+##
+query 18: medical articles.  I have been told that there are several medical case studies about Loin pain hematuria syndrome (aka LPHS) and Medtronic's Symplicity Renal Denervation medical equipment and that these cases have been published by PubMed.  However, I am unable to locate them.  Can you please recommend a way for me to locate and receive copies?  Thank you!
+summarized question 18: How do I find case studies in PubMed on loin pain hematuria syndrome and renal denervation?
+##
+query 19: MESSAGE: I want more information on Hypertension and fibromyalgia, I seem to be getting only topics on diabetes and I do not have this.   I enjoy reading the current info.  thanks [NAME]
+summarized question 19: Where can I find information on hypertension and fibromyalgia?
+##
+query 20: Does either of these help with skin keloids? What would help keloids?
+summarized question 20: What are the treatments for skin keloids?
+##
+query 21: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 21: What are the causes of testicular pain?
+##
+query 22: Tri-Gem Neuralgia.  I had an episode with the tri gem 2 days after i was rear-ended.  It was incredible pain that lasted 10 days. In the months following i had 2 decompression surgeries. the 1st one didnt work, was pain free for about 90 days.  The second syrgery 6 months later left me with a numb face but no tri gemn pain. Could the tri gem have been brought on from the trauma to the head from the car accident? I had been diagosed prior to  the accident, but was not experiencing any symptoms for a long time.  Then the accident and  1 1 /2 days later im in a full blown episode. Please let me know what your thoughts are.
+summarized question 22: Can symptoms of trigeminal neuralgia be exacerbated by head trauma?
+##
+query 23: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 23: What are the treatments for mercury poisoning?
+##
+query 24: SUBJECT: about thalassemia treatment MESSAGE: sir,my friend is suffering from thalassemia ,in that majorly red blood anemia,white blood anemia and the blood is comming out from mouth when she got cough .her condition is very severe .in her body the red ,white blood cells are abscent .so that blood transfusion is doing for every 16-20days.then in the recent days the blood also comming out from mouth please tell me where can i get the treatment for this disease .we can travel around the world for treatment please reply me as soon as possible. thank you sir.
+summarized question 24: What are the treatments for thalassemia?
+##
+query 25: i wanted info on anhedonia... your web site is -well, i have never seen a better done website in 20 years!!! -in one word: your Organization reeks *Quality*. [NAME], 73, [LOCATION]
+summarized question 25: Where can I find information on anhedonia?
+##
+query 26: SUBJECT: pregabalin MESSAGE: I have peripheral neuropathy but not diabetes.  I have had numerous tests to try and determine the cause of the neuropathy without success.   Will pregabalin help with the pain?
+summarized question 26: Is pregabalin effective for treating pain from peripheral neuropathy?
+##
+query 27: ClinicalTrials.gov - Question - general information.  My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.
+summarized question 27: What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?
+##
+query 28: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 28: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 29: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 29: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 30: MESSAGE: I have celiac.disease and.need.to start.Coumadin (Warfarin). Also I'm very allergic to food coloring,.dyes.  What manufacturer has gluten and dye free warfarin ? Please help me. I  need to start taking it tomorrow.  Thank you very , much. [NAME]
+summarized question 30: What are the ingredients of warfarin and it is gluten and dye free?
+##
+query 31: SUBJECT: Please send me information on the treatement of hypertension and diabetes. MESSAGE:  What causes hypertension and diabetes?
+summarized question 31: What causes hypertension and diabetes and what are the treatments for them?
+##
+query 32: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 32: How is hypomaturation type IIA2 inherited?
+##
+query 33: Good day; I would like to know who to contact for treatment of atopic eczema or if you know any clinic that can help me, I know someone who suffers from it and I would like to help her improve the disease. Thank you in advance Regards
+summarized question 33:

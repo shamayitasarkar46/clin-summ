@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: McArdle's Disease.  Is there any evidence that trauma such as a physical injury i.e., neck injury, torn ligament, etc., can worsen McArdle's disease?
+summarized question 1: Does trauma worsen McArdle disease?
+##
+query 2: SUBJECT: who and where to get cetirizine - D MESSAGE: I need/want to know who manufscturs Cetirizine. My Walmart is looking for a new supply and are not getting the recent
+summarized question 2: Who manufactures cetirizine?
+##
+query 3: SUBJECT: prob gum MESSAGE: My. Teeth gum blood comeing what medicine I use
+summarized question 3: What are treatments for bleeding gums?
+##
+query 4: SUBJECT: tysabri in ALS MESSAGE: dear sir My wife is 54 years old being diagnosed with ALS for the last 2 years. Currently she can,t use hands or legs, can,t talk properly but still can swallow soft food and breath. I heard that this TYSABRI injection can be of great help in my wife,s case. Please advice as soon as possible
+summarized question 4: Is natalizumab an effective treatment for ALS?
+##
+query 5: SUBJECT: Mental Health (Anxiety) interview MESSAGE: I would like to interview someone by email in order to obtain information over Generalized Anxiety Disorder for a Newsletter project in my Abnormal Psychology Class at [LOCATION]. Thank you very much
+summarized question 5: Where can I find information on generalized anxiety disorder?
+##
+query 6: SUBJECT: is there any help available,for fibromalgia MESSAGE: is there any treatment s available.?
+summarized question 6: What are the treatments for Fibromyalgia?
+##
+query 7: genetic beriberi. Is it true that wet and dry beriberi usually occur in the same patient?
+summarized question 7: Can wet beriberi and dry beriberi occur in the same person?
+##
+query 8: SUBJECT: faty leaver&high blood presure MESSAGE: Dear sir &mam my blood presur is 140/100 what can i do for normal blood presure..
+summarized question 8: What are the treatments for high blood pressure?
+##
+query 9: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 9: What are the inheritance patterns for senior loken syndrome?
+##
+query 10: MESSAGE: I have clostridium and am testing pos for Lyme need info. [NAME]
+summarized question 10: Is there a connection between clostridium and Lyme disease?
+##
+query 11: Patient Handouts.  Are there patient handouts we can order on the topic of gum/periodontal disease? If so how can we order some?
+summarized question 11: Where can I find patient handouts on gum/periodontal disease?
+##
+query 12: genetic condition passed from mother. I am looking for the name of a genetic condition passed on from the mother. Female children are carriers, but only male children are symptomatic. It is often mistaken for a milk protein allergy, causes excessive spitting up and hiccups, and rounded teeth. Often male children do not make it to their 1st birthday. I have lost two boys, and am about to have a third, i desperately need to find the name of this condition. Please help, my childs life depends on it. My doctors say they do not know what to test for or how to proceed without a name.
+summarized question 12: What genetic condition causes excessive spitting up, hiccups, and rounded teeth?
+##
+query 13: my mom 75 old suffering from cryptococcal menimgtisneef an assisstance.  I am desperate looking for a strong medicine that can help mom she is suffering from cryptococcal meningitis she is 75 years  old
+summarized question 13: What are the treatments for cryptococcal meningitis?
+##
+query 14: Hi Team, I am writing mail because of my father (age 60) have experienced a loss of speaking volume (loss speaking sound) for the last couple of months. We consult two Doctors and they said to speak with low voice. Please let me advice what can we do to resolve the problem. Regards, [NAME]
+summarized question 14: What are the treatments for loss of voice?
+##
+query 15: SUBJECT: Abscess in lungs MESSAGE: Is abscess in lungs curable?  My Dad has surgery and found 2 abscess in his lungs. After a week out of surgery room, he developed fluid. The doctor is telling us they can use the syringe to remove the fluid, nothing else can be done.   There is  a small bottle attached to his surgical area which is collecting liquid from infection.  Thank you for your reply. My dad is 84 yo.
+summarized question 15: What are the treatments for lung abscess?
+##
+query 16: SUBJECT: antacid named tritralac MESSAGE: I have taken Tritralac for years now it has been taken off the market.  What antacid is the closest one to Tritralac?  I preferred Tritralac because it came in pill form.
+summarized question 16: What antacid is the closest one to Titralac?
+##
+query 17: SUBJECT: Stroke Due to Aneurysm? MESSAGE: My son had a hemmorhagic stroke at 4 weeks of age....he is now 31 years old.  In the week leading up to the stroke he had a head cold and I had been giving  him infant cold drops.  After he had the stroke the doctors at the time could only say that it was a 'fluke' and would probably never happen again.  The reason for the stroke has haunted me ever since.  Now we just recently found out that my mother has a cerebral aneurysm and they say this can be hereditary.  So my question now is 'did my son have an aneurysm that burst or was it caused by a blood clot?...is there anyway of knowing or getting an answer to that question after the event has happened?
+summarized question 17: Can the cause of hemmorhagic stroke be determined many years later?
+##
+query 18: SUBJECT: gilberts diseases MESSAGE: my name is [NAME].  5days later i admitted in a hospital in treatment of viral fever.In hospital lot of tests blood,urine,ultrasound scan.In all tests my organs (lever,kidney,etc) are normal but my bilirubin Total is higher than normal. In my admission in hospital bilirubin is 3.2. Day by day my bilirubin decreased in the way of 2.8, 2.6, 2.4, 2.6, 2.5, respectevely. The other contents of blood and urine are normal at all. Hepatitis A,B,C are also negative.Today  Bilirubin direct  is 0.8. Doctor says it is Gilberts disease. Sir what can i do?. what is the reason for this?. what is your opinion sir? please reply soon .
+summarized question 18: What causes gilberts syndrome and what are the treatments for it?
+##
+query 19: SUBJECT: Suggestion on ILD problem MESSAGE: Dear I am suffering from ILD problem as per my doctor suggestion I am taking the home oxygen on this problem. Can you suggest me the perfect medicine on this problem it is helpful for my day to day activities as well as improve my life style.  Please suggest  I am waiting for your reply.  [NAME]
+summarized question 19: What are the treatments for ILD?
+##
+query 20: SUBJECT: Undesecnded testis MESSAGE: Hello Sir  I am a young man of age 27  I was born with a problem of descended testis  to this age  I have always experience one of them go down to the real position at times  and then run back to the abdomen  but of recent it stopped going down  Please Sir I will like to know what my situation is and is there a remedy for it ? Thanks an i wait for your reply
+summarized question 20: What are the treatments for undescended testicles?
+##
+query 21: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 21: How is thalassemia inherited?
+##
+query 22: SUBJECT: New drug, want are side affect/and how does help you. MESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You
+summarized question 22: Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?
+##
+query 23: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 23: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 24: types or kinds of sickle cell. Pls i want to know the possibility of two people who are AS getting a baby who will be AS! AA! OR  SS!. And what are the types of sickle cell. E.g. AS
+summarized question 24: What are the types of sickle cell anemia and how is it inherited?
+##
+query 25: "SUBJECT: Erythema Nodosum MESSAGE: I have read that a form of ""honey"" might be used to treat my skin condition, Erythema Nodosum. Would appreciate your comment on this."
+summarized question 25: Is honey an effective treatment for erythema nodosum?
+##
+query 26: Are there any guidelines to tell how quickly Humalog becomes active after injection?  I believe it remains active for about 4 hours.  Is this reasonable?
+summarized question 26: How long does it take for humalog to start working, and how long does it last?
+##
+query 27: SUBJECT: autonomic and arthritis . MESSAGE: Hi there , i have a few questions about autonomic disorders combined with arthritis ? My girlfriend has arthritis and autonomic disorder. I am really worried about her and want to help her, is there any new medications out there for treatment of autonomic disorder ? Also her autonomic disorder effects her heart lungs and blood pressure , is this condition fatal ? How long does someone live with this condition ?
+summarized question 27: Where can I find information on autonomic disorder, including symptoms, treatment, and prognosis?
+##
+query 28: SUBJECT: pregnancy MESSAGE: I just want to ask if have some ways or have a operation to be pregnant a woman like me had a tubal ligation before  7yrs. Ago..
+summarized question 28: Where can I find information on tubal ligation reversal?
+##
+query 29: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 29: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 30: SUBJECT: Need information abouot Folgard OS MESSAGE: Need information about Folgard OS. I am in U.S.A. but that wasn't listed as a choice of countries!
+summarized question 30: Where can I find information on folgard OS in USA?
+##
+query 31: SUBJECT: I suspect tick bite.it is itching with rashes MESSAGE: How can it be treate? It almost 6 months old desease
+summarized question 31: What are the treatments for tick bites?
+##
+query 32: bile.  because reason vomit bile?
+summarized question 32: What causes vomiting bile?
+##
+query 33: I have stiff person syndrome.  How do I find out what is new in treatment  in this study?
+summarized question 33:

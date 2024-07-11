@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 1: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 2: SUBJECT: broken the shoulder. MESSAGE: how to provide the treatment of broken shoulder lock problem ?
+summarized question 2: What are the treatments for broken shoulder?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am writing on behalf of my friend that is reading us in copy but doesn't speak english as good as me. His name is: [NAME] He was born in Italy, on [DATE] He lives in Milan, Italy. He is affected by HCV Genotype IIIA with a cirrhosis of the liver, in evolution, and his present desease does not permit to be attactd by regular medicines/therapies. (platelet minus of 50.000) He has a prescription, for Sovaldi treatment, from an italian doctor and he is ready to come to US or other country to get it also from an American Doctor, but the cost of such treatment is impossible for him. In italy the medicine is not available. He is followed by [LOCATION], one of the top italian hospital. His doctor is [NAME], that is ready to talk with you whenever needed. [NAME], suggested by his doctor, is interested to become one of your patient as a case study. [NAME] would like to enter into the research/trial program, in subject, with you in order not to pay the cost of Sovaldi that he cannot afford. According to his doctor his treatment should go on for 6 month with a conjunction of Sovaldi and Ribavirina. All my info you can find them below, and for [NAME] the email is the one in copy ([CONTACT]). You can send both to me directly and cc him or viceversa. Anyhow i will have to make the translation!!! In case, hopefully not, the treatment will not work, he is ready to change treatment with eventually other new products you are testing  and or new association. Looking forward in hearing from you soon. sincerely [NAME] [CONTACT]
+summarized question 3: Are there clinical trials for patients with Hepatitis C genotype 3A?
+##
+query 4: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 4: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 5: who makes bromocriptine i am wondering what company makes the drug bromocriptine, i need it for a mass i have on my pituitary gland and the cost just keeps raising. i cannot ever buy a full prescription because of the price and i was told if i get a hold of the maker of the drug sometimes they offer coupons or something to help me afford the medicine. if i buy 10 pills in which i have to take 2 times a day it costs me 78.00. and that is how i have to buy them.  thanks.
+summarized question 5: Who manufactures bromocriptine?
+##
+query 6: "SUBJECT: Normal physical traits but no period MESSAGE: I'm a 40 yr. old woman that has infantile reproductive organs and have never experienced a mensus. I have had Doctors look but they all say I just have infantile female reproductive organs. When I try to look for answers on the internet I cannot find anything. ALL my ""girly"" parts are normal. My organs never matured. Could you give me more information please."
+summarized question 6: Where can I find information on developmental disorders of the female reproductive system?
+##
+query 7: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 7: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 8: SUBJECT: spinal cord stenosos MESSAGE: I have acute arthritic spinal stenosis. What treatment is recommended?
+summarized question 8: What are the treatments for spinal cord stenosis due to arthritis?
+##
+query 9: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 9: How long will an insecticide application last in the house?
+##
+query 10: SUBJECT: sacral nerve stimulation MESSAGE: How do I search for Instututions-doctors that perform sacral nerve stimulation procedures for fecal incontinence. I need the procedure, and I want to go to the place with the most experience.fecal incontinence
+summarized question 10: How can I find physician(s) or hospital(s) who specialize in sacral nerve stimulation for fecal incontinence?
+##
+query 11: Hey I was just wanting to know how I can try to receive stem cell treatment for spinal cord injury using the stem cells I have banked from my newborn baby's umbilical cord tissue? If u have any information please tell me, you'll be helping to save my life!
+summarized question 11: How to receive stem cell treatment for spinal cord injury?
+##
+query 12: SUBJECT: foreskin MESSAGE: I want to regrow my foreskin back. When will stem cell be able to regrow foreskin.
+summarized question 12: Is stem cell therapy used to regrow foreskin?
+##
+query 13: Why and how does Isotretinoin build up in the body system? Does it's structure contribute to the build up of it?
+summarized question 13: Why and how does Isotretinoin build up in the body?
+##
+query 14: SUBJECT: Blood Sugar Levels and Parkinson's MESSAGE: I'm wondering if there is a correlation between blood sugar level's and how it may effect the presentation of Parkinson's particularly in tremors. It seems that extreme blood sugar levels would make the tremors a great deal worse and appearing none typical.
+summarized question 14: Is there a connection between blood sugar levels and symptoms of Parkinson's disease?
+##
+query 15: Aortic Valve Replacement surgery.  Is Minimally Invasive Surgery (MIAVR, not TAVR) any less effective, or riskier than the Conventional Method where the breast bone is split? Can the surgeon do as good a job if the MIAVR procedure is used?
+summarized question 15: How does MIAVR compare to TAVR in effectiveness and risk?
+##
+query 16: SUBJECT: Responsible for the Research on stem cells and tissue regeneration MESSAGE: Dear colleague Good day, my name is [NAME], 48, doctor; I was affected by a bladder cancer where the removal of the organ was needed. I read about the work of his lab and I wonder if there is interest or any possibility of using pluripotent stem cells redo a piece of fabric of my bladder, for so I can do a transplant with acellular matrix and repopulate this matrix with these modified stem cells . I'm using bricker, which depress me, I lost my self esteem, lost quality of life and already thought to suicide. Until that came the hope that transplantation of acellular matrix.  I am looking forward to answer, anxious and carefully.   [NAME] CRM88878  I just can not understand the difficulty in finding a laboratory or institution that can solve this problem as the peritoneal layer of the bladder peritoneum is I already own, the inner layer is smooth muscle, which can also be acquired via endoscopic biopsy of the stomach or a arterial tissue and the layer It is coated internally by internal polymorph or transitional epithelium which can be acquired from another organ. It would just replicate small pieces so that after implanted in the acellular scaffold covered.
+summarized question 16: What is the latest research on using pluripotent stem cells and acellular matrix for  bladder regeneration?
+##
+query 17: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 17: What are the treatments for nocturia?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I do have relative smoker in past diagnose with COPD I would like to see how can I find treatment .76 years old not any other health problem. He is on oxygen now. please Email me.at [CONTACT]        thank you
+summarized question 18: What are the treatments for COPD?
+##
+query 19: "Many women who are reading this are excited to give it a try. They think that their obese belly's from diabetes might go away, an answer to their horror to look in a mirror. You need to tell us the truth ,especially you Dr. Oz!! Some of us just know we cannot take this without better advise and our ""primary doctors"" have no interest in doing any discovery for their patients. I resent this whole thing, being singled out. I want to lose my belly too, what do I do?"
+summarized question 19: I want to lose my obese belly, what do I do?
+##
+query 20: SUBJECT: Cervical Cancer MESSAGE: Can a long term untreated bladder infection aid in the cause of cervical cancer? And can the fact that my mom has cervical cancer aid in my chance of getting cervical cancer?
+summarized question 20: What causes cervical cancer, and is it hereditary?
+##
+query 21: SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.
+summarized question 21: Does diabetes affect bowel movements?
+##
+query 22: Diphtheria.  Is there a definitive history of diphtheria in the United States available in print? I have read quite a few articles in the NLM from the 19th century, and I'd like to find an overview of this disease, particularly a history of epidemics in the U.S. Any help you can provide would be greatly appreciated. Thank you - [NAME] M.D.
+summarized question 22: Where can I find a definitive book on diptheria in the United States?
+##
+query 23: SUBJECT: asthma MESSAGE: Question. What is the consensus of medical doctors as to whether asthma can be cured? And do you have an article discussing whether asthma can be cured?
+summarized question 23: What are the treatments for asthma and can it be cured?
+##
+query 24: I have had Tourette syndrome since age seven. Recently at the age of 72, I had an implantation of a shunt for hydrocephalus.  *What is the probability of one having both hydrocephalus and Tourette syndrome? *Is there any evidence that indicates that the head and neck tics of Tourette syndrome may be a cause of hydrocephalus?
+summarized question 24: Is there a connection between tourette syndrome and hydrocephalus?
+##
+query 25: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 25: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 26: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 26: How long does the tetanus vaccine last?
+##
+query 27: Hi All, I am from India and really worried. I have a 6 months old baby girl. I have read the article on Lactose intolerance. She is unable to digest any formula milk or any milk products. When she was a new born, I started giving her Lactogen (a formula milk) a little bit along with my milk. She was fine with it but after 3 weeks, I switched her to another formula milk named Nan Pro 0 which is for babies upto 1 year. She started drinking that along with my breast milk. After 2 weeks, she started getting Diarrhea and a severe one where she pooped at least 15 times in one day. Therefore, I consulted the doctor and the doctor immediately asked me to put her on breast milk only. I did try that but she was hungry and crying therefore, I gave her a little bit of formula milk aswell. She was file with all the medicines. However, once the medicine stooped, she again started getting diarrhea. This continued on and off. After a while, the doctor asked me to stop the formula milk and start giving her Zerolac (soy milk) along with breast feeding. I did that and everything smoothened. However, after 2 months, I asked my doctor if we can start giving her any type of milk apart from zerolac as I was concerned about her getting calcium in her body with having milk. The doctor asked me to give her formula milk (Nan Pro 0). I did that but just after half an hour, she suddenly started vomiting which continued till she had the milk in her stomach. Once that stopped, she started getting diarrhea which continued till 3 days. She was put back on Zerolac again and breast milk. As she is now 6 months old, I thought of giving Cerelac to her but again she did not digest it and went through the same problem again. I am unable to find the right doctor here in India where I live. Please help my daughter in this situation. Please let me know the contact detail may be an email address of any doctor with whom I can discuss my case. Please help us. Thanks for all your help. Regards, [cid:
+summarized question 27: Where can I get help for my 6 months old baby girl with Lactose intolerance in India?
+##
+query 28: MESSAGE: its normal to expect mallot fingers to heal bent. at [LOCATION] canada.
+summarized question 28: What are the treatments and prognosis for mallet fingers?
+##
+query 29: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 29: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 30: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 30: What are treatments for excessive sweating?
+##
+query 31: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 31: What are the treatments for erectile dysfunction?
+##
+query 32: SUBJECT: need to know about shingles MESSAGE: I have had shingles on my face about 6 or 7 years ago.  Should I still get a shingles Vaccine?  I really need to know.  Stress is big in my life.
+summarized question 32: Should someone who had shingles get the vaccine?
+##
+query 33: I am suffering from vitiligo patches (White spot) in my body. I am 57 years old. Kindly help me  to cure the disease  white spot due to this i am very depression.
+summarized question 33:

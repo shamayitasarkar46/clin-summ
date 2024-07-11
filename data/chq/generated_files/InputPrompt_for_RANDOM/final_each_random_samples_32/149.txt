@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Seborrheic Keratosis MESSAGE: I am an African American women who have been diagnose with seborrheic keratosis on my face.  Do you have a web site that I can obtain the products so that I can clear up my face.  Please advise.  Thank You
+summarized question 1: What are the treatments for seborrheic keratosis, and where can I buy them?
+##
+query 2: SUBJECT: sudden pain in heart MESSAGE: I need to know for what its happening ? because i am very scared what may happen
+summarized question 2: What causes sudden chest pain and what are the treatments?
+##
+query 3: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 3: What are the causes of testicular pain?
+##
+query 4: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 4: Where can I find information on russell-silver syndrome?
+##
+query 5: MESSAGE: Can u give me more information about physiotherapy for  patient with acute stroke treated wiht trombolysis..?
+summarized question 5: Where can I find information on physical therapy after acute stroke?
+##
+query 6: SUBJECT: Stem Cell Therapy for Muccular Dystrophy MESSAGE: I have read the Medline Abstracts 98,99 of 'Limb-girdle muscular dystrophy'. Please could you tell me how I contact a specialist to enquire further with this...Thank you...[NAME]
+summarized question 6: How can I find physician(s) who specialize in limb-girdle muscular dystrophy?
+##
+query 7: Prosthetic foot.  Which prosthetic foot is better for a lower amp. The echelon or kinttera foot ?
+summarized question 7: What prosthetic foot is better for lower amputation: echelon prosthetic foot or  kinterra prosthetic foot?
+##
+query 8: We appreciate your response. My son is 24 years old. We cannot find any drugs, treatments as well as hospitals to fight against Wilson's disease in [LOCATION]. Currently there is [PHI] person with Wilson's disease in [LOCATION] who is my son. We cannot find anything good to help my son at the moment. Therefore, we need somewhere where my son can get help. We are also lack of financial condition to support full treatment for my son. However, we wish to have good medication with less expense if possible. We want to get diagnosed my son's other infected organs and want to know how we can help to get them recovered well. Regards [NAME].
+summarized question 8: What are the treatments for Wilson's disease, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 9: "SUBJECT: Vamousse head lice treatment labe claims MESSAGE: To the best of my knowledge, any head lice treatment that claims to ""Kill"" lice and/or eggs is considered by FDA to be a drug claim and therefore needs to contain an FDA-registered pediculicide (kills lice) or an FDA-approved ovicide (kills eggs).  Otherwise the product is considered to be misbranded and a ""new drug"" requiring appropriate testing.  The ""Vamousse"" head lice treatment claims ""Kills 100% lice and eggs"" and does not conform.  In addition, the claim ""kills 100%"" is in violation of FTC rulings which prohibit claiming ""100%"".  This company has also introduced a Head Lice Prevention product which is also in violation of FTC rulings (see FTC vs Lornamead).  I think that you should research these issues and publish your findings.  Thank you."
+summarized question 9: Does Vamoose head lice treatment conform to FDA and FTC labeling guidelines?
+##
+query 10: SUBJECT: Teen pregnancy MESSAGE: Good morning,   I am a student from Carver Military Academy on the far south side of Chicago. My fellow classmates and I are conducting a research project on social issues and problems we are affected by everyday mine is Teen Pregnancy. Since I am a teenager I know how having a child can really affect our young lives. They can stop our achievements in school, goals for the future,all our fun would stop,and our dreams. I would like to ask someone from your organization a few questions because it seems as though your organization could provide me with valuable information about teen pregnancy,statistics,facts, and your opinion about it. Your time and assistance would be greatly appreciated and I hope to hear from you soon.   Thank you,  [NAME]
+summarized question 10: Where can I find information on teen pregnancy?
+##
+query 11: MESSAGE: I am taking Metformin and I am concerned about how can I cut back without any dangerous side effects; at the moment I weigh 182lbs. where I was weighing before at 220lbs. Is it possible I don't need to take this medicine anymore or is their another prescription medicine that I can take to replace that is not so strong, the one I have  is 500mg 60 tablets.
+summarized question 11: Should metformin dosage be reduced after weight loss?
+##
+query 12: Have been on methadone for four years.  I am interested in the rapid withdrawl under anesthesia, but do not have a clue where I can find a doctor or hospital who does this.  I also would like to know the approximate cost and if or what insurance companies pay for this.
+summarized question 12: How can I find physician(s) or hospital(s) who specialize in rapid methadone withdrawal under anesthesia, and the cost and insurance benefits for the procedure?
+##
+query 13: SUBJECT: You know Diabetes Insipidus? MESSAGE: I was born with Diabetes Insipidus and have many problems since the cell was removed when I was 22 and ALL
+summarized question 13: Where can I find information on diabetes insipidus?
+##
+query 14: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 14: What are the treatments for lactose intolerance and can it be cured?
+##
+query 15: SUBJECT: duchenne. MESSAGE: My name is [NAME] from Morocco I am 27 years old. I have muscular dystrophy disease category duchenne. Are there any effective treatment for this disease
+summarized question 15: What are the treatments for duchenne muscular dystrophy?
+##
+query 16: MESSAGE: Sir .my problem based on nerves ..my sister legs nerves tried  each other how i can treat
+summarized question 16: What are the treatments for leg nerves?
+##
+query 17: MESSAGE: Is TDM-1 DRUG CAN BE USED TO IMPROVE IMMUNE TO MALE PATIENT WHO HAS METOSTASIS IN BRAIN,LUNGS?  THANK YOU [NAME]
+summarized question 17: Can TDM-1 drug be used to treat brain/lung metastatic cancer?
+##
+query 18: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER??  WHICH ARE THE BEST?? [CONTACT]
+summarized question 18: What are the best creams for skin cancer?
+##
+query 19: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 19: What are the treatments for pain after hemorrhoidectomy?
+##
+query 20: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 20: What are the side effects of barium sulfate?
+##
+query 21: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 21: Are endometriosis and cysts possible complications of NF1?
+##
+query 22: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 22: What are the treatments for erectile dysfunction?
+##
+query 23: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 23: What are the early symptoms of Stiff person Syndrome?
+##
+query 24: "SUBJECT: Levalbuterol and Budesonide Inhalation Products MESSAGE: After calling TEVA Pharmaceuticals, they relayed that the stability and storage information printed on their Levalbuterol 1.25 mg/3 mL and 0.63 mg/3 mL Inhalation Solution, as well as their Budesonide 0.5 mg/2 mL and 0.25 mg/2 mL Inhalation Suspension packages is information directly pulled from DailyMed, hence NIH. I am trying to determine if there is any extended stability information for either product, as the nebs are not singly packaged, and therefore a significant amount of product is being wasted in our facility due to the information provided. When name brand Xopenex was still available, Sepracor was able to provide our facility with more stablity information that enabled us to refrigerate the product in the foil pouch, continuing to protect it from light: i.e., ""allows use of product through its labeled expiry."" It would be greatly appreciated if some additional information could be provided regarding the above situation. Thank you for your attention to this matter. [NAME] [LOCATION] [LOCATION] [LOCATION] [CONTACT]"
+summarized question 24: Where can I find extended stability information for Levalbuterol Inhalation Solution and Budesonide Inhalation Suspension?
+##
+query 25: hi. i'm a student that suffers from Pectus excavatum (funnel chest), and i need help to pass it. please give me some way to get the solution of this problem. waiting for your answer. please need help!
+summarized question 25: What are treatments for pectus excavatum?
+##
+query 26: SUBJECT: Tailbone trauma MESSAGE: are there any risks for an elderly person to fly with a cracked or bruised tailbone? thank you in advance
+summarized question 26: Can I fly with a tailbone injury?
+##
+query 27: SUBJECT: Serum Creatinine MESSAGE: My serum creatinine level is 1.1. I am 36 years old and having kidney stone . My question is , will the kidney stone affect the serum creatinine result?
+summarized question 27: Can a kidney stone affect the serum creatinine result?
+##
+query 28: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 28: Can magnesium be taken with orange juice?
+##
+query 29: SUBJECT: spinal cord stenosos MESSAGE: I have acute arthritic spinal stenosis. What treatment is recommended?
+summarized question 29: What are the treatments for spinal cord stenosis due to arthritis?
+##
+query 30: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 years old boy that was diagnose with Periventricular Heterotopia and long time ago I read something that say that the most someone last with that syndrome is 309years.Is that true. And do you know about someone interested in wanting to do research about it? I will like to lern more about it. But theres not much information.
+summarized question 30: Where can I find information on Periventricular Heterotopia, including prognosis?
+##
+query 31: SUBJECT: HEP C MESSAGE: IS THERE A DRUG TO TAKE IF YOU HAVE IN THE LAST 4 DAYS BEEN EXPOSED TO CONTAMINED BLOOD OF A HEP C PERSON. IE PROFOLACTIC DRUG TO LESSEN THE CHANCES OF INFECTION? IE LIKE TRUVADA FOR HIV?
+summarized question 31: Is there a prophylactic drug for exposure to hepatitis C?
+##
+query 32: SUBJECT: bowl movements question. MESSAGE: I have been having BM two or three times a day, that is not a problem, it seems natural, but the feeling that I have not finish is there every time. I feel that I have not finish and something is going back in, when I get up. I had back surgery 6 months ago.
+summarized question 32: What are the treatments for incomplete bowel emptying?
+##
+query 33: My father had hip surgery. About one month he was detected an infection with Klebsiella pneumoniae. They started to give him intravenous ertanpenem. After almost a month, he is having episodes of seizures. He never had before. The doctors say that ertanpenem has nothing to do with it and they continue to provide it and at the same time they are giving him anti-seizure medication. I would like to know if it is correct or is at risk for his life. Thank you very much
+summarized question 33:

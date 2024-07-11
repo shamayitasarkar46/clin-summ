@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 1: What are the inheritance patterns for rickets?
+##
+query 2: SUBJECT: oleander poisoning MESSAGE: If oleandor was ingested by touching the plant stems inner part and then directly eating without washing hands, how long would u exspect symptoms would start? And how severe would you say symptoms may get.
+summarized question 2: When do symptoms of oleander poisoning appear after ingesting the plant, and how severe can they get?
+##
+query 3: please can chronic myeloid leukemia (CML) be cure completely. waiting for your response. thanks
+summarized question 3: What are the treatments for chronic myeloid leukemia?
+##
+query 4: SUBJECT: Treatment without amputation MESSAGE: My father is 70 years old his arteries in the both limbs have blockage. He is having pace maker. Doctor's suggest to go for amputation but there is high risk in it. Please suggest treatment without amputation! He foot is turning black and blisters are forming on his limbs.  Please advice
+summarized question 4: What alternatives to amputation are available for blocked leg arteries if the foot is turning black?
+##
+query 5: SUBJECT: Azithromycin Oral Suspension Stability/Storage MESSAGE: I am a pharmacy technician, and I work at an in-patient pharmacy. We carry Azithomycin 100mg/5mL Oral Suspension. We have been having some technicians putting the Reconstituted Suspension into our fridge. Our fridge is kept at a pretty steady 5* Celsius temperature. I know that the lower range of the stability is at 5*C. Is it a problem to keep it that cold? Should the suspension be kept out of the fridge?
+summarized question 5: How should Azithomycin Oral Suspension be stored?
+##
+query 6: SUBJECT: sacral nerve stimulation MESSAGE: How do I search for Instututions-doctors that perform sacral nerve stimulation procedures for fecal incontinence. I need the procedure, and I want to go to the place with the most experience.fecal incontinence
+summarized question 6: How can I find physician(s) or hospital(s) who specialize in sacral nerve stimulation for fecal incontinence?
+##
+query 7: MESSAGE: I will love to try diet I need. To lose weight
+summarized question 7: Where can I get help with a weight-loss diet?
+##
+query 8: SUBJECT: shingles MESSAGE: I work at the Airport and I am in contact with hundreds of people a day. I want to be sure that I am not going to expose people to Shingles. When is it safe for me to go back to work?
+summarized question 8: When is shingles contagious?
+##
+query 9: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 9: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 10: ClinicalTrials.gov - Question - general information. I was diagnosised with mucha haberman, and I need to find someone who can treat it, I live in [LOCATION]. and I need some help
+summarized question 10: How can I find physician(s) or hospital(s) who specialize in mucha habermann disease?
+##
+query 11: MESSAGE: What should I do for my excess hair growth?? hair growth on legs ,they appear when I took oral contraceptive only two time ....but the excess hairs on legs are appeared since last year after heavy itching on legs.....!what diagnosis should I do?????
+summarized question 11: What causes excess haur growth on the legs and what are the treatments?
+##
+query 12: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 12: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 13: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 13: What are the treatments for mercury poisoning?
+##
+query 14: SUBJECT: Peyronies Disease - Questions MESSAGE: Dear sir/Madam  my name is [NAME]. i am 16 years old and i live in [LOCATION]. i have a couple of questions about Peyronies Disease.  i have recently discovered about this ... STD (or should i call it a disease?) and i noticed that i also have a bent penis , but none of the following points , which are on the Peyronies Page , match my Penis (ofcourse besides the bend). so i was wondering. is it also possible to get a bent penis just from masturbation? because if that is so , then i may know where the problem lies with me (i may have to switch hands then :/ )  i hope you can answer my questions. hope to hear from you soon.  -[NAME]
+summarized question 14: What causes a bent penis?
+##
+query 15: Good morning I would like to ask something from you guys.i have a big problem of bloating and now its 2 years I have this problem and I try to buy some medication but it doesn't help me. And this thing its worse special during the night when I am sleeping cause I am always taking out the smelling air special when I am sleeping please guys can you assist me and I feel uncormfotable. Because its worse. I will appreciate it for your help. [NAME] [cid:image001.png@01D08E1E.47E509A0] Tel:         [CONTACT] Fax:        [CONTACT] Mobile  [CONTACT] Email:     [CONTACT]> [CONTACT] [CONTACT] In the interest of environment-think before you print! ________________________________________ [CONTACT] This message and any attachments are confidential and intended solely for the addressee.  The following link will display the full disclaimer: [CONTACT] The following link displays the list of Directors: [CONTACT] ________________________________________
+summarized question 15: What are the treatments for bloating and flatulence at night?
+##
+query 16: SUBJECT: Best Disease MESSAGE: There are 38 members of our family that have Best Disease. All members of the [NAME] family. Most of us live in [LOCATION].
+summarized question 16: Where can I find information on Best disease, including inheritance patterns?
+##
+query 17: SUBJECT: I have an irresistible fungal on my leg and i have treated it,but refuse to go.pls what should i do? From [NAME] [CONTACT] MESSAGE: I have an irresistible fungal on my leg which i have treated with different drug and cream,but refuse to go and it keep on spreading.pls what should i do? From [NAME]
+summarized question 17: What are the treatments for fungus on my leg that does not respond to OTC topical antifungals?
+##
+query 18: SUBJECT: esophygeal candida MESSAGE: I had a GI doc diagnose me with Candida in my esophygus.  he showed me pictures of my upper GI that had white splotches all over it (large areas of white).  I can find nothing online about this -- only thrush and vaginal candida.  Btw, I am male, not female.
+summarized question 18: Where can I get information about esophageal candidiasis?
+##
+query 19: SUBJECT: claw hand MESSAGE: I have a claw hand and I would like you to mail me information regarding treatments for it. My address is [LOCATION] Thank you.
+summarized question 19: What are the treatments for claw hand?
+##
+query 20: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 20: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 21: asthsma.  I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?
+summarized question 21: What are the symptoms of asthma?
+##
+query 22: SUBJECT: POMEGRANATE MESSAGE: Rosuvastatin (Crestor) Rosuvastatin (Crestor) is broken down by the body in the liver. Drinking pomegranate juice might decrease how quickly the liver breaks down rosuvastatin (Crestor). This might increase the effects and side effects of rosuvastatin (Crestor).  My question is what about Lipitor?
+summarized question 22: Does Lipitor interact with pomegranate juice?
+##
+query 23: hi this is [NAME] i am doing an isearch paper and i would love to find out more about dystonia i have it for i think a year and i wanna know if it will ever go away and will i ever be able to play sports again? -- [NAME]
+summarized question 23: Where can I find information on dystonia, including prognosis?
+##
+query 24: SUBJECT: male with breast MESSAGE: I am a 51 year old male and I have enlarged breast. My mother told me that I have bird chest. I know that I don't have bird chest. My size is a 36 B. I have to wear oversized shirts. I would like to have them removed, but I don't have the money. I was abused because of my breast.  thank you for your time.
+summarized question 24: what are the treatments for gynecomastia?
+##
+query 25: MESSAGE: to Anyone   What can one do if they have no feeling in there feet ? [NAME]
+summarized question 25: What are the treatment for sensory loss in legs?
+##
+query 26: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 26: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 27: SUBJECT: staphy treatment MESSAGE: Gud day, please ham having staphylococcus and I need drugs to take and your advice..my result show &quot;scanty&quot;..i 'll be expecting your reply..thank you and God Bless you
+summarized question 27: What are the treatments for staphylococcus?
+##
+query 28: SUBJECT: Ingredients !! MESSAGE: Hi, Please help me to find ingredients for fluoxetine hcl liquid. I want to know is there any gelatin or animal product in there or not? Please send me any information or web link where i can find information. Thank you
+summarized question 28: What are the ingredients of liquid fluoxetine HCL?
+##
+query 29: Hey I was just wanting to know how I can try to receive stem cell treatment for spinal cord injury using the stem cells I have banked from my newborn baby's umbilical cord tissue? If u have any information please tell me, you'll be helping to save my life!
+summarized question 29: How to receive stem cell treatment for spinal cord injury?
+##
+query 30: SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?
+summarized question 30: What is the prognosis for someone with homozygous MTHFR A1298C?
+##
+query 31: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am working with a Hep C   patient who needs treatment but cannot afford Tx. How can I help her get in touch with a recruiting study? There are no numbers or ways to contact a recruiting study. Sincerely, [NAME]
+summarized question 31: Where can I find clinical trials on hepatitis C?
+##
+query 32: Hi, I'm looking to purchase Epidermal Growth Factor to use topically in skin care creams.  Do you sell it and if so how can I learn about this?  If you don't can you give any suggestions of who might?  Any information you can provide would be greatly appreciated.  THNAK YOU!  [NAME]
+summarized question 32: Where can I buy  Epidermal Growth Factor cream?
+##
+query 33: Hello, I receive ssi each month. I have chronic lymphedema unfortunately.  I was reading on website that liposuction has helped.
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 1: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 2: My age is 56 years. And i am suffering from non-toxic goiter on left neck of size about 13cm from 5 years. My thyroid test of T3,T4,T5 are normal,FNAC test is normal and i am having no complications right now.  1) Please suggest should i go for operation of my thyroid gland.? 2) Is Radioiodine treatment better then surgery for me? Thanks  [NAME]
+summarized question 2: What is the best treatment for non-toxic goiter?
+##
+query 3: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 3: For how long can Atorvastatin be stored at room temperature?
+##
+query 4: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 4: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 5: SUBJECT: How appendix problems affect people in the genetic family? MESSAGE: How appendix problems affect people in the genetic family?
+summarized question 5: Can appendicitis run in the family?
+##
+query 6: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 6: Can sleep apnea occur during the day when awake?
+##
+query 7: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 7: What are the ingredients of Glyburide and is it gluten free?
+##
+query 8: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 8: What are the treatments for brain tumors and spinal tumors?
+##
+query 9: Angelman syndrome. Can a person with Angelman Syndrome have children? If so, can the disorder be passed on to offspring?
+summarized question 9: How is angelman syndrome inherited?
+##
+query 10: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 10: What causes fibroid tumors on the spine?
+##
+query 11: SUBJECT: Responsible for the Research on stem cells and tissue regeneration MESSAGE: Dear colleague Good day, my name is [NAME], 48, doctor; I was affected by a bladder cancer where the removal of the organ was needed. I read about the work of his lab and I wonder if there is interest or any possibility of using pluripotent stem cells redo a piece of fabric of my bladder, for so I can do a transplant with acellular matrix and repopulate this matrix with these modified stem cells . I'm using bricker, which depress me, I lost my self esteem, lost quality of life and already thought to suicide. Until that came the hope that transplantation of acellular matrix.  I am looking forward to answer, anxious and carefully.   [NAME] CRM88878  I just can not understand the difficulty in finding a laboratory or institution that can solve this problem as the peritoneal layer of the bladder peritoneum is I already own, the inner layer is smooth muscle, which can also be acquired via endoscopic biopsy of the stomach or a arterial tissue and the layer It is coated internally by internal polymorph or transitional epithelium which can be acquired from another organ. It would just replicate small pieces so that after implanted in the acellular scaffold covered.
+summarized question 11: What is the latest research on using pluripotent stem cells and acellular matrix for  bladder regeneration?
+##
+query 12: Name: [NAME] Date and Time of Contact: Thu, 1 Jan 2015 16:10:06 GMT Application: myncbi SessionId: CE9069DE4A56A0A1_0093SID MyNCBI UserName: Host: portal205 Snapshot: /projects/MyNCBI/myncbiPortal@2.45 Browser's user agent header: Mozilla/4.0 (compatible; MSIE 8.0; Windows NT 6.1; WOW64; Trident/4.0; SLCC2; .NET CLR 2.0.50727; .NET CLR 3.5.30729; .NET CLR 3.0.30729; Media Center PC 6.0; InfoPath.2) Application Page Generation Time: 2015-01-01T11:03:27-05:00 Page: recentactivity Message Body: We live in [LOCATION] and my husband has been detected an insulinoma.Need further information on the matter as doctors have not seen one here. Greatly appreciate your reply. Happy New Year to you all and many many tahanks for your help.
+summarized question 12: Where can I find information on insulinoma?
+##
+query 13: I know you probably get quite a few inquiries on this topic - but I am wondering if I might be a good (or not) candidate for the Flavinoid as nutrients to prevent strokes/heart attacks study. I appreciate any information you may have. Thank you, [NAME]
+summarized question 13: What are the eligibility criteria for the Flavonoid as nutrients to prevent strokes/heart attacks study?
+##
+query 14: SUBJECT: Does my circadian rhythm need adjusting? If so, how? MESSAGE: I had a saliva test last July, which showed my cortisol level at 9 @ 6:30am, 5.1 @ 11:30am, 4.2 @ 4:30pm, 3.3@ 9:30pm. I wake frequently during the night and my brain seems to engage in much thought, making it difficult to go back to sleep. I wake well before the 5:45 alarm and drag myself out of bed. I am exhausted all day and can fall asleep at day or evening events I have seen endocrinologists, in addition to my GYN and primary care dr., all of whom tell me all my blood tests are normal. I take 2 sport yoga classes and a Qi Gong class weekly. I was a young 65, but at 66, the lack of sleep has finally caught up with me and I feel much older than my 66 years. I feel lethargic and heavy-chested. I want my life back. I have never seen or read anything about how or where help can be found. Can you help?
+summarized question 14: Where can I find information on low cortisol levels, including symptoms, causes and treatments?
+##
+query 15: SUBJECT: Testo-XL mixed Male Libido XL MESSAGE: I want to find out is it got any side effect if I take both medicine as above together? I'm new user, not so sure about both products if mixed together. Is it will harm my health? Please give me some advise and usage about both  medicine. Thank you.
+summarized question 15: Can Testo-XL and Male Libido XL be taken together?
+##
+query 16: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 16: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 17: SUBJECT: dark spot MESSAGE: i had a black spot on my skin face which was formed due to pimple by ithcing on it. this was formed one year before and i dont use any creams for it or i have not contacted any doctors for it but now want to remove it as soon as possible, i am from hyderbad.what to do?
+summarized question 17: Where can I get help with a facial dark spot in Hyderabad?
+##
+query 18: SUBJECT: gluten free MESSAGE: Can you tell me if this drug is gluten free. Pms-Hydrochlorothiazide thank you [NAME]
+summarized question 18: What are the ingredients of Pms-Hydrochlorothiazide and it is gluten free?
+##
+query 19: Ostiogenesis Imperfecta. Is it possible to take out whatever causes this disease out of a persons gene to stop this in my family.
+summarized question 19: How is Osteogenesis imperfecta inherited and is it possible to stop it?
+##
+query 20: Genetically Engineered Foods. I am a high school student currently in a science class called [ID].  During my research, I came across this web site that has helped me better my knowledge on the topic of genetically engineered food.  I was wondering if you could tell me about the risks that come with genetically engineered food and how the modification is actually conducted.
+summarized question 20: What are the risks that come with genetically engineered food, and how is the modification actually conducted?
+##
+query 21: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 21: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 22: hospital stay for a hitiala hernia to be removed?.  I have a hernia that needs to be removed how long would I be in the hospital after it is removed?
+summarized question 22: How long would I be in the hospital after a hiatal hernia removal?
+##
+query 23: MESSAGE: I m 33 year old. I m having hand and leg tremors for sometime. Is there any permanent treatment for this. I had visited doctor, they told its a Parkinson desease and cannot be cured permanently. Could you please provide me 2nd opinion on this
+summarized question 23: What are the causes and treatments for tremors in 33 year-old?
+##
+query 24: SUBJECT: Excessive Eye Water MESSAGE: Thank for your information on my earlier question regarding what is causing skin itching. I have another question on another problem that I'm having. This problem is excessive eye water (tears) occurring all the time and filling my nose up mostly at night and stops using my nose while in bed after a couple of hours. This there any medicine that would reduce all these excessive tears?
+summarized question 24: What are the treatments for watery eyes?
+##
+query 25: ClinicalTrials.gov - Question - specific study. I WOULD LIKE TO SEE STUDY OF -5P CHROMOSOME SYNDROME, WHAT IS THE ORIGEN, TREATMENT
+summarized question 25: What causes the 5p chromosome syndrome and what are the treatments?
+##
+query 26: Hi, Fırst of all thanks for valuable information whıch you Published on your web sıte. http://www.cdc.gov/measles/about/complications.html I couldnt find any ınformatıon on web that ıs related early ages.. When my son 6 months old (when he was baby)  he had measles and he hadnt had vaccacine when he was ill. I saw that if you had measles you have possıbılıty for SSPE that is 4 to 20 out of 100.000 case...But I want to know (it ıs very ımportant for me) if you had measles when your son stıll baby,what is the risk.. Please help me to know the facts...Please Write me the worth case.. I want to know just truth.. Thanks, Best Regards [NAME]
+summarized question 26: What percent of babies who contracted measles will eventually develop SSPE?
+##
+query 27: SUBJECT: uncontrollable jerking movements MESSAGE: When I am exercising hard, the left side of my body will start to do strange things. When lifting weights overhead, my left upper lift will jerk up into sort of a sneer.  When doing core work, my left arm will start jerking so hard that it's impossible to hold onto anything. The jerking stops after the exercise ends; but my left arm feels worn out.  No pain. A few months ago, my left leg completely lost any strength for weeks. It first appeared when I was just trying to do a squat with a plastic pipe in my hand. Eventually was able to work strength back. Again - no pain.  Should I be alarmed?
+summarized question 27: What causes jerking movements during exercise?
+##
+query 28: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 28: What is the effect of dexamethasone on cortisol levels?
+##
+query 29: Kartagener's syndrome. I am suffering from Kartagener's syndrome and wanted information from you or from Dr. [NAME]. for this syndrome. (About fertility) and if possible other symptoms. Thank you.
+summarized question 29: Where can I find information on kartagener's syndrome and its symptoms, including  fertility?
+##
+query 30: SUBJECT: allopurinol and diuretics MESSAGE: I am presently taking 200mg Allopurinol daily for the treatment of Gout.  My feet swell.  How dangerous is it to take a diuretic.
+summarized question 30: Can a diuretic be taken with Allopurinol?
+##
+query 31: SUBJECT: After Rectal Prolapse! MESSAGE: My boyfriend had surgery on his rectum because It came out of him It's been a few years! Is It normal for him to stick his finger up his anus to go to the bathroom?
+summarized question 31: What are potential complications after rectal prolapse surgery?
+##
+query 32: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 32: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 33: I would like to find out more on 22q12q13 duplication. My granddaughter has this. Screened during pregnancy. She seems to be developing okay. Speech is slow. But want to find out if there is more information. Do you know of any research?
+summarized question 33:

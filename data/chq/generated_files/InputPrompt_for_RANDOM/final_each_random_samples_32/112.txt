@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 1: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 2: SUBJECT: Jaundice MESSAGE: Can older infants get jaundice? What is the age range?
+summarized question 2: Can older infants get jaundice?
+##
+query 3: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 3: Where can I find information on Wang syndrome, including support groups?
+##
+query 4: Colon cancer cure seen on tv.  My father has colon cancer and said he saw a commercial on tv about a cure for colon cancer.  He cannot remember any details about it. I was wondering if you know anything about something like this.  Please let me know.  Thank you, [NAME]
+summarized question 4: What new treatments are available for colon cancer?
+##
+query 5: SUBJECT: esomepeazole magnesium MESSAGE: Is this generic for of nexium produced gluten free? I am celiac and have to check all my meds.
+summarized question 5: What are the ingredients of esomepeazole magnesium and is it gluten free?
+##
+query 6: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 6: Who should get the MMR vaccine?
+##
+query 7: Metastatic malignant melanoma.  I've got skin cancer, and I want this treatment, but RBCs Btensl Is it possible that taking this medication
+summarized question 7: What are the treatments for metastatic malignant melanoma?
+##
+query 8: SUBJECT: pregabalin MESSAGE: I have peripheral neuropathy but not diabetes.  I have had numerous tests to try and determine the cause of the neuropathy without success.   Will pregabalin help with the pain?
+summarized question 8: Is pregabalin effective for treating pain from peripheral neuropathy?
+##
+query 9: Question. do you know what genetic abnormality causes lipoamide Dehydrogenase Deficiency (E3)?
+summarized question 9: What is the genetic cause of Lipoamide Dehydrogenase Deficiency?
+##
+query 10: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 10: Is there a medication that can cause bleeding during sex?
+##
+query 11: SUBJECT: drug nutrient interaction MESSAGE: Hello: I am looking for a resource that describes nutrient ( vitamin ) depletion that results from specific medications. Hope you can help. Thank you.
+summarized question 11: Can medications cause vitamin depletion?
+##
+query 12: Cross Eye.  Need to fix my cross eyed
+summarized question 12: How to treat crossed eyes?
+##
+query 13: SUBJECT: Central venous catheters - ports MESSAGE: Hello, I was wondering about the Central venous catheters - ports and how they work. My grandma takes dialysis treatments and hers blew a couple days ago. Both of her arms swelled immediately. They were asked to do another one,  but said it was ok. After another treatment today both arms turned purple. I want to know, if you can tell me, how dangerous is it if they are using the port and it is blown? Can she bleed out or throw blood clots?
+summarized question 13: What are the complication of central venous catheters?
+##
+query 14: May I can find a cure for my case in therapeutic your center that I have an infection chronic granulomatous Mastitis take and how much the treatment period. Please advise me of the post by you.to this my Email Note : that I have all the medical reports and tests for this disease ??? this case of my wife and can be send your comment by below E-mail
+summarized question 14: What are the treatments for chronic granulomatous mastitis?
+##
+query 15: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 15: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 16: SUBJECT: I need help ? MESSAGE: I have few questions and needed some help from you guys, I have a really serious problem about me and the stress I have been through for a long time, and I couldn't do anything to get rid off what I'm really in a bad feelings. And I'm really having and hard time searching and try to get rid off my pimples , I've been have these probably every since when I was 15 years old . I do not know what kind or where I can find , something that could help me, something that could work , because there's alot of products . And I'm not sure which kind could fit my skins to remove my pimples. . Please help, I'm having a serious hard time having these. Its really embarrassing, that's why I always wear long sleeve to cover it every single day, 24/7. I'm really appreciate if you guys have tine to contact me and talk about. Another thing, my question is , how can I get rid of my pimples on my upper arms and my back. Also I really don't know what kind pimples do I have on my skin. Please help me , so I wouldn't be having so many stress about my skins.
+summarized question 16: What are the treatments for pimples?
+##
+query 17: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 17: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 18: SUBJECT: burning rash MESSAGE: my left buttocks has painful sores a nurse at my work said to put cortisol10 cream on it but its not helping she thinks i got this by being in a dirty hottub! i hope its not something bad. please help
+summarized question 18: How can I get help for a burning rash on my buttocks that does not respond to OTC hydrocortisone cream?
+##
+query 19: Second opinion for hemifacial microsomnia. I am a 34 female born with hemifacial miscrosomnia. I have had multiple surgeries but yet I feel I am not where I would like to be. I have been treated through the military because I can not afford a second opinion from an outside source. I lack tissue, muscle and fat on the right side of my face as well as a definite under developed right mandible. I know I would never be perfect, but I would love a chance to be able to walk down the street without people staring and I for one time in my life feel some what normal. Can you please help
+summarized question 19: How can I find physician(s) or hospital(s) who specialize in hemifacial microsomnia?
+##
+query 20: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 20: Is MRSA contagious, and how is it spread?
+##
+query 21: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 21: What is the difference between residual and recurrent maligancy?
+##
+query 22: Hi, I cannot find informatión about Antennatal corticoids Therapy, for lung maturation in diabetics after 34 weeks pregnancy. Can you help me.
+summarized question 22: Where can I find information on antenatal corticosteroids for lung maturation in diabetics after 34 weeks of pregnancy?
+##
+query 23: SUBJECT: DECUBITUS ULCERS MESSAGE: To Whom This May Concern, My name is [NAME], i am a year 12 student at [LOCATION], [LOCATION]. I am doing a subject called research project, it is a compulsory subject.  My question is 'What are the biological causations of decubitus ulcers?' I am writing to you as i am in need of primary information from medical professionals. I am requesting that you complete a survey. If you are willing to participate please email me on; [CONTACT]   so i will be able to give you the survey and a letter detailing what it is for.  Thank You for spending your time reading this email, and i look forward to hearing from you. Yours Sincerely,           [NAME], Year 12 student at [LOCATION]
+summarized question 23: What causes decubitus ulcers?
+##
+query 24: MESSAGE: I have undergone Total Hip Replacement of both my hip jonts in 1977 (Charnley Process ) My left joint is completely worn out.How safe and effective is revision surgery..can I get a cementless joint..I am 66 years old..An early repy to my query will be very much appreciated.
+summarized question 24: Where can I find information on hip revision surgery, including risks and prognosis?
+##
+query 25: SUBJECT: Skin Itching MESSAGE: At night, I have very bad lower leg skin itching.  Is this being caused by any of my prescripions?
+summarized question 25: What prescription drugs cause itching skin on legs?
+##
+query 26: SUBJECT: saggy large breast MESSAGE: i have very huge breast i am only 25 and they cause me alot of pain on the neck chest and back. what can i do
+summarized question 26: What are the treatments for large breasts?
+##
+query 27: SUBJECT: Bone-Joint degeneration in the hand or fingers? MESSAGE: I notice that the joints or bones in my  hands hurt sharply when working, cooking and lately I have been dropping things from my left hand; even a sudden twist send shock thru my body-What is this?
+summarized question 27: What causes hand pain?
+##
+query 28: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 28: What are the treatments for strabismus, including stem cell therapies?
+##
+query 29: MESSAGE: I want more information on Hypertension and fibromyalgia, I seem to be getting only topics on diabetes and I do not have this.   I enjoy reading the current info.  thanks [NAME]
+summarized question 29: Where can I find information on hypertension and fibromyalgia?
+##
+query 30: SUBJECT: Suggestion on ILD problem MESSAGE: Dear I am suffering from ILD problem as per my doctor suggestion I am taking the home oxygen on this problem. Can you suggest me the perfect medicine on this problem it is helpful for my day to day activities as well as improve my life style.  Please suggest  I am waiting for your reply.  [NAME]
+summarized question 30: What are the treatments for ILD?
+##
+query 31: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 31: What are the treatments for loss of appetite?
+##
+query 32: SUBJECT: shingles MESSAGE: I work at the Airport and I am in contact with hundreds of people a day. I want to be sure that I am not going to expose people to Shingles. When is it safe for me to go back to work?
+summarized question 32: When is shingles contagious?
+##
+query 33: Good morning.  I have a question for a urologist or a surgeon.  This may be out there but I am not one to go with the flow.  Now I do not have prostate cancer but I like being ready for anything.  I will be having a blood test next week and then I will be seeing my doctor.  My PSA was up from the last few.  2015 - 0.4   2016 - 0.7 and 2017 - 2.2.  Now here is my question.   If I get prostate cancer and lets say that the tumor is in the right lobe can I just have the right lobe removed.  Nothing else.  Maybe the lymph node on that side but I do not want anything else removed  I do not want the bladder neck touch or the seminal vesicles or the other side of the prostate.  I know you must think this is crazy but I feel my sex life and my ejaculation is just as important to save as getting rid of the cancer.  I have been reading to many articles that say they take every because you may get cancer there.  So you are going to take out good tissue just because you may get it again.  I don't believe in that.  My urologist call me his challenge.  I do not give up total control.  Thank you for your time.  I hope you have a great day.   
+summarized question 33:
