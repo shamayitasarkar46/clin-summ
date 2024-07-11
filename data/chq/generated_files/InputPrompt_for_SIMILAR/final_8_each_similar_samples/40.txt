@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: questions about the effect of L-Leucine.  Hello,do you have any introduction about L-Leucine on the effect of treat cancer?If so,could you kindly tell me details?
+summarized question 1: Where can I find information on L-Leucine and its use in cancer treatment?
+##
+query 2: hepatitus A blood test.  how long does it take for the lab to determine the result
+summarized question 2: How long does it take to get a hepatitus A blood test result?
+##
+query 3: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 3: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 4: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 4: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 5: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 5: How is Huntington's disease transmitted?
+##
+query 6: hello i am looking for information related to the above (myostatin-related muscular hypertrophy) genetic condition. can you direct me to a hospital or other genetic research institution that might be doing research on this genetic condition?
+summarized question 6: Where can I find information on myostatin-related muscular hypertrophy, and how can I find an organization doing research on it?
+##
+query 7: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 7: Where can I find information on Wang syndrome, including support groups?
+##
+query 8: SUBJECT: X-OUT WASH-IN TREATMENT- benzoyl peroxide gel MESSAGE: Can you please tell me if the product X-OUT WASH-IN TREATMENT- benzoyl peroxide gel would contain any animal, dairy, insect, seafood or human by-products? Also would it contain any honey? Thank you for your help in researching this information for me. Make it a great day! Best Regards, [NAME] [CONTACT]
+summarized question 8: What are the active and inactive ingredients of X-OUT WASH-IN TREATMENT- benzoyl peroxide gel?
+##
+query 9: Hello –  Do you know if there are blood or urine tests that can detect if an individual is taking Flomax??  Your assistance is appreciated. Thank you
+summarized question 9:

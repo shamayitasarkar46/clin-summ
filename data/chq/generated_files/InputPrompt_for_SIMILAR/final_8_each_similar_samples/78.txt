@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 1: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 2: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 2: What are the symptoms of chlamydia?
+##
+query 3: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 3: What are the symptoms of complex regional pain syndrome?
+##
+query 4: SUBJECT: abetalipoproteimemia MESSAGE: hi, I would like to know if there is any support for those suffering with abetalipoproteinemia? I am not diagnosed but have had many test that indicate I am suffering with this, keen to learn how to get it diagnosed and how to manage, many thanks
+summarized question 4: Where can I find information on abetalipoproteinemia, including diagnosis and treatment?
+##
+query 5: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 5: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 6: Tailbone trauma - aftercare  I read the article, but what if the person hasn't falling or been bumped?  What could cause this?
+summarized question 6: What causes tailbone injury?
+##
+query 7: SUBJECT: Research assignment MESSAGE: Hi, I am a grade 12 student who is doing a research assignment on neurological disorders. Do you believe that there will ever be a bonafide cure for Multiple Sclerosis? If so, what kind of time frame would put on this cure?
+summarized question 7: Can multiple sclerosis be cured?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 8: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 9: SUBJECT: MRI versus CT scan for TBI/consciousness/S100B. MESSAGE: For adult patients:  Following a TBI what is considered most  conclusive for damage: MRI, MRI with contrast, CT, CT with contrast. Also, do you think whether a person losses consiousness is given too much credence for evaluating a TBI? How long is a S100B able to detect damage following a TBI? Do you yhink this is a valid test for E.D. immediately following injury?  If so, why is it not done, ignorance or expense? Could a patient demand it be drawn?  Thank you
+summarized question 9:

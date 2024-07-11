@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 1: What are alternatives to phenobarbital?
+##
+query 2: My name is [NAME] and i am 45 years old and come from [LOCATION]. I got involved in a shock cerebral (Brain stroke in Cerebellum) and took apoplexy cerebral. I did a surgery for placing shunt. After my surgery i lost my body balance to some extent. Now i am trying to improve my condition with physiotherapy, swimming and etc. My doctor says the shunt is not necessary longer. I found your name between scientists which are involved in research on brain stroke so my request is if you could advice me with new methods for curing my problem. I can come to [LOCATION] if needed to do further therapy for my problem. I would be very thankful of your help
+summarized question 2: What are the treatments and recovery for cerebellar stroke?
+##
+query 3: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 3: What are the treatments for loss of appetite?
+##
+query 4: SUBJECT: Anxiety MESSAGE: How does one deal with anxiety and the looming feeling that I am about to have a heart attack?  I am taking clonazepam which helps but I would rather go back to the person I used to be without this condition.  How can I re-train my brain into not thinking a heart attach is about to hit me?
+summarized question 4: What are the non-drug treatments for anxiety?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 5: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 6: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 6: What are the treatments for hand tremors?
+##
+query 7: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 7: What are the treatments for lichen planus?
+##
+query 8: SUBJECT: Pessary in while doing Kegels? Yes or no? MESSAGE: Hi. I have been using a pessary for a number of years and was happy with the help it provided. Lately I've been experiencing prolapse worsening during and after particular exercises so I reduced those type of exercises and decided to do more kegel exercises. My question is should I remove the pessary while doing kegel exercises?
+summarized question 8: Should I remove my pessary while doing Kegel exercises?
+##
+query 9: Is it safe to take Relora if I seizure disorder? I had a Cavernoma removed from my brain that my drs believe caused me to have a seizure. I am now taking Keppra for seizure prevention. I would like to take Relora to combat the anxiety and to lift my mood. It seems no drs know much about supplements.
+summarized question 9:

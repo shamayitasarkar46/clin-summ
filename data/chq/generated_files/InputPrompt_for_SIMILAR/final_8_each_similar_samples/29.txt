@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: anemia in kids. My daughter is 6 years old she is suffering from microcytic anemia for last three years.in 2009 she has been blood transfused but now her hb count is 4.5.Doctors are unable to find out the cause of her anemia.we are much worried about her.plz if u can guide us in regard.
+summarized question 1: What are the causes of  and treatments for microcytic anemia?
+##
+query 2: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 2: How is thalassemia inherited?
+##
+query 3: Customer Service Request.  My daughter has Turner syndrome but she's beaten all odds. She developed on our own, got her period on her own, she is now pregnant on her own with identical twins. My question is can she have normal children or do they have more of a chance of having Turner syndrome.  My daughter has been tested many times to confirm her diagnosis of Turner syndrome and she is a full XO not mosaic but still does not display many of the characteristics. Again, I am just questioning the safety of the pregnancy and the health of the babies. Thank you for your help
+summarized question 3: What is the inheritance pattern of Turner syndrome?
+##
+query 4: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 4: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 5: SUBJECT: obese daughter MESSAGE: i'm a mother of 5 children. My son has leukemia who is the youngest. My daughter is 12yrs old and is obese. i dont know where to turn but i need some professional help. my daughter has always suffered  with weight issues. while i deal with my 11yr old son at [LOCATION] im so scared of loosing my daughter. Shes already been suicidal and her grades are so bad. please i need help. you can contact me anyt time
+summarized question 5: What resources are available for overweight children with suicidal behavior?
+##
+query 6: SUBJECT: Customer Service Request MESSAGE: Hi, We are 2 sisters and a brother. My brother at age of 24 is detected with catract, however it is mild so operation is not required. But doctor said, there are chances he has this from Birth. However only from past 1.5years he had a little blur vision. And in my entire family Mom and Dad said no one has had catract from Birth. We are a big family, my grapa had 7 brothers and 2 sisters no one from their family or my mom has catract from birth or even at early age. My concern is, if i am pregnant will my children have any issue like this. I amd my sister, mom, dad we all have got our eyes checked. we dont have any issue. I am really tensed as i am expecting. Can you please help me with the answer.
+summarized question 6: Who is at risk of developing infantile cataracts?
+##
+query 7: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 7: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 8: SUBJECT: human chimerism MESSAGE: My daughter, born 5 days ago, was curiously found to have c+ blood type.  Having ruled out most causes for this, we are left with a possible vanishing twin chimera and don't know where to turn for more information or research. At this point we don't even have confirmation of whether she is xx/xx or xx/xy, or concrete exclusion of microchimerism. Help? I can be reached by cellular at [CONTACT]. my husband and I are local to the [LOCATION], and both [PROFESSION]. Thank you!
+summarized question 8: Where can I find information on chimerism and twin absorption?
+##
+query 9: I have 6 months twin daughter. M one daughter is ok but another one have blood less issue from start. and she required bool every month. after check . of her, her mother and my. result find out that. My report is ok from Thalassemia. Her mother have minor Thalassemia . and she (daughter) have no Thalassemia but my daughter have Anemia. so doctor give her foli acid and mother milk. but she still problem, now he sagest for bone marrow and maybe she have Anemia.. so give me some guideline that what I do.... thank..
+summarized question 9:

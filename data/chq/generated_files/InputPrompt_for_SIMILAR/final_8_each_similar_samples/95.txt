@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 1: How can I locate a support group for patients with taste and smell disorders?
+##
+query 2: SUBJECT: father suffering from IBS MESSAGE: My father is suffering from IBS and is loosing weight day by day.sometimes he even faints due to weakness.He cannot digest food .please help us and suggest us upon this problem.
+summarized question 2: What are the treatments for IBS?
+##
+query 3: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 3: What are the treatments for nutcracker syndrome?
+##
+query 4: "SUBJECT: treatment for dry mouth caused by necessary medicine MESSAGE: My provider can't help (I asked.) I am intolerant of all the ""sugar alcohols"" such as maltilol, sorbitol, xylitol, etc. and need something for dry mouth caused by med which I have to take.  Biotene products help for only about two minutes."
+summarized question 4: What are treatments for dry mouth that do not contain sugar alcohols?
+##
+query 5: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 5: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 6: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 6: Where can I find information on pain relief for Hirayama's disease?
+##
+query 7: ClinicalTrials.gov - Question - general information.  My fathers 85 and has severe hearing loss - he has tried hearing aids which at first helped but loss has become worst - has loss the hearing on one ear - hearing aids seem to cause him lots of pain I now see that he now can't hear and is becoming isolated, which concerns me and makes me very sad and afraid he'll become very depress and not care. If you can't help us can you please direct me somewhere for help. We live in the los angeles area Thank you [NAME].  [CONTACT]
+summarized question 7: What are the treatments for hearing loss aside for hearing aids?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: LOOKING FOR HELP FOR MY NEPHEW WITH GLYCOGEN STORAGE DISEASE.  HE LIVES IN VIRGINIA AND IS SUFFERING BADLY.  HE HAS BEEN HOSPITALIZED FOR SEVERE CRAMPING ABOUT 5 TIMES THIS YEAR SO FAR.  ANY GUIDANCE YOU COULD GIVE WOULD BE GREATLY APPRECIATED.
+summarized question 8: What are the treatments for Glycogen storage disease?
+##
+query 9: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 9:

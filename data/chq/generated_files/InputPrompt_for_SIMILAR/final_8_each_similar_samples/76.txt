@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I just read an article submitted by you that stated your research shows that you've identified the mechanism that causes burning mouth syndrome. Also because of these findings you can find a treatment. I've had this for 15 yrs and am just holding on. When will a good treatment be available??  I belong to a group of over 500 bmsers. We're suffering terribly and were from all over the world. What would the treatment be?
+summarized question 1: What are the treatments for burning mouth syndrome?
+##
+query 2: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 2: What are the causes of abdominal pain and swelling?
+##
+query 3: SUBJECT: Pyloric Stenosis MESSAGE: Good day, I had pyloric when I was a baby - I am now 44 years old.  I have always suffered with stomach problems, leaky gut etc.  Is it at all possible that this is a related cause of pyloric long term?  I was the 1st baby girl to have this operation in [LOCATION] in [DATE].
+summarized question 3: What is the long-term prognosis and complications of pyloric stenosis?
+##
+query 4: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 4: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 5: What are the treatments and prognosis for a small GIST?
+##
+query 6: ClinicalTrials.gov - Question - specific study.  I was told by my family doctor, that I have total alopecia, I feel it was related to a hair color that I used in 2012, but seems there are no studies about chemical exposure from the coloring to prove my point of total hair loss, not sure about any study being done in this regard, mine was not a painless hair loss, I had burns to my scalp. thanks for any information, or help. Sincerely, [NAME]
+summarized question 6: Could chemical burns cause total alopecia and what are the treatments for it?
+##
+query 7: "SUBJECT: bowel movements MESSAGE: whenever I eat ANYTHING within 10-15 minutes I start having slight stomach cramps and I have to rush to the bathroom and my stool is from slightly firm to liquid - what's causing this?  I'm afraid to eat out at restaurants - it's been happening for about 3 years now  I'm a 53 year old, 5', 7"" in height, african-american woman, never had children, about 50 lbs overweight"
+summarized question 7: What are the causes of cramps and diarrhea after eating?
+##
+query 8: SUBJECT: Stroke Due to Aneurysm? MESSAGE: My son had a hemmorhagic stroke at 4 weeks of age....he is now 31 years old.  In the week leading up to the stroke he had a head cold and I had been giving  him infant cold drops.  After he had the stroke the doctors at the time could only say that it was a 'fluke' and would probably never happen again.  The reason for the stroke has haunted me ever since.  Now we just recently found out that my mother has a cerebral aneurysm and they say this can be hereditary.  So my question now is 'did my son have an aneurysm that burst or was it caused by a blood clot?...is there anyway of knowing or getting an answer to that question after the event has happened?
+summarized question 8: Can the cause of hemmorhagic stroke be determined many years later?
+##
+query 9: Fire Burn gives stain at stomach during my childhood and that is directly surrounded around the stomach button. and this matter was occurred past 15 years back. Do there is any therapy or remedy?
+summarized question 9:

@@ -1,0 +1,28 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Administration MESSAGE: Is there a reason that the lovenox has to be given in the SQ of the abdomen? Why not other SQ sites?
+summarized question 1: Why is lovenox administered in the abdomen?
+##
+query 2: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 2: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 3: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 3: How can I get non-drug treatment for depression and anxiety?
+##
+query 4: SUBJECT: Testo-XL mixed Male Libido XL MESSAGE: I want to find out is it got any side effect if I take both medicine as above together? I'm new user, not so sure about both products if mixed together. Is it will harm my health? Please give me some advise and usage about both  medicine. Thank you.
+summarized question 4: Can Testo-XL and Male Libido XL be taken together?
+##
+query 5: SUBJECT: Omege 3 Acid capsule MESSAGE: I am currently taking Lovaza. My pharmacy, CVS, has advised me that the above, Omega 3 Acid capsule is now available as a generic alternate. My doctor has said that she is not aware of a generic for Lovaza. Who is correct?
+summarized question 5: Is there a generic version of Lovaza?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: will dalfampridine be effective for people with spinal musclar atrophy. is this a possibility in the future
+summarized question 6: Is dalfampridine an effective treatment for spinal muscular atrophy?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Can you please tell me the results of any clinical trials investigating a correlation between Buproprion (Wellbutrin) and cancer?  Is there a greater incidence of cancer rates with patients who have taken Buproprion long term as opposed to a control group?
+summarized question 7: What are the side effects of bupropion, including an increased risk of cancer?
+##
+query 8: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 8: Are there any medicines for dry mouth?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information. MESSAGE: I have a question about Lofexidine. do you have to be on suboxone and orbuprenorphine to use it and is it approved in the [LOCATION] yet?
+summarized question 9:
