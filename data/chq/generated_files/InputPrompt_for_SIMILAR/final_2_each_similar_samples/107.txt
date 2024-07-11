@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.
+summarized question 1: Does diabetes affect bowel movements?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 2: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 3: where on site does it tell how diabetes and neuropathy causes other things like neck and knee pain and other ailments
+summarized question 3:

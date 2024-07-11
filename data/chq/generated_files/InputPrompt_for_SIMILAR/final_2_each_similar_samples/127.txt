@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 1: Where can I find information on leg swelling and treatments?
+##
+query 2: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 2: What clinical trials are available for hepatitis C?
+##
+query 3: Dear concerned, My mother is a kidney & heart patient and from last 3 years she is going through Dialysis on twice a week basis. Her cause of kidney failure can be Diabetes & High Blood Pressure from last 10 years. Currently her creatinine level is 9. Can you please guide me is there any way to revive her kidneys???  Looking forward to your kind support. Thanks & Regards
+summarized question 3:

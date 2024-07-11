@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 1: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 2: SUBJECT: CHUNT IN THE BACK MESSAGE: Can the chunt be done from the vertebra instead of the cranium. My child needed a chunt due to the high fluid pressure in the brain. I need advice which method will be the best.
+summarized question 2: What is the procedure for inserting a shunt to relieve high fluid pressure in the brain?
+##
+query 3: Do they still use cow bone for a L5-S1 fusion, or what are the options. The disk is bulging and herniated and had to go.  Please advise. 
+summarized question 3:

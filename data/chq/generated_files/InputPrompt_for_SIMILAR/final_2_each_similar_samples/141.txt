@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 1: What are alternatives to phenobarbital?
+##
+query 2: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 2: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 3: I have MDS, I cannot hold on to copper? I'm on 10 mgs oral per day. I receive 8 mgs of IV  5 days per month with my Vidaiza chemo therapy. I have readings of 58 to 62 on average. I have had one 71 and one 81 normal. The doctors don't know why or who to contact? I would like Your input for where to get help?
+summarized question 3:

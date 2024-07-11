@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 1: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 2: Tri-Gem Neuralgia.  I had an episode with the tri gem 2 days after i was rear-ended.  It was incredible pain that lasted 10 days. In the months following i had 2 decompression surgeries. the 1st one didnt work, was pain free for about 90 days.  The second syrgery 6 months later left me with a numb face but no tri gemn pain. Could the tri gem have been brought on from the trauma to the head from the car accident? I had been diagosed prior to  the accident, but was not experiencing any symptoms for a long time.  Then the accident and  1 1 /2 days later im in a full blown episode. Please let me know what your thoughts are.
+summarized question 2: Can symptoms of trigeminal neuralgia be exacerbated by head trauma?
+##
+query 3: I was on a 10 day (2 pills per day) regimen of Amox & Clav (876mg/125 mg) for bronchitis.   Two days after I finished, I developed hives on my back (left side) and right side of my face.  Is this a post use side effect?
+summarized question 3:

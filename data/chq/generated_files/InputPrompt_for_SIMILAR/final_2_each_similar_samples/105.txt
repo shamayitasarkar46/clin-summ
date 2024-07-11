@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: my infected herpes virus simplex 2 so that i can make a new baby MESSAGE: dear ! if some one are positive herpes simplex gentle, whether they can make a baby, if his wife never get the virus before due to using condom from her husband They can choose the sperm to make the IVF to preventing the virut transmit for his wife and his baby when him new born
+summarized question 1: Can herpes virus simplex 2 be transmitted through sperm?
+##
+query 2: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 2: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 3: I have herpes simplex virus I want to be cured 
+summarized question 3:

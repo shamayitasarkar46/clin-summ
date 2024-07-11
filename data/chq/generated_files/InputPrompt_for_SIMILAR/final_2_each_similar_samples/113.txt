@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: May I can find a cure for my case in therapeutic your center that I have an infection chronic granulomatous Mastitis take and how much the treatment period. Please advise me of the post by you.to this my Email Note : that I have all the medical reports and tests for this disease ??? this case of my wife and can be send your comment by below E-mail
+summarized question 1: What are the treatments for chronic granulomatous mastitis?
+##
+query 2: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 2: Where can I find information on SIDS?
+##
+query 3: Hi! I would like to know if I can have some  info mail to me on Sarcoidosis
+summarized question 3:

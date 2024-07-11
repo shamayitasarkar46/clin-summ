@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ENT specialists & esophogeal disorders.  Would you kindly be able to recommend a specialist(s) in the DC area or East coast in the above medical field for my mother. I'm at a loss and  would greatly appreciate your help. Thank you for your consideration.
+summarized question 1: How can I find physician(s) in the DC area who specialize in esophageal disorders?
+##
+query 2: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 2: What are the treatments for loss of appetite?
+##
+query 3: Good day; I would like to know who to contact for treatment of atopic eczema or if you know any clinic that can help me, I know someone who suffers from it and I would like to help her improve the disease. Thank you in advance Regards
+summarized question 3:
