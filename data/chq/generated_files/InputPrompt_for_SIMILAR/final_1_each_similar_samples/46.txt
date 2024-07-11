@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 1: What are the treatments for loss of appetite?
+##
+query 2: hi   i have NYSTAGMUS plm lAST 3 years  i want to know that any possibility to resolved my plm thanks tell me the right medicine i need your help
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 1: What are the symptoms of complex regional pain syndrome?
+##
+query 2: Good morning, I'm not sure where to start with this so am hoping you could point me in the right direction please? My husband recently saw a specialist in relation to his elbow. He was told he would need an elbow reconstruction. The specialist mentioned that someone in the US had made something to fix this problem but even though it was patented, it didn't sell so it is now not made anymore. Would you know what this was and called, and who I could get in contact with about it please? We live in  Australia. My husband is a keen sportsman and is not taking this news very well as he's been told he won't be able to play sport again. Any help would be greatly appreciated.
+summarized question 2:

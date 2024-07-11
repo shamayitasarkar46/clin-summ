@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: MMR second dosage by mistake MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 1: Is an extra dose of MMR vaccine harmful?
+##
+query 2: SUBJECT: MMR second dosage by mistake. MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 2:

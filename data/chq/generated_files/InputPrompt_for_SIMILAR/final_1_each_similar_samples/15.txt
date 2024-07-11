@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 1: What are alternatives to phenobarbital?
+##
+query 2: what are the possible side effects of not taking olanzapine after having tanker it for a long period of time
+summarized question 2:

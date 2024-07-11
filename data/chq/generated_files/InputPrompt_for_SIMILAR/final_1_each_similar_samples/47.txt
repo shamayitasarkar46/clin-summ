@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 1: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 2: I have a detached cruciate ligament in my left knee. If I submit to reconstruction surgery, how long will recovery take? Because of my age (over 90) I need to remain as physically active as possible. I live alone. My injury occured several years ago, but only recently has been causing me major discomfort.
+summarized question 2:

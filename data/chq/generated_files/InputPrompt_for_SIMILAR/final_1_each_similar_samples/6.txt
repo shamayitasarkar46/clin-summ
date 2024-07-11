@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Hello, my name is [NAME] , and I have Fibromyalgia terribly. My father has MS, and my mother's sister has been diagnosised with ALS. I was wondering if that would have any bearing on why my Fibromyalgia is hit me so hard. I have been experiencing s/s since as far back as 3rd grade that medical records can show and I'm 40 years old now. By the time I was 18 I was told I need psychiatric help because I was to young to complain like an 80 year old. Thanks [NAME]
+summarized question 1: Is fibromyalgia hereditary and related to multiple sclerosis and amyotrophic lateral sclerosis?
+##
+query 2: I have myclonus as well acute respiratory distress syndrome and sleep apnea with painful left temporal pain; I actually raise for sleep start holding my left temporal and saying, ouch!! I experience in the same occurrence..all three hallucinations regarding wake sleep (audio tactile and visual). I have expressed my concerns to numerous neurologist and they tell me It's Functional. Should I be concerned?
+summarized question 2:

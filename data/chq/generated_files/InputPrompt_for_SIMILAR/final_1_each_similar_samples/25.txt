@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 1: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 2: i am post menopause for about 18 years and i have been bleeding for about a month why
+summarized question 2:

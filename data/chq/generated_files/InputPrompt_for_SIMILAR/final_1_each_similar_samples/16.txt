@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 1: How is post-polio syndrome diagnosed?
+##
+query 2: if you exposed to two positive covid people an your results negative but you have symptoms what are state local cdc recommendations for quarantine
+summarized question 2:

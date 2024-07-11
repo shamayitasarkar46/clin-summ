@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ClinicalTrials.gov - Question - specific study. Do you have any more indepth information regarding pseudocholinesterace deficiency? My son 28 and myself 56 have this problem and we both have systemic muscle spasms. cramps contractions. Most seem to be caused by knots or trigger points. I assume this has something to do with this deficiency because it deals with neuro transmissions correct. Anyway we are looking for relief. The muscle relaxants help a bit but the knots do not go away and so the pain is still there at a deeper level. The doctors and neurologist have no idea. Thank you. [NAME]
+summarized question 1: Where can I find information on pseudocholinesterase deficiency icluding treatment?
+##
+query 2: co q10 how effective and side effects for blood pressure treatment? Cider vinegar?
+summarized question 2:

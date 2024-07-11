@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: stomach pain.  My son of 13y is facing upper abdominal pain siverly in the mornig time and slightly after eating lunch and in the night time after dinner.kindly i went five doctors and ultra scan also but problem not resolved.pls advaice me what to do.
+summarized question 1: Where can I find information on upper abdominal pain, including diagnosis and treatment?
+##
+query 2: I have been suffering from digestive problems for 30 years. It has recently flared up bad and I am looking for ideas to try to heal. I was diagnosed with IBS at 13.   I was curious about the servings in the C-IBS Formulation. How's much of each in mgs? How many times a day? I want to take a more holistic approach as I'm going to be 42 and i am tired of suffering and the side effects of my anti nausea meds that left me with an eye tic. If any information can be given I would be greatly appreciative.
+summarized question 2:

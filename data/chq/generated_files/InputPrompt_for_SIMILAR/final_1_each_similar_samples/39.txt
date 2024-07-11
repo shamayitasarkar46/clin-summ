@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 1: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 2: Our family will go to Manila and Thailand in December and January. Please recommend any vaccinations that we should have. Thanks!!!
+summarized question 2:

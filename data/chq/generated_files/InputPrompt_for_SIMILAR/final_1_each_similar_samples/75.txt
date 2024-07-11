@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Blood in cough MESSAGE: before some time i vomit. and blood came in cough with vomit.  what to do . it happens 4-5 times.  when i ask to doc reply that its throat infection.  please advice home remedy for this.
+summarized question 1: What are the treatments for coughing up blood?
+##
+query 2: SUBJECT: vomiting blood and blood clots, ( pulmonary embolisms). MESSAGE: Is it possible to vomit blood, with abdominal pain, fatigue that caused them to sleep two days, left sided chest pain ( left upper ribcage area), and suffer from Bilateral Pulmonary Embolism with Left Lower Lobe Infarction four weeks later? The blood was bright red, about one cup.
+summarized question 2:

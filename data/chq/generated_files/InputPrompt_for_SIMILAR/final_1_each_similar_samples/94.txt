@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Short Height Of My Daughter MESSAGE: My Daughter is 12 years old and her height is 105 cm and weight is 15 kg. I want to consult about her growth overall . can you suggest some medicine or anything else.
+summarized question 1: What are the treatments for delayed growth?
+##
+query 2: SUBJECT: Small head. MESSAGE: I am [NAME], 17 years old girl my head size is small then average.  Enough small that everybody can  notice.  My question is that wall it grow to average.  Or i have to face this throughout my life
+summarized question 2:

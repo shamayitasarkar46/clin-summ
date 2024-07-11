@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 1: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 2: did anyone have this and does it require surgery? my mri says forminal stenosis from bone spurs c4,5,6. my nerve test shows severe nerve compression c7,8. i’m in so much pain, mostly my arm and shoulder and leg. waiting to see the pain specialist to see what’s next. would love to know what you guys think is required..
+summarized question 2:

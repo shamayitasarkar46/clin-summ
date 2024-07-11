@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: missed dose MESSAGE: I missed taking my thyroid med this morning.  I usually take it when I first get up and then wait an hour before I eat.  I ate breakfast and remembered that I had not taken it.  How long after breakfast should I wait to take it?
+summarized question 1: How long should you wait to take thyroid medication after eating?
+##
+query 2: I’m 30 years old and when I was 23 my period wasnt coming every month, and I still don’t get my period , last time I got it was 4 months ago and I’m really worried.
+summarized question 2:

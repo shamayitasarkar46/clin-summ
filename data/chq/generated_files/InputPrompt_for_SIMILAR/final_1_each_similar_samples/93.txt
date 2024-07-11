@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 1: What are the ingredients of Glyburide and is it gluten free?
+##
+query 2: SUBJECT: Gluten Inquiry. MESSAGE: My medication has been replaced due to discontinued of my prior manufacture.  I am wanting a response and definite answer if your corporation can give a statement in easing my thoughts on gluten free.  I take the Esterified Estrogens, Methyltestosterone full strength dark green table with 1490 labeled on it, I have looked up the ingredients and found an ingredient that shows gluten related. Can you please secure my worries and confirm if this medication is gluten free or if it does contain gluten. Thank you, R
+summarized question 2:

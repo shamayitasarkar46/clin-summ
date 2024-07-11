@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 1: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 2: SUBJECT: TORCH  INFECTION. MESSAGE: I have torch infection in my body please suggest me. What can I do..  My first baby was very injured..two big hole in heart  and  no wolv,  now my baby no more.. Plz suggest me ... If I will pregnant and it's sure my baby will b born healthy ?
+summarized question 2:

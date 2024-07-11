@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Genetic testing.  My mother in law is in the last stage if lung cancer and only has days to live.  My question is...testing her and comparing her tests with my husbands and his sisters test help to determine if it is genetic?  My mother in law ([NAME]) and her mother and her mithers sister both had lung cancer and none if them were smokers.  I'm real worried about my husband getting lung cancer now and I want find out what we can do to protect him.Thank you,[NAME]
+summarized question 1: What are the genetic factors for lung cancer?
+##
+query 2: Someone I know discovered she had TB in the past (unknowingly).  I don’t know if she had TB disease or a TB infection.  She believes she caught it from her aunt who worked as a dietician at a TB sanitarium.  The aunt DID NOT have TB.  Is this even possible?  Thanks very much.
+summarized question 2:

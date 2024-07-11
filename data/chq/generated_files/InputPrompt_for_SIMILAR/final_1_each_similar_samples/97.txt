@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 1: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 2: MESSAGE: dear doctor i am 22 years old stident from Bhutan , presently studying in India. how ong does it take to develope a tseticular cancer? is this curable? can i have a baby in future? ll this ffect my fertility after the treatment?
+summarized question 2:

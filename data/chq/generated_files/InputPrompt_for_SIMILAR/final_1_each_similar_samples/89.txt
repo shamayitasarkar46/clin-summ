@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Administration MESSAGE: Is there a reason that the lovenox has to be given in the SQ of the abdomen? Why not other SQ sites?
+summarized question 1: Why is lovenox administered in the abdomen?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information. MESSAGE: I have a question about Lofexidine. do you have to be on suboxone and orbuprenorphine to use it and is it approved in the [LOCATION] yet?
+summarized question 2:

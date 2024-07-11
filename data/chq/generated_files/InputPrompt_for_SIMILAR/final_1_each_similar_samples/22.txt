@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 1: What are the causes of and treatment for scrotal rash?
+##
+query 2: scrotum swelling scarring from water retention what ointment, cream to treat
+summarized question 2:

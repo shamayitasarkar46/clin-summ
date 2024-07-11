@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 1: What are the treatments for serratia marcescens infection?
+##
+query 2: I have chronic renal disease and worry that Magnesium silicofluoride treatment of moth infestation of a large living room rug will be harmful to my health. Is this true? If the rug is treated in house how long before any toxic fumes or skin contact would be a hazard. Appreciate any help you could provide.
+summarized question 2:

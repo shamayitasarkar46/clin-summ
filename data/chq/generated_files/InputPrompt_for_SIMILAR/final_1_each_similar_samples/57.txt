@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Optic nerve artrophy MESSAGE: Good afternoon,  I am [NAME] from [LOCATION]. For my nephew is optic nerve artrophy about 2-3 years. He is 8 years old. One eye is dead now, other eye he can see about 20 percentage. No one doctor can`t help him in [LOCATION] (Europe).  Could You view his health history and to give the opinion about my nephew health situation and You will have proposition how we can help him.  I would be very grateful for Your.  Best regards,  [NAME] from [LOCATION].
+summarized question 1: What are treatments for optic nerve atrophy, and how can I find physician(s) in Europe who specialize in it?
+##
+query 2: recently my son took an eye examine and  he had 20/40 in one eye and 20/25 in the other would he need glasses? then when they continue the eye examine they said the Fundus could not be visualized in either eye. I just want some understanding on both situations.
+summarized question 2:
