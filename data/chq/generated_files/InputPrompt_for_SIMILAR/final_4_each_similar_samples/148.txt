@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Acetaminophen inactive ingredients MESSAGE: My wife is severely allergic to Titanium Dioxide.  It is not listed in the inactive ingredients for Equate or Tylenol Acetaminophen on the package or on your page but other sources on the Internet claim it is used to coat the tablets to make them easier to swallow.  Are they coated with Titanium Dioxide and if so why is it not listed as an inactive ingredient? Thanks, [NAME]
+summarized question 1: Is titanium dioxide an inactive ingredient in Equate acetaminophen or Tylenol acetaminophen?
+##
+query 2: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 2: What are the ingredients of Glyburide and is it gluten free?
+##
+query 3: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 3: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 4: MESSAGE: I have celiac.disease and.need.to start.Coumadin (Warfarin). Also I'm very allergic to food coloring,.dyes.  What manufacturer has gluten and dye free warfarin ? Please help me. I  need to start taking it tomorrow.  Thank you very , much. [NAME]
+summarized question 4: What are the ingredients of warfarin and it is gluten and dye free?
+##
+query 5: Started doing the smoothies, i am allergic to chocolate, green tea today had to use chocolate but did not add i. What do i do. Allergic to all caffeine related items. Please respond.
+summarized question 5:

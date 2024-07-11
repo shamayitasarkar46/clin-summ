@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Customer Service Request. I am looking for recent information and treatment for Ledderhose Disease also know as Plantar Fibromotisis. I would be interested in doctors specializing in this disease.
+summarized question 1: Where can I find information on Ledderohose disease, including the latest treatments, and how can I find physician(s) who specialize in it?
+##
+query 2: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: Dear sir/ madam. I am a patient suffering from Friedreich's ataxia and i heard there was a medicine for it. In 2009 and since we are looking for the medicine kindly help on this and I have DNA report could You please help us on this as there are two people respective age 22 years and 24 years suffering from it. Looking for your help on this ASAP and please let us know when the medicine will be there in market and attaching two files for your reference
+summarized question 2: What are the treatments for friedreich's ataxia?
+##
+query 3: SUBJECT: Stem Cell Therapy for Muccular Dystrophy MESSAGE: I have read the Medline Abstracts 98,99 of 'Limb-girdle muscular dystrophy'. Please could you tell me how I contact a specialist to enquire further with this...Thank you...[NAME]
+summarized question 3: How can I find physician(s) who specialize in limb-girdle muscular dystrophy?
+##
+query 4: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 4: What are the treatments for LGMD?
+##
+query 5: Hi, Im writing on behalf a friend of mine's daughter who has Metachromatic leukodystrophy (MLD). They are currently overseas and they are interested of finding more info in regards to the treatment you provide. Please let me know who do I contact for furhter information on the treatment.
+summarized question 5:

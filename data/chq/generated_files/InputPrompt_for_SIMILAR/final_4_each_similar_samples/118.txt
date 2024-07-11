@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Childhood suffers of lead poisoning as adults MESSAGE: Hi.  My name is J[NAME]  When I was three years old, I suffered from mild/moderate lead paint poisoning.  I'm now 38 years old and looking for ways to treat the long-term symptoms that originated with the lead exposure.
+summarized question 1: What are the long-term effects of lead poisoning, and how can they be treated?
+##
+query 2: If a 60 yo male patient has a level of cobalt or chromium  over the highest acceptable level, can that possibly create blood in urine? thank you
+summarized question 2: What are the causes of blood in the urine?
+##
+query 3: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 3: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 4: "SUBJECT: Degenerative bone &disk disease MESSAGE: Like to know more about Degenerative Bone &Disk Disease..I have had it for over 10 yrs..I'm losing muscle in my legs,at the point I can only walk about 30-40 steps my his freeze up with pain &pressure,hince I need a wheelchair,need more information on this disease...healthcare providers ""need surg.don't need surg"" I'm stuck in small town America....O I'm 59yrsold...any info would be apprec..."
+summarized question 4: Where can I find information on degenerative disc disease, including treatments?
+##
+query 5: I need to find out about chromium, cyanide copper, acid copper, nickel, and lead build up in the human body, how it affects it,long term health, if it can be removed, Thank you.
+summarized question 5:

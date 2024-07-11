@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 1: What are alternatives to phenobarbital?
+##
+query 2: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 2: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 3: SUBJECT: tongue and throat MESSAGE: hi, i'm having some difficulties with tongue and throat infection... i contacted my doctor three times already, at first he gave me Dactarine to put it on my tongue. and yesterday once again i visited him and i told him the medication you gave me does not work, and my infection is getting worst, he wrote a recipe for me to get terbinafine 250mg tablet. i'm using them but then today i wake up and read some of the thrush information that you guys provide and you say 'when having thrush it is not good to have any atibiotic but that is what he's giving me and he didn't run any tests on me yet. please tell me what should i do next ?
+summarized question 3: Where can I find information on throat infections, including diagnosis and treatment?
+##
+query 4: SUBJECT: Blood pressure MESSAGE: Take blood pressure med atenolol 50mg, blood pressure running 91/59 HR65, most of the time lower in the upper to mid 80's.  My doc is not in for 3 day's.  What can I do to raise it.  I am on anxiety, pain & muscle relaxers for a medical condition in my neck and legs that I can't have surgery on again.  Please how do I get my pressure back up until I can get to my doctor?  I am so tired and can't get rid of the headache.
+summarized question 4: What are the treatments for low blood pressure?
+##
+query 5: I have MDS, I cannot hold on to copper? I'm on 10 mgs oral per day. I receive 8 mgs of IV  5 days per month with my Vidaiza chemo therapy. I have readings of 58 to 62 on average. I have had one 71 and one 81 normal. The doctors don't know why or who to contact? I would like Your input for where to get help?
+summarized question 5:
