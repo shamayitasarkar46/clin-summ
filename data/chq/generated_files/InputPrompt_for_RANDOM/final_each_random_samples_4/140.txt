@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 1: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 2: SUBJECT: obese daughter MESSAGE: i'm a mother of 5 children. My son has leukemia who is the youngest. My daughter is 12yrs old and is obese. i dont know where to turn but i need some professional help. my daughter has always suffered  with weight issues. while i deal with my 11yr old son at [LOCATION] im so scared of loosing my daughter. Shes already been suicidal and her grades are so bad. please i need help. you can contact me anyt time
+summarized question 2: What resources are available for overweight children with suicidal behavior?
+##
+query 3: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 3: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 4: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 4: What are the causes of testicular pain?
+##
+query 5: My son was recently diagnosed with Elephantiasis Nostras Verrucosa in his spine. it was resected successfully. Im seeking additional literature regarding these type of cases specifically.  My son is 19, and has been determined legally blind from the hydrocephalus that occurred. Are there any other incidences of this? please provide any relevant info, or links. I am a Mom looking for info!! Please help!!
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 1: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 2: ClinicalTrials.gov - Question - specific study. my son is 17 years old he has omental panniculitis (weber cristian disease) can your institute help me to suggest what is this disear and how it care   if you need i can send the full detail
+summarized question 2: Where can I find information on weber christian disease, including treatment for it?
+##
+query 3: ClinicalTrials.gov - Question - general information.  where can I find someone or some place in Boston Massachusetts to get thahlidomide treatments for melanoma, skin cancer [NAME], [LOCATION]
+summarized question 3: How can I find physician(s) or hospital(s) in Boston who specialize in thalidomide treatments for melanoma?
+##
+query 4: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 4: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 5: I have RA and am suffering from pain and it is attacking my joints...I have read about certain bacteria that can contribute to the RA onset. Please send me any info on any botanical medicines (like those successful from Australia)...and if you could send me samples I would certainly try them as part of human studies on RA.
+summarized question 5:

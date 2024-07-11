@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Need glucosamine sulfate not containing shellfish meats MESSAGE: Can you please help me? I have been taking a glucosamine sulfate product with MSM for my arthritis. My nutritionist warned me I could develop a shellfish allergy if it is made from the shellfish meat. The customer service of the product that I am taking confirmed their product is made from the shellfish meat of 3 crustaceans. Can you direct me to how I can find this product not made from the meats, but the shells instead. (I don't want the vegetarian version because it is so hard on the stomach). I appreciate your help.
+summarized question 1: What glucosamine sulfate is manufactured only from shellfish shells?
+##
+query 2: SUBJECT: Subcutaneous retrocalcaneal bursitis MESSAGE: Haglund's deformity of the calcaneum.  I have this problem.  Can you please help to overcome this?
+summarized question 2: Where can I find information about Subcutaneous retrocalcaneal bursitis and Haglund's deformity of the calcaneum, specifically treatment information?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My dear friend [NAME], 52 years, [LOCATION], recently had both legs amputated above knee. Is there any possibilities in making a miracle of giving her real legs  again?  I just had watched your television program and can't believe I had forgotten about a man I know having half of his jaw removed due to chewing tobacco looks amazing with barely a scar his jaw grew back and it just dawned on me his newline had transformed over the last year to looking very normal, that it was used on him. I have seen him a half dozen times. Wow ! [NAME] has been pretty much completely healed for awhile but has had some trouble with her left one. Phantom feelings are there. Please respond and thank you.  [CONTACT]
+summarized question 3: Is there a treatment to transplant or make amputated legs grow back?
+##
+query 4: SUBJECT: Gastroesophageal Reflux Disease MESSAGE: Can GERD BE CURED? I AM SUFFERING FROM THIS DISEASE FOR ALMOST THREE YEARS NOW.I HAVE GONE TO MANY HOSPITALS  BUT STILL CAN'T BE CURED.I HAVE BEEN GIVEN OMEPRAZOLE CAPSULES MANY TIMES.PLEASE HELP ME.
+summarized question 4: What are the treatments for GERD and can it be cured?
+##
+query 5: where do i go to find information on familial dysautonomia. is there  an organization out there on the subject. all the websites ive gone to say dns error...
+summarized question 5:

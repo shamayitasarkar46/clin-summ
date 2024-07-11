@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: PROLIA SIDE EFFECTS MESSAGE: HAD 2ND INJECTION IN MARCH  LOTS OF RANDOM SIDE EFFECTS  HAD HEART RULED OUT WAITING FOR ESOPHIGUS BIOPSY REPORT.  MEANWHILE HEART AND MOUTH, NECK SYMPTOMS PERSIST.
+summarized question 1: What are the side effects of prolia?
+##
+query 2: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 2: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 3: MESSAGE: I was told not to take the shingles vaccine..i have many healthe problems and many allergies…
+summarized question 3: When is the shingles vaccine contraindicated?
+##
+query 4: SUBJECT: Responsible for the Research on stem cells and tissue regeneration MESSAGE: Dear colleague Good day, my name is [NAME], 48, doctor; I was affected by a bladder cancer where the removal of the organ was needed. I read about the work of his lab and I wonder if there is interest or any possibility of using pluripotent stem cells redo a piece of fabric of my bladder, for so I can do a transplant with acellular matrix and repopulate this matrix with these modified stem cells . I'm using bricker, which depress me, I lost my self esteem, lost quality of life and already thought to suicide. Until that came the hope that transplantation of acellular matrix.  I am looking forward to answer, anxious and carefully.   [NAME] CRM88878  I just can not understand the difficulty in finding a laboratory or institution that can solve this problem as the peritoneal layer of the bladder peritoneum is I already own, the inner layer is smooth muscle, which can also be acquired via endoscopic biopsy of the stomach or a arterial tissue and the layer It is coated internally by internal polymorph or transitional epithelium which can be acquired from another organ. It would just replicate small pieces so that after implanted in the acellular scaffold covered.
+summarized question 4: What is the latest research on using pluripotent stem cells and acellular matrix for  bladder regeneration?
+##
+query 5: Please, please let us know where to get information and treatment for COLLAGENOUS GASTRITIS.  Our 15 year old daughter has been suffering from severe abdominal pain, vomiting- almost daily/sometimes multiple times daily, lethargy,  and not able to live life for just 9.5 weeks now.  She was diagnosed with biopsy results from her endoscopy this week.  This is such a rare disease- we are not sure what to do.  Her peds GI has heard of this, but not  able to answer all our questions, as there seem to be no answers- no cure & no know cause.
+summarized question 5:

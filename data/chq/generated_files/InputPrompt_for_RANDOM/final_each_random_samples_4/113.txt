@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Ingredients MESSAGE: Pleease email  me a llist of 100%, all, of the ingredients iPerioMed, .63% floride concetrate Oral rinse,, alcohol rinse. Thank you!  [NAME]
+summarized question 1: What are the ingredients of PerioMed 63% fluoride concentrated oral rinse?
+##
+query 2: Hello dear sir/madam I just want to knw if any cancer person had all treatment done then cancer gonna be again or not.how long person can live after cancer treatment.please reply me as Soon as possible. Thank you Sent from my iPhone
+summarized question 2: What are the survival and recurrence rates for cancer?
+##
+query 3: Prothesis to assist Facioscapulohumeral muscular dystrophy. My 22 yr old grandson has Facioscapulohumeral muscular dystrophy. Has weak arm & hands curl inward. He has difficulty picking up a plate or opening doors. Some type of shoulder harness with support for arms could help. Something electrical like limbs for amputees. Is anything being considered in this area?
+summarized question 3: Are there assistive devices for Facioscapulohumeral muscular dystrophy?
+##
+query 4: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 4: Can magnesium be taken with orange juice?
+##
+query 5: Hi! I would like to know if I can have some  info mail to me on Sarcoidosis
+summarized question 5:

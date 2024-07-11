@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Home resources for AMD people MESSAGE: What specific resources are available for an elderly male living by himself at home?  My father in law is 85 years old, lives alone and has macular degeneration.  Looking for visual aids to assist him around the house.
+summarized question 1: What resources are available for elderly with age-related macular degeneration?
+##
+query 2: "SUBJECT: use of spacer with inhaler/warning sound MESSAGE: I've just read the instructions for using a spacer with my symbicort inhaler.  What if I breathe in according to directions and there is a warning ""whistle"" or ""sound?  What am I doing incorrectly?"
+summarized question 2: How do I use a spacer with the symbicort inhaler?
+##
+query 3: Hip replacement surgery My mother is 76 y.o. and having a lot of pain in her left hip joint.She was told that she needs a new joint. She also have a Parkinson disease (main symptom at this time is tremor in a left wrist). I would like to know if NIH providing hip replacement surgery for the patients like her, clinical trials?  Thank you.
+summarized question 3: Are there clinical trials for hip replacement with Parkinson's disease?
+##
+query 4: SUBJECT: Short Height Of My Daughter MESSAGE: My Daughter is 12 years old and her height is 105 cm and weight is 15 kg. I want to consult about her growth overall . can you suggest some medicine or anything else.
+summarized question 4: What are the treatments for delayed growth?
+##
+query 5: I was on a 10 day (2 pills per day) regimen of Amox & Clav (876mg/125 mg) for bronchitis.   Two days after I finished, I developed hives on my back (left side) and right side of my face.  Is this a post use side effect?
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Pentoxifyline MESSAGE: My husband mistakingly took a pack of 5 in the place of his morning medacation. Is he in any danger? Is there something i should do. He just feels sick at his stomach.
+summarized question 1: What is the treatment for Pentoxifyline overdose?
+##
+query 2: SUBJECT: Airborne contact dermatitis from methylchloroisothiazolinone in wall paint. Abol MESSAGE: Hello,  I've read this article (http://www.ncbi.nlm.nih.gov/pubmed/10750849) because I have a dermatis caused by Airborne contact from methylchloroisothiazolinone in wall paint. I knwo since 1 year that I have allergie of methylchloroisothiazolinone but I didn't know it could be airborne so afte rmy husband had paint the bedroom I have begin to have dermatis, eczema and I look after the cause so I heard about airborne contact dermatitis  from methylchloroisothiazolinone in wall paint. I want to know how many times the properties of methylchloroisothiazolinone are in the wall paint ? It is enough to aerate the room and how many time ? Or should we remove the paint on ceiling, wall and painted cabinet ? I read your article about  inactivation by sodium bisulfite, how can we do that ? thanks a lot for your help because none give me answer at hospital about these questions. excuse me for my english!! Best regards,
+summarized question 2: What are the treatments for contact dermatitis from methylchloroisothiazolinone in paint?
+##
+query 3: Genetically Engineered Foods. I am a high school student currently in a science class called [ID].  During my research, I came across this web site that has helped me better my knowledge on the topic of genetically engineered food.  I was wondering if you could tell me about the risks that come with genetically engineered food and how the modification is actually conducted.
+summarized question 3: What are the risks that come with genetically engineered food, and how is the modification actually conducted?
+##
+query 4: SUBJECT: Hematoma following basal cell carcinoma MESSAGE: Is this common after surgery.  What is the cause?
+summarized question 4: What causes hematoma after surgery?
+##
+query 5: I am a 65 yr old woman who has just recently found out that I have had Hirschsprung's Disease all of my life. I have been going to one doctor after another for 45 years trying to find out what is wrong with me. I FINALLY found one who knew. Can you give me more information about HD in adults?  Mine is not adult-onset, I've had it for 65 years but did not know what it was.
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Subcutaneous retrocalcaneal bursitis MESSAGE: Haglund's deformity of the calcaneum.  I have this problem.  Can you please help to overcome this?
+summarized question 1: Where can I find information about Subcutaneous retrocalcaneal bursitis and Haglund's deformity of the calcaneum, specifically treatment information?
+##
+query 2: SUBJECT: vaginal rashes after periods that leads to vaginal itching MESSAGE: period rashes proceed to vaginal itching. then it develop fungal infection with thick white discharge. i then take flucanazole (antifungal)which cure it. but m worried of taking allopatic medicines. pls tell me what primitive or traditional methods do i use to avoid it. i also have a sensitive skin.
+summarized question 2: How can I prevent vaginal skin rashes and fungal infection?
+##
+query 3: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 3: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 4: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 4: How can I find a doctor to perform tubal ligation?
+##
+query 5: Should I have ultrasound on left shoulder.  I have a defribulator (left side)? I look forward to your advice. Thank you very much.
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: neurosyphilis.  how can someone have neurosyphilis and there partner not get syphilis
+summarized question 1: Are partners of people with neurosyphilis at risk for syphilis?
+##
+query 2: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 2: What are the treatments for nocturia?
+##
+query 3: SUBJECT: Daily Fluid Intake MESSAGE: What is the significance of keeping my daily fluid intake at @2 liters per day?  Why that particular amount?    I have been diagnosed with Congestive Heart Failure.  Thanks
+summarized question 3: For Congestive Heart Failure, what is the significance of keeping my daily fluid intake at 2 liters per day?
+##
+query 4: SUBJECT: bundle blockage MESSAGE: could you please tell me what a bundle blockage is. what are the symptoms. what is usually done for this?    Thank you
+summarized question 4: Where can I find information on bundle branch block, including symptoms and treatments?
+##
+query 5: my daughter has lichen sclerosis and we are wondering if you have any research on stem cell treatment?  She now has it effecting her ureatha and the Dr she is seeing  has no idea how to treat it, as she has never seen it do this.  She was diagnosed when she was 22 with a severe case of LS and has had little relief with current treatments.  Thank you for your time in this matter.  Also are there any clinical trials coming up she may participate in?
+summarized question 5:

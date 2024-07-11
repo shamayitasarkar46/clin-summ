@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Achondroplasia research.  Hello, We are students from [LOCATION] and we are doing a biology project of genetic diseases. We chose Achondroplasia as our disease to research. We have a few question and we are hoping you could answer them. Our questions are, can you tell if your child will have Achondroplasia when you are pregnant? When do people usually come in when they think something isn't right with their child? what are the worse cases of Achondroplasia you've ever seen? Thank you in advance. sincerely, [NAME]
+summarized question 1: Where can I find information on achondroplasia, including prenatal diagnosis and prognosis?
+##
+query 2: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 2: What options are available for scar repair?
+##
+query 3: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 3: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 4: SUBJECT: Peyronies Disease - Questions MESSAGE: Dear sir/Madam  my name is [NAME]. i am 16 years old and i live in [LOCATION]. i have a couple of questions about Peyronies Disease.  i have recently discovered about this ... STD (or should i call it a disease?) and i noticed that i also have a bent penis , but none of the following points , which are on the Peyronies Page , match my Penis (ofcourse besides the bend). so i was wondering. is it also possible to get a bent penis just from masturbation? because if that is so , then i may know where the problem lies with me (i may have to switch hands then :/ )  i hope you can answer my questions. hope to hear from you soon.  -[NAME]
+summarized question 4: What causes a bent penis?
+##
+query 5: Hello, I receive ssi each month. I have chronic lymphedema unfortunately.  I was reading on website that liposuction has helped.
+summarized question 5:

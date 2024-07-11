@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: cirrhosis of the liver question MESSAGE: I have cirrhosis of the liver.  Do high ammonia levels effect breathing?  I have spells of not being able to breath very well. No pain.
+summarized question 1: Can high ammonia levels in the blood affect breathing?
+##
+query 2: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 2: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 3: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 3: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 4: SUBJECT: Chromosomes 6 MESSAGE: i had a son born with a very small part of chromosome 6 missing , caused several surgeries and then death . But I don't find any information , even similar to his . Is there anywhere else I can look for Any information on what would cause this piece to be missing
+summarized question 4: What could cause part of chromosome 6 missing?
+##
+query 5: I had the colonoscopy, stool specimen test twice.  However I have had heavy diarrhea three or 4x a day. It often looks like a black mud slide. I need stronger anti diarrhea meds as I now take 6 to 8 a day now.  It is the only way I can control it. I am planning a trip. I want some really strong meds to keep this in control for my trip.  Thank you
+summarized question 5:

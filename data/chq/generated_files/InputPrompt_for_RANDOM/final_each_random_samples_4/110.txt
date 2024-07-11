@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Optic nerve artrophy MESSAGE: Good afternoon,  I am [NAME] from [LOCATION]. For my nephew is optic nerve artrophy about 2-3 years. He is 8 years old. One eye is dead now, other eye he can see about 20 percentage. No one doctor can`t help him in [LOCATION] (Europe).  Could You view his health history and to give the opinion about my nephew health situation and You will have proposition how we can help him.  I would be very grateful for Your.  Best regards,  [NAME] from [LOCATION].
+summarized question 1: What are treatments for optic nerve atrophy, and how can I find physician(s) in Europe who specialize in it?
+##
+query 2: SUBJECT: Parkinson's Disease MESSAGE: Has etanercept been used to assist sufferers of Parkinson's Disease?  If so, how successful was this? Thank you
+summarized question 2: Is etanercept a treatment for Parkinson's disease, and how did it perform?
+##
+query 3: W What are the causes of pulmonary artery sling? Is it genetics or what?my 10 month granson is having surery on tuesday at little rock hospital in ar.
+summarized question 3: What causes pulmonary artery sling?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: what can happen if you donot use your humifier or moisterizing equipment when  you have a thractoastamy tube? (forgive my spelling)
+summarized question 4: What are the adverse effects of not using a humidifier with a tracheostomy tube ?
+##
+query 5: I am looking for information regarding post concussion syndrome and occipital/trigeminal neuralgia.  I had a couple of concussions when I was a child and now have both neuralgias.
+summarized question 5:

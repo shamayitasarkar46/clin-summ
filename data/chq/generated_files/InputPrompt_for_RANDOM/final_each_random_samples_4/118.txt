@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 1: What are the causes of nipple discharge?
+##
+query 2: SUBJECT: Absence seizures MESSAGE: Does any damage occurre from these spells. Mental or physical
+summarized question 2: What are the long-term effects of absence seizures?
+##
+query 3: SUBJECT: CHUNT IN THE BACK MESSAGE: Can the chunt be done from the vertebra instead of the cranium. My child needed a chunt due to the high fluid pressure in the brain. I need advice which method will be the best.
+summarized question 3: What is the procedure for inserting a shunt to relieve high fluid pressure in the brain?
+##
+query 4: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: Dear sir/ madam. I am a patient suffering from Friedreich's ataxia and i heard there was a medicine for it. In 2009 and since we are looking for the medicine kindly help on this and I have DNA report could You please help us on this as there are two people respective age 22 years and 24 years suffering from it. Looking for your help on this ASAP and please let us know when the medicine will be there in market and attaching two files for your reference
+summarized question 4: What are the treatments for friedreich's ataxia?
+##
+query 5: I need to find out about chromium, cyanide copper, acid copper, nickel, and lead build up in the human body, how it affects it,long term health, if it can be removed, Thank you.
+summarized question 5:

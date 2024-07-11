@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Stroke mobility equipment MESSAGE: Husband has had 3 strokes since 1990.  He refuses to take anymore maintenance therapy.  It is becoming more challenging to help him be mobile.  There does not seem to be any source to assist me in learning what equipment, etc.  I could or should get to help him and to help me in my role as caregiver.  Any help you can give would be much appreciated!
+summarized question 1: Where can I find information on stroke resources, including mobility equipment and caregiver support groups?
+##
+query 2: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 2: What are the causes of nipple discharge?
+##
+query 3: TMAU.  Please find a way to research TMAU And how to cure it with gene therapy. I'm tired kg smelling like fish/feces And getting talked about everyday of my life.
+summarized question 3: What is the latest research on TMAU and treatments for it?
+##
+query 4: SUBJECT: Snhl MESSAGE: I am searching for sensorial hearing loss cure. My daughter is one and half months now. Please help me
+summarized question 4: What are the treatments for sensorineural hearing loss?
+##
+query 5: Hi,  maybe you can point me.  My Uncle, born in 1908 was made permanently bald by xrays for a back condition.  He lost ALL his hair over his whole body.  It that possible?  I assume  he had back issues in his 20s.  Have you ever heard of a case like this.  He lived to be 96 years old, never married and always wore a hairpiece.
+summarized question 5:

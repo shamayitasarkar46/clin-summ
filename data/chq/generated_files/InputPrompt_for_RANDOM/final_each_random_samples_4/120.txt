@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: canadida of the esophagus MESSAGE: I cannot locate any information on this condition: causes, symptoms, treatment, etc. I have had it in the past and suspect that I have it again. I would like to research this condition, but internet search only comes up with cancer. I realize that my case is not addressed in your reply. I am simply seeking general information.
+summarized question 1: Where can I find information on candida of the esophagus, including causes, symptoms, and treatment?
+##
+query 2: SUBJECT: inguinal hernia MESSAGE: I am a 75 year old man. I have 2 inguinal hernia. Do you offer any written pamplets on these.
+summarized question 2: Where can I find information on inguinal hernia?
+##
+query 3: SUBJECT: entire body is red with itching and sclera of eyes are red MESSAGE: what causes the skin of the entire body to turn red including the sclera of the eyes.  Also there is itching of the skin.
+summarized question 3: What are the causes of red, itchy skin and sclera?
+##
+query 4: atypical pnuemonia.  what is the possibility of atypical pneumonia occurring again less than a month after treatment?
+summarized question 4: Can atypical pneumonia recur shortly after treatment?
+##
+query 5: Hello, I have been dealing with trimethylaminuria since I was a child. I have done some of my own research and it looks like not much can be done for this condition. I do not have it all over my body it’s only in my armpits. In the past I’ve gone to doctors and dermatologist they gave me no answers until I looked online today and finally found out what I have. I don’t know maybe I’m wrong. But this disease isn’t even consider common because no one has done anything about it. I’m sure they’re thousands of women with it... Can I be tested for it and help in some kind of way to finding a cure or something?  What testing is done for this?  And where? Thank you
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: RKS have a 6 month old baby.. MESSAGE: Hi everyone, I am a mum of 6 months old boy who was diagnosed with Cerebral palsy (Hypotonia/Hypotonic form) in relation with Pallister-Killian syndrome. Also he has got mixed form of hydrocephalus There is no epiactivity. Our neurologist has suggested to go through Vojta method/ Bobat therapy.  Please could you let me know your experience with these methods ( if any).. I will be very grateful for any info about it as I do to have enough information to operate with. Also, any thoughts about transcranial direct-current stimulation, occupational therapy or Feldenkrais? Please please please if you can share your experience - it would be absolutely priceless.  Thank you in advance,  Best Regards,  [NAME]
+summarized question 1: Where can I find information on treatments for cerebral palsy, and specifically the vojta method and bobath therapy?
+##
+query 2: diagnosis of OI/ resources. I was writing to inquire about more information regarding the diagnosis of OI.  We have family members who are in the process of waiting for genetic testing to come back but are under allegations of child abuse.  Is there any information and / or resources that may be helpful to us? Any help is appreciated. Thank you,[NAME]
+summarized question 2: How is osteogenesis imperfecta diagnosed and what are its symptoms?
+##
+query 3: MESSAGE: I have undergone Total Hip Replacement of both my hip jonts in 1977 (Charnley Process ) My left joint is completely worn out.How safe and effective is revision surgery..can I get a cementless joint..I am 66 years old..An early repy to my query will be very much appreciated.
+summarized question 3: Where can I find information on hip revision surgery, including risks and prognosis?
+##
+query 4: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 4: Is there a cure for hepatitis B?
+##
+query 5: I get wrist joint pain along with finger joint pains and my symptoms are similar to wrist osteoarthritis but I am diagnosed with ankylosing spondylitis because I am HLA-B27 positive. Therefore I want to know the following: I want to know whether osteoarthritis of wrist can occur in ankylosing spondylitis or it occurs in Ehlers–Danlos syndrome only?
+summarized question 5:

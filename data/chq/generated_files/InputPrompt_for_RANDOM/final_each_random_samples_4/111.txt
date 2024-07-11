@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: solve the erectio problem.  sir, some time my penis erect and some time it does not work . So please help me . My contect nomber is [CONTACT]
+summarized question 1: What are the treatments for erectile dysfunction?
+##
+query 2: SUBJECT: LATEST INFORMATION MESSAGE: WANT TO KNOW LATEST DEVELOPMENT IN LUNCE CANCER TREATMENT, MY FRIENDS WIFE AGE 45, NAME [NAME], [LOCATION] SUFFERING WITH THIS DISEASE,WILL BE TAKING FIRST DOSE OF ALMITA PEMETREXED ON THRUSDAY THAT IS AFTER FOUR DAYS. PL. ADD MY E-MAIL ID
+summarized question 2: What new treatments are available for lung cancer?
+##
+query 3: SUBJECT: treatment options versus migraine types MESSAGE: Migraine seems to be a spectrum of conditions rather than only one easily diagnosed affliction.  Many innovative migraine treatments are now in use, but it seems that each treatment only addresses a narrow set of conditions; for example, my daughter has tried many different treatment options (QEEG, HEG, TMS, topamax, ...) without success.  Has any research been done to characterize which treatment types are effective against which migraine types?
+summarized question 3: Has any research been done to characterize which treatment types are effective against which migraine types?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 4: What are the treatments and prognosis for a small GIST?
+##
+query 5: Good day; I would like to know who to contact for treatment of atopic eczema or if you know any clinic that can help me, I know someone who suffers from it and I would like to help her improve the disease. Thank you in advance Regards
+summarized question 5:

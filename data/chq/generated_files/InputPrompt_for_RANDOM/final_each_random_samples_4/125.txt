@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 1: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 2: SUBJECT: tongue and throat MESSAGE: hi, i'm having some difficulties with tongue and throat infection... i contacted my doctor three times already, at first he gave me Dactarine to put it on my tongue. and yesterday once again i visited him and i told him the medication you gave me does not work, and my infection is getting worst, he wrote a recipe for me to get terbinafine 250mg tablet. i'm using them but then today i wake up and read some of the thrush information that you guys provide and you say 'when having thrush it is not good to have any atibiotic but that is what he's giving me and he didn't run any tests on me yet. please tell me what should i do next ?
+summarized question 2: Where can I find information on throat infections, including diagnosis and treatment?
+##
+query 3: SUBJECT: Muscle function loss of Left Arm MESSAGE: Dear Doctor,  I am [NAME] from [LOCATION] ,first of all thank you very much for this article and its a great service.I am writing this email for my loving father ,He lost his left arm muscle because of nerve damage but he can access his finger .he cannot lift his hand without help of right hand.we already get consults from many doctors but there is no result found ,We are from village and poor family background ,i don't have much money to give good treatment for my father .so i request you please recommend a proper treatment for my father .this is my kind request to save my father . for more details required please feel free to contact me  my Email:-[CONTACT] My contact number :-[CONTACT]  With lot s of expectations,  [NAME]
+summarized question 3: What are the treatments for nerve damage in the arm?
+##
+query 4: MESSAGE: What should I do for my excess hair growth?? hair growth on legs ,they appear when I took oral contraceptive only two time ....but the excess hairs on legs are appeared since last year after heavy itching on legs.....!what diagnosis should I do?????
+summarized question 4: What causes excess haur growth on the legs and what are the treatments?
+##
+query 5: I have stiff person syndrome.  How do I find out what is new in treatment  in this study?
+summarized question 5:

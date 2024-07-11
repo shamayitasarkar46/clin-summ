@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 1: What are the treatments for lactose intolerance and can it be cured?
+##
+query 2: ClinicalTrials.gov - Question - general information.  hello. my mane is [NAME], i am 34 years old . I have AIDS .well now everybody my co-workeds      knows my diagnose.what should i do ?how can i life ?Also store manager [LOCATION] told me ( i am jerk ,  idiot)
+summarized question 2: Where can I find support groups for people with HIV/AIDS?
+##
+query 3: Genetic testing.  My mother in law is in the last stage if lung cancer and only has days to live.  My question is...testing her and comparing her tests with my husbands and his sisters test help to determine if it is genetic?  My mother in law ([NAME]) and her mother and her mithers sister both had lung cancer and none if them were smokers.  I'm real worried about my husband getting lung cancer now and I want find out what we can do to protect him.Thank you,[NAME]
+summarized question 3: What are the genetic factors for lung cancer?
+##
+query 4: SUBJECT: [NAME] Brazilian with PMD MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pelizaeus-Merzbacher leukodystrophy, we would like to know more new treatments, new techniques, since we know very little about the disease in Brazil. [NAME]
+summarized question 4: What new treatments are available for Pelizaeus-Merzbacher leukodystrophy?
+##
+query 5: Im looking for a Dna test for mental illness. 
+summarized question 5:

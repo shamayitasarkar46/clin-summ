@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 1: What are the inheritance patterns for rickets?
+##
+query 2: SUBJECT: Azithromycin Oral Suspension Stability/Storage MESSAGE: I am a pharmacy technician, and I work at an in-patient pharmacy. We carry Azithomycin 100mg/5mL Oral Suspension. We have been having some technicians putting the Reconstituted Suspension into our fridge. Our fridge is kept at a pretty steady 5* Celsius temperature. I know that the lower range of the stability is at 5*C. Is it a problem to keep it that cold? Should the suspension be kept out of the fridge?
+summarized question 2: How should Azithomycin Oral Suspension be stored?
+##
+query 3: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 3: What are the treatments for kidney stones?
+##
+query 4: Good morning I would like to ask something from you guys.i have a big problem of bloating and now its 2 years I have this problem and I try to buy some medication but it doesn't help me. And this thing its worse special during the night when I am sleeping cause I am always taking out the smelling air special when I am sleeping please guys can you assist me and I feel uncormfotable. Because its worse. I will appreciate it for your help. [NAME] [cid:image001.png@01D08E1E.47E509A0] Tel:         [CONTACT] Fax:        [CONTACT] Mobile  [CONTACT] Email:     [CONTACT]> [CONTACT] [CONTACT] In the interest of environment-think before you print! ________________________________________ [CONTACT] This message and any attachments are confidential and intended solely for the addressee.  The following link will display the full disclaimer: [CONTACT] The following link displays the list of Directors: [CONTACT] ________________________________________
+summarized question 4: What are the treatments for bloating and flatulence at night?
+##
+query 5: I have Pulsatile Tinnitus for more than 12 years . I am a girl of 24 years and live in Pakistan. Doctors here, didn't recognize the problem. And now I have mild hearing loss and tinnitus also along with pulsatile tinnitus . it  interrupts my daily life and doesn't let me sleep at night time. Please sir help me , tell me how can I abolish my pulsatile tinnitus because I am now bothered and depressed so much
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 1: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Good day. I'm living with lupus. I just want to ask if I can take glutathione supplement? I already completed my chemotherapy last month (march) and free off steroid after two weeks. Thanks
+summarized question 2: I have lupus; can I take a glutathione supplement?
+##
+query 3: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: OK. I understand your reticence to list unconfirmed 'untrigger' lipids. However, I am a trained scientist who's 72 years old, so I don't really have time to wait for confirmatory tests to be run on several K more old coots. so QUE3TION: What [NB: THE HELL] precisely are the 10 lipids in question? I would then plan to have myself checked for those 10 lipids.
+summarized question 3: What are the ten lipids that can predict dementia?
+##
+query 4: "SUBJECT: bowel movements MESSAGE: whenever I eat ANYTHING within 10-15 minutes I start having slight stomach cramps and I have to rush to the bathroom and my stool is from slightly firm to liquid - what's causing this?  I'm afraid to eat out at restaurants - it's been happening for about 3 years now  I'm a 53 year old, 5', 7"" in height, african-american woman, never had children, about 50 lbs overweight"
+summarized question 4: What are the causes of cramps and diarrhea after eating?
+##
+query 5: where on site does it tell how diabetes and neuropathy causes other things like neck and knee pain and other ailments
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: instructions MESSAGE: I purchased PH Test Strips and after receiving them I saw that there were no instructions included. I don't know how to use them and need some help with that. Could you please explain how to use them. Thank You, [NAME]
+summarized question 1: How do I use pH test strips?
+##
+query 2: SUBJECT: vaginal yeast infection MESSAGE: Hey, my name is [NAME]. Last night my vaginal area was itching but I didn't think to much of it.  Well when I woke up this morning it started itching out of control.  I don't see discharge coming from the vaginal area.  Now I do use Summer's Eve vaginal spray, I don't know if it is a vaginal yeast infection or not, but how should I go about this process.
+summarized question 2: What causes vaginal itching and what are the treatments?
+##
+query 3: "MESSAGE: I have a fungal infection on my two legs which i have treated  several month with Lamisil 1o/o cream ,Betamethasone-N cream and sulphur skin ointmentcream. And the drugs-: terbanfine, fuschin,ampiclus beecham vitamin ""c"" etc. But with all of these,the fungal still remain the same.pls, which strong antifungal drug or injection would you people recomend for me or what advice would you give ? Yours faithfully  [NAME]"
+summarized question 3: What are the treatments for severe skin fungal infections resistant to over the counter medications?
+##
+query 4: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 4: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 5: I'm 53 years old. I have got  meniscus tear after a twist. My MRI reports  that I  have got: 1. Bucket handle tear involving entire length of lateral meniscus which otherwise appears to have discoid configuration. 2. complex tear involving posterior horn and posterior root of medial meniscus,  along with formation of few small parameniscal cysts. I am doing all activities without any problem. I have no swelling . I get pain at times for 2 or 3 min.  Sometimes even after 4 or 5 days or after a week. sometimes 2 or 3 days consecutively.  In June, I twisted my right knee.  During this period I was even without pain for 10 days or 2 weeks. Kindly advise me . 
+summarized question 5:

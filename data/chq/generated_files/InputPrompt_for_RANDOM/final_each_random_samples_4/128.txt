@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I need the information for posterior fossa  One of my friends struggling with this disease  ..
+summarized question 1: Where can I find information on posterior fossa disease?
+##
+query 2: Hi, I cannot find informatión about Antennatal corticoids Therapy, for lung maturation in diabetics after 34 weeks pregnancy. Can you help me.
+summarized question 2: Where can I find information on antenatal corticosteroids for lung maturation in diabetics after 34 weeks of pregnancy?
+##
+query 3: MESSAGE: My father has undergone braincancer operation and radiation Also.His left side hand and leg is very weak he cant hold a glass nor he cant walk .if he try to walk he falls down.pls suggest treatment for hand and his leg.we will d very gratefull for u.contact [CONTACT] from [LOCATION] u.
+summarized question 3: What are treatment options for recovery of limb use after a brain cancer operation?
+##
+query 4: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 4: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 5: I am looking for any information you have on females with congenital adrenal hyperplasia, my wife has this condition. We are searching for a doctor for her medical care, and need all the information we can find on this condition.
+summarized question 5:

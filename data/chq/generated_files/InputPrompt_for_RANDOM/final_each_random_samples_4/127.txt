@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: irregular bowl movements.  problems in bathroom.   is affecting my work/ and or sex life
+summarized question 1: What are the treatments for irregular bowel movements?
+##
+query 2: SUBJECT: My humerus bone MESSAGE: Hello. My name is [NAME], I am 33 yearsold, from Romania in Europe and I have a 6 inches difference between my left humerus bone and my right one. It all started when I was around 4 yearsold and I had a bone illness called: bone cyst. First it affect my right femur and then my left shoulder. The bones were very fragile in the mentioned areas and I had fractured them many times very easily. I had 3 surgery at my shoulder and I heal up after a bone transplant from my hip and after some hidrocortisone injections. All good but as I said my left humerus bone is a lot shorter. The doctors said that my growth plate was affected that's way it is this difference between hands. It bother me a lot, especally when I m in sports (bodybuillding, basketball), I and I would like to know if there is something that can be done for me to make things right. Any suggestions is welcome but just don t tell me to give up.     Hopping in a soon answer I thank you.
+summarized question 2: What are treatments for differences in arm length,  and how can I find physician(s) or hospital(s) who specialize in it in Romania?
+##
+query 3: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 3: What are the treatments for serratia marcescens infection?
+##
+query 4: SUBJECT: oleander poisoning MESSAGE: If oleandor was ingested by touching the plant stems inner part and then directly eating without washing hands, how long would u exspect symptoms would start? And how severe would you say symptoms may get.
+summarized question 4: When do symptoms of oleander poisoning appear after ingesting the plant, and how severe can they get?
+##
+query 5: Dear concerned, My mother is a kidney & heart patient and from last 3 years she is going through Dialysis on twice a week basis. Her cause of kidney failure can be Diabetes & High Blood Pressure from last 10 years. Currently her creatinine level is 9. Can you please guide me is there any way to revive her kidneys???  Looking forward to your kind support. Thanks & Regards
+summarized question 5:

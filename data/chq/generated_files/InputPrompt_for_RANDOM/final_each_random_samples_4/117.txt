@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Pyloric Stenosis MESSAGE: Good day, I had pyloric when I was a baby - I am now 44 years old.  I have always suffered with stomach problems, leaky gut etc.  Is it at all possible that this is a related cause of pyloric long term?  I was the 1st baby girl to have this operation in [LOCATION] in [DATE].
+summarized question 1: What is the long-term prognosis and complications of pyloric stenosis?
+##
+query 2: Vitamins.  Can I take zinc and zinc citrate at the same time?
+summarized question 2: Can zinc and zinc citrate be taken together?
+##
+query 3: MESSAGE: Hi.. My mother is aged around 50 years.She has a keloid on face.she has undergone all types of treatments but all in vain(cryo surgery,surgery,steroid,compression band etc).It is getting bigger and bigger day by day.As it is on face she finds it very difficult to face people and society.So i request you to kindly suggest a remedy for the same..Please . With Regards
+summarized question 3: What are the latest treatments for facials keloids?
+##
+query 4: PTEN. Hi my name is [NAME]. I have a 13 Year old brother is Autism and PTEN, My father passed away from a some type of kidney cancer, and his sister just passed from some sort of cancer. I'm in search of finding out if this PTEN gene is in me, and my other brother, and if there is any testing or any solutions to help our health. I'm only 19 and my other brother is 10. If you could help me in anyway possible, god bless you. Thank you.
+summarized question 4: How can I be tested for the PTEN cancer gene and learn about treatment options?
+##
+query 5: I am suffering from vitiligo patches (White spot) in my body. I am 57 years old. Kindly help me  to cure the disease  white spot due to this i am very depression.
+summarized question 5:
