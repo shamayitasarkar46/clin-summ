@@ -1,0 +1,3 @@
+{"type": "TEST_ENTRY", "data": {"idx": 1168, "inputs": "I have fish smell disorder and i need as much as i could help. Please", "target": "Is there a cure for fish odor syndrome?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 346, "inputs": "SUBJECT: Azithromycin 250mg gluten MESSAGE: Hello can you please tell me if your Azithromycin 250mg tabs are gluten free?  Thank you!", "target": "What are the ingredients of Azithromycin and is it gluten free?"}}
+{"type": "TRAIN_ENTRY", "data": {"idx": 19, "inputs": "SUBJECT: rectal prolapse MESSAGE: my rectum is stretched out and I need information mailed to me about surgical options. My address is [LOCATION]", "target": "Where can I find information on rectal prolapse surgery?"}}
