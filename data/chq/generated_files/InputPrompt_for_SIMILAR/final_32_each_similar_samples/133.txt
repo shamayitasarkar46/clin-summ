@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 1: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 2: ClinicalTrials.gov - Question - general information.  My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.
+summarized question 2: What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?
+##
+query 3: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 3: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 4: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 4: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 5: SUBJECT: human chimerism MESSAGE: My daughter, born 5 days ago, was curiously found to have c+ blood type.  Having ruled out most causes for this, we are left with a possible vanishing twin chimera and don't know where to turn for more information or research. At this point we don't even have confirmation of whether she is xx/xx or xx/xy, or concrete exclusion of microchimerism. Help? I can be reached by cellular at [CONTACT]. my husband and I are local to the [LOCATION], and both [PROFESSION]. Thank you!
+summarized question 5: Where can I find information on chimerism and twin absorption?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My question to you is: what is the reason that there is very little attentions is to Antiphosoholipid Syndrome? To find the causes and possibly some type of cure for us who struggle with this auto-immune blood disorder? I guess that since it is female directed (9-1 female to male) that no one important enough has died from APS? Oh, by the way, I'm a 58 year old man!
+summarized question 6: What causes antiphospholipid syndrome and what are the treatments for it?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 7: How is hypomaturation type IIA2 inherited?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 8: What are the treatments for severe endometriosis in adolescents?
+##
+query 9: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 9: Where can I get genetic testing for CPTII deficiency?
+##
+query 10: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 10: What clinical trials are available for hepatitis C?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My daughter was recently diagnosed with a CTNNB1 mutation and there are only 4 published cases.   Can you tell me where I may be able to find more information
+summarized question 11: Where can I find information about CTNNB1 mutation?
+##
+query 12: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 12: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 13: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 13: What are the treatments for lactose intolerance and can it be cured?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: A friend had chemo for breast cancer.  She has developed a foam in her mouth that appears to come from her gums.  She has been to every doctor, but no one can diagnose.  She has tried everything recommended and nothing seems to work.  She has gone into a deep depresstion because of this constant foam.  Would there be any studies available?  Could someone give an idea of what could be causing this problem in her mouth?  Is there any interest of looking into her case?  Thank you.
+summarized question 14: What causes foamy saliva?
+##
+query 15: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 15: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dear Clinical Trials, I am searching for treatment for a disease called Baker, which  is related to Neurology Department. I did not get any  treatment before for this disease. I need to get treatment by Medical Researches if possible . Note: I will be in New York at May 11.
+summarized question 16: What are the treatments for baker disease?
+##
+query 17: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 17: Where can I find information on Wang syndrome, including support groups?
+##
+query 18: SUBJECT: My sister was told she has Breast Cancer MESSAGE:   Hello My Name is [NAME] My sister has been told that she has breast cancer. And I want to no if she could use Salinomycin to kill the breast cancer. [NAME]
+summarized question 18: Is Salinomycin a treatment for breast cancer?
+##
+query 19: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 19: What is the effect of dexamethasone on cortisol levels?
+##
+query 20: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 20: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 21: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 21: Where can I find information on pain relief for Hirayama's disease?
+##
+query 22: "My sister was diagnosed with meningitis 13 years ago and lost her sight. She's had multiple doctors tell her that she's lying about not being able to see or that they do not see why she can't see given that her eyes reacts to light. Fast forward 13 years, I spoke with her today and she was a little overjoyed. She said that ""she's been having good days"". I asked her to elaborate and she said that sometimes she can see shadows and sometimes she can see light. From my self-knowledge, I thought that this kind of vision loss could not be repaired. I'm writing you all for possible answers or if you could point me in the right direction toward getting them. Thanks in advance."
+summarized question 22: Can vision loss due to meningitis be restored?
+##
+query 23: "SUBJECT: Periventricular Heterotopia.  Scoliosis  - possibility of a known link ? MESSAGE: Question in laymen terms: Has any genetic or other correlation ever been made between these two diagnosis? My 59 y.o. sister has a diagnosis of Periventricular Heterotopia.  Her 30 y.o. daughter has been suffering with same for last 15 years.  Her 37 Y.O. daughter is clinically full-care retarded (since infancy) and has severe idiopathic scoliosis.  I have severe idiopathic scoliosis. I use the term ""severe"" to express debilitating and multiple fusion surgeries.  All four of my generation female siblings have a level of scoliosis. FYI: this PH sister died last week, her remains are at the [LOCATION]"
+summarized question 23: Is there a link between periventricular heterotopia and scoliosis?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am working with a Hep C   patient who needs treatment but cannot afford Tx. How can I help her get in touch with a recruiting study? There are no numbers or ways to contact a recruiting study. Sincerely, [NAME]
+summarized question 24: Where can I find clinical trials on hepatitis C?
+##
+query 25: Customer Service Request.  My daughter has Turner syndrome but she's beaten all odds. She developed on our own, got her period on her own, she is now pregnant on her own with identical twins. My question is can she have normal children or do they have more of a chance of having Turner syndrome.  My daughter has been tested many times to confirm her diagnosis of Turner syndrome and she is a full XO not mosaic but still does not display many of the characteristics. Again, I am just questioning the safety of the pregnancy and the health of the babies. Thank you for your help
+summarized question 25: What is the inheritance pattern of Turner syndrome?
+##
+query 26: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 26: What are the treatments for scoliosis pain?
+##
+query 27: SUBJECT: Snhl MESSAGE: I am searching for sensorial hearing loss cure. My daughter is one and half months now. Please help me
+summarized question 27: What are the treatments for sensorineural hearing loss?
+##
+query 28: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 28: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 29: Genetic testing.  My mother in law is in the last stage if lung cancer and only has days to live.  My question is...testing her and comparing her tests with my husbands and his sisters test help to determine if it is genetic?  My mother in law ([NAME]) and her mother and her mithers sister both had lung cancer and none if them were smokers.  I'm real worried about my husband getting lung cancer now and I want find out what we can do to protect him.Thank you,[NAME]
+summarized question 29: What are the genetic factors for lung cancer?
+##
+query 30: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 30: What are the treatments for nutcracker syndrome?
+##
+query 31: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 31: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 32: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 32: Are there any medicines for dry mouth?
+##
+query 33: my daughter has lichen sclerosis and we are wondering if you have any research on stem cell treatment?  She now has it effecting her ureatha and the Dr she is seeing  has no idea how to treat it, as she has never seen it do this.  She was diagnosed when she was 22 with a severe case of LS and has had little relief with current treatments.  Thank you for your time in this matter.  Also are there any clinical trials coming up she may participate in?
+summarized question 33:

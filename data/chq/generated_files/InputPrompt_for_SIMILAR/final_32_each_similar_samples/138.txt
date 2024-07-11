@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: wolfram syndrome. hi im a support worker for a 46 yr old autistic male.reading your info provided about wolfram syndrome ,he matches alot of the symptoms. he has just recently been diagnosed with type 1 diabetes and i was just doing some research about it and came across wolfram syundrome which like i said the symptoms match alot of this guys doings. my question that ive unfortunatley been able to figure an answer out for is can adults develope this syndrome? can it be a gradual process of events/symptoms or does it happen within the first approx.15-20 years of life? if you could get back to me with any info it would be highly appreciated because like many websites i have read not all doctors knowabout this syndrome.  many thanks. [NAME]
+summarized question 1: Can adults develop Wolfram syndrome?
+##
+query 2: Physicians who specialize in Androgen insensitivity. Hello,I'm looking for a physician(s) who specialize in androgen insensitivity.  I came across your site on the Internet.  It has a page on the subject -http://www.ncbi.nlm.nih.gov/sites/ga?disorder=Androgen%20Insensitivity%20Syndrome - but I wasn't able to find a link to any physicians who specialize in this after I clicked on the Physician Directory link.  Any suggestions?Thanks in advance,[NAME]
+summarized question 2: How can I find physician(s) who specialize in androgen insensitivity?
+##
+query 3: i wanted info on anhedonia... your web site is -well, i have never seen a better done website in 20 years!!! -in one word: your Organization reeks *Quality*. [NAME], 73, [LOCATION]
+summarized question 3: Where can I find information on anhedonia?
+##
+query 4: "SUBJECT: Complex Regional Pain Syndrome (CRPS) or Regional Sympathetic Dystrophy (RSD) MESSAGE: I have searched your pages and website for information on this medical condition but found nothing. I know there's not a lot of research on this but I'm pretty certain that my father had it in his legs and now I do to. Is there any evidence this condition is genetic or is it an ""Unknown at this time""?  Thanks"
+summarized question 4: What causes Complex regional pain syndrome?
+##
+query 5: SUBJECT: Frontometaphyseal dysplasia MESSAGE: My son has Frontometaphyseal Dysplasia ehich is listed on your site. Do you have any information realgarding how to contact anyone else with this syndrome? Kind regarfs
+summarized question 5: Where can I find support groups for people with Frontometaphyseal dysplasia?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My daughter was recently diagnosed with a CTNNB1 mutation and there are only 4 published cases.   Can you tell me where I may be able to find more information
+summarized question 6: Where can I find information about CTNNB1 mutation?
+##
+query 7: cant use site.  I want to find a doctor who specializes in burning mouth syndrome and that could be in many specialities, I cannot understand how to do this on your website.
+summarized question 7: How can I find physician(s) who specialize in burning mouth syndrome?
+##
+query 8: SUBJECT: Muscle function loss of Left Arm MESSAGE: Dear Doctor,  I am [NAME] from [LOCATION] ,first of all thank you very much for this article and its a great service.I am writing this email for my loving father ,He lost his left arm muscle because of nerve damage but he can access his finger .he cannot lift his hand without help of right hand.we already get consults from many doctors but there is no result found ,We are from village and poor family background ,i don't have much money to give good treatment for my father .so i request you please recommend a proper treatment for my father .this is my kind request to save my father . for more details required please feel free to contact me  my Email:-[CONTACT] My contact number :-[CONTACT]  With lot s of expectations,  [NAME]
+summarized question 8: What are the treatments for nerve damage in the arm?
+##
+query 9: SUBJECT: Is Hypermobility Causal for DCD? MESSAGE: Can hypermobility cause developmental coordination disorder? Any peer reviewed literature available exploring this issue?
+summarized question 9: Can hypermobility cause developmental coordination disorder?
+##
+query 10: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 10: Are there any medicines for dry mouth?
+##
+query 11: SUBJECT: Optic nerve artrophy MESSAGE: Good afternoon,  I am [NAME] from [LOCATION]. For my nephew is optic nerve artrophy about 2-3 years. He is 8 years old. One eye is dead now, other eye he can see about 20 percentage. No one doctor can`t help him in [LOCATION] (Europe).  Could You view his health history and to give the opinion about my nephew health situation and You will have proposition how we can help him.  I would be very grateful for Your.  Best regards,  [NAME] from [LOCATION].
+summarized question 11: What are treatments for optic nerve atrophy, and how can I find physician(s) in Europe who specialize in it?
+##
+query 12: ClinicalTrials.gov - Question - general information. my name is [NAME] from [LOCATION],my 10year old boy has duchenne muscular dystrophy  patient. my question is what is exon skipping & it can help for dmd  patient ?
+summarized question 12: What is exon skipping, and is it an effective treatment for  duchenne muscular dystrophy?
+##
+query 13: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 13: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 14: SUBJECT: 46,X,dir dup(X)(q13-q26) MESSAGE: Hi I am from [LOCATION], I am wondering if you can help with some information on my duplication, I have signed up to [LOCATION] here in [LOCATION] but only me, my mum and my sister and 1 other person have been found to have this genetic abnormaility. I have no idea about the other person but my sister was affected by it when she was born, when i was born we had no idea, My sister was born and tested me and my mum, showing my mum had the condition along with my sister. at that point it seemed i never had it. When i was 20 i went to my [PROFESSION] and they said my genetics department here in [LOCATION] wanted me to get retested, Found out that i do carry the same duplication. I have three younger brothers as well, two of the youngest with Autism, None of the boys have the duplication, but i am wondering if these are linked? I am wondering what Information do you have available regarding this duplication, I have fertility issues which i don't know of it is linked or not. My AMH level for my age at 26 is low at 4.6!! my sister has had two children a boy and a girl none do not have the duplication. She also has Stage Two Kidney diease and was born with a horse shoe Kidney they thinks its linked Please help! or is there anything you can advise for me in the UK to go get looked at further ? Love from [NAME]
+summarized question 14: Where can I get information on the genetic abnormality 46,X,dir dup(X)(q13-q26), and  and how can I find physician(s) in the UK who specialize in genetic abnormalities?
+##
+query 15: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 15: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 16: medical articles.  I have been told that there are several medical case studies about Loin pain hematuria syndrome (aka LPHS) and Medtronic's Symplicity Renal Denervation medical equipment and that these cases have been published by PubMed.  However, I am unable to locate them.  Can you please recommend a way for me to locate and receive copies?  Thank you!
+summarized question 16: How do I find case studies in PubMed on loin pain hematuria syndrome and renal denervation?
+##
+query 17: Customer Service Request. I am looking for recent information and treatment for Ledderhose Disease also know as Plantar Fibromotisis. I would be interested in doctors specializing in this disease.
+summarized question 17: Where can I find information on Ledderohose disease, including the latest treatments, and how can I find physician(s) who specialize in it?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Hi  i am  having a littel eye trouble  like  a glare  or blurr vision and  i am a typed 2 diabitic  since 2010 this promble been going own now four - six monthes now and i have low pressure in my right  eye and cloudy and blurr a  lil. I need  to know what my  problem is and can it  fix  and without going  blinding ..Reply back. .To  [CONTACT]  voice mail  or email text are accepted or [CONTACT]
+summarized question 18: Can type 2 diabetes cause blurry vision, and what are the treatments for it?
+##
+query 19: My mom is 82 years old suffering from anixity and depression for the last 10 years was dianosed early on set deminita 3 years ago. Do yall have a office in [LOCATION] NC? Can you recommend someone. she has seretona syndrome and nonething helps her.
+summarized question 19: Where can I find information on early onset dementia, and how can I find physician(s) who specialize in it in North Carolina?
+##
+query 20: Ostiogenesis Imperfecta. Is it possible to take out whatever causes this disease out of a persons gene to stop this in my family.
+summarized question 20: How is Osteogenesis imperfecta inherited and is it possible to stop it?
+##
+query 21: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 21: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 22: SUBJECT: questions about products posted on the internet MESSAGE: I suffered a massive stroke on [DATE] with paralysis on my left side of my body, I'm home and conduct searches on the internet to find help with recovery, and always this product called neuroaid appears claiming to restore function. to my knowledge it isn't approved by the FDA, but it sounds so promising. do you know anything about it and id there anything approved by our FDA, that does help?
+summarized question 22: What are treatments for paralysis after stroke approved by FDA?
+##
+query 23: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 23: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 24: hello i am looking for information related to the above (myostatin-related muscular hypertrophy) genetic condition. can you direct me to a hospital or other genetic research institution that might be doing research on this genetic condition?
+summarized question 24: Where can I find information on myostatin-related muscular hypertrophy, and how can I find an organization doing research on it?
+##
+query 25: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 25: Where can I find information on Wang syndrome, including support groups?
+##
+query 26: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 26: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 27: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am writing on behalf of my friend that is reading us in copy but doesn't speak english as good as me. His name is: [NAME] He was born in Italy, on [DATE] He lives in Milan, Italy. He is affected by HCV Genotype IIIA with a cirrhosis of the liver, in evolution, and his present desease does not permit to be attactd by regular medicines/therapies. (platelet minus of 50.000) He has a prescription, for Sovaldi treatment, from an italian doctor and he is ready to come to US or other country to get it also from an American Doctor, but the cost of such treatment is impossible for him. In italy the medicine is not available. He is followed by [LOCATION], one of the top italian hospital. His doctor is [NAME], that is ready to talk with you whenever needed. [NAME], suggested by his doctor, is interested to become one of your patient as a case study. [NAME] would like to enter into the research/trial program, in subject, with you in order not to pay the cost of Sovaldi that he cannot afford. According to his doctor his treatment should go on for 6 month with a conjunction of Sovaldi and Ribavirina. All my info you can find them below, and for [NAME] the email is the one in copy ([CONTACT]). You can send both to me directly and cc him or viceversa. Anyhow i will have to make the translation!!! In case, hopefully not, the treatment will not work, he is ready to change treatment with eventually other new products you are testing  and or new association. Looking forward in hearing from you soon. sincerely [NAME] [CONTACT]
+summarized question 27: Are there clinical trials for patients with Hepatitis C genotype 3A?
+##
+query 28: SUBJECT: I wanted details of Arrythemia and Fibromalgia MESSAGE: Iwanted details of arrythemia and fibromalgia as I am suffering from both of the ailments ince last 10 yrs .When I came across this mail about EXCELLENT MEDICAL SITE WITH LINK TO ALL AILMENTS AND EXPLANATIONS I thought to find n read some more and maybe I could get an insight about my problems but I am told this page isn't available any more Please can I get details about these two particular subjects
+summarized question 28: Where can I find information about Arrhythmia and Fibromyalgia?
+##
+query 29: "SUBJECT: How can I find out if removal of ovaries relieves symptoms of PCOS? MESSAGE: Is there some way that I can access actual research information to find out if removal of ovaries has been tried in a controlled, research setting, as a ""cure"" for PCOS?  In searching, I did not find research reference on that material.  (FYI - I used to be [PROFESSION].)  Thank you for your consideration!"
+summarized question 29: What is the latest research on ovary removal as a treatment for PCOS?
+##
+query 30: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 30: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 31: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 31: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 32: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 32: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 33: where do i go to find information on familial dysautonomia. is there  an organization out there on the subject. all the websites ive gone to say dns error...
+summarized question 33:

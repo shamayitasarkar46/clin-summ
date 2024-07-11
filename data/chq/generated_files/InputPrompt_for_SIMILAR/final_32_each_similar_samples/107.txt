@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.
+summarized question 1: Does diabetes affect bowel movements?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 2: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 3: SUBJECT: Please send me information on the treatement of hypertension and diabetes. MESSAGE:  What causes hypertension and diabetes?
+summarized question 3: What causes hypertension and diabetes and what are the treatments for them?
+##
+query 4: SUBJECT: Leg pain MESSAGE: I am diabetic since last 18 years and present it is 6.6 and morning it varies from 110 to 135 and afternoon and from 125 to 175.I regularly take medicine. swimming, exercise &Yoga for 1.5 Hours in the morning &1.5 Hours in the evening but recently the  pain has started in the legs and Dr. has suggested stiloz-50.I also take Kerala juice/Methi seeds &it is water in the morning. Is this due to diabetes or any excess exercise?
+summarized question 4: What are the causes of leg pain?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 5: What are the early symptoms of Stiff person Syndrome?
+##
+query 6: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 6: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 7: I would like to get into a study for my case.  I am a 73 year old woman with type 1 diabetes since I was 7.  My A1C's run in the high range of 5 or low 6. I have suffered from chronic constipation all my life. I have been diagnosed with fibromyalgia, Now Lichen Plarvs, and chronic depression.  I am very active but suffer from chronic pain.  How can I get into a study from home.  I live in a remote area in central Washington.  Am I as hopeless as I sometimes feel?  Phone # [CONTACT]
+summarized question 7: Where can I find clinical trials for type 1 diabetes, chronic constipation, fibromyalgia, Lichen Pilaris, chronic depression, or chronic pain?
+##
+query 8: SUBJECT: autonomic and arthritis . MESSAGE: Hi there , i have a few questions about autonomic disorders combined with arthritis ? My girlfriend has arthritis and autonomic disorder. I am really worried about her and want to help her, is there any new medications out there for treatment of autonomic disorder ? Also her autonomic disorder effects her heart lungs and blood pressure , is this condition fatal ? How long does someone live with this condition ?
+summarized question 8: Where can I find information on autonomic disorder, including symptoms, treatment, and prognosis?
+##
+query 9: SUBJECT: insulin-dependent diabetes in children MESSAGE: Hi, What are the causes of insulin-dependent diabetes in children? I am searching for information on the causes of insulin-dependent diabetes in children. Please help.
+summarized question 9: What causes type 1 diabetes in children?
+##
+query 10: SUBJECT: Blood Sugar Levels and Parkinson's MESSAGE: I'm wondering if there is a correlation between blood sugar level's and how it may effect the presentation of Parkinson's particularly in tremors. It seems that extreme blood sugar levels would make the tremors a great deal worse and appearing none typical.
+summarized question 10: Is there a connection between blood sugar levels and symptoms of Parkinson's disease?
+##
+query 11: SUBJECT: Radiation Therapy MESSAGE: I have foot drop symptoms. I think radiation cause them last year. My left foot is numb tingling and inflaming. please help and call my cell phone for more comments :[CONTACT]
+summarized question 11: What are the symptoms of foot drop, and what are the treatments for it?
+##
+query 12: SUBJECT: CRPS MESSAGE: In stage 3 can ones bones break/fracture? For example if nerve damage is in lower leg, can the bones in the foot over time fracture/break?
+summarized question 12: Can complex regional pain syndrome cause bone fractures?
+##
+query 13: about Glucosamine Sulphate Will Glucosamine Sulphate affect Kidney?   Will it increase the Potassium content in a person?
+summarized question 13: What are the side effects of glucosamine sulphate?
+##
+query 14: SUBJECT: pregabalin MESSAGE: I have peripheral neuropathy but not diabetes.  I have had numerous tests to try and determine the cause of the neuropathy without success.   Will pregabalin help with the pain?
+summarized question 14: Is pregabalin effective for treating pain from peripheral neuropathy?
+##
+query 15: MESSAGE: I have been dealing with an autoimmune disease for almost 4 years now, I've been tested for many things and the doctors can't seem to find what excactly is wrong. It began with pain, swelling and stiffness in my feet and  toes.A lot of the pain is joint stiff n ess and my skin feels like its being burned. Over time it has moved into my knees also. I am always tired. Recently I've been getting pains in my stomache and feeling sick. Does any of this sound like Lupus?? I've tested negative for it before, but the more I read about it I feel that's what i could have. Any ideas would be greatly appreciated.
+summarized question 15: What are the symptoms of lupus?
+##
+query 16: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 16: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 17: SUBJECT: prestigious place in USA for treatment to Common peroneal nerve dysfunction MESSAGE: Hello, I have foot drop for damage to the common peroneal nerve, caused by surgery on knee in November 2012.Please which is the most prestigious institution or place in USA for treatment or surgery of this type of injury. thanks a lot
+summarized question 17: How can I find physician(s) who specialize in Common peroneal nerve dysfunction?
+##
+query 18: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 18: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 19: SUBJECT: diabetes MESSAGE: It was really helpful after reading about type 1 diabetes but would like some more suggestions from you .my friend is 35 year old and its been 1 year of his diabetes n his sugar level is around 100 or 120 OR SO.. each time he tests his sugar level. is there ANY COMPLICATIONS? HE ALSO GO FOR EXERCISES AND BLOOD TEST EVERY 2 OR 3 MONTHS N TAKES A PROPER DIET LIKE GREEN JUICE,OLIVE OIL AND ALL. WAITING FOR YOUR FEED BACK. THANK YOU.
+summarized question 19: What are the complications of type 1 diabetes?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Hello, my name is [NAME] , and I have Fibromyalgia terribly. My father has MS, and my mother's sister has been diagnosised with ALS. I was wondering if that would have any bearing on why my Fibromyalgia is hit me so hard. I have been experiencing s/s since as far back as 3rd grade that medical records can show and I'm 40 years old now. By the time I was 18 I was told I need psychiatric help because I was to young to complain like an 80 year old. Thanks [NAME]
+summarized question 20: Is fibromyalgia hereditary and related to multiple sclerosis and amyotrophic lateral sclerosis?
+##
+query 21: SUBJECT: Very high blood sugar! MESSAGE: I had two injections in my feet yesterday (5-22-14).  The physician said to watch my blood sugar carefully, as the injections could cause a rise in my blood count. I began having memory problems last evening after an MRI, and then this morning and at noon today (5-23-14), my count has been 427.  I have read my magazines about diabetes, pulled up several things on Medline Plus, and tried to get in touch with two of my doctors who might help.  Everyone is busy, and I totally understand.  I just need to know what, if anything, I can do to get my blood sugar down as fast as possible.  Thank you,  [NAME] [CONTACT]
+summarized question 21: What are the treatments for high blood sugar?
+##
+query 22: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 22: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 23: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 23: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 24: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 24: What are the prevention and  treatments for plantar fasciitis?
+##
+query 25: SUBJECT: PSEUDOMONA AERUGINOSA - DIABETES MESSAGE: Hello. My name is [NAME], I have a daughter of 11 years with type 1 diabetes and I have a query. The bacteria Pseudomonas aeruginosa has been detected in the water tank of my building. I found that I have to take extra care with diabetics. Could advise me about that ?? Thank you.   [NAME]
+summarized question 25: Are there special precautions for diabetes and pseudomonas aeruginosa?
+##
+query 26: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I HAVE CRONIC PAIN FROM SEVERE SHINGLES.THE BLISTERS ARE GONE BUT THE PAIN IS SEVERE.WHAT SHOULD I DO. I CAN' KEEP THIS PAIN
+summarized question 26: What are the treatments for shingles pain?
+##
+query 27: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Hi  i am  having a littel eye trouble  like  a glare  or blurr vision and  i am a typed 2 diabitic  since 2010 this promble been going own now four - six monthes now and i have low pressure in my right  eye and cloudy and blurr a  lil. I need  to know what my  problem is and can it  fix  and without going  blinding ..Reply back. .To  [CONTACT]  voice mail  or email text are accepted or [CONTACT]
+summarized question 27: Can type 2 diabetes cause blurry vision, and what are the treatments for it?
+##
+query 28: KNEE OSTEOARTHRITIS.  Good morning about 20 years ago I suffered ruptured anterior cruciate ligament and removal of domestic law meniscus, was operated and made me clancy, at present unfortunately my knee is totally affected and I have arthritis and severe pain, according to a dr traumatologo commented me I need a knee prosthesis my question is can you treat me, or turn me can recommend doctors or hospitals to treat in the U.S.   [NAME]
+summarized question 28: How can I find physician(s) or hospital(s) who specialize in knee osteoarthritis?
+##
+query 29: SUBJECT: how to breathe MESSAGE: Dear Sirs,  This may seem like a stupid question but here goes anyway.  I am 64 yrs old and a type II diabetic.  I walk frequently to stay fairly fit but always seem to get out of breath when going up even gentle hills. Today however I noticed that I could change how I breath. Thus, I could force air out using my diaphram (ie like blowing out a candle)then relax and just let the air flow back in or I could use my diaphram to suck in air (like breathing in the morning air)and again relax my diaphram to push it out. I also found that I could breath faster under conscious control which seemd to help my performance. I dont know if any of this makes sense to you but I would like to know what you think and whether there are any do's and dont's and if there is a 'better' way to breath.  Thanks very much for your help with this,  Regards,  [NAME]
+summarized question 29: What are techniques for  proper breathing?
+##
+query 30: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 30: What are the treatments for neck lumps or neck tumors?
+##
+query 31: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 31: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 32: McArdle's Disease.  Is there any evidence that trauma such as a physical injury i.e., neck injury, torn ligament, etc., can worsen McArdle's disease?
+summarized question 32: Does trauma worsen McArdle disease?
+##
+query 33: where on site does it tell how diabetes and neuropathy causes other things like neck and knee pain and other ailments
+summarized question 33:

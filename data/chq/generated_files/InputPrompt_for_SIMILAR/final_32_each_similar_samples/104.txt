@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 1: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 2: SUBJECT: CHUNT IN THE BACK MESSAGE: Can the chunt be done from the vertebra instead of the cranium. My child needed a chunt due to the high fluid pressure in the brain. I need advice which method will be the best.
+summarized question 2: What is the procedure for inserting a shunt to relieve high fluid pressure in the brain?
+##
+query 3: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 3: What are the treatments for drop foot?
+##
+query 4: spina bifida; vertbral fusion;syrinx tethered cord. can u help for treatment of these problem
+summarized question 4: What are the treatments for spina bifida, vertebral fusion, and syrinx tethered cord?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 5: What are tarlov cysts of the spine and how are they treated?
+##
+query 6: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 6: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 7: SUBJECT: Luque rod spinal fusion and reclast MESSAGE: My luque rod fusion was done in 1991 and I am going to have reclast infusion for osteoporosis [DATE]. Is there any info on anyone with existing spinal fusion having reclast? I am 36 years old with no broken bones.
+summarized question 7: Are Reclast infusions contraindicated for those with spinal fusion?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 8: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 9: Spinal Cord.  My Brother is 58 years old have spinal cord problem his both legs he cannot move them wheelchair user his legs are very heavy as he had urinaire infection after the other now the test comes positive and the infection still going cannot clear so his Doctor cannot give him any treatment for his main problem (Spinal cord) I want to help him what he should do I want to get advice please baging you for help and advice, many thank you
+summarized question 9: What are the treatments for urinary tract infection?
+##
+query 10: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 10: What are the treatments for arm and neck pain?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: will dalfampridine be effective for people with spinal musclar atrophy. is this a possibility in the future
+summarized question 11: Is dalfampridine an effective treatment for spinal muscular atrophy?
+##
+query 12: SUBJECT: •Radical neck dissection MESSAGE: Hi, I had this surgery 10 years ago as a result of thyroid cancer and have had a lot of problems with my rights side neck and shoulder exactly as you described in your article.  Can you recommend any treatment?  When I mentioned it to my surgeon post surgery he did not think it had anything to do with the operation.  I had the SCM muscle removed as well as the parathyroids, total thyroid removal, artery, &12 lymph nodes.
+summarized question 12: Can you recommend any treatment for neck and shoulder problems following radical neck dissection for thyroid cancer?
+##
+query 13: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 13: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 14: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 14: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 15: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 15: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 16: "SUBJECT: Degenerative bone &disk disease MESSAGE: Like to know more about Degenerative Bone &Disk Disease..I have had it for over 10 yrs..I'm losing muscle in my legs,at the point I can only walk about 30-40 steps my his freeze up with pain &pressure,hince I need a wheelchair,need more information on this disease...healthcare providers ""need surg.don't need surg"" I'm stuck in small town America....O I'm 59yrsold...any info would be apprec..."
+summarized question 16: Where can I find information on degenerative disc disease, including treatments?
+##
+query 17: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 17: What are the treatments for nutcracker syndrome?
+##
+query 18: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 18: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 19: SUBJECT: Left hip replacement surgery MESSAGE: In  [DATE], I had a total left hip replacement surgery, during that surgery, my femur was broken.  Two weeks later, there was a a revision fine due to possible infection in that same left hip. Today is [DATE] and my question is what should I be expected to be doing? I still rely on my walker, I am 54 years young and I suffer from Chronic Osteoarthritis in my lower extremities which is the reason for hip replacement at such an earlier age.
+summarized question 19: What is the recovery time and expected activities for hip replacement surgery and a broken femur?
+##
+query 20: SUBJECT: Transderm Scop Patch (Placement options) MESSAGE: Am trying to find info on patch placement. Any reason it cannot be placed in another hairless site besides behind the ear? A specific reason for it's placement there? Am a PACU nurse. We often use for post op nausea but cannot for plastic surgery of face/neck. Have one source that says ok from neck to waist, upper thigh or outer upper arm. Is this indeed acceptable placement? If not, why? Thank you in advance [NAME]
+summarized question 20: Where could the transdermal scopolamine patch be applied besides behind the ear?
+##
+query 21: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 21: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 22: SUBJECT: Pain in Front of Lower Stomach & Bac k& r.Hip MESSAGE: I have problem with severe pain when I try to get up or put pressure on my left leg. Should I see an orthopedic doctor?  What might cause this, a pulled muscle, spinal injury, a damaged disc?
+summarized question 22: What are the causes of leg pain when bearing weight and when to see a doctor?
+##
+query 23: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 23: What are the treatments for brain tumors and spinal tumors?
+##
+query 24: "SUBJECT: Proper average weight MESSAGE: I am a 68 year young male 5'7"" tall. Please give me a guideline as to what would be a healthy weight for me. Even though I have back problems from a vertebra fracture from 2005 and have had 4 surgeries to include a stimulator and 3 fused vertebras, Yet I keep myself pretty active. I am currently weighing 179.4 lbs.  Thank you for your help.  [NAME]"
+summarized question 24: "What is a healthy weight for a 5'7"" male?"
+##
+query 25: SUBJECT: pregnancy MESSAGE: I just want to ask if have some ways or have a operation to be pregnant a woman like me had a tubal ligation before  7yrs. Ago..
+summarized question 25: Where can I find information on tubal ligation reversal?
+##
+query 26: SUBJECT: Thoracic outlet syndrome MESSAGE: I was diagnose with TOS in my left shoulder was told surgery would help my problem. physical therapy did not help tired of the numbness in pain in hand just wondering if the stats our good percentage wise for surgery results Dr.[NAME] is my surgeon
+summarized question 26: What are the success rate and prognosis for thoracic outlet syndrome surgery?
+##
+query 27: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 27: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 28: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 28: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 29: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 29: Where can I find information on pain relief for Hirayama's disease?
+##
+query 30: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 years old boy that was diagnose with Periventricular Heterotopia and long time ago I read something that say that the most someone last with that syndrome is 309years.Is that true. And do you know about someone interested in wanting to do research about it? I will like to lern more about it. But theres not much information.
+summarized question 30: Where can I find information on Periventricular Heterotopia, including prognosis?
+##
+query 31: SUBJECT: Chromosomes 6 MESSAGE: i had a son born with a very small part of chromosome 6 missing , caused several surgeries and then death . But I don't find any information , even similar to his . Is there anywhere else I can look for Any information on what would cause this piece to be missing
+summarized question 31: What could cause part of chromosome 6 missing?
+##
+query 32: Hip replacement surgery My mother is 76 y.o. and having a lot of pain in her left hip joint.She was told that she needs a new joint. She also have a Parkinson disease (main symptom at this time is tremor in a left wrist). I would like to know if NIH providing hip replacement surgery for the patients like her, clinical trials?  Thank you.
+summarized question 32: Are there clinical trials for hip replacement with Parkinson's disease?
+##
+query 33: Do they still use cow bone for a L5-S1 fusion, or what are the options. The disk is bulging and herniated and had to go.  Please advise. 
+summarized question 33:

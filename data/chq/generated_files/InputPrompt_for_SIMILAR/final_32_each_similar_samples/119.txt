@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 1: What are the treatments for loss of appetite?
+##
+query 2: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 2: What are the treatments for anosmia?
+##
+query 3: TMAU.  Please find a way to research TMAU And how to cure it with gene therapy. I'm tired kg smelling like fish/feces And getting talked about everyday of my life.
+summarized question 3: What is the latest research on TMAU and treatments for it?
+##
+query 4: Good morning I would like to ask something from you guys.i have a big problem of bloating and now its 2 years I have this problem and I try to buy some medication but it doesn't help me. And this thing its worse special during the night when I am sleeping cause I am always taking out the smelling air special when I am sleeping please guys can you assist me and I feel uncormfotable. Because its worse. I will appreciate it for your help. [NAME] [cid:image001.png@01D08E1E.47E509A0] Tel:         [CONTACT] Fax:        [CONTACT] Mobile  [CONTACT] Email:     [CONTACT]> [CONTACT] [CONTACT] In the interest of environment-think before you print! ________________________________________ [CONTACT] This message and any attachments are confidential and intended solely for the addressee.  The following link will display the full disclaimer: [CONTACT] The following link displays the list of Directors: [CONTACT] ________________________________________
+summarized question 4: What are the treatments for bloating and flatulence at night?
+##
+query 5: SUBJECT: I need help ? MESSAGE: I have few questions and needed some help from you guys, I have a really serious problem about me and the stress I have been through for a long time, and I couldn't do anything to get rid off what I'm really in a bad feelings. And I'm really having and hard time searching and try to get rid off my pimples , I've been have these probably every since when I was 15 years old . I do not know what kind or where I can find , something that could help me, something that could work , because there's alot of products . And I'm not sure which kind could fit my skins to remove my pimples. . Please help, I'm having a serious hard time having these. Its really embarrassing, that's why I always wear long sleeve to cover it every single day, 24/7. I'm really appreciate if you guys have tine to contact me and talk about. Another thing, my question is , how can I get rid of my pimples on my upper arms and my back. Also I really don't know what kind pimples do I have on my skin. Please help me , so I wouldn't be having so many stress about my skins.
+summarized question 5: What are the treatments for pimples?
+##
+query 6: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 6: What are the treatments for hand tremors?
+##
+query 7: I have an hernia I would love to take care off it ASAP I was wondering if you guys could help me . Thanks
+summarized question 7: What are the treatments for hernia?
+##
+query 8: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 8: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 9: What are the treatments for autoimmune nerve disorder?
+##
+query 10: SUBJECT: staphy treatment MESSAGE: Gud day, please ham having staphylococcus and I need drugs to take and your advice..my result show &quot;scanty&quot;..i 'll be expecting your reply..thank you and God Bless you
+summarized question 10: What are the treatments for staphylococcus?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 11: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 12: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 12: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 13: What can I use when I feel my bladder is sore when I urinate my bladder just burn and its awkward for me its the second time now what should I use or take? Please I need your help
+summarized question 13: "What drugs are there to relieve ""burning bladder"" on urination?"
+##
+query 14: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 14: What are the treatments for flatulance?
+##
+query 15: SUBJECT: LOVASA MESSAGE: I was prescribed the medication lovasa a few years ago and have been taking it.  I have become a veteranian and had some concerns about taking fish oil but my most concern is that I have a eye disease called Stargard's where any vitamin A my body doesn't use becomes waste and kills my retina cells so it is very important to me , to know exactly how much Vitamin A is in this medication Lovasa.  My doctor, pharmacy and my research shows anything.  I did have an article that says some over the counter fish oils have dangerous levels of Vitamin A.  Please any help you can give me will be so appreciated.  [NAME]
+summarized question 15: Does Lovaza contain vitamin A?
+##
+query 16: SUBJECT: lack of adhesive while I swim MESSAGE: I weekly apply the clonidine transdermal patch. Medically it is effective. I swim 3 or 4 times a week for 30-45 minutes. Quite often the patch loses it's adhesive quality and falls off my skin. What can I do to help it stick on my arm? thanks
+summarized question 16: What can I do to keep the clonidine transdermal patch secure during swimming?
+##
+query 17: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 17: What are tarlov cysts of the spine and how are they treated?
+##
+query 18: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 18: How do I stop taking wellbutrin HCL XL?
+##
+query 19: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 19: What are the treatments for lichen planus?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: SIR/MADAM I READ DETAILS OF MY PROBLEM FROM INTERNET THAT'S WHY I AM GOING TO HAVE IN TOUCH WITH YOUR SITE. I AM HAVING A PROBLEM IN WALKING AND CAN NOT PUT MY FEET PROPERLY FOR WALKING MY LEFT LEG FINGER'S LAYED FIRST ON FLOOR . I JUST HAVING THIS PROBLEM FROM LAST FIVE YEARS JUST BECAUSE I HAD WITH AN ACCIDENT AND I GOT A  INJURY IN HEAD ALSO. I EVEN HAD PHYSIOTHERAPY FOR ALL AROUND THREE YEARS BUT STILL I AM FACING THIS PROBLEM. PLEASE HELP ME .
+summarized question 20: What are the treatments for difficulty in walking after head injury?
+##
+query 21: migraine. I want to know the treatment for FHM type of migrain . I had observed the all symptoms which are same as provided in information and additionally my father and my younger sister face the acidity problem too. they feel relief after vomiting so both of them do the same by drinking warm water containing salt.
+summarized question 21: What are the treatments for familial hemiplegic migraine?
+##
+query 22: Good evening, I will contact you as my [NAME] a year and a half have been diagnosed with the genetic mutation STXBP1. I would like to know if there is something in the world that can help my son. I hope you contact us as soon as possible.  Greetings [NAME]
+summarized question 22: What are the treatments for genetic mutation STXBP1?
+##
+query 23: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 23: What are the treatments for deafness caused by gentamicin?
+##
+query 24: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 24: What are the treatments for nocturia?
+##
+query 25: SUBJECT: Hepatic hemangioma MESSAGE: What kind of food can I eat .. Because when ever I eat oily food my tummy can hurt or and I have bloating tummy and I want to know what kind of food I can eat because of my hemangioma
+summarized question 25: What kind of food can I eat with hepatic hemangioma?
+##
+query 26: SUBJECT: Voice MESSAGE: Hi I am wondering if anyone can help me get my voice back. I have ALS in my throat and I don't want to go out on a disability. I want to keep working. Thank you.
+summarized question 26: What are the treatments for voice disorders caused by ALS?
+##
+query 27: MESSAGE: My son  five years old has Ganglisidose GM 1, we are looking for a drug that could help him, or at least could prolong life. He gets Miglusitat for 1 week. Can you help us or just send some information. We would be very grateful.
+summarized question 27: Where can I find information on GM1 gangliosidosis, including treatment and prognosis?
+##
+query 28: Shakiness.  I have acquired a symptom of extreme internal body shaking. Sometimes I canyon even speak right or use a pen. A doctor yesterday asked if I had a recent thyroid checkup. I see my thyroid doc the end of March.  Usually they say my T4 levels are low. I'm confused when it comes to what levels the thyroid should be.  I also have chronic fibromyalgia.  Seems that is blamed on for a lot of my problems.  Thank you for this site.
+summarized question 28: What are normal thyroid levels, and can thyroid problems cause body tremors?
+##
+query 29: SUBJECT: I need help MESSAGE: Dear sir, I need  your help. I am [NAME], I have some question to ask you. My uncle a heart problem due to a gastro problem and bleeding from the intestinal the doctor says. He is an handicap person. Now he is a little bit ok , it's just that he is suffering from his belly a lot, but he is stop bleeding from inside. He often have breath problem also, i give him smetimes ventoline spray. We don't know what we treatment we should give him, Please I need your help. Thank you in advance sir.  Best regards [NAME].
+summarized question 29: What are the treatments for breathing difficulties?
+##
+query 30: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 30: What are the latest treatments for Parkinsons disease?
+##
+query 31: My name is [NAME] and i am 45 years old and come from [LOCATION]. I got involved in a shock cerebral (Brain stroke in Cerebellum) and took apoplexy cerebral. I did a surgery for placing shunt. After my surgery i lost my body balance to some extent. Now i am trying to improve my condition with physiotherapy, swimming and etc. My doctor says the shunt is not necessary longer. I found your name between scientists which are involved in research on brain stroke so my request is if you could advice me with new methods for curing my problem. I can come to [LOCATION] if needed to do further therapy for my problem. I would be very thankful of your help
+summarized question 31: What are the treatments and recovery for cerebellar stroke?
+##
+query 32: SUBJECT: Ear Infection Treatment MESSAGE: I was cleaning my ear with a pointed metal and mistakenly it got stock into my ear and I started seeing some blood from my ear,Since than I have being some pains in my ear and can I can be hearing some echo sound in my ear. I would be very glad to know the best medication for my ear treatment.
+summarized question 32: What are the treatments for punctured eardrum?
+##
+query 33: I have fish smell disorder and i need as much as i could help. Please
+summarized question 33:

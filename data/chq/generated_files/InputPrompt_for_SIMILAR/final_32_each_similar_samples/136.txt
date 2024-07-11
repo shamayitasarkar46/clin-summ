@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: lymphedema MESSAGE: HelloI was suffering from filariasis before 6 month, then i observed that I started having leg swelling about 6 months ago.It's lymphedema of my left leg. I has seen many doctors for this problem. but nobody help me to cure this.Finally they answer me there is no treatment for this. i have to live with this disease. but i can't spend whole life with this disease. Better then i will comit or prefer sucide and say goodbye to life.So please suggest me treatment if any treatment available.please reply atleast if no solution.
+summarized question 1: What are the treatments for lymphedema?
+##
+query 2: SUBJECT: other uses for Phentermine MESSAGE: Hello, My name is [NAME]. I do not usually send comments or questions online. I am only doing this because I am trying to find an answer to a baffling situation I am experiencing. I started taking Phentermine about 3 years ago for weight loss. I lost weight successfully, but also found that the Phentermine substantially relieved my arthritis pain. Now my doctor has taken me off of the Phentermine. He will not prescribe it for pain relief as he does not believe there is any correlation between the Phentermine and relief of my arthritis pain. I have taken many pain relief medications over the years as my arthritis is acute. The Phentermine works the best. Is there any correlation between Phentermine and pain relief?  Sincerely, [NAME]
+summarized question 2: Can Phentermine be used for pain relief?
+##
+query 3: SUBJECT: Rehabbing a finger that was splinted MESSAGE: I badlydislocated my finger 7 weeks ago.  I reset it myself as it happened late in the evening. I splinted it myself with a store-bought splint because of concern for a break as well as ligament damage.  I just went to see an orthopedic doctor for the first time today (yes, I'm kicking myself for not going earlier).  The X-ray showed that the finger is still offset somewhat, perhaps indicating that some of the ligaments were ruptured. (The bone was ok.  I guess we won't know if it was ever broken.)  Nonetheless, I have to see a surgeon for an opinion in a few days.  Meanwhile, there is still some swelling and the ring finger that was in the splint is out but stiff as a board.  I'm concerned and not sure what possibilities to expect.  I certainly know you won't know what the situation is or what the surgeon will say but I was curious (a) what possibilities I might expect and (b) how problematic it is that the finger is so stiff...should I expect to regain motion...can it be rehabbed?  I'm assuming so, and if so, how long does it take to regain motion from a finger that has been splinted for so long?
+summarized question 3: What are the treatments and prognosis for a dislocated finger not initially treated?
+##
+query 4: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 4: How do I stop taking wellbutrin HCL XL?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 5: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 6: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 6: What are the treatments for lichen planus?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: SIR/MADAM I READ DETAILS OF MY PROBLEM FROM INTERNET THAT'S WHY I AM GOING TO HAVE IN TOUCH WITH YOUR SITE. I AM HAVING A PROBLEM IN WALKING AND CAN NOT PUT MY FEET PROPERLY FOR WALKING MY LEFT LEG FINGER'S LAYED FIRST ON FLOOR . I JUST HAVING THIS PROBLEM FROM LAST FIVE YEARS JUST BECAUSE I HAD WITH AN ACCIDENT AND I GOT A  INJURY IN HEAD ALSO. I EVEN HAD PHYSIOTHERAPY FOR ALL AROUND THREE YEARS BUT STILL I AM FACING THIS PROBLEM. PLEASE HELP ME .
+summarized question 7: What are the treatments for difficulty in walking after head injury?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: MY NAME IS [NAME]. ON [DATE] I WENT TO [LOCATION] ABOUT MY FEET BEING ASLEEEP. THEY PUT ME ON LYRICA. WELL I AM WORST NOW AS OF TODAY MY FEET HAVE BEEN ASLEEP NOW I AM IN ALOT OF PAIN AND ITS ALL THE WAY TO MT KNEES I NEED SOME KIND OF HELP. NO INSURANCE. NO MONEY WHAT CAN YOU FIND OUT FOR ME. PLEASE CONTACT ME AT [NAME] THANK YOU
+summarized question 8: Where can I get help for neuropathic foot pain?
+##
+query 9: SUBJECT: hiatal hernia/exercise MESSAGE: i lost 24 lbs. do you have an exercise i can do to correct me hernia?
+summarized question 9: What exercises will help hiatal hernia?
+##
+query 10: SUBJECT: New Hep C Virus Treatments MESSAGE: In 2006-2007, at the VAMC in [LOCATION], i went through the HEP C Treatment using Ribavirin and Interferon. My viral load was undetectable immediately at the BOT. I stayed on the treatment faithfully and painfully for a4 months; when at the EOT my viral load was still indictable. I was considered a success. When i came back after 6 months for a checkup, it was found my HCV had relapsed. Now I want to know what treatments are now available to me. I hear of these new wonder cures that have been approved in the past year and i want to be retreated. Please send me all the info you have on these new treatments while i wait here and die at age 45. I was exposed with the HCV virus from a tattoo while in the armed forces overseas.
+summarized question 10: What new treatments are available for recurrent hepatitis C?
+##
+query 11: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 11: What are the treatments for loss of appetite?
+##
+query 12: SUBJECT: Ankylosing Spondylitis MESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]
+summarized question 12: What are the treatments for Ankylosing Spondylitis?
+##
+query 13: SUBJECT: low WBC issue MESSAGE: respected sir,                i humbly want to say  you thanx for making this website. i am [NAME] from [LOCATION] and i want to help myself by you please help me sir i will greatful to yo(sorry sir my English is not so good)      masturbation is my hobby its my taboo really sir now i am tired i want to change myself please sir give me some suggestions ....   this is bad habit in my life but i am also a bright student since last year .............. .......... .......... i am crying... sorry ...... please help me sir plzz rply me in my id.. and wish me luck     i know you have a golden heart ....
+summarized question 13: What are techniques to stop masturbating?
+##
+query 14: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 14: Can shingles affect the teeth and gums?
+##
+query 15: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 15: What options are available for scar repair?
+##
+query 16: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 16: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 17: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 17: What are the treatments for mouth ulcers?
+##
+query 18: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 18: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 19: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 19: Is there a medication that can cause bleeding during sex?
+##
+query 20: SUBJECT: SHINGLES   OR HIV MESSAGE: HELP I HAVE HAD THIS ON AND OFF FOR 13 YEARS   MOST RASH STARTED ON RT ARM HIP, 3 ON STOMACK AND SPOTS A FEW ON LEG. WHEN I GET UPSET I BREAK OUT.
+summarized question 20: What are the diagnosis and treatments for shingles?
+##
+query 21: SUBJECT: trying to loss 50 before July. MESSAGE: I am trying to loss 50 pounds before July, the problem is I work 16 hours a day. Don't have time to do anything else. Is there a deit pills or shake that I can use to help me? Also my problem area is stomach, waist, butt and hip. Please help.
+summarized question 21: Where can I find information on weight loss pills?
+##
+query 22: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 22: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 23: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 23: How long does swelling from sleep apnea take to heal?
+##
+query 24: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 24: What are the treatments for flatulance?
+##
+query 25: SUBJECT: questions about products posted on the internet MESSAGE: I suffered a massive stroke on [DATE] with paralysis on my left side of my body, I'm home and conduct searches on the internet to find help with recovery, and always this product called neuroaid appears claiming to restore function. to my knowledge it isn't approved by the FDA, but it sounds so promising. do you know anything about it and id there anything approved by our FDA, that does help?
+summarized question 25: What are treatments for paralysis after stroke approved by FDA?
+##
+query 26: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 26: What are the treatments for scalp psoriasis?
+##
+query 27: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 27: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 28: MESSAGE: Afternoon my name is [NAME] i just need a clarity on ACL repair. [DATE] i done ACL repair as the doctors told me after my discharge i attend physiotherapy but after the physio my leg get swallow so i stopped as there was no progress. now my knee is stiff and swallow also it change colour and doctors tells me they don't see anything. so i need an advise what can i do or where can i go and get help.  regards   [NAME]
+summarized question 28: What is the recovery process after ACL surgery?
+##
+query 29: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Hello, my name is [NAME] , and I have Fibromyalgia terribly. My father has MS, and my mother's sister has been diagnosised with ALS. I was wondering if that would have any bearing on why my Fibromyalgia is hit me so hard. I have been experiencing s/s since as far back as 3rd grade that medical records can show and I'm 40 years old now. By the time I was 18 I was told I need psychiatric help because I was to young to complain like an 80 year old. Thanks [NAME]
+summarized question 29: Is fibromyalgia hereditary and related to multiple sclerosis and amyotrophic lateral sclerosis?
+##
+query 30: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 30: When is shingles contagious?
+##
+query 31: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 31: What are the treatments for hand tremors?
+##
+query 32: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 32: What are the treatments for pain after hemorrhoidectomy?
+##
+query 33: Hello, I receive ssi each month. I have chronic lymphedema unfortunately.  I was reading on website that liposuction has helped.
+summarized question 33:

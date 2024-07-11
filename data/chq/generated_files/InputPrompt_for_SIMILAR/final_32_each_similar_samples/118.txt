@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Childhood suffers of lead poisoning as adults MESSAGE: Hi.  My name is J[NAME]  When I was three years old, I suffered from mild/moderate lead paint poisoning.  I'm now 38 years old and looking for ways to treat the long-term symptoms that originated with the lead exposure.
+summarized question 1: What are the long-term effects of lead poisoning, and how can they be treated?
+##
+query 2: If a 60 yo male patient has a level of cobalt or chromium  over the highest acceptable level, can that possibly create blood in urine? thank you
+summarized question 2: What are the causes of blood in the urine?
+##
+query 3: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 3: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 4: "SUBJECT: Degenerative bone &disk disease MESSAGE: Like to know more about Degenerative Bone &Disk Disease..I have had it for over 10 yrs..I'm losing muscle in my legs,at the point I can only walk about 30-40 steps my his freeze up with pain &pressure,hince I need a wheelchair,need more information on this disease...healthcare providers ""need surg.don't need surg"" I'm stuck in small town America....O I'm 59yrsold...any info would be apprec..."
+summarized question 4: Where can I find information on degenerative disc disease, including treatments?
+##
+query 5: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 5: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 6: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 6: What are the treatments for hand tremors?
+##
+query 7: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 7: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 8: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: OK. I understand your reticence to list unconfirmed 'untrigger' lipids. However, I am a trained scientist who's 72 years old, so I don't really have time to wait for confirmatory tests to be run on several K more old coots. so QUE3TION: What [NB: THE HELL] precisely are the 10 lipids in question? I would then plan to have myself checked for those 10 lipids.
+summarized question 8: What are the ten lipids that can predict dementia?
+##
+query 9: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 9: Does neurofibromatosis affect congestive heart failure?
+##
+query 10: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 10: What are the treatments for nutcracker syndrome?
+##
+query 11: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 11: What are the treatments for loss of appetite?
+##
+query 12: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 12: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 13: MESSAGE: I have celiac.disease and.need.to start.Coumadin (Warfarin). Also I'm very allergic to food coloring,.dyes.  What manufacturer has gluten and dye free warfarin ? Please help me. I  need to start taking it tomorrow.  Thank you very , much. [NAME]
+summarized question 13: What are the ingredients of warfarin and it is gluten and dye free?
+##
+query 14: laser hair removal treatment.  I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!
+summarized question 14: Where can I find information on laser hair removal including long term consequences?
+##
+query 15: SUBJECT: I wanted details of Arrythemia and Fibromalgia MESSAGE: Iwanted details of arrythemia and fibromalgia as I am suffering from both of the ailments ince last 10 yrs .When I came across this mail about EXCELLENT MEDICAL SITE WITH LINK TO ALL AILMENTS AND EXPLANATIONS I thought to find n read some more and maybe I could get an insight about my problems but I am told this page isn't available any more Please can I get details about these two particular subjects
+summarized question 15: Where can I find information about Arrhythmia and Fibromyalgia?
+##
+query 16: Vitamins.  Can I take zinc and zinc citrate at the same time?
+summarized question 16: Can zinc and zinc citrate be taken together?
+##
+query 17: SUBJECT: vitamin b 12 deficiency MESSAGE: hi  3 months ago I was diagnosed with vitamin b 12 deficiency.  after treatment with cyanocobalamin my levels have returned to normal thus treatment has stopped.  However I  had a relapse of symptoms such as fatigue loss of appetite  nausea ect. can symptoms be present although levels are normal?  thanks
+summarized question 17: Can I experience symptoms of vitamin b12 deficiency and have normal levels of the vitamin?
+##
+query 18: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 18: What are the treatments for mercury poisoning?
+##
+query 19: I know you probably get quite a few inquiries on this topic - but I am wondering if I might be a good (or not) candidate for the Flavinoid as nutrients to prevent strokes/heart attacks study. I appreciate any information you may have. Thank you, [NAME]
+summarized question 19: What are the eligibility criteria for the Flavonoid as nutrients to prevent strokes/heart attacks study?
+##
+query 20: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 20: Where can I find information on pain relief for Hirayama's disease?
+##
+query 21: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 21: What are the treatments for autoimmune nerve disorder?
+##
+query 22: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 22: What are the causes of abdominal pain and swelling?
+##
+query 23: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 23: What are the treatments for lichen planus?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 24: What are the early symptoms of Stiff person Syndrome?
+##
+query 25: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 25: What are the treatments for mouth ulcers?
+##
+query 26: SUBJECT: hypothyroidism MESSAGE: Can you please send me as much information as possible on &quot;hypothyroidism&quot;. I was recently diagnosed with the disease and I am struggling to figure out what it is and how I got it. My name and address is: [NAME] [LOCATION] [CONTACT] Thank you in advance for your help!!!
+summarized question 26: Where can I find information on hypothyroidism and its causes?
+##
+query 27: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 27: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 28: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 28: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 29: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 29: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 30: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 30: How do I stop taking wellbutrin HCL XL?
+##
+query 31: SUBJECT: SEVERE leg cramps with Lupus MESSAGE: My wife has Systemic Lupus and is already taking Potassium Chloride 20meg er 1QD and about 24-48 ounces of Gatoraid every day but still gets SEVERE leg cramps. What can she do to stop or help stop the cramps?
+summarized question 31: What are the treatments for leg cramps aside from potassium chloride and Gatoraid?
+##
+query 32: MESSAGE: Hi.. My mother is aged around 50 years.She has a keloid on face.she has undergone all types of treatments but all in vain(cryo surgery,surgery,steroid,compression band etc).It is getting bigger and bigger day by day.As it is on face she finds it very difficult to face people and society.So i request you to kindly suggest a remedy for the same..Please . With Regards
+summarized question 32: What are the latest treatments for facials keloids?
+##
+query 33: I need to find out about chromium, cyanide copper, acid copper, nickel, and lead build up in the human body, how it affects it,long term health, if it can be removed, Thank you.
+summarized question 33:
