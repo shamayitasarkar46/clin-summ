@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Can a 40 year old get throat cancer... MESSAGE: I have drank a lot of alcohol and lots of drugs. Not very many fruits and vegetables. This year I have gotten strep throat twice and sore throats with ear aches. Antibiotics have taken 4 different kinds this year alone. Raspy voice, very painful when swallowing.
+summarized question 1: What are the risk factors and symptoms of throat cancer?
+##
+query 2: where on site does it tell how diabetes and neuropathy causes other things like neck and knee pain and other ailments
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.
+summarized question 1: Where can I find information about Beckwith-Wieddeman Syndrome?
+##
+query 2: Im looking for a Dna test for mental illness. 
+summarized question 2:

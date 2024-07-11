@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "MESSAGE: I have a fungal infection on my two legs which i have treated  several month with Lamisil 1o/o cream ,Betamethasone-N cream and sulphur skin ointmentcream. And the drugs-: terbanfine, fuschin,ampiclus beecham vitamin ""c"" etc. But with all of these,the fungal still remain the same.pls, which strong antifungal drug or injection would you people recomend for me or what advice would you give ? Yours faithfully  [NAME]"
+summarized question 1: What are the treatments for severe skin fungal infections resistant to over the counter medications?
+##
+query 2: Started doing the smoothies, i am allergic to chocolate, green tea today had to use chocolate but did not add i. What do i do. Allergic to all caffeine related items. Please respond.
+summarized question 2:

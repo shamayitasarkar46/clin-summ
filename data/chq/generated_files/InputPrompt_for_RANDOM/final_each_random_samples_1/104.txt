@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?
+summarized question 1: What is the prognosis for someone with homozygous MTHFR A1298C?
+##
+query 2: Do they still use cow bone for a L5-S1 fusion, or what are the options. The disk is bulging and herniated and had to go.  Please advise. 
+summarized question 2:

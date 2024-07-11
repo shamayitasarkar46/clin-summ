@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: loss of  taste MESSAGE: i  have  giant  cell arteritis.  on  steroids.  lost  taste  .  is  this  related  to  the  illness  (  was  it  ever  reported  in  GCA  ?  )  or  side  rx  to  prednisone.  i   wish  a  rheumatologist  at  NIH  responds
+summarized question 1: What causes loss of  taste and is it related to GCA or steroids?
+##
+query 2: My daughter suffers from a rare condition called Xeroderma Pigmentousim Type C.  I was wondering what can we do for my daughter. We live in Canada.
+summarized question 2:

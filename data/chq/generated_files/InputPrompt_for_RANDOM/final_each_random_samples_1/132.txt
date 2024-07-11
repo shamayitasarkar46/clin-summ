@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: glucosmine sulfate caplets MESSAGE: Question: when they are out of date...LOTF39460 EXP JA 2013.  Is there any real harm to contining to take these calets?
+summarized question 1: Is it harmful to take expired glucosmine sulfate caplets?
+##
+query 2: I would like to find out more on 22q12q13 duplication. My granddaughter has this. Screened during pregnancy. She seems to be developing okay. Speech is slow. But want to find out if there is more information. Do you know of any research?
+summarized question 2:

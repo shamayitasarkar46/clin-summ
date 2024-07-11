@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Dear sir, I was affected on trichoepithilioma in my nose on 12yrs.i consult the multiple doctorand skin specialists.but no one can do cure that
+summarized question 1: What are the treatments for trichoepithilioma?
+##
+query 2: Hello, I receive ssi each month. I have chronic lymphedema unfortunately.  I was reading on website that liposuction has helped.
+summarized question 2:

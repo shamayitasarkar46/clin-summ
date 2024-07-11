@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Mefloquine HCl MESSAGE: My daughter's pediatrician prescribed 1/4 of a 250mg tablet once a week. Based on insurance I could only get 4 tablet for a 30 day supply. The pediatrician thought the remaining 3/4 of the tablet must be discarded once it was exposed to air, but the pharmacist had not heard this. I read through your literature on the drug and also did not see this warning. Can we use the remaining 3/4 of the tablet on additional weeks as long as it is kept at the correct storing specifications? Thank you for your time!
+summarized question 1: What are the storage requirements for Mefloquine HCL?
+##
+query 2: Hello, I have been dealing with trimethylaminuria since I was a child. I have done some of my own research and it looks like not much can be done for this condition. I do not have it all over my body it’s only in my armpits. In the past I’ve gone to doctors and dermatologist they gave me no answers until I looked online today and finally found out what I have. I don’t know maybe I’m wrong. But this disease isn’t even consider common because no one has done anything about it. I’m sure they’re thousands of women with it... Can I be tested for it and help in some kind of way to finding a cure or something?  What testing is done for this?  And where? Thank you
+summarized question 2:

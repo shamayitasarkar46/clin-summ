@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: shingles MESSAGE: I am having symptoms of shingles, no rash or blisters, is it too late to get the vaccine? I have had the chicken pox and take acylovir on a as needed basis for blisters I get on my buttocks
+summarized question 1: I am having symptoms of shingles; is it too late to get the vaccine?
+##
+query 2: It is unfortunate to say that my father was affected by AML M1 and  we got  to know a month ago and his age is 52. Initially he  had a blast cells percentage of 76% and later after the first cycle blast cells dropped down to 4%. After two weeks of rest, he had undergone first consolidation out of three with High intensity Ara-C and today he was discharged after one week of treatment. My father's doctor said that there will be two more cycles with a gap of 28 days in between. As chemotherapy has side effects I would like to go for ayurvedic treatment as well in order to support my father's condition. I'm unable to understand whether to take further step and go for ayurveda as I'm not aware of any proved cases. Please suggest me whether to go for ayurveda and are there any such cases recorded to keep  the disease in complete remission.
+summarized question 2:

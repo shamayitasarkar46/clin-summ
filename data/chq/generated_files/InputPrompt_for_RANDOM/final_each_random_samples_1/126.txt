@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: May I can find a cure for my case in therapeutic your center that I have an infection chronic granulomatous Mastitis take and how much the treatment period. Please advise me of the post by you.to this my Email Note : that I have all the medical reports and tests for this disease ??? this case of my wife and can be send your comment by below E-mail
+summarized question 1: What are the treatments for chronic granulomatous mastitis?
+##
+query 2: Hi, Please can you help - I am writing from South Africa. My daughter suffers with acute folliculitus, and has been since the age of 13. She is now 20 and is in so much distress as nothing seems to alleviate the itching and soreness. She is desperate for some relief and we have tried absolutely everything - creams, shampoos, antibiotics, biopsies, blood tests, allergy tests, light therapy, diet etc. We have consulted Professors of Dermatology but they do not know how to treat it. She is now getting suicidal thoughts as it is extremely debilitating and cries a lot. They have tested for both fungal and bacterial and have grown cultures to see what attacks it - nothing does. I am writing to you for any help you could give me to try and assist her. Could you recommend a specialist and someone who could help us with research? Please could you point us in the right direction? I am happy to send through her lab tests - please let me know. Thanks
+summarized question 2:

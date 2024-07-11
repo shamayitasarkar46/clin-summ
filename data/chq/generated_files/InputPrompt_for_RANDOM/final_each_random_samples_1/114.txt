@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: bone marrow transplation MESSAGE: my blood tests showing very low number of  blood platelets (16,100). according to the further tests no cancerous cells, no tb, no dengu is found.  but the count is drastically decreasing.  now my doctors advised me for bone marrow transplant.  kindly help me with proper treatment.
+summarized question 1: What causes low platelet count, and what treatments are available?
+##
+query 2: I had the colonoscopy, stool specimen test twice.  However I have had heavy diarrhea three or 4x a day. It often looks like a black mud slide. I need stronger anti diarrhea meds as I now take 6 to 8 a day now.  It is the only way I can control it. I am planning a trip. I want some really strong meds to keep this in control for my trip.  Thank you
+summarized question 2:

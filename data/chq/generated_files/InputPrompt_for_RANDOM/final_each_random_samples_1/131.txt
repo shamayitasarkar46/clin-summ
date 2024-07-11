@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 1: What are the inheritance patterns for rickets?
+##
+query 2: Hi! Where in the world can I find a surgeon who will remove abdominal adhesions and mesh from a previous inguinal hernia repair? My husband is in terrible pain a lot of the time. I am a retired Registered Nurse and understand the procedures. Thank you for any help you can give me.
+summarized question 2:

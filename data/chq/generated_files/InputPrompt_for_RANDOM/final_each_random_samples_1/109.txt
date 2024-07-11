@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I know you probably get quite a few inquiries on this topic - but I am wondering if I might be a good (or not) candidate for the Flavinoid as nutrients to prevent strokes/heart attacks study. I appreciate any information you may have. Thank you, [NAME]
+summarized question 1: What are the eligibility criteria for the Flavonoid as nutrients to prevent strokes/heart attacks study?
+##
+query 2: Recently diagnosed with PBC and would like to see new readership or drugs  for this disease.
+summarized question 2:

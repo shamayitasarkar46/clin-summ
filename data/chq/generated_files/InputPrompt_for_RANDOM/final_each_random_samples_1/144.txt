@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Hey I was just wanting to know how I can try to receive stem cell treatment for spinal cord injury using the stem cells I have banked from my newborn baby's umbilical cord tissue? If u have any information please tell me, you'll be helping to save my life!
+summarized question 1: How to receive stem cell treatment for spinal cord injury?
+##
+query 2: My brother and I are twins. We both have XLCSNB and but I have 50% and my brother has 100%. We have an older brother with 15/20 in both eyes with no other complications. The disease came from our mom's side, and she has a sister and an aunt and uncle who also carried the gene. Our aunt has two kids who don't have the disease. If you could get back to me about latest research for XLCSNB that would be great.
+summarized question 2:

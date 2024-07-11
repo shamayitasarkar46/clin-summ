@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: about thalassemia treatment MESSAGE: sir,my friend is suffering from thalassemia ,in that majorly red blood anemia,white blood anemia and the blood is comming out from mouth when she got cough .her condition is very severe .in her body the red ,white blood cells are abscent .so that blood transfusion is doing for every 16-20days.then in the recent days the blood also comming out from mouth please tell me where can i get the treatment for this disease .we can travel around the world for treatment please reply me as soon as possible. thank you sir.
+summarized question 1: What are the treatments for thalassemia?
+##
+query 2: I have herpes simplex virus I want to be cured 
+summarized question 2:

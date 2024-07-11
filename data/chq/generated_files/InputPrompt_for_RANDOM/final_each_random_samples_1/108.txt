@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Regarding falaria diseases MESSAGE: Sir, my wife has been suffering from falaria disease in her right leg for 2 years , please show/ tell me the treatment. my contact no. is [CONTACT].
+summarized question 1: What are the treatments for filarial disease?
+##
+query 2: Should I have ultrasound on left shoulder.  I have a defribulator (left side)? I look forward to your advice. Thank you very much.
+summarized question 2:

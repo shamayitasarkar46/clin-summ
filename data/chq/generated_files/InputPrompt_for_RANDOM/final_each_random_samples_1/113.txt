@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: erection problems.  how to get rid of erections?
+summarized question 1: What are the treatments for erection problems?
+##
+query 2: Hi! I would like to know if I can have some  info mail to me on Sarcoidosis
+summarized question 2:

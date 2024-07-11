@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I have exercise induced asthma. Would any of these non drug devises be suitable please?
+summarized question 1: What nondrug devices are suitable for treating exercise induced asthma?
+##
+query 2: Hi my 4 year old son has uncomfortable hair syndrome is there a register that i should put him on. Regards
+summarized question 2:

@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Asking about Hairy cell leukemia MESSAGE: I get report for my father from hospital it is saying that he have Hairy cell leukemia i am here to ask if this dissease dangerous and there is treatment for it  Also if The one who have it will live for long or not ?  My father age is 55  We discover the dissease by blood test
+summarized question 1: Where can I find information on hairy cell leukemia, including treatment and prognosis?
+##
+query 2: I have Pulsatile Tinnitus for more than 12 years . I am a girl of 24 years and live in Pakistan. Doctors here, didn't recognize the problem. And now I have mild hearing loss and tinnitus also along with pulsatile tinnitus . it  interrupts my daily life and doesn't let me sleep at night time. Please sir help me , tell me how can I abolish my pulsatile tinnitus because I am now bothered and depressed so much
+summarized question 2:

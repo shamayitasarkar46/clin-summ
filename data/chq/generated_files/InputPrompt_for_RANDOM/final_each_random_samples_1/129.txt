@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Was giving pudding loaded with steroids I am allergic to steroids need to know way to flush system of them since they attack organs like poison. [NAME] [LOCATION]
+summarized question 1: How can I flush steriods from my system?
+##
+query 2: I have ra in both knees, I want to get back to work and my normal life.
+summarized question 2:

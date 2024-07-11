@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: gluten free status of Tolterodine Tartrate ER 4mg MESSAGE: You list starch as one of the ingredients. What is the source of the starch? Is this medication gluten free? Is it safe for someone with Celiac Disease to take?
+summarized question 1: What are the ingredients of Tolterodine Tartrate ER 4mg and is it gluten free?
+##
+query 2: I am looking for information regarding post concussion syndrome and occipital/trigeminal neuralgia.  I had a couple of concussions when I was a child and now have both neuralgias.
+summarized question 2:

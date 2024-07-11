@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Hi, Fırst of all thanks for valuable information whıch you Published on your web sıte. http://www.cdc.gov/measles/about/complications.html I couldnt find any ınformatıon on web that ıs related early ages.. When my son 6 months old (when he was baby)  he had measles and he hadnt had vaccacine when he was ill. I saw that if you had measles you have possıbılıty for SSPE that is 4 to 20 out of 100.000 case...But I want to know (it ıs very ımportant for me) if you had measles when your son stıll baby,what is the risk.. Please help me to know the facts...Please Write me the worth case.. I want to know just truth.. Thanks, Best Regards [NAME]
+summarized question 1: What percent of babies who contracted measles will eventually develop SSPE?
+##
+query 2: I have RA and am suffering from pain and it is attacking my joints...I have read about certain bacteria that can contribute to the RA onset. Please send me any info on any botanical medicines (like those successful from Australia)...and if you could send me samples I would certainly try them as part of human studies on RA.
+summarized question 2:

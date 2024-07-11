@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Ear Infection Treatment MESSAGE: I was cleaning my ear with a pointed metal and mistakenly it got stock into my ear and I started seeing some blood from my ear,Since than I have being some pains in my ear and can I can be hearing some echo sound in my ear. I would be very glad to know the best medication for my ear treatment.
+summarized question 1: What are the treatments for punctured eardrum?
+##
+query 2: I was on a 10 day (2 pills per day) regimen of Amox & Clav (876mg/125 mg) for bronchitis.   Two days after I finished, I developed hives on my back (left side) and right side of my face.  Is this a post use side effect?
+summarized question 2:

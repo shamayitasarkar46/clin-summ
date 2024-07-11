@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: permanent cure for Nystagmus MESSAGE: For me from birth shaking of eyes disorder is there & in family nobody is having this kind of issuse. Pls. Tell me if any curable option for this disease.
+summarized question 1: What are the treatments for nystagmus and can it be cured?
+##
+query 2: I have stiff person syndrome.  How do I find out what is new in treatment  in this study?
+summarized question 2:

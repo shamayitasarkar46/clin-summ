@@ -1,0 +1,7 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Walgreens Low Dose Aspirin MESSAGE: I noticed there is no listing for Walgreens Low Dose Aspirin. I am allergic to Providone and just started taking their low dose aspirin. I started having trouble breathing again and am trying to find their Binding ingredient to see if it is Povidone. Can you help?
+summarized question 1: Does Walgreens low dose aspirin contain povidone?
+##
+query 2: Hi,  maybe you can point me.  My Uncle, born in 1908 was made permanently bald by xrays for a back condition.  He lost ALL his hair over his whole body.  It that possible?  I assume  he had back issues in his 20s.  Have you ever heard of a case like this.  He lived to be 96 years old, never married and always wore a hairpiece.
+summarized question 2:
