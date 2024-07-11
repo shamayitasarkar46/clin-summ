@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: MMR second dosage by mistake MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 1: Is an extra dose of MMR vaccine harmful?
+##
+query 2: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 2: Who should get the MMR vaccine?
+##
+query 3: SUBJECT: CPTII Deficiency MESSAGE: My sister in Texas was just diagnosed with CPTII deficiency today.  We do not yet know which variant.  I was told a year ago following her near death from rhabdo (CK's 150,000+), ATN, RF, respiratory compromise, to be tested for a FA metabolic error.  Until today, I really had no idea which test to request.  Her muscle bx was performed a few months ago as she was still ill last year.  Another recurrence of rhado this year prompted the bx (she is retired military).  I don't know which branch of medicine to contact for genetic testing. From  the NIH website, muscle bx is the most definitive.  I also found a phone number for the Genetics and Rare Diseases Information Center.  Thank you for some direction.
+summarized question 3: Where can I get genetic testing for CPTII deficiency?
+##
+query 4: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 4: What are the treatments and prognosis for a child with AML?
+##
+query 5: SUBJECT: MMR second dosage by mistake. MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 5:

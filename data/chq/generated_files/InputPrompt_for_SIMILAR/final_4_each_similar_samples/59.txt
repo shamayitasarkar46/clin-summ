@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: stomach pain.  My son of 13y is facing upper abdominal pain siverly in the mornig time and slightly after eating lunch and in the night time after dinner.kindly i went five doctors and ultra scan also but problem not resolved.pls advaice me what to do.
+summarized question 1: Where can I find information on upper abdominal pain, including diagnosis and treatment?
+##
+query 2: "SUBJECT: bowel movements MESSAGE: whenever I eat ANYTHING within 10-15 minutes I start having slight stomach cramps and I have to rush to the bathroom and my stool is from slightly firm to liquid - what's causing this?  I'm afraid to eat out at restaurants - it's been happening for about 3 years now  I'm a 53 year old, 5', 7"" in height, african-american woman, never had children, about 50 lbs overweight"
+summarized question 2: What are the causes of cramps and diarrhea after eating?
+##
+query 3: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 3: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 4: SUBJECT: what to eat MESSAGE: I have very bad diarrhea for last two months. Doctors have not found what causing it. It reserve watery.I need to know what I can eat. And is lactase milk and yougar is ok are not?
+summarized question 4: What foods should I eat when I have diarrhea?
+##
+query 5: I have been suffering from digestive problems for 30 years. It has recently flared up bad and I am looking for ideas to try to heal. I was diagnosed with IBS at 13.   I was curious about the servings in the C-IBS Formulation. How's much of each in mgs? How many times a day? I want to take a more holistic approach as I'm going to be 42 and i am tired of suffering and the side effects of my anti nausea meds that left me with an eye tic. If any information can be given I would be greatly appreciative.
+summarized question 5:

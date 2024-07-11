@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 1: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 2: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 2: What are the risks of smoking?
+##
+query 3: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 3: Can sleep apnea occur during the day when awake?
+##
+query 4: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 4: What are the prevention and  treatments for plantar fasciitis?
+##
+query 5: SUBJECT: Carbon dioxide. MESSAGE: What can happen if your level of carbon dioxide in your blood is up to 50? What things can starting changing in your body if it reaches over 50.
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Coronary Artery Spasms MESSAGE: I ask this as a General Question. Can a Pacemaker help prevent these spasms?
+summarized question 1: What are the causes of coronary artery spasms, and can a pacemaker prevent them?
+##
+query 2: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 2: Does neurofibromatosis affect congestive heart failure?
+##
+query 3: what does it means if someone blood is light.  I took injection this night and the nurse said my blood is light, what's does that mean. Sinfe , have been worry.
+summarized question 3: Why is my blood a light red?
+##
+query 4: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 4: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 5: how do you know if you have sinus rhythm, what does it mean, is it good or bad?
+summarized question 5:

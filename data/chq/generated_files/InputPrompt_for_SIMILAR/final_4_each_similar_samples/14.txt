@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 1: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 2: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 2: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 3: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 3: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 4: Post chemo for breast ca.( methotrexate and cytoxin) I gained weight. I had always been a string bean until then. After reading about christensenella I began to wonder what might kill our little friendly gut bacteria. Antibiotics and chemo are so common in our culture. I wondered could this be  causative in the obesity that exists in the USA ?
+summarized question 4: Does antibiotic use and chemotherapy cause weight gain?
+##
+query 5: when to start anohter round of antibiotics? how long can you wait to start a new dose of an antibiotic? 
+summarized question 5:

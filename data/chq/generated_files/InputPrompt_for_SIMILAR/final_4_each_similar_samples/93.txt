@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 1: What are the ingredients of Glyburide and is it gluten free?
+##
+query 2: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 2: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 3: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 3: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 4: SUBJECT: generic valsartan ingredients MESSAGE: I presently take Diovan and my insurance company is suggesting your generic valsartan.  I have celiac disease and can't have any gluten.  Can you tell me if your product is gluten free?
+summarized question 4: What are the ingredients of valsartan and is it gluten free?
+##
+query 5: SUBJECT: Gluten Inquiry. MESSAGE: My medication has been replaced due to discontinued of my prior manufacture.  I am wanting a response and definite answer if your corporation can give a statement in easing my thoughts on gluten free.  I take the Esterified Estrogens, Methyltestosterone full strength dark green table with 1490 labeled on it, I have looked up the ingredients and found an ingredient that shows gluten related. Can you please secure my worries and confirm if this medication is gluten free or if it does contain gluten. Thank you, R
+summarized question 5:

@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: DECUBITUS ULCERS MESSAGE: To Whom This May Concern, My name is [NAME], i am a year 12 student at [LOCATION], [LOCATION]. I am doing a subject called research project, it is a compulsory subject.  My question is 'What are the biological causations of decubitus ulcers?' I am writing to you as i am in need of primary information from medical professionals. I am requesting that you complete a survey. If you are willing to participate please email me on; [CONTACT]   so i will be able to give you the survey and a letter detailing what it is for.  Thank You for spending your time reading this email, and i look forward to hearing from you. Yours Sincerely,           [NAME], Year 12 student at [LOCATION]
+summarized question 1: What causes decubitus ulcers?
+##
+query 2: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 2: What is the effect of dexamethasone on cortisol levels?
+##
+query 3: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 3: Where can I find information on SIDS?
+##
+query 4: SUBJECT: canadida of the esophagus MESSAGE: I cannot locate any information on this condition: causes, symptoms, treatment, etc. I have had it in the past and suspect that I have it again. I would like to research this condition, but internet search only comes up with cancer. I realize that my case is not addressed in your reply. I am simply seeking general information.
+summarized question 4: Where can I find information on candida of the esophagus, including causes, symptoms, and treatment?
+##
+query 5: I have a problem. I am not remember my study always forget .I am not consntrate on study. When i am reading i am thinking any others topic. I am confused Is this a Alhizmer.I think i am loss my memory .Please help me and suggest me.
+summarized question 5:

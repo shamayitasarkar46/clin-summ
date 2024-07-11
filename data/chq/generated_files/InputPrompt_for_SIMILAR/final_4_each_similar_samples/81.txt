@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 1: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 2: SUBJECT: drugs/liver failure MESSAGE: I don't know if you can answer this, but I thought I'd try. If someone used to use drugs, mainly heroin,  and they've stopped using and are around 30 days clean, will they not be able to test negative for drugs if their liver is failing?
+summarized question 2: How long is heroin detectable in your system?
+##
+query 3: SUBJECT: bundle blockage MESSAGE: could you please tell me what a bundle blockage is. what are the symptoms. what is usually done for this?    Thank you
+summarized question 3: Where can I find information on bundle branch block, including symptoms and treatments?
+##
+query 4: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 4: How do I stop taking oxycodone?
+##
+query 5: SUBJECT: time of results. MESSAGE: When a person start halt sildenafil...How long before their breathing, shortness of breath, &fatigue issues go back to normal..?
+summarized question 5:

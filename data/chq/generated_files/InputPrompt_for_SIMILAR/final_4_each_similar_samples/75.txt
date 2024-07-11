@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Blood in cough MESSAGE: before some time i vomit. and blood came in cough with vomit.  what to do . it happens 4-5 times.  when i ask to doc reply that its throat infection.  please advice home remedy for this.
+summarized question 1: What are the treatments for coughing up blood?
+##
+query 2: SUBJECT: vomiting blood clots MESSAGE: Vomiting blood clots. Very small amounts
+summarized question 2: What does vomiting blood clots indicate?
+##
+query 3: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 3: What are the causes of abdominal pain and swelling?
+##
+query 4: SUBJECT: Skin Rash (Petechiae?) MESSAGE: Yesterday I noticed a large cluster of pinprick red spots underneath my chin (not on my neck). Recently I have been self induced vomiting. I know that Petechiae can be caused by vomiting but would this cause it to be underneath the chin??
+summarized question 4: Can vomiting cause petechiae on the chin?
+##
+query 5: SUBJECT: vomiting blood and blood clots, ( pulmonary embolisms). MESSAGE: Is it possible to vomit blood, with abdominal pain, fatigue that caused them to sleep two days, left sided chest pain ( left upper ribcage area), and suffer from Bilateral Pulmonary Embolism with Left Lower Lobe Infarction four weeks later? The blood was bright red, about one cup.
+summarized question 5:

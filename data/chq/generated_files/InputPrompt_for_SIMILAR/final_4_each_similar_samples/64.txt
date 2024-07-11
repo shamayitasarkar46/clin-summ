@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I had the  lap band but I just gain the weight back. can I still have the bypass done ?
+summarized question 1: Can gastric/GI bypass surgery for weight loss be done after failed lap band surgery?
+##
+query 2: I have an hernia I would love to take care off it ASAP I was wondering if you guys could help me . Thanks
+summarized question 2: What are the treatments for hernia?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 3: What are the treatments and prognosis for a small GIST?
+##
+query 4: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 4: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 5: Can I get my acid reflux surgery clipped to get lap band or would you suggest the sleeve or gastric bypass instead. What are possible complications if I get my acid reflux surgury clipped to get lap band? Thanks!
+summarized question 5:

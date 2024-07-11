@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 1: What are alternatives to phenobarbital?
+##
+query 2: My name is [NAME] and i am 45 years old and come from [LOCATION]. I got involved in a shock cerebral (Brain stroke in Cerebellum) and took apoplexy cerebral. I did a surgery for placing shunt. After my surgery i lost my body balance to some extent. Now i am trying to improve my condition with physiotherapy, swimming and etc. My doctor says the shunt is not necessary longer. I found your name between scientists which are involved in research on brain stroke so my request is if you could advice me with new methods for curing my problem. I can come to [LOCATION] if needed to do further therapy for my problem. I would be very thankful of your help
+summarized question 2: What are the treatments and recovery for cerebellar stroke?
+##
+query 3: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 3: What are the treatments for loss of appetite?
+##
+query 4: SUBJECT: Anxiety MESSAGE: How does one deal with anxiety and the looming feeling that I am about to have a heart attack?  I am taking clonazepam which helps but I would rather go back to the person I used to be without this condition.  How can I re-train my brain into not thinking a heart attach is about to hit me?
+summarized question 4: What are the non-drug treatments for anxiety?
+##
+query 5: Is it safe to take Relora if I seizure disorder? I had a Cavernoma removed from my brain that my drs believe caused me to have a seizure. I am now taking Keppra for seizure prevention. I would like to take Relora to combat the anxiety and to lift my mood. It seems no drs know much about supplements.
+summarized question 5:

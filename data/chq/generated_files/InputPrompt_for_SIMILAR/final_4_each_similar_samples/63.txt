@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: menstruation MESSAGE: What causes women menses over a month ? And how bad it is interms of their health ?
+summarized question 1: What causes prolonged periods?
+##
+query 2: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 2: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 3: MESSAGE: What should I do for my excess hair growth?? hair growth on legs ,they appear when I took oral contraceptive only two time ....but the excess hairs on legs are appeared since last year after heavy itching on legs.....!what diagnosis should I do?????
+summarized question 3: What causes excess haur growth on the legs and what are the treatments?
+##
+query 4: SUBJECT: SEVERE leg cramps with Lupus MESSAGE: My wife has Systemic Lupus and is already taking Potassium Chloride 20meg er 1QD and about 24-48 ounces of Gatoraid every day but still gets SEVERE leg cramps. What can she do to stop or help stop the cramps?
+summarized question 4: What are the treatments for leg cramps aside from potassium chloride and Gatoraid?
+##
+query 5: Hello, My sister suffers from obsessive-compulsive disorder for more than ten years And I want to know why the symptoms of obsessive-compulsive disorder increase during the menstrual period for this she is  very afraid and use contraceptive pills a monthly to prevent the menstrual cycle and is used this way since 5 years The first question is why the symptoms of obsessive-compulsive disorder increase during menstruation? The second question Are there any side effects as a result of the use of pills a month? I hope to help me found the answers because her conditions is very bad and please told me what we can do to help her. thank you very much and thank you for your time.
+summarized question 5:

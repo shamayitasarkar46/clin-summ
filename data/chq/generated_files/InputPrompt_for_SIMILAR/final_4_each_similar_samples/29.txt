@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: anemia in kids. My daughter is 6 years old she is suffering from microcytic anemia for last three years.in 2009 she has been blood transfused but now her hb count is 4.5.Doctors are unable to find out the cause of her anemia.we are much worried about her.plz if u can guide us in regard.
+summarized question 1: What are the causes of  and treatments for microcytic anemia?
+##
+query 2: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 2: How is thalassemia inherited?
+##
+query 3: Customer Service Request.  My daughter has Turner syndrome but she's beaten all odds. She developed on our own, got her period on her own, she is now pregnant on her own with identical twins. My question is can she have normal children or do they have more of a chance of having Turner syndrome.  My daughter has been tested many times to confirm her diagnosis of Turner syndrome and she is a full XO not mosaic but still does not display many of the characteristics. Again, I am just questioning the safety of the pregnancy and the health of the babies. Thank you for your help
+summarized question 3: What is the inheritance pattern of Turner syndrome?
+##
+query 4: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 4: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 5: I have 6 months twin daughter. M one daughter is ok but another one have blood less issue from start. and she required bool every month. after check . of her, her mother and my. result find out that. My report is ok from Thalassemia. Her mother have minor Thalassemia . and she (daughter) have no Thalassemia but my daughter have Anemia. so doctor give her foli acid and mother milk. but she still problem, now he sagest for bone marrow and maybe she have Anemia.. so give me some guideline that what I do.... thank..
+summarized question 5:

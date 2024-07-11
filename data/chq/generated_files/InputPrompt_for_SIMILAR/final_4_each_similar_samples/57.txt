@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Optic nerve artrophy MESSAGE: Good afternoon,  I am [NAME] from [LOCATION]. For my nephew is optic nerve artrophy about 2-3 years. He is 8 years old. One eye is dead now, other eye he can see about 20 percentage. No one doctor can`t help him in [LOCATION] (Europe).  Could You view his health history and to give the opinion about my nephew health situation and You will have proposition how we can help him.  I would be very grateful for Your.  Best regards,  [NAME] from [LOCATION].
+summarized question 1: What are treatments for optic nerve atrophy, and how can I find physician(s) in Europe who specialize in it?
+##
+query 2: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 2: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 3: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 3: What are the inheritance patterns for senior loken syndrome?
+##
+query 4: SUBJECT: spg11 MESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,
+summarized question 4: What are the treatments and prognosis for spg11?
+##
+query 5: recently my son took an eye examine and  he had 20/40 in one eye and 20/25 in the other would he need glasses? then when they continue the eye examine they said the Fundus could not be visualized in either eye. I just want some understanding on both situations.
+summarized question 5:

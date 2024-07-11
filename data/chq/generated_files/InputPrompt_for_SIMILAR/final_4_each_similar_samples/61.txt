@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 1: What are the treatments for autoimmune nerve disorder?
+##
+query 2: ClinicalTrials.gov - Question - specific study. Do you have any more indepth information regarding pseudocholinesterace deficiency? My son 28 and myself 56 have this problem and we both have systemic muscle spasms. cramps contractions. Most seem to be caused by knots or trigger points. I assume this has something to do with this deficiency because it deals with neuro transmissions correct. Anyway we are looking for relief. The muscle relaxants help a bit but the knots do not go away and so the pain is still there at a deeper level. The doctors and neurologist have no idea. Thank you. [NAME]
+summarized question 2: Where can I find information on pseudocholinesterase deficiency icluding treatment?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 3: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 4: What are the treatments for scalp psoriasis?
+##
+query 5: I have heard about M.M.S. can it help with Barr syndrome/crohns I know about supplements but need more for the hands /feet muscles an diaphragm muscles, using only small dosage of the myatoxin only let's the body build defense to the paralyzed muscles so any information on both M. M. S. ,sodium chloride/citric acid healing curing, everything, to govern. Clinical trials for people suffering severe muscle problems in hands. Feet lungs
+summarized question 5:

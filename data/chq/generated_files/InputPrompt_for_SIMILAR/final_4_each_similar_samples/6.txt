@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Hello, my name is [NAME] , and I have Fibromyalgia terribly. My father has MS, and my mother's sister has been diagnosised with ALS. I was wondering if that would have any bearing on why my Fibromyalgia is hit me so hard. I have been experiencing s/s since as far back as 3rd grade that medical records can show and I'm 40 years old now. By the time I was 18 I was told I need psychiatric help because I was to young to complain like an 80 year old. Thanks [NAME]
+summarized question 1: Is fibromyalgia hereditary and related to multiple sclerosis and amyotrophic lateral sclerosis?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: MY NAME IS [NAME]. ON [DATE] I WENT TO [LOCATION] ABOUT MY FEET BEING ASLEEEP. THEY PUT ME ON LYRICA. WELL I AM WORST NOW AS OF TODAY MY FEET HAVE BEEN ASLEEP NOW I AM IN ALOT OF PAIN AND ITS ALL THE WAY TO MT KNEES I NEED SOME KIND OF HELP. NO INSURANCE. NO MONEY WHAT CAN YOU FIND OUT FOR ME. PLEASE CONTACT ME AT [NAME] THANK YOU
+summarized question 2: Where can I get help for neuropathic foot pain?
+##
+query 3: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 3: Can sleep apnea occur during the day when awake?
+##
+query 4: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 4: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 5: I have myclonus as well acute respiratory distress syndrome and sleep apnea with painful left temporal pain; I actually raise for sleep start holding my left temporal and saying, ouch!! I experience in the same occurrence..all three hallucinations regarding wake sleep (audio tactile and visual). I have expressed my concerns to numerous neurologist and they tell me It's Functional. Should I be concerned?
+summarized question 5:

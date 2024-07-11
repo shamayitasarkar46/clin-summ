@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Low Platelet Count MESSAGE: hello i am facing low platelet count in my blood ( PTI ) and am taking the therapy ( 1 Pill Prednisone 2mg Morning -  MyFortic 2 Pills Morning - 2 Pills Night )  i want to ask [NAME] MD, Professor of Medicine if removing the spleen will cause anything or if there any side effects when removing it.  and what is the cause of this ( PTI )  Been in this 4 months  and my platelet count are ( 70 000 - 140 000 - 65 000 - 90 000 ) didnt reach the normal count. is this therapy good and will it help?  i just need some answers please.  waiting to hear from you soon  sincerely, [NAME]
+summarized question 1: What are the causes and best treatments for low platelet counts?
+##
+query 2: SUBJECT: Blood pressure MESSAGE: Take blood pressure med atenolol 50mg, blood pressure running 91/59 HR65, most of the time lower in the upper to mid 80's.  My doc is not in for 3 day's.  What can I do to raise it.  I am on anxiety, pain & muscle relaxers for a medical condition in my neck and legs that I can't have surgery on again.  Please how do I get my pressure back up until I can get to my doctor?  I am so tired and can't get rid of the headache.
+summarized question 2: What are the treatments for low blood pressure?
+##
+query 3: MESSAGE: What if someone throw up blood just a little got a little light headed and just laid down and went to sleep they said they will sleep it off but I want to take they said I'm fine. What should I do
+summarized question 3: Should someone who vomited blood and  felt lightheaded go to sleep?
+##
+query 4: SUBJECT: Insomnia (special case) MESSAGE: Hi, Im 40 years old male. I was suffering from social anxiety since I was child.  Last year, I decided to go to a psychologist. She advised me to practice meditation, mindfulness and CBT as well.  She explained to me the great positive impact of the meditation, mindfulness on the brain activity (neuroplasticity). Since then, I've been practicing these techniques. The result was awesome. I no longer suffer from my social anxiety and my life has completely changed to the positive side. No more worry, stress, anxiety, etc.  But at the same time, I started to suffer from chronic insomnia until now. Of course, Im always in touch with my psychiatrist who has prescribed me the necessary and still following me up. Even tough, my insomnia doesn't improved.  Unfortunately, nobody can determine the real cause of my insomnia.  If I know the cause, I'll do my best to find the key to resolve this problem.  According to my mentioned story, can you help me to find the real cause of my insomnia?   Thank you, Your answer is very appreciable and important to me.   [NAME].
+summarized question 4: What are causes of and treatment for chronic insomnia?
+##
+query 5: SUBJECT: Low Potassium. MESSAGE: I have been taking Melitonion to help me sleep. My PC has prescribed 20 meq of potassium for low potassium level.  He has since increased it to 40 MEQ as my potassium level is still under the normal levels. Should I stop taking the Melitonin to help me get to sleep at night.
+summarized question 5:

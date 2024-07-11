@@ -1,0 +1,16 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 1: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 2: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 2: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 3: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 3: What are the treatments for deafness caused by gentamicin?
+##
+query 4: SUBJECT: erection problems MESSAGE: I am 32 yrs. old , 5.6 ft. and 68 kg wt.,  married and have a son of two years. Since last few months , I experience erection related problems during intercourse. When aroused, I get normal erection but it does nt continue for long. I don’t smoke and very rarely drink. I do exercise also. I masturbate 4-5 times a week because my testicles experience pain if I don’t ejaculate after any intimacies or getting very aroused. When pain starts, if I ejaculate by masturbating, It is relieved.  I do have night erections which I find generally in the mornings. Out of tension, once I tried Sildenafil tablet also for erection. Please tell me if I am suffering from any erection related problems or any other problems. Is masturbation a cause for these?  Kindly guide me. I have not visited any doctor yet.
+summarized question 4: Can masturbation cause erectile dysfunction?
+##
+query 5: i am post menopause for about 18 years and i have been bleeding for about a month why
+summarized question 5:
