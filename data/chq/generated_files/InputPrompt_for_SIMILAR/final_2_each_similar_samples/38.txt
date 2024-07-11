@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 1: How is hypomaturation type IIA2 inherited?
+##
+query 2: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 2: How is thalassemia inherited?
+##
+query 3: I have been tested twice and it has been determined that I have 2 copies of the gene for FACTOR V, and I am concerned about my family.  If 1 parent has been diagnosed negative, is it even possible for me to have 2 copies of the gene without something being misdiagnosed?  I have 3 children and 8 grandchildren and would like to know if this should be called to their attention?  Information will be appreciated.
+summarized question 3:

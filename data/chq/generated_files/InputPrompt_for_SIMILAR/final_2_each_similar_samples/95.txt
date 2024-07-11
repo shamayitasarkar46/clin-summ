@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 1: How can I locate a support group for patients with taste and smell disorders?
+##
+query 2: SUBJECT: father suffering from IBS MESSAGE: My father is suffering from IBS and is loosing weight day by day.sometimes he even faints due to weakness.He cannot digest food .please help us and suggest us upon this problem.
+summarized question 2: What are the treatments for IBS?
+##
+query 3: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 3:

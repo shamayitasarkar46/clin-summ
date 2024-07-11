@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Is Balsalazide a steroid? MESSAGE: Is Balsalazide a steroid? I have been on it doe close to 2 years now, your information states 6-8 weeks.  Will this do any damage to my other organs?  Was on Asacol prier to Balsalazide 750mg each X9 per day.  Is this safe? I cannot seem to lose any weight no matter how much I try. I exercise 5-6 days a week for 30 minutes, watch what I eat.
+summarized question 1: Where can I find information on balsalazide, including dosage, side effects, and drug class?
+##
+query 2: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 2: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 3: what are the effects when you take testosterone injections with sudafed 20 mg at the same time what’s the effects
+summarized question 3:

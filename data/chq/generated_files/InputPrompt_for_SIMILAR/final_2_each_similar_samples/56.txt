@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: DECUBITUS ULCERS MESSAGE: To Whom This May Concern, My name is [NAME], i am a year 12 student at [LOCATION], [LOCATION]. I am doing a subject called research project, it is a compulsory subject.  My question is 'What are the biological causations of decubitus ulcers?' I am writing to you as i am in need of primary information from medical professionals. I am requesting that you complete a survey. If you are willing to participate please email me on; [CONTACT]   so i will be able to give you the survey and a letter detailing what it is for.  Thank You for spending your time reading this email, and i look forward to hearing from you. Yours Sincerely,           [NAME], Year 12 student at [LOCATION]
+summarized question 1: What causes decubitus ulcers?
+##
+query 2: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 2: What is the effect of dexamethasone on cortisol levels?
+##
+query 3: I have a problem. I am not remember my study always forget .I am not consntrate on study. When i am reading i am thinking any others topic. I am confused Is this a Alhizmer.I think i am loss my memory .Please help me and suggest me.
+summarized question 3:

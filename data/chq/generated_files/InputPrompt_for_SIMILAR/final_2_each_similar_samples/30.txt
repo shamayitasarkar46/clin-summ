@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: pregnancy MESSAGE: I just want to ask if have some ways or have a operation to be pregnant a woman like me had a tubal ligation before  7yrs. Ago..
+summarized question 1: Where can I find information on tubal ligation reversal?
+##
+query 2: SUBJECT: finastride and pregnancy MESSAGE: my wife is pregnant. She is in week30 of pregnancy. Now i am going to  consume finastride 1mg for my hair loss.is it dangerous for pregnancy  for my wife and her fetus؟ i use condom when i have sex with my wife.  please answer me .can finastride shift to mothers body by my sweat orskin contact?please answer me .thank you.
+summarized question 2: Can finasteride be transmitted via bodily fluid or skin contact?
+##
+query 3: hai sir, we want suggestion to my wife. she is sugar patient and she is pregnant. in her uterus have two fibroid  of max size (750g and 300g). doctors are suspecting pregnancy may be in uterus or tubes. so remove uterus. what is u r suggestion
+summarized question 3:

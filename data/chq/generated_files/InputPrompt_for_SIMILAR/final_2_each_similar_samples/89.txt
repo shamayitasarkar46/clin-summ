@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Administration MESSAGE: Is there a reason that the lovenox has to be given in the SQ of the abdomen? Why not other SQ sites?
+summarized question 1: Why is lovenox administered in the abdomen?
+##
+query 2: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 2: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information. MESSAGE: I have a question about Lofexidine. do you have to be on suboxone and orbuprenorphine to use it and is it approved in the [LOCATION] yet?
+summarized question 3:

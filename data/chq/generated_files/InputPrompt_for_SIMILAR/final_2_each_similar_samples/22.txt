@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 1: What are the causes of and treatment for scrotal rash?
+##
+query 2: SUBJECT: dressings MESSAGE: my dad had some skin cancer removed 3 wks ago and a skin graft was performed. The doner site is healing well, but the graft site is still very sore and having dressings changed every 2/3 days, dad isnt convinced that the wet gauze dressings are any good. Which type of dressings should be being used?
+summarized question 2: What types of dressings are used for skin graft sites?
+##
+query 3: scrotum swelling scarring from water retention what ointment, cream to treat
+summarized question 3:

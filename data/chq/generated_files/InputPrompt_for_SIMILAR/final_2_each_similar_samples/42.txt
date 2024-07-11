@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 1: What are the treatments and prognosis for a small GIST?
+##
+query 2: GERD.  I'm a 72 year old female, and have diverticulosis,gastritis, and esophagitis.  I tried to see three different doctors today, but all were booked.  I honestly don't know what to do.  It hurts in my chest, and I can hardly talk.
+summarized question 2: How to treat chest pain potentially associated with  diverticulosis, gastritis, and esophagitis?
+##
+query 3: My grandson now 3yr6mo.dx at abt 9mons w/pehh and ger and bad reflux. surgery finally done and nissen has been in place ever since. Glad my daughter n son in law r both nurses. Behaviors entrenched from reflux discomfort --misery. His hand grip worries me, therapy in place for that. Visiting over Christmas I’m scared of disrupting his detailed feeding protocol. He’s finally on the wt. charts. So rare, lay people say: let him get hungry and he’ll eat. That’s so cruel it makes be angry so I don’t talk. Any info on what grama can do to ease my daughter’s workload. Read more abt? intimidating.
+summarized question 3:

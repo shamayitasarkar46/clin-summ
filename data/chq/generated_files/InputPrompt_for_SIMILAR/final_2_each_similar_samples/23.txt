@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Dear Sirs, Please instruct me what the correct dose of medication: *BRONCOMAR MAXIMUM- dextromethorphan hydrobromide and guaifenesin liquid,* because: In the *labeling* says: Adults and children 12 years over 10 ml (2 tsp) every 6 hours Children 6 to under 12 years old 5 ml (1 tsp) every 6 hours And in the *insert* specifies: Adults and children 12 years over 10 ml (2 tsp) every 4 hours Children 6 to under 12 years old 5 ml (1 tsp) every 4 hours Waiting for your prompt response. *[NAME]* [PROFESSION] *[CONTACT]* [CONTACT]
+summarized question 1: What are the recommended dosages for BRONCOMAR MAXIMUM-dextromethorphan hydrobromide and guaifenesin liquid?
+##
+query 2: SUBJECT: RKS have a 6 month old baby.. MESSAGE: Hi everyone, I am a mum of 6 months old boy who was diagnosed with Cerebral palsy (Hypotonia/Hypotonic form) in relation with Pallister-Killian syndrome. Also he has got mixed form of hydrocephalus There is no epiactivity. Our neurologist has suggested to go through Vojta method/ Bobat therapy.  Please could you let me know your experience with these methods ( if any).. I will be very grateful for any info about it as I do to have enough information to operate with. Also, any thoughts about transcranial direct-current stimulation, occupational therapy or Feldenkrais? Please please please if you can share your experience - it would be absolutely priceless.  Thank you in advance,  Best Regards,  [NAME]
+summarized question 2: Where can I find information on treatments for cerebral palsy, and specifically the vojta method and bobath therapy?
+##
+query 3: 8 month old child suffering from constant vomiting what could be the medicine used for treatment
+summarized question 3:

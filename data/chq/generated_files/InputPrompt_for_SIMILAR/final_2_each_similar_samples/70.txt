@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: my infected herpes virus simplex 2 so that i can make a new baby MESSAGE: dear ! if some one are positive herpes simplex gentle, whether they can make a baby, if his wife never get the virus before due to using condom from her husband They can choose the sperm to make the IVF to preventing the virut transmit for his wife and his baby when him new born
+summarized question 1: Can herpes virus simplex 2 be transmitted through sperm?
+##
+query 2: SUBJECT: shingles MESSAGE: I am having symptoms of shingles, no rash or blisters, is it too late to get the vaccine? I have had the chicken pox and take acylovir on a as needed basis for blisters I get on my buttocks
+summarized question 2: I am having symptoms of shingles; is it too late to get the vaccine?
+##
+query 3: herpes. Would it be possible to acquire herpes (1 or 2) in a less painful location such as the arm or leg, and thereby gain immunity to further infection genitally or orally?  As such would dental pros who have acquired the virus in their hands be immune to further contraction of the virus?
+summarized question 3:

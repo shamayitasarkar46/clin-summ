@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: hi this is [NAME] i am doing an isearch paper and i would love to find out more about dystonia i have it for i think a year and i wanna know if it will ever go away and will i ever be able to play sports again? -- [NAME]
+summarized question 1: Where can I find information on dystonia, including prognosis?
+##
+query 2: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 2: What are the symptoms of complex regional pain syndrome?
+##
+query 3: I had surgery in 2011. I had an injury from a gunshot and the doctors put a stent in my carotid artery. I want to play sports. I am sure basketball is fine. I do not know about football since it is mainly a contact sport. Has anyone ever played football witha a stent in their neck ? I know there are some details I should note before furthering my want of playing sports.
+summarized question 3:

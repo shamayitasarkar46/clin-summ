@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 1: What are the treatments for lichen planus?
+##
+query 2: SUBJECT: vaginal rashes after periods that leads to vaginal itching MESSAGE: period rashes proceed to vaginal itching. then it develop fungal infection with thick white discharge. i then take flucanazole (antifungal)which cure it. but m worried of taking allopatic medicines. pls tell me what primitive or traditional methods do i use to avoid it. i also have a sensitive skin.
+summarized question 2: How can I prevent vaginal skin rashes and fungal infection?
+##
+query 3: I have a patchy skin and it has become very dull these days and also i find few rash\pimples on my face. could you please suggest me the food tha i have to take to increase my complexion and get rid of this dullness and rash\pimples.
+summarized question 3:

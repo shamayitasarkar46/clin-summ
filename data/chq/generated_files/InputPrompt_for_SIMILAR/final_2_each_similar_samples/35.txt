@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: We appreciate your response. My son is 24 years old. We cannot find any drugs, treatments as well as hospitals to fight against Wilson's disease in [LOCATION]. Currently there is [PHI] person with Wilson's disease in [LOCATION] who is my son. We cannot find anything good to help my son at the moment. Therefore, we need somewhere where my son can get help. We are also lack of financial condition to support full treatment for my son. However, we wish to have good medication with less expense if possible. We want to get diagnosed my son's other infected organs and want to know how we can help to get them recovered well. Regards [NAME].
+summarized question 1: What are the treatments for Wilson's disease, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 2: SUBJECT: GENDER DYSPHORIA MESSAGE: NO HEALTH CARE ON MY SON SUFFERING FROM GENDER DYSPHORIA WHAT CAN WE DO TO HELP HIM HE WORKED OUT OF HIGH SCHOOL NO PROBLEMS NOW NOT WORKING AND SHUTTING HIMSELF IN HIS ROOM 24/7 THERES NOTHING ABOUT THIS CONDITION IN OUR AREA WE LIVE IN [LOCATION]. NO HELP IN AREA WHAT CAN WE DO HE HAS HAD BAD THOUGHTS ALREADY PLEASE HELP US WITH SOME SORT OF INFO THANK YUO [NAME] [LOCATION] [CONTACT]
+summarized question 2: Where can I find information on treatment and resources for gender dysphoria?
+##
+query 3: my son s 20 years old and last year he told us he had GID. He never goes out except to work with me. rarely will he go anywhere unless he has to. i want to help my son find his life but i don’t know how to help him. i try to support him as best as i know how. i have suggested support groups and so forth but he is not willing. i fear for his mental health. please tell me what i can do to help my son. any groups, people i can contact that will help him with his GID, and that he can be able to somehow find a life for himself. Thanks
+summarized question 3:

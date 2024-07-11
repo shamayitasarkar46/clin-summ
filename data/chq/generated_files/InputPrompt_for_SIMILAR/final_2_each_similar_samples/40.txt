@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: questions about the effect of L-Leucine.  Hello,do you have any introduction about L-Leucine on the effect of treat cancer?If so,could you kindly tell me details?
+summarized question 1: Where can I find information on L-Leucine and its use in cancer treatment?
+##
+query 2: hepatitus A blood test.  how long does it take for the lab to determine the result
+summarized question 2: How long does it take to get a hepatitus A blood test result?
+##
+query 3: Hello –  Do you know if there are blood or urine tests that can detect if an individual is taking Flomax??  Your assistance is appreciated. Thank you
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 1: How is post-polio syndrome diagnosed?
+##
+query 2: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 2: What are the causes of severe body weakness?
+##
+query 3: covid-19 how long to quarantine after being positive how long are you contagious if i tested positive for covid-19. how long before i can safely return to work after a positive covid 19 test
+summarized question 3:

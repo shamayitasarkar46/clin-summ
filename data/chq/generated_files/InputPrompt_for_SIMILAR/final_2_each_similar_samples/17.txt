@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Coronary Artery Spasms MESSAGE: I ask this as a General Question. Can a Pacemaker help prevent these spasms?
+summarized question 1: What are the causes of coronary artery spasms, and can a pacemaker prevent them?
+##
+query 2: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 2: Does neurofibromatosis affect congestive heart failure?
+##
+query 3: how do you know if you have sinus rhythm, what does it mean, is it good or bad?
+summarized question 3:

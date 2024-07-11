@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I had the  lap band but I just gain the weight back. can I still have the bypass done ?
+summarized question 1: Can gastric/GI bypass surgery for weight loss be done after failed lap band surgery?
+##
+query 2: I have an hernia I would love to take care off it ASAP I was wondering if you guys could help me . Thanks
+summarized question 2: What are the treatments for hernia?
+##
+query 3: Can I get my acid reflux surgery clipped to get lap band or would you suggest the sleeve or gastric bypass instead. What are possible complications if I get my acid reflux surgury clipped to get lap band? Thanks!
+summarized question 3:

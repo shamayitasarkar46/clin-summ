@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I have to start applying ciclopirox to infected toes. I know u cannot use nail polish bit can I put a band aid on once the medication has dried?
+summarized question 1: Can i cover ciclopirox with bandaids?
+##
+query 2: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 2: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 3: SUBJECT: don't know what to do about keeping dressing on my 17 month olds stitches. MESSAGE: I have a 17 month old that had stitches on his left index finger and he wont keep on the dressing / bandage. please help me to figure out what to do.
+summarized question 3:

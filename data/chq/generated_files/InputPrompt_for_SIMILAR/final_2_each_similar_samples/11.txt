@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Right Arm shoulder pain from top to bottom MESSAGE: hi, I am having an younger sister, who is suffering from severe pain of right shoulder from 7 days. The pain comes from right ear to right arm fingers and she was unable to lift a simple spoon or plate. Hence I request you to suggest me good medicine or treatment for this pain.
+summarized question 1: What are the causes and treatments for irradiating right shoulder pain and weakness in the arm?
+##
+query 2: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 2: What are treatments for excessive sweating?
+##
+query 3: outbreak of red raise sores on back shoulder and arms from shoulder to wrist with raised bulbs of liquid. treatment and maintenance ?
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 1: What are the treatments for strabismus, including stem cell therapies?
+##
+query 2: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 2: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 3: I am seeking information regarding wandering/lazy eye correction. I have suffered from this condition since I was a child. Please forward any pertinent information. Thank you.
+summarized question 3:

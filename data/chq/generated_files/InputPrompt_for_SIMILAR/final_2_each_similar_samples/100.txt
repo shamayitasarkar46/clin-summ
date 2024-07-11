@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Can a 40 year old get throat cancer... MESSAGE: I have drank a lot of alcohol and lots of drugs. Not very many fruits and vegetables. This year I have gotten strep throat twice and sore throats with ear aches. Antibiotics have taken 4 different kinds this year alone. Raspy voice, very painful when swallowing.
+summarized question 1: What are the risk factors and symptoms of throat cancer?
+##
+query 2: "SUBJECT: bowel movements MESSAGE: whenever I eat ANYTHING within 10-15 minutes I start having slight stomach cramps and I have to rush to the bathroom and my stool is from slightly firm to liquid - what's causing this?  I'm afraid to eat out at restaurants - it's been happening for about 3 years now  I'm a 53 year old, 5', 7"" in height, african-american woman, never had children, about 50 lbs overweight"
+summarized question 2: What are the causes of cramps and diarrhea after eating?
+##
+query 3: SUBJECT: Loss of sense of taste. MESSAGE: I have not been able to taste most foods for over a year ( I am 54 and in good health for the most part, I do not have a loos of sense of taste and do not have gum disease.) either due to using a vaperizor where the fluid leaked and got on my throat or where my smoking did.  I am also Hypothyroid classified with Hashimots's.  I am at my breaking point and need something medically to fix this.  Is there such a medicine?  No one will help me it seems. Thanks, [NAME]
+summarized question 3:

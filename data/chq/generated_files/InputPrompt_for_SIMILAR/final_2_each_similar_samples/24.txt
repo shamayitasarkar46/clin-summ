@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 1: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 2: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 2: What are the treatments for kidney stones?
+##
+query 3: what electrolyte do you need to watch when someone is on a water pill and what would be a good food source for this electrolyte?
+summarized question 3:

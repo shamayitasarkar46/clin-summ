@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: diabetes MESSAGE: It was really helpful after reading about type 1 diabetes but would like some more suggestions from you .my friend is 35 year old and its been 1 year of his diabetes n his sugar level is around 100 or 120 OR SO.. each time he tests his sugar level. is there ANY COMPLICATIONS? HE ALSO GO FOR EXERCISES AND BLOOD TEST EVERY 2 OR 3 MONTHS N TAKES A PROPER DIET LIKE GREEN JUICE,OLIVE OIL AND ALL. WAITING FOR YOUR FEED BACK. THANK YOU.
+summarized question 1: What are the complications of type 1 diabetes?
+##
+query 2: SUBJECT: Very high blood sugar! MESSAGE: I had two injections in my feet yesterday (5-22-14).  The physician said to watch my blood sugar carefully, as the injections could cause a rise in my blood count. I began having memory problems last evening after an MRI, and then this morning and at noon today (5-23-14), my count has been 427.  I have read my magazines about diabetes, pulled up several things on Medline Plus, and tried to get in touch with two of my doctors who might help.  Everyone is busy, and I totally understand.  I just need to know what, if anything, I can do to get my blood sugar down as fast as possible.  Thank you,  [NAME] [CONTACT]
+summarized question 2: What are the treatments for high blood sugar?
+##
+query 3: when you check your blood with the insulin meter what is a good number
+summarized question 3:
