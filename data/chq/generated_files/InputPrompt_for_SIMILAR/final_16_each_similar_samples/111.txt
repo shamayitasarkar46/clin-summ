@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: ENT specialists & esophogeal disorders.  Would you kindly be able to recommend a specialist(s) in the DC area or East coast in the above medical field for my mother. I'm at a loss and  would greatly appreciate your help. Thank you for your consideration.
+summarized question 1: How can I find physician(s) in the DC area who specialize in esophageal disorders?
+##
+query 2: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 2: What are the treatments for loss of appetite?
+##
+query 3: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 3: What are the treatments for lichen planus?
+##
+query 4: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 4: What are the treatments for LGMD?
+##
+query 5: SUBJECT: Demand MESSAGE: I have read on your website about the perirenal abscess. My mother is in the situation stipulated here http://www.nlm.nih.gov/medlineplus/ency/article/001274.htm I would really appreciate a recommendation as to where she could treat (a doctor, a clinic, a hospital, etc.). The Dr/Drs who wrote the article is/are professional and i think they could give me a hand.
+summarized question 5: Where can I find information on perirenal abscess, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 6: SUBJECT: CURE FOR PNEUMONIA MESSAGE: Dear DR, please i have a friend that has the above illness..I want to find out...since i want to marry her...is it an infectious illness,,and can it be totally cured. And how can i help her to get this cured..Please i really need your reply urgently
+summarized question 6: What are the treatments for pneumonia?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 7: What are the treatments for autoimmune nerve disorder?
+##
+query 8: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 8: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 9: SUBJECT: Suggestion on ILD problem MESSAGE: Dear I am suffering from ILD problem as per my doctor suggestion I am taking the home oxygen on this problem. Can you suggest me the perfect medicine on this problem it is helpful for my day to day activities as well as improve my life style.  Please suggest  I am waiting for your reply.  [NAME]
+summarized question 9: What are the treatments for ILD?
+##
+query 10: SUBJECT: Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa MESSAGE: Hi, Im not sure if you can help, but my wife has Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa. I was hoping to find out some information if possible. Or to see if you could put me in touch with someone that mey be better suited to this. WE are wanting to start a family and want to know how Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa may effect the child or my wife during the proccess. She is currently taking levodopa  daily and would like to know if this in itself could have an effect on an unborn child. Not sure if ive come through to the right place or not, but just looking for some information or an indication of whom i may speak to,. I really look forward to hearing back from you, Regards,
+summarized question 10: What are the effects of dopa-responsive dystonia, retinitis pigmentosa and levodopa on pregnancy?
+##
+query 11: I have an hernia I would love to take care off it ASAP I was wondering if you guys could help me . Thanks
+summarized question 11: What are the treatments for hernia?
+##
+query 12: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 12: What are the risks of knee surgery in an older person?
+##
+query 13: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 13: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 14: May I can find a cure for my case in therapeutic your center that I have an infection chronic granulomatous Mastitis take and how much the treatment period. Please advise me of the post by you.to this my Email Note : that I have all the medical reports and tests for this disease ??? this case of my wife and can be send your comment by below E-mail
+summarized question 14: What are the treatments for chronic granulomatous mastitis?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 15: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 16: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 16: What is the effect of dexamethasone on cortisol levels?
+##
+query 17: Good day; I would like to know who to contact for treatment of atopic eczema or if you know any clinic that can help me, I know someone who suffers from it and I would like to help her improve the disease. Thank you in advance Regards
+summarized question 17:

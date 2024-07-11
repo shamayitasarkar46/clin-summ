@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: Customer Service Request. I am looking for recent information and treatment for Ledderhose Disease also know as Plantar Fibromotisis. I would be interested in doctors specializing in this disease.
+summarized question 1: Where can I find information on Ledderohose disease, including the latest treatments, and how can I find physician(s) who specialize in it?
+##
+query 2: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: Dear sir/ madam. I am a patient suffering from Friedreich's ataxia and i heard there was a medicine for it. In 2009 and since we are looking for the medicine kindly help on this and I have DNA report could You please help us on this as there are two people respective age 22 years and 24 years suffering from it. Looking for your help on this ASAP and please let us know when the medicine will be there in market and attaching two files for your reference
+summarized question 2: What are the treatments for friedreich's ataxia?
+##
+query 3: SUBJECT: Stem Cell Therapy for Muccular Dystrophy MESSAGE: I have read the Medline Abstracts 98,99 of 'Limb-girdle muscular dystrophy'. Please could you tell me how I contact a specialist to enquire further with this...Thank you...[NAME]
+summarized question 3: How can I find physician(s) who specialize in limb-girdle muscular dystrophy?
+##
+query 4: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 4: What are the treatments for LGMD?
+##
+query 5: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 5: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 6: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 6: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 7: wolfram syndrome. hi im a support worker for a 46 yr old autistic male.reading your info provided about wolfram syndrome ,he matches alot of the symptoms. he has just recently been diagnosed with type 1 diabetes and i was just doing some research about it and came across wolfram syundrome which like i said the symptoms match alot of this guys doings. my question that ive unfortunatley been able to figure an answer out for is can adults develope this syndrome? can it be a gradual process of events/symptoms or does it happen within the first approx.15-20 years of life? if you could get back to me with any info it would be highly appreciated because like many websites i have read not all doctors knowabout this syndrome.  many thanks. [NAME]
+summarized question 7: Can adults develop Wolfram syndrome?
+##
+query 8: SUBJECT: hypothyroidism MESSAGE: Can you please send me as much information as possible on &quot;hypothyroidism&quot;. I was recently diagnosed with the disease and I am struggling to figure out what it is and how I got it. My name and address is: [NAME] [LOCATION] [CONTACT] Thank you in advance for your help!!!
+summarized question 8: Where can I find information on hypothyroidism and its causes?
+##
+query 9: Information please. Hi my name is [NAME] and im currently trying to write a book about a girl with ewings sarcoma, i need more information on ewings sarcoma and chemotherapy , radiation and surgical treatments. When i finish the book , i aim to have a portion of book sales to go towards cancer research as i lost my sister to cancer.By the way i am only 15, thanks heaps
+summarized question 9: Where can I find information on Ewing's sarcoma, including treatments?
+##
+query 10: hello i am looking for information related to the above (myostatin-related muscular hypertrophy) genetic condition. can you direct me to a hospital or other genetic research institution that might be doing research on this genetic condition?
+summarized question 10: Where can I find information on myostatin-related muscular hypertrophy, and how can I find an organization doing research on it?
+##
+query 11: SUBJECT: 46,X,dir dup(X)(q13-q26) MESSAGE: Hi I am from [LOCATION], I am wondering if you can help with some information on my duplication, I have signed up to [LOCATION] here in [LOCATION] but only me, my mum and my sister and 1 other person have been found to have this genetic abnormaility. I have no idea about the other person but my sister was affected by it when she was born, when i was born we had no idea, My sister was born and tested me and my mum, showing my mum had the condition along with my sister. at that point it seemed i never had it. When i was 20 i went to my [PROFESSION] and they said my genetics department here in [LOCATION] wanted me to get retested, Found out that i do carry the same duplication. I have three younger brothers as well, two of the youngest with Autism, None of the boys have the duplication, but i am wondering if these are linked? I am wondering what Information do you have available regarding this duplication, I have fertility issues which i don't know of it is linked or not. My AMH level for my age at 26 is low at 4.6!! my sister has had two children a boy and a girl none do not have the duplication. She also has Stage Two Kidney diease and was born with a horse shoe Kidney they thinks its linked Please help! or is there anything you can advise for me in the UK to go get looked at further ? Love from [NAME]
+summarized question 11: Where can I get information on the genetic abnormality 46,X,dir dup(X)(q13-q26), and  and how can I find physician(s) in the UK who specialize in genetic abnormalities?
+##
+query 12: SUBJECT: know more about MESSAGE: My Daughter have Distal renal tubular acidosis. we are from Mexico, and we ae woundering if can send to us more infomation. maybe you can reccommend to us a association???? i don?t know
+summarized question 12: Where can I find information on distal renal tubular acidosis?
+##
+query 13: SUBJECT: Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa MESSAGE: Hi, Im not sure if you can help, but my wife has Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa. I was hoping to find out some information if possible. Or to see if you could put me in touch with someone that mey be better suited to this. WE are wanting to start a family and want to know how Dopa-responsive dystonia- (DYT 5) and retinitis pigmentosa may effect the child or my wife during the proccess. She is currently taking levodopa  daily and would like to know if this in itself could have an effect on an unborn child. Not sure if ive come through to the right place or not, but just looking for some information or an indication of whom i may speak to,. I really look forward to hearing back from you, Regards,
+summarized question 13: What are the effects of dopa-responsive dystonia, retinitis pigmentosa and levodopa on pregnancy?
+##
+query 14: Customer Service Request. Doing a genealogy search, I have been contacted by a person from the same ancestral line as myself, we are decendants of the [NAME] ancestral line and she told me that anderson tawil syndrome runs through our [NAME] line, What does it look like? I understand that it changes the face features. This 82 year old great grandma would like to know more about this.   Many thanks,
+summarized question 14: Where can I find information on andersen tawil syndrome?
+##
+query 15: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 15: Are there any medicines for dry mouth?
+##
+query 16: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 16: Where can I find information on klinefelter syndrome?
+##
+query 17: Hi, Im writing on behalf a friend of mine's daughter who has Metachromatic leukodystrophy (MLD). They are currently overseas and they are interested of finding more info in regards to the treatment you provide. Please let me know who do I contact for furhter information on the treatment.
+summarized question 17:

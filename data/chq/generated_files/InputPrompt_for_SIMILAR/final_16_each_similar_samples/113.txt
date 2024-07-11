@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: May I can find a cure for my case in therapeutic your center that I have an infection chronic granulomatous Mastitis take and how much the treatment period. Please advise me of the post by you.to this my Email Note : that I have all the medical reports and tests for this disease ??? this case of my wife and can be send your comment by below E-mail
+summarized question 1: What are the treatments for chronic granulomatous mastitis?
+##
+query 2: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 2: Where can I find information on SIDS?
+##
+query 3: sarcoidosis.  One thing no physician has been able to tell me is whether or not fatigue--ongoing--is a part of this disease. I was diagnosed in 2006, and have noted a lessening of energy, endurance. If this is a possible side effect, I have not found it in any info on this. Please add to your information if this is a viable issue. Thanks so much! [NAME]
+summarized question 3: Is fatigue a symptom of sarcoidosis?
+##
+query 4: SUBJECT: hypothyroidism MESSAGE: Can you please send me as much information as possible on &quot;hypothyroidism&quot;. I was recently diagnosed with the disease and I am struggling to figure out what it is and how I got it. My name and address is: [NAME] [LOCATION] [CONTACT] Thank you in advance for your help!!!
+summarized question 4: Where can I find information on hypothyroidism and its causes?
+##
+query 5: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 5: Where can I find information on klinefelter syndrome?
+##
+query 6: SUBJECT: canadida of the esophagus MESSAGE: I cannot locate any information on this condition: causes, symptoms, treatment, etc. I have had it in the past and suspect that I have it again. I would like to research this condition, but internet search only comes up with cancer. I realize that my case is not addressed in your reply. I am simply seeking general information.
+summarized question 6: Where can I find information on candida of the esophagus, including causes, symptoms, and treatment?
+##
+query 7: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 7: What are the treatments for LGMD?
+##
+query 8: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 8: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 9: SUBJECT: Ingredients !! MESSAGE: Hi, Please help me to find ingredients for fluoxetine hcl liquid. I want to know is there any gelatin or animal product in there or not? Please send me any information or web link where i can find information. Thank you
+summarized question 9: What are the ingredients of liquid fluoxetine HCL?
+##
+query 10: SUBJECT: Mental Health (Anxiety) interview MESSAGE: I would like to interview someone by email in order to obtain information over Generalized Anxiety Disorder for a Newsletter project in my Abnormal Psychology Class at [LOCATION]. Thank you very much
+summarized question 10: Where can I find information on generalized anxiety disorder?
+##
+query 11: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 11: Where can I find information on Wang syndrome, including support groups?
+##
+query 12: I know you probably get quite a few inquiries on this topic - but I am wondering if I might be a good (or not) candidate for the Flavinoid as nutrients to prevent strokes/heart attacks study. I appreciate any information you may have. Thank you, [NAME]
+summarized question 12: What are the eligibility criteria for the Flavonoid as nutrients to prevent strokes/heart attacks study?
+##
+query 13: SUBJECT: lupus an info on the diseise MESSAGE: Need all up date on lupus an send by mail informations on this subject..please i need more information to see if what i am exprienceing is in fact related to lupus ...thank you.
+summarized question 13: Where can I find the latest information on lupus?
+##
+query 14: SUBJECT: Help for my diagnose MESSAGE: I have been diagnosed with SCA3. I was wondering if MedlinePlus is able to help me with resources that I may need on my journey through this disease? If not, can you help me find an organization or association that can help me.
+summarized question 14: Where can I find information on SCA3, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 15: SUBJECT: staphy treatment MESSAGE: Gud day, please ham having staphylococcus and I need drugs to take and your advice..my result show &quot;scanty&quot;..i 'll be expecting your reply..thank you and God Bless you
+summarized question 15: What are the treatments for staphylococcus?
+##
+query 16: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 16: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 17: Hi! I would like to know if I can have some  info mail to me on Sarcoidosis
+summarized question 17:

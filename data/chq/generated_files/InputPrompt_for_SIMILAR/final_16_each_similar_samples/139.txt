@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 1: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 2: Customer Service Request. I am looking for a company/research facility that can do genetic testing on the UGT group of genes.  Does such a place exist?  How would I go about getting this type of testing done?
+summarized question 2: Where can I find information on genetic testing for UGT abnormalities?
+##
+query 3: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: Dear sir/ madam. I am a patient suffering from Friedreich's ataxia and i heard there was a medicine for it. In 2009 and since we are looking for the medicine kindly help on this and I have DNA report could You please help us on this as there are two people respective age 22 years and 24 years suffering from it. Looking for your help on this ASAP and please let us know when the medicine will be there in market and attaching two files for your reference
+summarized question 3: What are the treatments for friedreich's ataxia?
+##
+query 4: I was at my endocrinologist today and he said I should look into testing or new reshearch for someone like myself.  I am type 1 diabetic and my doctor said my case is unique he suggested I contact you to see if you may have research that could help me
+summarized question 4: What is the latest research on type one diabetes testing and treatments?
+##
+query 5: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 5: Are there any medicines for dry mouth?
+##
+query 6: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 6: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 7: SUBJECT: Geriatric Psychiatrists - recommendations MESSAGE: I'm looking for a geriatric psychiatrist in the sun city west, AZ area to do an evaluation for a loved one (male) who may be suffering from depression.  I'm looking for a psychiatrist that has experience working with older veterens who has a no nonsense, scientific approach.
+summarized question 7: How can I find geriatric psychiatrists in Sun City West Arizona?
+##
+query 8: I need help with a rare disorder Hello, As I stated I need help with a rare disorder. I have tested   positive for lupus then - negative I have tests   positive for a blood clotting disorder then - negative I have tested positive for Brain Vasculitus then brian Vasculopathy? I have tested positive for a Brain infection then not.  I don't know what to think.  I need a special testing center
+summarized question 8: Where can I receive comprehensive testing for difficult to diagnose symptoms?
+##
+query 9: wolfram syndrome. hi im a support worker for a 46 yr old autistic male.reading your info provided about wolfram syndrome ,he matches alot of the symptoms. he has just recently been diagnosed with type 1 diabetes and i was just doing some research about it and came across wolfram syundrome which like i said the symptoms match alot of this guys doings. my question that ive unfortunatley been able to figure an answer out for is can adults develope this syndrome? can it be a gradual process of events/symptoms or does it happen within the first approx.15-20 years of life? if you could get back to me with any info it would be highly appreciated because like many websites i have read not all doctors knowabout this syndrome.  many thanks. [NAME]
+summarized question 9: Can adults develop Wolfram syndrome?
+##
+query 10: SUBJECT: abetalipoproteimemia MESSAGE: hi, I would like to know if there is any support for those suffering with abetalipoproteinemia? I am not diagnosed but have had many test that indicate I am suffering with this, keen to learn how to get it diagnosed and how to manage, many thanks
+summarized question 10: Where can I find information on abetalipoproteinemia, including diagnosis and treatment?
+##
+query 11: diagnosis of OI/ resources. I was writing to inquire about more information regarding the diagnosis of OI.  We have family members who are in the process of waiting for genetic testing to come back but are under allegations of child abuse.  Is there any information and / or resources that may be helpful to us? Any help is appreciated. Thank you,[NAME]
+summarized question 11: How is osteogenesis imperfecta diagnosed and what are its symptoms?
+##
+query 12: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 12: What are the symptoms of chlamydia?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 13: What are the treatments for ocular albinism?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dear Clinical Trials, I am searching for treatment for a disease called Baker, which  is related to Neurology Department. I did not get any  treatment before for this disease. I need to get treatment by Medical Researches if possible . Note: I will be in New York at May 11.
+summarized question 14: What are the treatments for baker disease?
+##
+query 15: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 15: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 16: SUBJECT: G6PD deficiency adopted 1957 MESSAGE: My primary care says that even though I have had three blood tests that all confirm I am totally lacking the G6PD that my deficiency is unsubstantiated. Other than expensive genetic testing how to I get them to confirm this? I want need this in my medical records and a bracelet or necklace or something to wear that I have this so they do not give me drugs and/or vitamins supplements that I should not have at all and make me worse or kill me? I am adopted and the records are still sealed and I have a son and a daughter and four grandchildren that could have had this deficiency passed on to them so you see why this is important to me. I got injured at work years ago and they gave me some kind of anesthesia I should not of had to find a bleeder on the inside and sew it and then they could not wake me up for two days. Also same job required that I get yellow fever shot every six months. No wonder I felt so awfull back then. I do not want or need a repeat of this or worse for my family or myself again. Please how to do this as I only get $9.00 an hour. I am a [PROFESSION] female. How many more blood tests do I need to substantiate this? I ask questions but get told nothing/or told that this is unsubstantiated. I asked for a hematologist a specialist and I asked for a dietician to help me with the food avoidance and do not have problems since I have more than one condition to be concerned with it is difficult with only about $48.00 a week for foods.  Thank you for any comments or suggestions and for your time and attention to this matter. [NAME]
+summarized question 16: How is G6PD deficiency inherited and diagnosed, and what are the treatments for it?
+##
+query 17: Im looking for a Dna test for mental illness. 
+summarized question 17:

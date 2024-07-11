@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 1: How is thalassemia inherited?
+##
+query 2: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 2: What are the inheritance patterns for senior loken syndrome?
+##
+query 3: Hey I was just wanting to know how I can try to receive stem cell treatment for spinal cord injury using the stem cells I have banked from my newborn baby's umbilical cord tissue? If u have any information please tell me, you'll be helping to save my life!
+summarized question 3: How to receive stem cell treatment for spinal cord injury?
+##
+query 4: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 4: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 5: MESSAGE: My son  five years old has Ganglisidose GM 1, we are looking for a drug that could help him, or at least could prolong life. He gets Miglusitat for 1 week. Can you help us or just send some information. We would be very grateful.
+summarized question 5: Where can I find information on GM1 gangliosidosis, including treatment and prognosis?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 5 yr old Grandson has Tourette's, his Dad, my son also has it. His 7 yr old brother picks his arms and leaves scars, Is there anything we can do? He has been to A Neurologists once, and he said to keep records of the 6 yr old and to come back in 6 mo, or sooner if things get worse.
+summarized question 6: What are the symptoms of tourette's syndrome and their treatments?
+##
+query 7: SUBJECT: EPI 747 MESSAGE: hi  My name is [NAME] My son, His age 4 month discovered it leigh disease infected from the mother side. and we have  full family history with the leigh disease.  my Daughter she lived for 7 years with the same disease, we have her Hospital reports, it is confirmed leigh Disease.  Kindly, if there is any hope for my son with EPI743 treatment, and we are appreciate to accept him in the treatment study.  i have a full reports for my son and the MRI. and all of it under your request.    Hope get your help ASAP because he is in the first stage. and we have a we are all hope he will be better.  Best Regards  [NAME]
+summarized question 7: Is EPI743 an effective treatment for leigh syndrome?
+##
+query 8: Good evening, I will contact you as my [NAME] a year and a half have been diagnosed with the genetic mutation STXBP1. I would like to know if there is something in the world that can help my son. I hope you contact us as soon as possible.  Greetings [NAME]
+summarized question 8: What are the treatments for genetic mutation STXBP1?
+##
+query 9: Spinal Cord.  My Brother is 58 years old have spinal cord problem his both legs he cannot move them wheelchair user his legs are very heavy as he had urinaire infection after the other now the test comes positive and the infection still going cannot clear so his Doctor cannot give him any treatment for his main problem (Spinal cord) I want to help him what he should do I want to get advice please baging you for help and advice, many thank you
+summarized question 9: What are the treatments for urinary tract infection?
+##
+query 10: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 10: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 11: Dear sir/madam I am 40 year old man  & have vericoceal on my left side .My wife is 24year old ,we are trying for a baby for the last 4 months with no positive result. doctor suggest me try for baby for at least 1 year. Please suggest me what i have to do for a baby. i will be highly obliged . thank you [NAME] [LOCATION]
+summarized question 11: What are treatments for male fertility issues and varicocele?
+##
+query 12: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 12: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 13: Need information about Thalassemia medical center in Aisa Hello dear sir/Madam, My son has Thalassemia, and i have been looking for his treatment. I need you to guide me where I can take my son for his treatment? actually, I am in Afghanistan and there is no hospital for his treatment. so please guide me
+summarized question 13: How can I find physician(s) or hospital(s) in Asia who specialize in Thalassemia?
+##
+query 14: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 14: How can I find a doctor to perform tubal ligation?
+##
+query 15: care giving for parents My mother has been diagnosed with Alzheimer's, my father is not of the greatest health either and is the main caregiver for my mother. My question is where do we start with attempting to help our parents w/ the care giving and what sort of financial options are there out there for people on fixed incomes.
+summarized question 15: What resources are available  for Alzheimer's caregivers?
+##
+query 16: chromosome 3. chromosome 3 found in the bloods between the father and son,,,would this mean that my son,s blood is not the same as mine,,i was told it was all about learning problems,,,but i am woried that theres more involved,,can you send me a chart or some thing describeing ch 3 is all about and too what area of the body its being tested on espicaly a 9 year old child ,,thanks
+summarized question 16: What health conditions are associated with changes in chromosome 3?
+##
+query 17: My aunt has ALS. I am about to give birth to my son next month. Could I use my blood cord to help my aunt with ALS?
+summarized question 17:

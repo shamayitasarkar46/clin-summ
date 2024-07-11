@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 1: Where can I find information on leg swelling and treatments?
+##
+query 2: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 2: What clinical trials are available for hepatitis C?
+##
+query 3: DIABITIC.  My sister is diabitic since age 8, now age 20. she is not coping well with it, i've been to the nutrition DR.s with her and we have since change our diet at home just for her, but it's still too havy on her. i want to help her, maybe if i can get her a couselor or support group that understands her situation/diabits.
+summarized question 3: Where can I find information on counselors or support groups for diabetes?
+##
+query 4: SUBJECT: know more about MESSAGE: My Daughter have Distal renal tubular acidosis. we are from Mexico, and we ae woundering if can send to us more infomation. maybe you can reccommend to us a association???? i don?t know
+summarized question 4: Where can I find information on distal renal tubular acidosis?
+##
+query 5: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 5: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 6: Genetic testing.  My mother in law is in the last stage if lung cancer and only has days to live.  My question is...testing her and comparing her tests with my husbands and his sisters test help to determine if it is genetic?  My mother in law ([NAME]) and her mother and her mithers sister both had lung cancer and none if them were smokers.  I'm real worried about my husband getting lung cancer now and I want find out what we can do to protect him.Thank you,[NAME]
+summarized question 6: What are the genetic factors for lung cancer?
+##
+query 7: anemia in kids. My daughter is 6 years old she is suffering from microcytic anemia for last three years.in 2009 she has been blood transfused but now her hb count is 4.5.Doctors are unable to find out the cause of her anemia.we are much worried about her.plz if u can guide us in regard.
+summarized question 7: What are the causes of  and treatments for microcytic anemia?
+##
+query 8: SUBJECT: obese daughter MESSAGE: i'm a mother of 5 children. My son has leukemia who is the youngest. My daughter is 12yrs old and is obese. i dont know where to turn but i need some professional help. my daughter has always suffered  with weight issues. while i deal with my 11yr old son at [LOCATION] im so scared of loosing my daughter. Shes already been suicidal and her grades are so bad. please i need help. you can contact me anyt time
+summarized question 8: What resources are available for overweight children with suicidal behavior?
+##
+query 9: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 9: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 10: My mother has Pulmonary ARTERIAL hypertension in the left side of her heart.  Is there anything that can be done to improve her health.
+summarized question 10: What are the treatments for Pulmonary Arterial Hypertension?
+##
+query 11: SUBJECT: Rheumatoid arthritis MESSAGE: Dear Sir- my wife is suffering from subject since last couples of years, and recently diagnose that she is effected with subject. therefore i need your kind support for treatment and percussion step.  awaiting your kind reply and action. thanks and best Regards
+summarized question 11: What are the treatments for rheumatoid arthritis?
+##
+query 12: Re: 16p-13.11 duplication of genes. Dear all, I am a health professional and have recently assessed a 9 year old boy on my caseload whose mother reported that he has been diagnosed with 16p-13.11 duplication of genes.  I have never come across it and when I looked on the internet I could not find anything coherent.  I have been in contact with the paediatrician who used to be in charge of that child but she is unfortunately on long term sick.  Would you be able to give me some information on this condition with key features please? Are there behavioural, coordination, sensory difficulties, etc...that can be associated with it?
+summarized question 12: Where can I find information on 16p-13.11 duplication, including symptoms?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 13: What are the treatments for severe endometriosis in adolescents?
+##
+query 14: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 14: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 15: Hello. I am writing this mail from [LOCATION]. This in regards with seeking help for Ulceratice colitis. My mother is suffering from this diseases from last 3 Years. Her treatment is going with [LOCATION] from past a year and half. Below are the symptoms of her disease : 1. Mucas Pus flow in quantity while passing stool 2. Blood flow while passing stool 3. Heavy weakness 4. Heavy and steady weight loss 5. Weak Eyesight 6. Heavy cramps after meal 7. stomach pain sometimes after lifting heavy weight 8. Poor appetite Below are the medicines given by the doctor during the course : Cap SonprazD, Tab Coolgut 1.5 , tab Falute, Mesacol Supporteries, Cap A to Z , Tab siho fix, and Tab omnacortil , rabelco rd cap , coolgut , folvitc , entofoam , bevon , anovate. She had undergone Colonoscopy , Endoscopy , Stool test , Urine tests and Blood test many times ( i can mail the reports of all the above if needed ). Her progress was very good at initial stage of the treatment. But eventually after due course of time , Her Blood and mucas flow while passing stool had increased. Even after taking her regular medication and proper diet. Her colonoscopy and Endoscopy shows result of erosion on some part of Rectum. Though doctor told the Ulcer is getting cured day by day. Still , from these past days her Blood and mucas flow is continuous and heavy. She is complaining a lot about weakness. Her daily medications is showing very less effect. This makes me to write this mail to u for seeking some advice and help in this case. As i understood this is the best known institute i can find for gastroenterology. My study on this disease help me understand that there are surgical treatment available for this kind of situation like Proctocolectomy and ileoanal reservoir. Please suggest on this. whether my mother requires this surgery at this stage of disease by looking into the Symptoms. We are very worried a
+summarized question 15: Where can I get advice and help for ulceratice colitis?
+##
+query 16: SUBJECT: Demand MESSAGE: I have read on your website about the perirenal abscess. My mother is in the situation stipulated here http://www.nlm.nih.gov/medlineplus/ency/article/001274.htm I would really appreciate a recommendation as to where she could treat (a doctor, a clinic, a hospital, etc.). The Dr/Drs who wrote the article is/are professional and i think they could give me a hand.
+summarized question 16: Where can I find information on perirenal abscess, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 17: Dear concerned, My mother is a kidney & heart patient and from last 3 years she is going through Dialysis on twice a week basis. Her cause of kidney failure can be Diabetes & High Blood Pressure from last 10 years. Currently her creatinine level is 9. Can you please guide me is there any way to revive her kidneys???  Looking forward to your kind support. Thanks & Regards
+summarized question 17:
