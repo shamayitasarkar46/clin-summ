@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 1: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 2: KNEE OSTEOARTHRITIS.  Good morning about 20 years ago I suffered ruptured anterior cruciate ligament and removal of domestic law meniscus, was operated and made me clancy, at present unfortunately my knee is totally affected and I have arthritis and severe pain, according to a dr traumatologo commented me I need a knee prosthesis my question is can you treat me, or turn me can recommend doctors or hospitals to treat in the U.S.   [NAME]
+summarized question 2: How can I find physician(s) or hospital(s) who specialize in knee osteoarthritis?
+##
+query 3: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 3: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 4: "SUBJECT: Degenerative bone &disk disease MESSAGE: Like to know more about Degenerative Bone &Disk Disease..I have had it for over 10 yrs..I'm losing muscle in my legs,at the point I can only walk about 30-40 steps my his freeze up with pain &pressure,hince I need a wheelchair,need more information on this disease...healthcare providers ""need surg.don't need surg"" I'm stuck in small town America....O I'm 59yrsold...any info would be apprec..."
+summarized question 4: Where can I find information on degenerative disc disease, including treatments?
+##
+query 5: MESSAGE: Afternoon my name is [NAME] i just need a clarity on ACL repair. [DATE] i done ACL repair as the doctors told me after my discharge i attend physiotherapy but after the physio my leg get swallow so i stopped as there was no progress. now my knee is stiff and swallow also it change colour and doctors tells me they don't see anything. so i need an advise what can i do or where can i go and get help.  regards   [NAME]
+summarized question 5: What is the recovery process after ACL surgery?
+##
+query 6: MESSAGE: Dear sir, I feel weak on my body aspecially in the morning. so I want to know the solution to my problem. because this is long time ago. in the body joints knees and arm. thanks.
+summarized question 6: What are the treatments for body weakness?
+##
+query 7: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 7: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 8: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 8: What are the risks of knee surgery in an older person?
+##
+query 9: SUBJECT: Left hip replacement surgery MESSAGE: In  [DATE], I had a total left hip replacement surgery, during that surgery, my femur was broken.  Two weeks later, there was a a revision fine due to possible infection in that same left hip. Today is [DATE] and my question is what should I be expected to be doing? I still rely on my walker, I am 54 years young and I suffer from Chronic Osteoarthritis in my lower extremities which is the reason for hip replacement at such an earlier age.
+summarized question 9: What is the recovery time and expected activities for hip replacement surgery and a broken femur?
+##
+query 10: I would appreciate it if you can send me or email  me  some exercises for a person who is a stroke victim. I am unable to walk due to a  arthritic knee. otherwise I am flexable..  my home address is [CONTACT], My email is [CONTACT] (mailto:[CONTACT]) Thank you, [NAME]
+summarized question 10: What are good exercises for stroke recovery in people with knee arthritis?
+##
+query 11: MESSAGE: I have undergone Total Hip Replacement of both my hip jonts in 1977 (Charnley Process ) My left joint is completely worn out.How safe and effective is revision surgery..can I get a cementless joint..I am 66 years old..An early repy to my query will be very much appreciated.
+summarized question 11: Where can I find information on hip revision surgery, including risks and prognosis?
+##
+query 12: SUBJECT: athrtics MESSAGE: My right shoulder is getting pain and my right hand is not moving up and back freely.  Doctor explained me that it is pediathratic problem.  I have done some pschyotharapi treatment. Mr doctor advised me that there in no medicine and regular exercise required. What is the next stage I want to do.  Please explain.
+summarized question 12: What are the treatments for shoulder pain and loss of hand movements?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My dear friend [NAME], 52 years, [LOCATION], recently had both legs amputated above knee. Is there any possibilities in making a miracle of giving her real legs  again?  I just had watched your television program and can't believe I had forgotten about a man I know having half of his jaw removed due to chewing tobacco looks amazing with barely a scar his jaw grew back and it just dawned on me his newline had transformed over the last year to looking very normal, that it was used on him. I have seen him a half dozen times. Wow ! [NAME] has been pretty much completely healed for awhile but has had some trouble with her left one. Phantom feelings are there. Please respond and thank you.  [CONTACT]
+summarized question 13: Is there a treatment to transplant or make amputated legs grow back?
+##
+query 14: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 14: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: MY NAME IS [NAME]. ON [DATE] I WENT TO [LOCATION] ABOUT MY FEET BEING ASLEEEP. THEY PUT ME ON LYRICA. WELL I AM WORST NOW AS OF TODAY MY FEET HAVE BEEN ASLEEP NOW I AM IN ALOT OF PAIN AND ITS ALL THE WAY TO MT KNEES I NEED SOME KIND OF HELP. NO INSURANCE. NO MONEY WHAT CAN YOU FIND OUT FOR ME. PLEASE CONTACT ME AT [NAME] THANK YOU
+summarized question 15: Where can I get help for neuropathic foot pain?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i am 9 years post bleed stroke and still can not use my left arm or hand and when i walk i hip hike on my left side.  is this as good asit gets
+summarized question 16: What is the long-term prognosis of limb use after stroke?
+##
+query 17: I have a detached cruciate ligament in my left knee. If I submit to reconstruction surgery, how long will recovery take? Because of my age (over 90) I need to remain as physically active as possible. I live alone. My injury occured several years ago, but only recently has been causing me major discomfort.
+summarized question 17:

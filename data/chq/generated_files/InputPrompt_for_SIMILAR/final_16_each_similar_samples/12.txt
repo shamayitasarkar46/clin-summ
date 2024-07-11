@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Louis Bar Syndrome MESSAGE: My brother died young from Louis Bar Syndrome. Of six pregnancies, four children either did not survive pregnancy or died very young. I would like to know is it possible that other children (like me) could have the syndrome symptoms to a lesser or greater degree:i.e., is there a continuum???
+summarized question 1: What are the symptoms of Louis Bar Syndrome?
+##
+query 2: Diphtheria.  Is there a definitive history of diphtheria in the United States available in print? I have read quite a few articles in the NLM from the 19th century, and I'd like to find an overview of this disease, particularly a history of epidemics in the U.S. Any help you can provide would be greatly appreciated. Thank you - [NAME] M.D.
+summarized question 2: Where can I find a definitive book on diptheria in the United States?
+##
+query 3: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 3: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 4: SUBJECT: Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. MESSAGE: Hello, I am enquireing about Whole-exome sequencing points to considerable genetic heterogeneity of cerebral palsy. I would like to know if it is possible to find out if my daughter has cp through genetics or through medical negligence. Pls could you email me let me know if she could have whole-exome seguencing to get an indication. Here in the uk, Whole-exome sequencing testing is only done for projects etc . Please help ! Kind Regards
+summarized question 4: Can whole exome sequencing be used to diagnose the cause of cerebral palsy?
+##
+query 5: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 5: Is lincomycin still prescribed for human use?
+##
+query 6: SUBJECT: Bello, Im a FA patient MESSAGE: Hi, my name is [NAME], I'm a 24 old boy with Friedreich Ataxia and I have a 23 year old brother with the same disease to.  We are desperate to find a cure or something that help us because every day that pass is a step back in this desease.   We live in Mexico but we can go anywhere if its necessary. I don't know if you have Skype account to have more information of your knowledge of FA disease that can help us and talk more about our case, I will be very thankful.  I appreciate your time and wait for your answer. Kind regards.
+summarized question 6: Where can I find information on Friedreich Ataxia, including treatment options?
+##
+query 7: SUBJECT: Second Hand Smoking MESSAGE: Dear Sir/Madam I am interested about Second Hand Smoking and the dangers for children and hope you can help me with the questions I have.  If two smokers are smoking every day in the house only on Saturday evening and Sunday morning do not smoke in the house and there are children visiting that house on Sunday morning and staying the whole day, is there a danger of second hand smoking for the children? If yes, what is the danger?  Is there danger of second hand smoking for the children if they stay for the whole weekend in that house? If yes, what is the danger?  Is there a danger  and what for the children if a person smokes in the car?  Thank you very much in advance. Best wishes [NAME]
+summarized question 7: What are the dangers to children of secondhand smoke residue?
+##
+query 8: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 8: How is Huntington's disease transmitted?
+##
+query 9: ClinicalTrials.gov - Question - specific study. Do you have any more indepth information regarding pseudocholinesterace deficiency? My son 28 and myself 56 have this problem and we both have systemic muscle spasms. cramps contractions. Most seem to be caused by knots or trigger points. I assume this has something to do with this deficiency because it deals with neuro transmissions correct. Anyway we are looking for relief. The muscle relaxants help a bit but the knots do not go away and so the pain is still there at a deeper level. The doctors and neurologist have no idea. Thank you. [NAME]
+summarized question 9: Where can I find information on pseudocholinesterase deficiency icluding treatment?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My question to you is: what is the reason that there is very little attentions is to Antiphosoholipid Syndrome? To find the causes and possibly some type of cure for us who struggle with this auto-immune blood disorder? I guess that since it is female directed (9-1 female to male) that no one important enough has died from APS? Oh, by the way, I'm a 58 year old man!
+summarized question 10: What causes antiphospholipid syndrome and what are the treatments for it?
+##
+query 11: SUBJECT: Kidney Failures MESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in
+summarized question 11: What are the stages of chronic kidney disease based on GFR results?
+##
+query 12: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 12: Is MRSA contagious, and how is it spread?
+##
+query 13: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 13: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 14: chromosome 20 reattachment. Results of my amniocentesis states that a part of chromosome 20 broke then reattached itself to the same chromosome in a funny way.  They are unable to determine what gene if any has been affected.  Are you aware of any similar situations, and if so, what symptoms should I expect my baby to have?  Is there anyone else you suggest I contact for further information?
+summarized question 14: Where can I find information on disorders caused by chromosome 20 abnormalities?
+##
+query 15: SUBJECT: RKS have a 6 month old baby.. MESSAGE: Hi everyone, I am a mum of 6 months old boy who was diagnosed with Cerebral palsy (Hypotonia/Hypotonic form) in relation with Pallister-Killian syndrome. Also he has got mixed form of hydrocephalus There is no epiactivity. Our neurologist has suggested to go through Vojta method/ Bobat therapy.  Please could you let me know your experience with these methods ( if any).. I will be very grateful for any info about it as I do to have enough information to operate with. Also, any thoughts about transcranial direct-current stimulation, occupational therapy or Feldenkrais? Please please please if you can share your experience - it would be absolutely priceless.  Thank you in advance,  Best Regards,  [NAME]
+summarized question 15: Where can I find information on treatments for cerebral palsy, and specifically the vojta method and bobath therapy?
+##
+query 16: SUBJECT: are coleus and caladiums poisonous to pets MESSAGE: Are these two plants considered poisonous to pets?  The vet said to call you and check about this.
+summarized question 16: Are coleus and caladiums poisonous to pets?
+##
+query 17: why does the united states have a high mortality rate of covid-19 than other countries
+summarized question 17:

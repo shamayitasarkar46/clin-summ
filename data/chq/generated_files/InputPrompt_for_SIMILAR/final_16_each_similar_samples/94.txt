@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Short Height Of My Daughter MESSAGE: My Daughter is 12 years old and her height is 105 cm and weight is 15 kg. I want to consult about her growth overall . can you suggest some medicine or anything else.
+summarized question 1: What are the treatments for delayed growth?
+##
+query 2: SUBJECT: Abnormal Growth MESSAGE: I have a 11 year old grandson that does not seem to be growing normally with his age group. He has 4 other brothers & sisters 3 girls and one brother that except for the oldest {girl} all seem to be having normal growth. The 11 I am referring to is very short and stumpy 5-7 inches shorter than his friends.His father is pretty short and stumpy also. The other brother seems to have normal growth. Is there any answer to this, he is having a hard time emotionally at school.
+summarized question 2: How is delayed growth diagnosed, and what are treatments for it?
+##
+query 3: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 3: Where can I find information on russell-silver syndrome?
+##
+query 4: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 4: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 5: polymicrogyria. My 16 month old son has this. Does not sit up our crawl yet but still trying and is improving in grabbing things etc etc. Have read about other cases that seem 10000 time worse. It's it possible for this post of his brain to grown to normal and he grow out of it?
+summarized question 5: What is the prognosis for polymicrogyria?
+##
+query 6: SUBJECT: Bendectin MESSAGE: In 1964, I began taking Bendectin for morning sickness and with each subsequent pregnancy I continued to do so. My third child developed a meningioma of the brain at 11 years old and currently, my daughter, 47 years old, has been diagnosed with a lesion(?) of the brain. I am justifiably concerned about my daughter's condition and wonder if I contributed to her status. I am only interested in helping her and not for any litigious reason. If someone also had a similar situation and was treated positively, I would so appreciate knowing about it. Thank you and God bless.
+summarized question 6: What birth defects are associated with taking bendectin during pregnancy and are there any treatments?
+##
+query 7: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 7: What is the life expectancy of someone with free trisomy 13?
+##
+query 8: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 8: Is Astigmatism related to Aarskog Syndrome?
+##
+query 9: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 9: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 10: Customer Service Request.  My daughter has Turner syndrome but she's beaten all odds. She developed on our own, got her period on her own, she is now pregnant on her own with identical twins. My question is can she have normal children or do they have more of a chance of having Turner syndrome.  My daughter has been tested many times to confirm her diagnosis of Turner syndrome and she is a full XO not mosaic but still does not display many of the characteristics. Again, I am just questioning the safety of the pregnancy and the health of the babies. Thank you for your help
+summarized question 10: What is the inheritance pattern of Turner syndrome?
+##
+query 11: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 11: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 12: SUBJECT: Customer Service Request MESSAGE: Hi, We are 2 sisters and a brother. My brother at age of 24 is detected with catract, however it is mild so operation is not required. But doctor said, there are chances he has this from Birth. However only from past 1.5years he had a little blur vision. And in my entire family Mom and Dad said no one has had catract from Birth. We are a big family, my grapa had 7 brothers and 2 sisters no one from their family or my mom has catract from birth or even at early age. My concern is, if i am pregnant will my children have any issue like this. I amd my sister, mom, dad we all have got our eyes checked. we dont have any issue. I am really tensed as i am expecting. Can you please help me with the answer.
+summarized question 12: Who is at risk of developing infantile cataracts?
+##
+query 13: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 13: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 14: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 14: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 15: Hi All, I am from India and really worried. I have a 6 months old baby girl. I have read the article on Lactose intolerance. She is unable to digest any formula milk or any milk products. When she was a new born, I started giving her Lactogen (a formula milk) a little bit along with my milk. She was fine with it but after 3 weeks, I switched her to another formula milk named Nan Pro 0 which is for babies upto 1 year. She started drinking that along with my breast milk. After 2 weeks, she started getting Diarrhea and a severe one where she pooped at least 15 times in one day. Therefore, I consulted the doctor and the doctor immediately asked me to put her on breast milk only. I did try that but she was hungry and crying therefore, I gave her a little bit of formula milk aswell. She was file with all the medicines. However, once the medicine stooped, she again started getting diarrhea. This continued on and off. After a while, the doctor asked me to stop the formula milk and start giving her Zerolac (soy milk) along with breast feeding. I did that and everything smoothened. However, after 2 months, I asked my doctor if we can start giving her any type of milk apart from zerolac as I was concerned about her getting calcium in her body with having milk. The doctor asked me to give her formula milk (Nan Pro 0). I did that but just after half an hour, she suddenly started vomiting which continued till she had the milk in her stomach. Once that stopped, she started getting diarrhea which continued till 3 days. She was put back on Zerolac again and breast milk. As she is now 6 months old, I thought of giving Cerelac to her but again she did not digest it and went through the same problem again. I am unable to find the right doctor here in India where I live. Please help my daughter in this situation. Please let me know the contact detail may be an email address of any doctor with whom I can discuss my case. Please help us. Thanks for all your help. Regards, [cid:
+summarized question 15: Where can I get help for my 6 months old baby girl with Lactose intolerance in India?
+##
+query 16: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome I am wondering how does downs sydrome affect the daily routine of kids with downs sydrome such as using the. Bathroom or brushing their teeth? I look forward to hearing from you thank you.
+summarized question 16: How does Downs syndrome affect activities of daily living?
+##
+query 17: SUBJECT: Small head. MESSAGE: I am [NAME], 17 years old girl my head size is small then average.  Enough small that everybody can  notice.  My question is that wall it grow to average.  Or i have to face this throughout my life
+summarized question 17:

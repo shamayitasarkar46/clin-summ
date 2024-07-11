@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 1: How is post-polio syndrome diagnosed?
+##
+query 2: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 2: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 3: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 3: What are the causes of severe body weakness?
+##
+query 4: SUBJECT: Whipple's Disease MESSAGE: Your information about Whipple's Disease says that it is fatal if left untreated, but there is no information about HOW LONG a person can have it. I have been sick for 6 years and am having no luck getting a diagnosis, and it would be most helpful in ruling things out if I knew whether or not a particular illness would kill a person within a shorter time period than 6 years. Thank you.
+summarized question 4: What are the diagnosis of and prognosis for Whipple's Disease?
+##
+query 5: atypical pnuemonia.  what is the possibility of atypical pneumonia occurring again less than a month after treatment?
+summarized question 5: Can atypical pneumonia recur shortly after treatment?
+##
+query 6: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 6: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 7: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 7: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 8: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 8: What are the symptoms of complex regional pain syndrome?
+##
+query 9: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 9: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 10: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 10: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My question to you is: what is the reason that there is very little attentions is to Antiphosoholipid Syndrome? To find the causes and possibly some type of cure for us who struggle with this auto-immune blood disorder? I guess that since it is female directed (9-1 female to male) that no one important enough has died from APS? Oh, by the way, I'm a 58 year old man!
+summarized question 11: What causes antiphospholipid syndrome and what are the treatments for it?
+##
+query 12: SUBJECT: Second Hand Smoking MESSAGE: Dear Sir/Madam I am interested about Second Hand Smoking and the dangers for children and hope you can help me with the questions I have.  If two smokers are smoking every day in the house only on Saturday evening and Sunday morning do not smoke in the house and there are children visiting that house on Sunday morning and staying the whole day, is there a danger of second hand smoking for the children? If yes, what is the danger?  Is there danger of second hand smoking for the children if they stay for the whole weekend in that house? If yes, what is the danger?  Is there a danger  and what for the children if a person smokes in the car?  Thank you very much in advance. Best wishes [NAME]
+summarized question 12: What are the dangers to children of secondhand smoke residue?
+##
+query 13: SUBJECT: When do you know you should not take Tecfidera? MESSAGE: When do you know you should not take Tecfidera? I took Tecfidera 9 days. Day 1 my legs and feet felt normal for the first time in 5 years. day 2 my legs, thighs, feet, hands, arms, and middle became so swollen I can hardly walk, move, sit or sleep. I got the flushing day 7, foggy vision day 4, and more.
+summarized question 13: What are the side effects of tecfidera and when to stop taking it?
+##
+query 14: SUBJECT: human chimerism MESSAGE: My daughter, born 5 days ago, was curiously found to have c+ blood type.  Having ruled out most causes for this, we are left with a possible vanishing twin chimera and don't know where to turn for more information or research. At this point we don't even have confirmation of whether she is xx/xx or xx/xy, or concrete exclusion of microchimerism. Help? I can be reached by cellular at [CONTACT]. my husband and I are local to the [LOCATION], and both [PROFESSION]. Thank you!
+summarized question 14: Where can I find information on chimerism and twin absorption?
+##
+query 15: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 15: What are the risks of smoking?
+##
+query 16: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 16: What are the prevention and  treatments for plantar fasciitis?
+##
+query 17: if you exposed to two positive covid people an your results negative but you have symptoms what are state local cdc recommendations for quarantine
+summarized question 17:

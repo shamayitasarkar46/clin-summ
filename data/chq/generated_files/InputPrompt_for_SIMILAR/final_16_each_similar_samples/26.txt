@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 1: What are the treatments for anosmia?
+##
+query 2: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 2: What are the treatments for loss of appetite?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 3: What are the treatments for autoimmune nerve disorder?
+##
+query 4: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 4: What are the risks of knee surgery in an older person?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Hello, my name is [NAME] , and I have Fibromyalgia terribly. My father has MS, and my mother's sister has been diagnosised with ALS. I was wondering if that would have any bearing on why my Fibromyalgia is hit me so hard. I have been experiencing s/s since as far back as 3rd grade that medical records can show and I'm 40 years old now. By the time I was 18 I was told I need psychiatric help because I was to young to complain like an 80 year old. Thanks [NAME]
+summarized question 5: Is fibromyalgia hereditary and related to multiple sclerosis and amyotrophic lateral sclerosis?
+##
+query 6: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 6: Where can I find information on klinefelter syndrome?
+##
+query 7: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 7: What are the treatments for LGMD?
+##
+query 8: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 8: What are the treatments for strabismus, including stem cell therapies?
+##
+query 9: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 9: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 10: MESSAGE: hi my name is [NAME] I'm currently working with [LOCATION] and I was wondering  I came across some of you healthy tip fliers for HIV/Aids treatment .at the moment we have a study  going on that helps HIV positive transgender women into HIV quality care .so it would be great to have some more information on HIV/Aids treatment
+summarized question 10: What are the treatments for HIV/AIDS?
+##
+query 11: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 11: What are the treatments for lichen planus?
+##
+query 12: SUBJECT: hydatidiform mole MESSAGE: Iam hoping to find a scientist that is doing research on hydatidiform mole.  I had thins in my early 20s I am now 66 years old and its back.  There is some ver interesting information about this demon that invaded my body. There were thee of me friends of mine in the early 70s.  All three of us lived in [LOCATION]. All three of us could not have children after that and have had many medical problems. I have taken test and this has returned.I am just hoping someone is doing research and I could help in some way.  This has had serious problems for me the last 46 years. Thank you [NAME]
+summarized question 12: Who is doing research on hydatidiform mole?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Please help me with my brother with locked-in syndrome in [LOCATION] for 3 years.Somebody please help. God bless .[NAME] [CONTACT]
+summarized question 13: What are the treatments and support for locked-in syndrome?
+##
+query 14: SUBJECT: MS MESSAGE: Hi, my name is [NAME] my brother has MS Im searching for something that can help him. I love my brother and its so upsetting to see him slowing down Can you please let me know if there is something that can help. Many Thanks!
+summarized question 14: What are the treatments for MS?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 15: What are the treatments for scalp psoriasis?
+##
+query 16: MESSAGE: Hi.. My mother is aged around 50 years.She has a keloid on face.she has undergone all types of treatments but all in vain(cryo surgery,surgery,steroid,compression band etc).It is getting bigger and bigger day by day.As it is on face she finds it very difficult to face people and society.So i request you to kindly suggest a remedy for the same..Please . With Regards
+summarized question 16: What are the latest treatments for facials keloids?
+##
+query 17: How to i get more information regarding the theraputics treatments that me be benificial. My sister-in-law suffers from myofibroma and I am trying to empower myself with as much knowledge as possible. I thank  you in advance for your help.
+summarized question 17:

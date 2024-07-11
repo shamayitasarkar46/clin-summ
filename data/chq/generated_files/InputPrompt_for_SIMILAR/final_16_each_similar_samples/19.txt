@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: KNEE OSTEOARTHRITIS.  Good morning about 20 years ago I suffered ruptured anterior cruciate ligament and removal of domestic law meniscus, was operated and made me clancy, at present unfortunately my knee is totally affected and I have arthritis and severe pain, according to a dr traumatologo commented me I need a knee prosthesis my question is can you treat me, or turn me can recommend doctors or hospitals to treat in the U.S.   [NAME]
+summarized question 1: How can I find physician(s) or hospital(s) who specialize in knee osteoarthritis?
+##
+query 2: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 2: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 3: MESSAGE: Afternoon my name is [NAME] i just need a clarity on ACL repair. [DATE] i done ACL repair as the doctors told me after my discharge i attend physiotherapy but after the physio my leg get swallow so i stopped as there was no progress. now my knee is stiff and swallow also it change colour and doctors tells me they don't see anything. so i need an advise what can i do or where can i go and get help.  regards   [NAME]
+summarized question 3: What is the recovery process after ACL surgery?
+##
+query 4: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 4: What are the risks of knee surgery in an older person?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My dear friend [NAME], 52 years, [LOCATION], recently had both legs amputated above knee. Is there any possibilities in making a miracle of giving her real legs  again?  I just had watched your television program and can't believe I had forgotten about a man I know having half of his jaw removed due to chewing tobacco looks amazing with barely a scar his jaw grew back and it just dawned on me his newline had transformed over the last year to looking very normal, that it was used on him. I have seen him a half dozen times. Wow ! [NAME] has been pretty much completely healed for awhile but has had some trouble with her left one. Phantom feelings are there. Please respond and thank you.  [CONTACT]
+summarized question 5: Is there a treatment to transplant or make amputated legs grow back?
+##
+query 6: MESSAGE: Dear sir, I feel weak on my body aspecially in the morning. so I want to know the solution to my problem. because this is long time ago. in the body joints knees and arm. thanks.
+summarized question 6: What are the treatments for body weakness?
+##
+query 7: SUBJECT: Left hip replacement surgery MESSAGE: In  [DATE], I had a total left hip replacement surgery, during that surgery, my femur was broken.  Two weeks later, there was a a revision fine due to possible infection in that same left hip. Today is [DATE] and my question is what should I be expected to be doing? I still rely on my walker, I am 54 years young and I suffer from Chronic Osteoarthritis in my lower extremities which is the reason for hip replacement at such an earlier age.
+summarized question 7: What is the recovery time and expected activities for hip replacement surgery and a broken femur?
+##
+query 8: MESSAGE: I have undergone Total Hip Replacement of both my hip jonts in 1977 (Charnley Process ) My left joint is completely worn out.How safe and effective is revision surgery..can I get a cementless joint..I am 66 years old..An early repy to my query will be very much appreciated.
+summarized question 8: Where can I find information on hip revision surgery, including risks and prognosis?
+##
+query 9: SUBJECT: ball and socket joint MESSAGE: sir, with due respect I would like to state that there is a pain in my ball and socket joint . I didn't feel and pain in normal or lower position as I up my hard there is a huge site of pain in my ball and socket joint. please prescribe a medicine for the cure .
+summarized question 9: What are the treatments for joint pain?
+##
+query 10: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 10: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 11: SUBJECT: Ankle Injury MESSAGE: I got hurt in my left leg ankle almost 5 months ago. I went to doctor, got x-ray, where no damage was found. He suggested me some pain killers and advised me to wear anklet. I have been following the instruction since then; I went to another doctor who advised me to go for physiotherapy (Short Wave Diathermy) and advised me some exercises. I have been following them too. But yet now, I have not been fully recovered from the pain. Especially when I try to walk quickly or try to put pressure with my left leg, I feel pain. I am very tensed about this. Can you please suggest me how to overcome the pain. Thanks.
+summarized question 11: What are the treatments for ankle injury and pain?
+##
+query 12: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 12: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 13: MESSAGE: I am taking Metformin and I am concerned about how can I cut back without any dangerous side effects; at the moment I weigh 182lbs. where I was weighing before at 220lbs. Is it possible I don't need to take this medicine anymore or is their another prescription medicine that I can take to replace that is not so strong, the one I have  is 500mg 60 tablets.
+summarized question 13: Should metformin dosage be reduced after weight loss?
+##
+query 14: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 14: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 15: SUBJECT: Growing Pain in Hip for over 15yrs MESSAGE: For as long as I can remember, I would get pain in my one hip, and surrounding area (at times) feels like it is a sleep...Though I Always would make sure it is not my underwear or pants pinching a nerve. My Doctor told me to just stretch my leg, as it is nothing more than growing pains, and will pass with time....But 15yrs+ I still have this strange feeling!! Is this something I should look into more?? And there are times, where the pain is just incredible!! Though I never take anything for it...I just drink a glass of milk thinking the Calcium can help my bones.Are there any suggestions?? I have no idea what to do, and do not want to look into this more if not needed, as I do not want to waste the Doctor's time & then think I am a wing nut!!
+summarized question 15: What are the treatments for hip pain?
+##
+query 16: Tri-Gem Neuralgia.  I had an episode with the tri gem 2 days after i was rear-ended.  It was incredible pain that lasted 10 days. In the months following i had 2 decompression surgeries. the 1st one didnt work, was pain free for about 90 days.  The second syrgery 6 months later left me with a numb face but no tri gemn pain. Could the tri gem have been brought on from the trauma to the head from the car accident? I had been diagosed prior to  the accident, but was not experiencing any symptoms for a long time.  Then the accident and  1 1 /2 days later im in a full blown episode. Please let me know what your thoughts are.
+summarized question 16: Can symptoms of trigeminal neuralgia be exacerbated by head trauma?
+##
+query 17: i thought i needed a knee repalcement but after having a stent placed in my heart my knee doesn't hurt what happened
+summarized question 17:

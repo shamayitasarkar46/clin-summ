@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 1: How can I locate a support group for patients with taste and smell disorders?
+##
+query 2: SUBJECT: father suffering from IBS MESSAGE: My father is suffering from IBS and is loosing weight day by day.sometimes he even faints due to weakness.He cannot digest food .please help us and suggest us upon this problem.
+summarized question 2: What are the treatments for IBS?
+##
+query 3: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 3: What are the treatments for nutcracker syndrome?
+##
+query 4: "SUBJECT: treatment for dry mouth caused by necessary medicine MESSAGE: My provider can't help (I asked.) I am intolerant of all the ""sugar alcohols"" such as maltilol, sorbitol, xylitol, etc. and need something for dry mouth caused by med which I have to take.  Biotene products help for only about two minutes."
+summarized question 4: What are treatments for dry mouth that do not contain sugar alcohols?
+##
+query 5: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 5: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 6: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 6: Where can I find information on pain relief for Hirayama's disease?
+##
+query 7: ClinicalTrials.gov - Question - general information.  My fathers 85 and has severe hearing loss - he has tried hearing aids which at first helped but loss has become worst - has loss the hearing on one ear - hearing aids seem to cause him lots of pain I now see that he now can't hear and is becoming isolated, which concerns me and makes me very sad and afraid he'll become very depress and not care. If you can't help us can you please direct me somewhere for help. We live in the los angeles area Thank you [NAME].  [CONTACT]
+summarized question 7: What are the treatments for hearing loss aside for hearing aids?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: LOOKING FOR HELP FOR MY NEPHEW WITH GLYCOGEN STORAGE DISEASE.  HE LIVES IN VIRGINIA AND IS SUFFERING BADLY.  HE HAS BEEN HOSPITALIZED FOR SEVERE CRAMPING ABOUT 5 TIMES THIS YEAR SO FAR.  ANY GUIDANCE YOU COULD GIVE WOULD BE GREATLY APPRECIATED.
+summarized question 8: What are the treatments for Glycogen storage disease?
+##
+query 9: SUBJECT: Peruvian girl MESSAGE: Dear Sir/Madam, I am writing you on behalf of [NAME], who is very stress and with a lot of tension,looking for HELP for her daughter [NAME].  [NAME] has a complex hearth defect called Tetralogy of Fallot, she is about 7 months old and her family dont have resources to cover her treatment in order to get her welfare.  [NAME] has a very low income, lives in a rented room with her husband and her two children, in [LOCATION] - Peru. She works at [LOCATION] and she has been taking her daughter to children hospital in [LOCATION] but she cant afford the medicines and treatment that they ask for, she is looking desperately for help for her daughter.  I was wondering if you guys have any contact here in [LOCATION] of any organization, who can help [NAME]. I have been looking but cant find or never not came back to me when I asked them.  If you please know about any organization who can help us here in [LOCATION] Peru, I will really appreciate and we can make help to give [NAME] a better life :-)  I am a Health and Social care worker and work at the hospital too with the employees. Thank you very much for your time  [NAME]  [CONTACT]
+summarized question 9: Which organizations provide support for Tetralogy of Fallot in Peru?
+##
+query 10: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 10: What are the treatments for loss of appetite?
+##
+query 11: Second opinion for hemifacial microsomnia. I am a 34 female born with hemifacial miscrosomnia. I have had multiple surgeries but yet I feel I am not where I would like to be. I have been treated through the military because I can not afford a second opinion from an outside source. I lack tissue, muscle and fat on the right side of my face as well as a definite under developed right mandible. I know I would never be perfect, but I would love a chance to be able to walk down the street without people staring and I for one time in my life feel some what normal. Can you please help
+summarized question 11: How can I find physician(s) or hospital(s) who specialize in hemifacial microsomnia?
+##
+query 12: SUBJECT: dementia MESSAGE: I am looking for resources on how to deal with my husband who has vascular dementia and unsteady gait. Main prblem is him refusing to get out of bed for meals or activities of daily living. it takes hours on daily basis to get these essential basic life activities done. His doctors are aware but not very helpful. Any ideas or resources, other than SNF, will be apreciated
+summarized question 12: What are the treatments for vascular dementia and unsteady gait, and what caregiver resources are available?
+##
+query 13: SUBJECT: Small intestine completely removed MESSAGE: One of my family members has a serious health issue in which his small bowel has been removed completely, due to gangarin. Could you please help and advise accordingly.
+summarized question 13: What are the prognosis and care instructions after small bowel resection?
+##
+query 14: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 14: What are the treatments for serratia marcescens infection?
+##
+query 15: SUBJECT: I need help MESSAGE: Dear sir, I need  your help. I am [NAME], I have some question to ask you. My uncle a heart problem due to a gastro problem and bleeding from the intestinal the doctor says. He is an handicap person. Now he is a little bit ok , it's just that he is suffering from his belly a lot, but he is stop bleeding from inside. He often have breath problem also, i give him smetimes ventoline spray. We don't know what we treatment we should give him, Please I need your help. Thank you in advance sir.  Best regards [NAME].
+summarized question 15: What are the treatments for breathing difficulties?
+##
+query 16: SUBJECT: what to eat MESSAGE: I have very bad diarrhea for last two months. Doctors have not found what causing it. It reserve watery.I need to know what I can eat. And is lactase milk and yougar is ok are not?
+summarized question 16: What foods should I eat when I have diarrhea?
+##
+query 17: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 17:

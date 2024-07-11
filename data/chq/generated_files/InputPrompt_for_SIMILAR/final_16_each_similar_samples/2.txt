@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 1: What are the treatments for serratia marcescens infection?
+##
+query 2: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 2: How long will an insecticide application last in the house?
+##
+query 3: SUBJECT: Bedlam MESSAGE: This pesticide was used to get rid of bed bugs where I live. It was sprayed in areas I had to sleep in, sleep sofa. I wasn't told about it and slept through 4 applications over a 10 week period. I have one lung and severe COPD. Should this have been used knowing about my respiratory issues>
+summarized question 3: What are the side effects of bedlam insecticide?
+##
+query 4: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 4: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 5: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 5: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 6: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 6: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 7: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 7: What are the symptoms of complex regional pain syndrome?
+##
+query 8: ClinicalTrials.gov - Question - specific study.  I was told by my family doctor, that I have total alopecia, I feel it was related to a hair color that I used in 2012, but seems there are no studies about chemical exposure from the coloring to prove my point of total hair loss, not sure about any study being done in this regard, mine was not a painless hair loss, I had burns to my scalp. thanks for any information, or help. Sincerely, [NAME]
+summarized question 8: Could chemical burns cause total alopecia and what are the treatments for it?
+##
+query 9: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 9: What are alternatives to phenobarbital?
+##
+query 10: SUBJECT: affects from being molested MESSAGE: I was molested by my father when I was a child (over 45 years ago).  I've been working on recovery the past couple of years (the memories surfaced in 2010).  As part of my recovery, I'm exploring how being sodomized by my father may have damaged my rectum and surrounding areas.    What kinds of physical damage would have been done by a 22 year old male sodomizing a 5 year old boy?    I'm looking to see if that caused tears in the rectum that would have lead to having to have 9 surgeries as an adult to repair them.  I don't think they just happened.  thanks in advance.
+summarized question 10: Where can I find information on rectal damage caused by anal sex?
+##
+query 11: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 11: What are the treatments for mercury poisoning?
+##
+query 12: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 12: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 13: SUBJECT: coal oil MESSAGE: My father at an early age was given coal oil when he was sick with a cold or flu, my family and I are just wondering if there could have been permanent damage done to his stomach, heart, or any other internal organs.  I'm not asking for a second opinion, just want some information on this matter for our own inquiries.
+summarized question 13: What are the adverse effects of coal oil?
+##
+query 14: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 14: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 15: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 16: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 16: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 17: I have chronic renal disease and worry that Magnesium silicofluoride treatment of moth infestation of a large living room rug will be harmful to my health. Is this true? If the rug is treated in house how long before any toxic fumes or skin contact would be a hazard. Appreciate any help you could provide.
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Optic nerve artrophy MESSAGE: Good afternoon,  I am [NAME] from [LOCATION]. For my nephew is optic nerve artrophy about 2-3 years. He is 8 years old. One eye is dead now, other eye he can see about 20 percentage. No one doctor can`t help him in [LOCATION] (Europe).  Could You view his health history and to give the opinion about my nephew health situation and You will have proposition how we can help him.  I would be very grateful for Your.  Best regards,  [NAME] from [LOCATION].
+summarized question 1: What are treatments for optic nerve atrophy, and how can I find physician(s) in Europe who specialize in it?
+##
+query 2: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 2: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 3: Passing on a genetic condtion. My son is affected with an autosomal recessive genetic condition - Senior Loken Syndrome.  His brother is not affected.  1) What are the chances that my affected son's kids will have this disorder, and 2) how does my other son know if he is a carrier? Many thanks for responding.  I searched, but could not find an answer to this.  I did find this: Autosomal recessive inheritance: Two unaffected people who each carry one copy of the mutated gene for an autosomal recessive disorder (carriers) have a 25 percent chance with each pregnancy of having a child affected by the disorder. The chance with each pregnancy of having an unaffected child who is a carrier of the disorder is 50 percent, and the chance that a child will not have the disorder and will not be a carrier is 25 percent (illustration). ~[NAME]
+summarized question 3: What are the inheritance patterns for senior loken syndrome?
+##
+query 4: SUBJECT: spg11 MESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,
+summarized question 4: What are the treatments and prognosis for spg11?
+##
+query 5: SUBJECT: dry maculare tetinal degeneration MESSAGE: my grandfather had lens implants, now he has dry macular retinal degeneration.  he can hardly see!  searching for help!
+summarized question 5: What are the treatments for dry macular retinal degeneration?
+##
+query 6: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 6: Where can I find clinical trials for macular degeneration?
+##
+query 7: SUBJECT: hearing loss MESSAGE: have you experience in hearing loss due to autoimmune disorder called Cogan syndrome? If yes I will contact you for my 18year old son.
+summarized question 7: Can Cogan syndrome cause hearing loss?
+##
+query 8: SUBJECT: Chromosomes 6 MESSAGE: i had a son born with a very small part of chromosome 6 missing , caused several surgeries and then death . But I don't find any information , even similar to his . Is there anywhere else I can look for Any information on what would cause this piece to be missing
+summarized question 8: What could cause part of chromosome 6 missing?
+##
+query 9: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 9: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 10: Pupil Dilation.  How often can a pupil dilation or eye fundus can be performed? For example is there a problem if I had one last week and then to have another this week? I appreciate your quick answer.  Thank you
+summarized question 10: How often can pupil dilation be performed?
+##
+query 11: MESSAGE: HI, THIS IS [NAME]. SUPPOSE WE REMOVED THE EYE DUCT DUE TO TEAR TUBE DAMAGE, IS IT ANY PROBLEM WILL COME??
+summarized question 11: What are the prognosis and complications of tear duct surgery?
+##
+query 12: SUBJECT: IHSS heart condition and WPW heart condition MESSAGE: Is there any way you could send me information on both these heart conditions? My son has to get tested for them eventually and I would just like information to understand the conditions of both of them more.
+summarized question 12: Where can I find information on Idiopathic hypertrophic subaortic stenosis (IHSS) and Wolff-Parkinson-White (WPW) syndrome?
+##
+query 13: SUBJECT: GENDER DYSPHORIA MESSAGE: NO HEALTH CARE ON MY SON SUFFERING FROM GENDER DYSPHORIA WHAT CAN WE DO TO HELP HIM HE WORKED OUT OF HIGH SCHOOL NO PROBLEMS NOW NOT WORKING AND SHUTTING HIMSELF IN HIS ROOM 24/7 THERES NOTHING ABOUT THIS CONDITION IN OUR AREA WE LIVE IN [LOCATION]. NO HELP IN AREA WHAT CAN WE DO HE HAS HAD BAD THOUGHTS ALREADY PLEASE HELP US WITH SOME SORT OF INFO THANK YUO [NAME] [LOCATION] [CONTACT]
+summarized question 13: Where can I find information on treatment and resources for gender dysphoria?
+##
+query 14: SUBJECT: Customer Service Request MESSAGE: Hi, We are 2 sisters and a brother. My brother at age of 24 is detected with catract, however it is mild so operation is not required. But doctor said, there are chances he has this from Birth. However only from past 1.5years he had a little blur vision. And in my entire family Mom and Dad said no one has had catract from Birth. We are a big family, my grapa had 7 brothers and 2 sisters no one from their family or my mom has catract from birth or even at early age. My concern is, if i am pregnant will my children have any issue like this. I amd my sister, mom, dad we all have got our eyes checked. we dont have any issue. I am really tensed as i am expecting. Can you please help me with the answer.
+summarized question 14: Who is at risk of developing infantile cataracts?
+##
+query 15: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 15: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 16: SUBJECT: Eye muscle surgery as a result fo a TBI cycling accident MESSAGE: I had surgery on the muscles of two eyes as a result of a cycling accident in [LOCATION] in [DATE] 2012 resulted in hospitalized care for s Traumatic Brain Injury.  My eyes were given a year to heal but some double vision occurred and my vision was off center.  Recovery amazing but eyes were a problem (double vision),  Surgery 10 days ago (May) getting mixed opinions on when to go back to sports; cycling, lifting small weights.  Is it 2 week, 4 weeks or 8 weeks of doing nothing.
+summarized question 16: When can I resume exercising  after eye muscle surgery?
+##
+query 17: recently my son took an eye examine and  he had 20/40 in one eye and 20/25 in the other would he need glasses? then when they continue the eye examine they said the Fundus could not be visualized in either eye. I just want some understanding on both situations.
+summarized question 17:

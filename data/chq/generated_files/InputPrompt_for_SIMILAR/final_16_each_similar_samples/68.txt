@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: Would appreciate any good info on Lewy Body Dementia, we need to get people aware of this dreadful disease, all they talk about is alzheimers.  Thank you
+summarized question 1: Where can I find information on  lewy body dementia?
+##
+query 2: SUBJECT: abetalipoproteimemia MESSAGE: hi, I would like to know if there is any support for those suffering with abetalipoproteinemia? I am not diagnosed but have had many test that indicate I am suffering with this, keen to learn how to get it diagnosed and how to manage, many thanks
+summarized question 2: Where can I find information on abetalipoproteinemia, including diagnosis and treatment?
+##
+query 3: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 3: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 4: I know you probably get quite a few inquiries on this topic - but I am wondering if I might be a good (or not) candidate for the Flavinoid as nutrients to prevent strokes/heart attacks study. I appreciate any information you may have. Thank you, [NAME]
+summarized question 4: What are the eligibility criteria for the Flavonoid as nutrients to prevent strokes/heart attacks study?
+##
+query 5: Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.
+summarized question 5: Where can I find information about Beckwith-Wieddeman Syndrome?
+##
+query 6: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 6: Can sleep apnea occur during the day when awake?
+##
+query 7: SUBJECT: thalamic lacunar strokes MESSAGE: I am interested in anything you have on this condition. I have this stroke and am aiming for knowledge. If at all possible, my thalamic lacunar stroke is yours to study.
+summarized question 7: Where can I find information on thalamic lacunar strokes?
+##
+query 8: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: OK. I understand your reticence to list unconfirmed 'untrigger' lipids. However, I am a trained scientist who's 72 years old, so I don't really have time to wait for confirmatory tests to be run on several K more old coots. so QUE3TION: What [NB: THE HELL] precisely are the 10 lipids in question? I would then plan to have myself checked for those 10 lipids.
+summarized question 8: What are the ten lipids that can predict dementia?
+##
+query 9: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 9: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 10: "SUBJECT: Alzheimer's disease MESSAGE: This may sound strange, but unfortunately our family, my wife's dad, are dealing with the ugly disease of Alzheimers. To make this short, is there any way that we can challenge him to do things, or attempt to even ""get off the couch"", because he seems to respond to that type of activity. Fortunately my wife is able to spend a great deal of time with her mom and dad, but he seems to perk up when I see him at times and ""not baby him"" like the rest of the family. Thanks much."
+summarized question 10: What are stimulating activities for Alzheimer's patients?
+##
+query 11: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 11: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 12: Does anybody have any information on pain relief for Hirayama's disease?? My brother has had this disease for 10yrs and when the nerve endings are dying he is in excruciating pain and is giving no pain relief for this apart from morphine which does not help nerve pain. I appreciate his consultant is trying her best with a disease she knows little about but can anybody please help or give advice or any information on pain relief for this disease. He is already on the highest dose of pregabalin but when he is bad nothing is helping for the pain. Please any help or even anybody with any suggestions would be great full.
+summarized question 12: Where can I find information on pain relief for Hirayama's disease?
+##
+query 13: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 13: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 14: SUBJECT: Health innformation MESSAGE: Please. Advise what can inhibit and disassemble genetic tau. Aggregation.  I suffer from a rare tau aggregation illness called pallido ponto nigral degeneration
+summarized question 14: Where can I find information about pallido ponto nigral degeneration, including treatments?
+##
+query 15: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 years old boy that was diagnose with Periventricular Heterotopia and long time ago I read something that say that the most someone last with that syndrome is 309years.Is that true. And do you know about someone interested in wanting to do research about it? I will like to lern more about it. But theres not much information.
+summarized question 15: Where can I find information on Periventricular Heterotopia, including prognosis?
+##
+query 16: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 16: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 17: Lewy Body Disease. I have been researching Lewy Body Disease and have a few questions.1) Is this disease hereditary2) Does alcoholism play a role in the beginning process of this disease3) What are the initial symptoms of the diseaseAny information you could forward would be greatly appreciated.
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: pregnancy MESSAGE: I just want to ask if have some ways or have a operation to be pregnant a woman like me had a tubal ligation before  7yrs. Ago..
+summarized question 1: Where can I find information on tubal ligation reversal?
+##
+query 2: SUBJECT: finastride and pregnancy MESSAGE: my wife is pregnant. She is in week30 of pregnancy. Now i am going to  consume finastride 1mg for my hair loss.is it dangerous for pregnancy  for my wife and her fetus؟ i use condom when i have sex with my wife.  please answer me .can finastride shift to mothers body by my sweat orskin contact?please answer me .thank you.
+summarized question 2: Can finasteride be transmitted via bodily fluid or skin contact?
+##
+query 3: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 3: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 4: Dear sir/madam I am 40 year old man  & have vericoceal on my left side .My wife is 24year old ,we are trying for a baby for the last 4 months with no positive result. doctor suggest me try for baby for at least 1 year. Please suggest me what i have to do for a baby. i will be highly obliged . thank you [NAME] [LOCATION]
+summarized question 4: What are treatments for male fertility issues and varicocele?
+##
+query 5: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 5: What are the treatments for lactose intolerance and can it be cured?
+##
+query 6: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 6: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 7: SUBJECT: Demand MESSAGE: I have read on your website about the perirenal abscess. My mother is in the situation stipulated here http://www.nlm.nih.gov/medlineplus/ency/article/001274.htm I would really appreciate a recommendation as to where she could treat (a doctor, a clinic, a hospital, etc.). The Dr/Drs who wrote the article is/are professional and i think they could give me a hand.
+summarized question 7: Where can I find information on perirenal abscess, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 8: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 8: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 9: Clinical Studies - Hep C Dear Madam / Sir,   I am looking for clinical studies on Hep C and I want to know if my mother could participate in any of these studies ,she is 65 years old and she suffers from Hep C in stage between 3 & 4, she has liver cirrhosis and it caused variceal bleeding, so she gets an Endoscopic variceal ligation every 3 months . the new treatment is not available in Egypt yet and we are not sure when it will be or if it will ever be ! it's very risky to wait in my mom's case, and we can't afford the cost of the treatment abroad!! Please let me know if she could join one of your clinical studies, or if you can help us to find other studies according to her case (I can send a full record of her case) I'd be really grateful. I appreciate your concern in advance.   Thank you & Best Regards, [NAME]
+summarized question 9: What clinical trials are available for hepatitis C?
+##
+query 10: SUBJECT: Rheumatoid arthritis MESSAGE: Dear Sir- my wife is suffering from subject since last couples of years, and recently diagnose that she is effected with subject. therefore i need your kind support for treatment and percussion step.  awaiting your kind reply and action. thanks and best Regards
+summarized question 10: What are the treatments for rheumatoid arthritis?
+##
+query 11: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 11: How can I find a doctor to perform tubal ligation?
+##
+query 12: "Many women who are reading this are excited to give it a try. They think that their obese belly's from diabetes might go away, an answer to their horror to look in a mirror. You need to tell us the truth ,especially you Dr. Oz!! Some of us just know we cannot take this without better advise and our ""primary doctors"" have no interest in doing any discovery for their patients. I resent this whole thing, being singled out. I want to lose my belly too, what do I do?"
+summarized question 12: I want to lose my obese belly, what do I do?
+##
+query 13: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 13: Where can I find information on leg swelling and treatments?
+##
+query 14: SUBJECT: Vasectomy MESSAGE: On the text that says it is very rare that the vas deferens can grow back and my partner pregnant ... So is it possible? ... Is that my partner got pregnant, I have vasectomy 16 years .. [CONTACT]     thanks
+summarized question 14: What is the late failure rate of vasectomy?
+##
+query 15: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 15: What causes fibroid tumors on the spine?
+##
+query 16: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 16: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 17: hai sir, we want suggestion to my wife. she is sugar patient and she is pregnant. in her uterus have two fibroid  of max size (750g and 300g). doctors are suspecting pregnancy may be in uterus or tubes. so remove uterus. what is u r suggestion
+summarized question 17:

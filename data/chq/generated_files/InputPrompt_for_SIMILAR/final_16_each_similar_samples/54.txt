@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 1: What are the treatments for strabismus, including stem cell therapies?
+##
+query 2: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 2: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 3: Dear Sir/Madam I'm [NAME] from [LOCATION], I'm 35 years old , I'd like to ask you a Medical Question as I've got an optic nerve atrophy in my eye and i lost my vision since i was 8 years old , Now I've got one eye just , So please is there treatment for optic nerve atrophy ! Please see the attachment which is a Medical report from [LOCATION], Best Wishes [NAME]
+summarized question 3: What are the treatments for optic nerve atrophy?
+##
+query 4: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 4: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: SIR/MADAM I READ DETAILS OF MY PROBLEM FROM INTERNET THAT'S WHY I AM GOING TO HAVE IN TOUCH WITH YOUR SITE. I AM HAVING A PROBLEM IN WALKING AND CAN NOT PUT MY FEET PROPERLY FOR WALKING MY LEFT LEG FINGER'S LAYED FIRST ON FLOOR . I JUST HAVING THIS PROBLEM FROM LAST FIVE YEARS JUST BECAUSE I HAD WITH AN ACCIDENT AND I GOT A  INJURY IN HEAD ALSO. I EVEN HAD PHYSIOTHERAPY FOR ALL AROUND THREE YEARS BUT STILL I AM FACING THIS PROBLEM. PLEASE HELP ME .
+summarized question 5: What are the treatments for difficulty in walking after head injury?
+##
+query 6: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 6: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 7: What are the treatments for ocular albinism?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Hi  i am  having a littel eye trouble  like  a glare  or blurr vision and  i am a typed 2 diabitic  since 2010 this promble been going own now four - six monthes now and i have low pressure in my right  eye and cloudy and blurr a  lil. I need  to know what my  problem is and can it  fix  and without going  blinding ..Reply back. .To  [CONTACT]  voice mail  or email text are accepted or [CONTACT]
+summarized question 8: Can type 2 diabetes cause blurry vision, and what are the treatments for it?
+##
+query 9: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome I am wondering how does downs sydrome affect the daily routine of kids with downs sydrome such as using the. Bathroom or brushing their teeth? I look forward to hearing from you thank you.
+summarized question 9: How does Downs syndrome affect activities of daily living?
+##
+query 10: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 10: What are the treatments for lichen planus?
+##
+query 11: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 11: Is Astigmatism related to Aarskog Syndrome?
+##
+query 12: Something else (below). Hello, I don't seem to know who to contact, so giving this message a go is worth a shot! My Son was diagnosed with Wang syndrome earlier this year, I know there is such limited research on this syndrome but I would really like to get as much information or find out if any other children with this case are alive?! I was wondering if you have contacts that I could contact eg your article on the web for UPD14 Thanks for your time, hope to hear back from you. [NAME]
+summarized question 12: Where can I find information on Wang syndrome, including support groups?
+##
+query 13: SUBJECT: permanent cure for Nystagmus MESSAGE: For me from birth shaking of eyes disorder is there & in family nobody is having this kind of issuse. Pls. Tell me if any curable option for this disease.
+summarized question 13: What are the treatments for nystagmus and can it be cured?
+##
+query 14: SUBJECT: Hand Tremors MESSAGE: I am 77 years old and recently about a couple of years back started with my hand tremors which has gone worse. I can not hold a cup in my hands without spilling the contents. I would appreciate if you could kindly provide me with some advise or any course of treatment. Further I have diabetic which is partially controlled by medications. Sugar varies between 100 to 140. Thanking you. Thanking you for your kind assistance.
+summarized question 14: What are the treatments for hand tremors?
+##
+query 15: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 15: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 16: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 16: What are the treatments for deafness caused by gentamicin?
+##
+query 17: I am seeking information regarding wandering/lazy eye correction. I have suffered from this condition since I was a child. Please forward any pertinent information. Thank you.
+summarized question 17:

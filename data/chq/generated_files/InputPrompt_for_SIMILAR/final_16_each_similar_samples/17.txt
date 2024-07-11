@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Coronary Artery Spasms MESSAGE: I ask this as a General Question. Can a Pacemaker help prevent these spasms?
+summarized question 1: What are the causes of coronary artery spasms, and can a pacemaker prevent them?
+##
+query 2: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 2: Does neurofibromatosis affect congestive heart failure?
+##
+query 3: what does it means if someone blood is light.  I took injection this night and the nurse said my blood is light, what's does that mean. Sinfe , have been worry.
+summarized question 3: Why is my blood a light red?
+##
+query 4: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 4: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 5: SUBJECT: sudden pain in heart MESSAGE: I need to know for what its happening ? because i am very scared what may happen
+summarized question 5: What causes sudden chest pain and what are the treatments?
+##
+query 6: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 6: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 7: SEARCHING FOR ARTICLES. HOW CAN I SERACH FOR THE  ASSOCIATION BETWEEN GENE MUTATION AND CONGESTIVE HEART FAILURE.
+summarized question 7: Where can I find informaton on gene mutations and congestive heart failure?
+##
+query 8: SUBJECT: Homeostasis and hypothermia (mainly about hypothermia) MESSAGE: What is Homeostasis? Why is homeostasis so important? What technology do doctors use to cure hypothermia? What is the effectiveness of the technology? How is that technology effective to the economy and environmentally?
+summarized question 8: What is homeostasis and what are the treatments for hypothermia?
+##
+query 9: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome I am wondering how does downs sydrome affect the daily routine of kids with downs sydrome such as using the. Bathroom or brushing their teeth? I look forward to hearing from you thank you.
+summarized question 9: How does Downs syndrome affect activities of daily living?
+##
+query 10: sarcoidosis.  One thing no physician has been able to tell me is whether or not fatigue--ongoing--is a part of this disease. I was diagnosed in 2006, and have noted a lessening of energy, endurance. If this is a possible side effect, I have not found it in any info on this. Please add to your information if this is a viable issue. Thanks so much! [NAME]
+summarized question 10: Is fatigue a symptom of sarcoidosis?
+##
+query 11: Cardiac Event Loop Recorder.  is there a Cardiac Event Loop Recorder intrinsically safe?
+summarized question 11: What are the risks of a cardiac event recorder?
+##
+query 12: "SUBJECT: Complex Regional Pain Syndrome (CRPS) or Regional Sympathetic Dystrophy (RSD) MESSAGE: I have searched your pages and website for information on this medical condition but found nothing. I know there's not a lot of research on this but I'm pretty certain that my father had it in his legs and now I do to. Is there any evidence this condition is genetic or is it an ""Unknown at this time""?  Thanks"
+summarized question 12: What causes Complex regional pain syndrome?
+##
+query 13: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 13: Can sleep apnea occur during the day when awake?
+##
+query 14: MESSAGE: to Anyone   What can one do if they have no feeling in there feet ? [NAME]
+summarized question 14: What are the treatment for sensory loss in legs?
+##
+query 15: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 15: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 16: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 16: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 17: how do you know if you have sinus rhythm, what does it mean, is it good or bad?
+summarized question 17:

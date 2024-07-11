@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: ClinicalTrials.gov - Question - general information.  I am from Canada, was injured in august at work,,some neurologists that I have seen, have suggested that I might have complex regional pain syndrome, but due to my hand gnarling, they dismiss it. I have not been diagnosed, so I am trying to find a diagnosis so my arm could be repaired. Any suggestions would be very welcome. Thank you! [NAME]
+summarized question 1: What are the symptoms of complex regional pain syndrome?
+##
+query 2: MESSAGE: Afternoon my name is [NAME] i just need a clarity on ACL repair. [DATE] i done ACL repair as the doctors told me after my discharge i attend physiotherapy but after the physio my leg get swallow so i stopped as there was no progress. now my knee is stiff and swallow also it change colour and doctors tells me they don't see anything. so i need an advise what can i do or where can i go and get help.  regards   [NAME]
+summarized question 2: What is the recovery process after ACL surgery?
+##
+query 3: SUBJECT: Muscle function loss of Left Arm MESSAGE: Dear Doctor,  I am [NAME] from [LOCATION] ,first of all thank you very much for this article and its a great service.I am writing this email for my loving father ,He lost his left arm muscle because of nerve damage but he can access his finger .he cannot lift his hand without help of right hand.we already get consults from many doctors but there is no result found ,We are from village and poor family background ,i don't have much money to give good treatment for my father .so i request you please recommend a proper treatment for my father .this is my kind request to save my father . for more details required please feel free to contact me  my Email:-[CONTACT] My contact number :-[CONTACT]  With lot s of expectations,  [NAME]
+summarized question 3: What are the treatments for nerve damage in the arm?
+##
+query 4: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 4: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 5: Kidney transplant.  My father is having trouble with the kidney he received from a donor.  When he first had the transplant, things were ok. Now on the kidney is giving him trouble.  Some tests came back stating that the kidnewy was damaged and the transplant still took place. What steps can we do with getting the hospital to take charge with fixing this issue? His transplant procedure was at [LOCATION] in [LOCATION].
+summarized question 5: What is the prognosis and potential complications of a kidney transplant?
+##
+query 6: can't find doctor. Hello,Looking at your site it said that it had doctors that treated tricho rhino phalangeal syndrome.  I looked in the directory but could not find anyone.  Am I looking in the right place is it under something else? If you could please help me that would be great!
+summarized question 6: How can I find physician(s)  who specialize in trichorhinophalangeal syndrome?
+##
+query 7: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 7: What are the treatments for lichen planus?
+##
+query 8: SUBJECT: Undesecnded testis MESSAGE: Hello Sir  I am a young man of age 27  I was born with a problem of descended testis  to this age  I have always experience one of them go down to the real position at times  and then run back to the abdomen  but of recent it stopped going down  Please Sir I will like to know what my situation is and is there a remedy for it ? Thanks an i wait for your reply
+summarized question 8: What are the treatments for undescended testicles?
+##
+query 9: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 9: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 10: SUBJECT: my husband had a simple retropubic prpostectomy 6 weeks ago. he can not walk wit MESSAGE: My husband had a simple retropubic prostectomy he can not walk without the walker, he can not mmove his right leg  alone yet. I don't  think is normal. What to expect in six weeks  his urinary track is still soar when he pees. I fear  is something wrong  not been able to push the leg forward the joint in the leg is painful
+summarized question 10: What is the normal time course and symptoms of recovery from simple retropubic prostatectomy?
+##
+query 11: SUBJECT: Stroke mobility equipment MESSAGE: Husband has had 3 strokes since 1990.  He refuses to take anymore maintenance therapy.  It is becoming more challenging to help him be mobile.  There does not seem to be any source to assist me in learning what equipment, etc.  I could or should get to help him and to help me in my role as caregiver.  Any help you can give would be much appreciated!
+summarized question 11: Where can I find information on stroke resources, including mobility equipment and caregiver support groups?
+##
+query 12: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 12: What are the treatments for nutcracker syndrome?
+##
+query 13: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 13: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 14: SUBJECT: Thoracic outlet syndrome MESSAGE: I was diagnose with TOS in my left shoulder was told surgery would help my problem. physical therapy did not help tired of the numbness in pain in hand just wondering if the stats our good percentage wise for surgery results Dr.[NAME] is my surgeon
+summarized question 14: What are the success rate and prognosis for thoracic outlet syndrome surgery?
+##
+query 15: SUBJECT: coal oil MESSAGE: My father at an early age was given coal oil when he was sick with a cold or flu, my family and I are just wondering if there could have been permanent damage done to his stomach, heart, or any other internal organs.  I'm not asking for a second opinion, just want some information on this matter for our own inquiries.
+summarized question 15: What are the adverse effects of coal oil?
+##
+query 16: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 16: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 17: Good morning, I'm not sure where to start with this so am hoping you could point me in the right direction please? My husband recently saw a specialist in relation to his elbow. He was told he would need an elbow reconstruction. The specialist mentioned that someone in the US had made something to fix this problem but even though it was patented, it didn't sell so it is now not made anymore. Would you know what this was and called, and who I could get in contact with about it please? We live in  Australia. My husband is a keen sportsman and is not taking this news very well as he's been told he won't be able to play sport again. Any help would be greatly appreciated.
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 1: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 2: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 2: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 3: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 3: What are the prevention and  treatments for plantar fasciitis?
+##
+query 4: MESSAGE: Can u give me more information about physiotherapy for  patient with acute stroke treated wiht trombolysis..?
+summarized question 4: Where can I find information on physical therapy after acute stroke?
+##
+query 5: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 5: What is the prognosis and course of recovery after stroke?
+##
+query 6: sepsis.  Can sepsis be prevented. Can someone get this from a hospital?
+summarized question 6: What are the causes and prevention of sepsis?
+##
+query 7: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 7: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 8: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 8: How is Huntington's disease transmitted?
+##
+query 9: SUBJECT: Central venous catheters - ports MESSAGE: Hello, I was wondering about the Central venous catheters - ports and how they work. My grandma takes dialysis treatments and hers blew a couple days ago. Both of her arms swelled immediately. They were asked to do another one,  but said it was ok. After another treatment today both arms turned purple. I want to know, if you can tell me, how dangerous is it if they are using the port and it is blown? Can she bleed out or throw blood clots?
+summarized question 9: What are the complication of central venous catheters?
+##
+query 10: SUBJECT: HEP C MESSAGE: IS THERE A DRUG TO TAKE IF YOU HAVE IN THE LAST 4 DAYS BEEN EXPOSED TO CONTAMINED BLOOD OF A HEP C PERSON. IE PROFOLACTIC DRUG TO LESSEN THE CHANCES OF INFECTION? IE LIKE TRUVADA FOR HIV?
+summarized question 10: Is there a prophylactic drug for exposure to hepatitis C?
+##
+query 11: Spinal Cord.  My Brother is 58 years old have spinal cord problem his both legs he cannot move them wheelchair user his legs are very heavy as he had urinaire infection after the other now the test comes positive and the infection still going cannot clear so his Doctor cannot give him any treatment for his main problem (Spinal cord) I want to help him what he should do I want to get advice please baging you for help and advice, many thank you
+summarized question 11: What are the treatments for urinary tract infection?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i am 9 years post bleed stroke and still can not use my left arm or hand and when i walk i hip hike on my left side.  is this as good asit gets
+summarized question 12: What is the long-term prognosis of limb use after stroke?
+##
+query 13: SUBJECT: [NAME] Brazilian with PMD MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pelizaeus-Merzbacher leukodystrophy, we would like to know more new treatments, new techniques, since we know very little about the disease in Brazil. [NAME]
+summarized question 13: What new treatments are available for Pelizaeus-Merzbacher leukodystrophy?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 14: What are the early symptoms of Stiff person Syndrome?
+##
+query 15: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 15: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 16: spina bifida; vertbral fusion;syrinx tethered cord. can u help for treatment of these problem
+summarized question 16: What are the treatments for spina bifida, vertebral fusion, and syrinx tethered cord?
+##
+query 17: is there an increased risk of infiltration, dislodgement, or phlebitis in a stroke patient with a peripheral intravenous catheter insertion in the affected extremity?
+summarized question 17:

@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Good day. I'm living with lupus. I just want to ask if I can take glutathione supplement? I already completed my chemotherapy last month (march) and free off steroid after two weeks. Thanks
+summarized question 1: I have lupus; can I take a glutathione supplement?
+##
+query 2: SUBJECT: Is Balsalazide a steroid? MESSAGE: Is Balsalazide a steroid? I have been on it doe close to 2 years now, your information states 6-8 weeks.  Will this do any damage to my other organs?  Was on Asacol prier to Balsalazide 750mg each X9 per day.  Is this safe? I cannot seem to lose any weight no matter how much I try. I exercise 5-6 days a week for 30 minutes, watch what I eat.
+summarized question 2: Where can I find information on balsalazide, including dosage, side effects, and drug class?
+##
+query 3: SUBJECT: Lichen Planus yrs MESSAGE: Help help help. I have Lichen Planus and I think at times I might go crazy from the itching. I had once before about 22 yrs ago and it went away after a cycle or two of Prednisone. This time it has been over 15yrs and keeps on. It will not go away. I can not take prednisone any more!!!! It makes me mean. I need some kind of help. I use steroid creams and shots and they ease the lesions and the itching, but after a while it gets really bad again. I a at my wits end. It is all over my feet ankles legs and wrists arms back and butt. help me please!!!!!!!!
+summarized question 3: What are non-steriod treatments for lichen planus?
+##
+query 4: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 4: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 5: What are the treatments for scalp psoriasis?
+##
+query 6: SUBJECT: Is finasteride a medication for life? MESSAGE: Hi, I have been taking this medication for the last 7 years.I asked my family doctor,since I have difficulty in my sexual desire or intercourse,if I can stop taking it.She said that is for life. My psa in normal 0,71.What you suggest? Thank you for your replay.
+summarized question 6: Are there alternative treatments to finasteride for enlarged prostate?
+##
+query 7: SUBJECT: Arthritis MESSAGE: Is the medication Trimethoprim/ sulfamethozle useful in arthritis.?         Thank you
+summarized question 7: Is Trimethoprim / sulfamethazole indicated for arthritis?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 8: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 9: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 9: What are the latest treatments for Parkinsons disease?
+##
+query 10: hypothyroidism.  My doctor started me on levothyroxene 5oMCG. for 5mths.How do I know if this is  the rite dosage? Do not want to cause myself any harm by overdosing
+summarized question 10: What is the normal dosage of levothyroxine for hypothyroidism?
+##
+query 11: SUBJECT: staphy treatment MESSAGE: Gud day, please ham having staphylococcus and I need drugs to take and your advice..my result show &quot;scanty&quot;..i 'll be expecting your reply..thank you and God Bless you
+summarized question 11: What are the treatments for staphylococcus?
+##
+query 12: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 12: How can I get non-drug treatment for depression and anxiety?
+##
+query 13: Shakiness.  I have acquired a symptom of extreme internal body shaking. Sometimes I canyon even speak right or use a pen. A doctor yesterday asked if I had a recent thyroid checkup. I see my thyroid doc the end of March.  Usually they say my T4 levels are low. I'm confused when it comes to what levels the thyroid should be.  I also have chronic fibromyalgia.  Seems that is blamed on for a lot of my problems.  Thank you for this site.
+summarized question 13: What are normal thyroid levels, and can thyroid problems cause body tremors?
+##
+query 14: SUBJECT: Muscle soreness MESSAGE: Not sure if I need to see my doctor. Hope you can advise one way or the other?MaleAge 62Good health, eat well and exercise regularly.I have muscle soreness in my legs I would associate with overuse. However, the soreness started approximately 6 weeks ago after over using quads/thighs while snow skiing and continues today. Takes a few minutes to get out of a chair or get out of bed but I continue to exercise as always; Pilaties, snow skiing, bike riding, long walks in hilly country, etc. Not debilitating but annoying. Stopped taking statins about a week ago but soreness continues. Unusual for me.Any thoughts?
+summarized question 14: Do I need to see a doctor for persistent exercise-related leg muscle pain?
+##
+query 15: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 15: Are there any medicines for dry mouth?
+##
+query 16: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 16: What are the treatments for autoimmune nerve disorder?
+##
+query 17: hydroxychloroquine for rheumatoid arthritis. Can you tell me if this medication that my doctor put me on could make me sweat profusely at the slightest little strenuous activity I'm also methotrexate 6 2.5mg once a week. could you please email me back thank you very much
+summarized question 17:

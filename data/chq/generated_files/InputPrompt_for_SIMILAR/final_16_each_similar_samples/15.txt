@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 1: What are alternatives to phenobarbital?
+##
+query 2: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 2: How do I stop taking wellbutrin HCL XL?
+##
+query 3: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 3: How do I stop taking oxycodone?
+##
+query 4: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 4: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 5: SUBJECT: Clonidine MESSAGE: Can you please explain the effects of clonidine on a three year old female who gets a four year old males dose who is not prescribed. Also how long does this drug stay in the system of a three year old female from one dose? Is this drug recommended for a child at the age of four? Do people use this drug to get high illegally, if so how would it be used and what would the effects be? Thank you for your time.
+summarized question 5: Where can I find information on clonidine, including dosage, pediatric use, and side effects?
+##
+query 6: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 6: What are the ingredients of Glyburide and is it gluten free?
+##
+query 7: SUBJECT: Is Balsalazide a steroid? MESSAGE: Is Balsalazide a steroid? I have been on it doe close to 2 years now, your information states 6-8 weeks.  Will this do any damage to my other organs?  Was on Asacol prier to Balsalazide 750mg each X9 per day.  Is this safe? I cannot seem to lose any weight no matter how much I try. I exercise 5-6 days a week for 30 minutes, watch what I eat.
+summarized question 7: Where can I find information on balsalazide, including dosage, side effects, and drug class?
+##
+query 8: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 8: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 9: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 9: Are the  long-term effects of morphine reversible?
+##
+query 10: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 10: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 11: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 11: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 12: Interested in research regarding Arimidex and the pros and cons of taking it following lumpectomy and radiation for breast cancer.  Are there research results of recent research?  The possible side effects are worrying - I make decisions for my 47 year old daughter with Down Syndrome-trying to do what is best.  She has taken Anastrozole for a year now.
+summarized question 12: What is the the latest research on Arimidex, and the benefits and side effects of the drug?
+##
+query 13: SUBJECT: When do you know you should not take Tecfidera? MESSAGE: When do you know you should not take Tecfidera? I took Tecfidera 9 days. Day 1 my legs and feet felt normal for the first time in 5 years. day 2 my legs, thighs, feet, hands, arms, and middle became so swollen I can hardly walk, move, sit or sleep. I got the flushing day 7, foggy vision day 4, and more.
+summarized question 13: What are the side effects of tecfidera and when to stop taking it?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My question to you is: what is the reason that there is very little attentions is to Antiphosoholipid Syndrome? To find the causes and possibly some type of cure for us who struggle with this auto-immune blood disorder? I guess that since it is female directed (9-1 female to male) that no one important enough has died from APS? Oh, by the way, I'm a 58 year old man!
+summarized question 14: What causes antiphospholipid syndrome and what are the treatments for it?
+##
+query 15: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 15: Can magnesium be taken with orange juice?
+##
+query 16: thyroid panel prep.  Do I need to prepare in any specific way for the thyroid panel?  Do I need to fast?  I have been taking a very low dose of Lithium nightly.  How long do I need to stay off of it before having the panel done?
+summarized question 16: What preparations are required for a thyroid panel test?
+##
+query 17: what are the possible side effects of not taking olanzapine after having tanker it for a long period of time
+summarized question 17:

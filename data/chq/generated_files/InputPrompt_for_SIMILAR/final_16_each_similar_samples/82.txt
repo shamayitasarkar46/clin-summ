@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 1: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 2: SUBJECT: The results of smoking MESSAGE: What are some illnesses caused by smoking? Also, what are their effect on the human body?
+summarized question 2: What are the risks of smoking?
+##
+query 3: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 3: Can sleep apnea occur during the day when awake?
+##
+query 4: SUBJECT: Plantar Fasiciitis MESSAGE: Is it true that more likely than not that Plantar fasiciitis could be aggravated by a consistancy of weight bearing activities?    Are there other forms of aggravation? if so will you please inform me.
+summarized question 4: What are the prevention and  treatments for plantar fasciitis?
+##
+query 5: If a 60 yo male patient has a level of cobalt or chromium  over the highest acceptable level, can that possibly create blood in urine? thank you
+summarized question 5: What are the causes of blood in the urine?
+##
+query 6: SUBJECT: Blood pressure MESSAGE: Take blood pressure med atenolol 50mg, blood pressure running 91/59 HR65, most of the time lower in the upper to mid 80's.  My doc is not in for 3 day's.  What can I do to raise it.  I am on anxiety, pain & muscle relaxers for a medical condition in my neck and legs that I can't have surgery on again.  Please how do I get my pressure back up until I can get to my doctor?  I am so tired and can't get rid of the headache.
+summarized question 6: What are the treatments for low blood pressure?
+##
+query 7: SUBJECT: Tailbone trauma MESSAGE: are there any risks for an elderly person to fly with a cracked or bruised tailbone? thank you in advance
+summarized question 7: Can I fly with a tailbone injury?
+##
+query 8: SUBJECT: tracheomalacia MESSAGE: My Tracheomalacia is so wide spread with 90% blockage surgery is not an option.  I wear o2 24/7 what is going to happen to me.  Will it get worse until I die please someone just be honest with me.
+summarized question 8: What is the prognosis for tracheomalacia?
+##
+query 9: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 9: Does neurofibromatosis affect congestive heart failure?
+##
+query 10: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 10: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 11: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 11: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 12: SUBJECT: sudden pain in heart MESSAGE: I need to know for what its happening ? because i am very scared what may happen
+summarized question 12: What causes sudden chest pain and what are the treatments?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Can you please tell me the results of any clinical trials investigating a correlation between Buproprion (Wellbutrin) and cancer?  Is there a greater incidence of cancer rates with patients who have taken Buproprion long term as opposed to a control group?
+summarized question 13: What are the side effects of bupropion, including an increased risk of cancer?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 14: What are the early symptoms of Stiff person Syndrome?
+##
+query 15: SUBJECT: trying to loss 50 before July. MESSAGE: I am trying to loss 50 pounds before July, the problem is I work 16 hours a day. Don't have time to do anything else. Is there a deit pills or shake that I can use to help me? Also my problem area is stomach, waist, butt and hip. Please help.
+summarized question 15: Where can I find information on weight loss pills?
+##
+query 16: SUBJECT: how to breathe MESSAGE: Dear Sirs,  This may seem like a stupid question but here goes anyway.  I am 64 yrs old and a type II diabetic.  I walk frequently to stay fairly fit but always seem to get out of breath when going up even gentle hills. Today however I noticed that I could change how I breath. Thus, I could force air out using my diaphram (ie like blowing out a candle)then relax and just let the air flow back in or I could use my diaphram to suck in air (like breathing in the morning air)and again relax my diaphram to push it out. I also found that I could breath faster under conscious control which seemd to help my performance. I dont know if any of this makes sense to you but I would like to know what you think and whether there are any do's and dont's and if there is a 'better' way to breath.  Thanks very much for your help with this,  Regards,  [NAME]
+summarized question 16: What are techniques for  proper breathing?
+##
+query 17: SUBJECT: Carbon dioxide. MESSAGE: What can happen if your level of carbon dioxide in your blood is up to 50? What things can starting changing in your body if it reaches over 50.
+summarized question 17:

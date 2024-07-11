@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 1: How is post-polio syndrome diagnosed?
+##
+query 2: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 2: What are the causes of severe body weakness?
+##
+query 3: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 3: How long does the tetanus vaccine last?
+##
+query 4: atypical pnuemonia.  what is the possibility of atypical pneumonia occurring again less than a month after treatment?
+summarized question 4: Can atypical pneumonia recur shortly after treatment?
+##
+query 5: SUBJECT: How long it take to get over lung surgery? MESSAGE: I had a Thoricodimy and collaped lung ,on [DATE],I was wondering how long it takes for all pain to go away ? I was told it could take 6 mo to one yr for all symtoms to go away ,is this normal ? My surgeon says it will take this long ,also I am so tired as well is normal? I am still on strong pain meds,to help with the pain ,some days no pain,then other days a lot of pain ,it is very scarry,Hopefully it will all go away,please help me . Thanks
+summarized question 5: What is the recovery time and prognosis for thoracotomy for collapsed lung?
+##
+query 6: SUBJECT: Whipple's Disease MESSAGE: Your information about Whipple's Disease says that it is fatal if left untreated, but there is no information about HOW LONG a person can have it. I have been sick for 6 years and am having no luck getting a diagnosis, and it would be most helpful in ruling things out if I knew whether or not a particular illness would kill a person within a shorter time period than 6 years. Thank you.
+summarized question 6: What are the diagnosis of and prognosis for Whipple's Disease?
+##
+query 7: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 7: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 8: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 8: Is MRSA contagious, and how is it spread?
+##
+query 9: SUBJECT: Pneumococcal Polysaccharide - 23 MESSAGE: I received the Pnuemoccoal Polysaccharide 23 vaccine in 2009 at the age of 67 years. I was told I would never need the vaccine again. Is that still true or has the vaccine been updated? Should I get it again now at the age of 72?
+summarized question 9: What are the guidelines for updating pneumococcal polysaccharide 23 vaccine for persons 65 and over?
+##
+query 10: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 10: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 11: SUBJECT: When do you know you should not take Tecfidera? MESSAGE: When do you know you should not take Tecfidera? I took Tecfidera 9 days. Day 1 my legs and feet felt normal for the first time in 5 years. day 2 my legs, thighs, feet, hands, arms, and middle became so swollen I can hardly walk, move, sit or sleep. I got the flushing day 7, foggy vision day 4, and more.
+summarized question 11: What are the side effects of tecfidera and when to stop taking it?
+##
+query 12: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 12: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 13: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 13: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 14: SUBJECT: Plate MESSAGE: I have a steel plate in my ankle from a severely broken leg, its been a long time now and am weight bearing. They said they would take plate out in a year which is not far away, I am trying to find information about this, how long will I be in hospital for or can it be a day surgery, also will I need crutches etc I need to know the procedure as it terrifies me going back in there?
+summarized question 14: Where can I find information on ankle implant removal, including recovery and prognosis?
+##
+query 15: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 15: What are the treatments for deafness caused by gentamicin?
+##
+query 16: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 16: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 17: covid-19 how long to quarantine after being positive how long are you contagious if i tested positive for covid-19. how long before i can safely return to work after a positive covid 19 test
+summarized question 17:

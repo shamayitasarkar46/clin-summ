@@ -1,0 +1,52 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice
+
+query 1: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 1: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 2: SUBJECT: drugs/liver failure MESSAGE: I don't know if you can answer this, but I thought I'd try. If someone used to use drugs, mainly heroin,  and they've stopped using and are around 30 days clean, will they not be able to test negative for drugs if their liver is failing?
+summarized question 2: How long is heroin detectable in your system?
+##
+query 3: SUBJECT: bundle blockage MESSAGE: could you please tell me what a bundle blockage is. what are the symptoms. what is usually done for this?    Thank you
+summarized question 3: Where can I find information on bundle branch block, including symptoms and treatments?
+##
+query 4: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 4: How do I stop taking oxycodone?
+##
+query 5: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 5: What are the side effects of barium sulfate?
+##
+query 6: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 6: How do I switch from Amlodipine to atenolol?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I do have relative smoker in past diagnose with COPD I would like to see how can I find treatment .76 years old not any other health problem. He is on oxygen now. please Email me.at [CONTACT]        thank you
+summarized question 7: What are the treatments for COPD?
+##
+query 8: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 8: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 9: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 10: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 10: What are the treatments for nocturia?
+##
+query 11: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 11: What are the treatments for erectile dysfunction?
+##
+query 12: SUBJECT: Low Red Blood Cell Count MESSAGE: If a patient's Red Blood Cell Count becomes low because of a 3-month medicine regimen, will the RBC normally increase back to normal when the intake of prescribed drug ceases? Thank you. [NAME]
+summarized question 12: Will a low red blood count return to normal after the responsible medication is stopped?
+##
+query 13: "SUBJECT: intermittent breathing and coughing problem from over-use of steroids MESSAGE: My husband was a patient at [LOCATION].  If I understand correctly his room-mate (an older gentleman) had come up for help from West Virginia for what I believe to be the following problem:  he has taken steroids for a protracted period of time and the steroids have caused the following problems in his life: weakness of his leg muscles and additionally he has an intermittent problem with wheezing/coughing/breathing however the [LOCATION] specialists just could not find the cause or how to resolve it.  The ""lung symptoms"" if I understand correctly are suppressed by the steroids to some degree but the steroids are causing problem which I mention above.  Might you have a data base about such problems?   I also am asking if there are any antidotes to the muscle weakness he has from the steroids.  Thanks"
+summarized question 13: Can long term use of steriods cause muscle weakness, and what are the treatments for it?
+##
+query 14: SUBJECT: fluticasone MESSAGE: I was prescribed this med for rhinitis, I used it as directed, when it ran out I stopped, that was only 7 days ago. Now, I have an awful upper respiratory infection. Could halting Fluticasone have possibly caused this?? How long is person supposed to be taking Fluticasone?
+summarized question 14: Where can I find information on fluticasone, includingusage and side effects?
+##
+query 15: SUBJECT: Coronary Artery Spasms MESSAGE: I ask this as a General Question. Can a Pacemaker help prevent these spasms?
+summarized question 15: What are the causes of coronary artery spasms, and can a pacemaker prevent them?
+##
+query 16: SUBJECT: Is finasteride a medication for life? MESSAGE: Hi, I have been taking this medication for the last 7 years.I asked my family doctor,since I have difficulty in my sexual desire or intercourse,if I can stop taking it.She said that is for life. My psa in normal 0,71.What you suggest? Thank you for your replay.
+summarized question 16: Are there alternative treatments to finasteride for enlarged prostate?
+##
+query 17: SUBJECT: time of results. MESSAGE: When a person start halt sildenafil...How long before their breathing, shortness of breath, &fatigue issues go back to normal..?
+summarized question 17:
