@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: glucosmine sulfate caplets MESSAGE: Question: when they are out of date...LOTF39460 EXP JA 2013.  Is there any real harm to contining to take these calets?
+summarized question 1: Is it harmful to take expired glucosmine sulfate caplets?
+##
+query 2: CITROBACTOR FREUNDII.  Does ciprofaxin work well? Is there a better drug if so what.
+summarized question 2: What are the treatments for citrobacter freundii infection?
+##
+query 3: I have RA and am suffering from pain and it is attacking my joints...I have read about certain bacteria that can contribute to the RA onset. Please send me any info on any botanical medicines (like those successful from Australia)...and if you could send me samples I would certainly try them as part of human studies on RA.
+summarized question 3:

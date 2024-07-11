@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Prothesis to assist Facioscapulohumeral muscular dystrophy. My 22 yr old grandson has Facioscapulohumeral muscular dystrophy. Has weak arm & hands curl inward. He has difficulty picking up a plate or opening doors. Some type of shoulder harness with support for arms could help. Something electrical like limbs for amputees. Is anything being considered in this area?
+summarized question 1: Are there assistive devices for Facioscapulohumeral muscular dystrophy?
+##
+query 2: Post chemo for breast ca.( methotrexate and cytoxin) I gained weight. I had always been a string bean until then. After reading about christensenella I began to wonder what might kill our little friendly gut bacteria. Antibiotics and chemo are so common in our culture. I wondered could this be  causative in the obesity that exists in the USA ?
+summarized question 2: Does antibiotic use and chemotherapy cause weight gain?
+##
+query 3: I'm 53 years old. I have got  meniscus tear after a twist. My MRI reports  that I  have got: 1. Bucket handle tear involving entire length of lateral meniscus which otherwise appears to have discoid configuration. 2. complex tear involving posterior horn and posterior root of medial meniscus,  along with formation of few small parameniscal cysts. I am doing all activities without any problem. I have no swelling . I get pain at times for 2 or 3 min.  Sometimes even after 4 or 5 days or after a week. sometimes 2 or 3 days consecutively.  In June, I twisted my right knee.  During this period I was even without pain for 10 days or 2 weeks. Kindly advise me . 
+summarized question 3:

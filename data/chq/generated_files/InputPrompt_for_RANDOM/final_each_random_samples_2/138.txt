@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 1: How is Huntington's disease transmitted?
+##
+query 2: MESSAGE: I am 23yr boy,i have knock knees i want treatment. Please help me.
+summarized question 2: What are the treatments for knock-knee?
+##
+query 3: where do i go to find information on familial dysautonomia. is there  an organization out there on the subject. all the websites ive gone to say dns error...
+summarized question 3:

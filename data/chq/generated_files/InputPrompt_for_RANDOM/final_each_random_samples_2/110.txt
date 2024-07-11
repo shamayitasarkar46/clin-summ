@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: pitting edema MESSAGE: s it normal for the skin on my legs to have pitting edema even though my legs are not swollen it is there weather they are or not. I feel like my legs are made of playdough. LOL. but seriously I have rheumatoid arthritis,vasculitis,fibromyalgia.and idiopathic urticaria.
+summarized question 1: What causes pitting edema?
+##
+query 2: Tailbone trauma - aftercare  I read the article, but what if the person hasn't falling or been bumped?  What could cause this?
+summarized question 2: What causes tailbone injury?
+##
+query 3: I am looking for information regarding post concussion syndrome and occipital/trigeminal neuralgia.  I had a couple of concussions when I was a child and now have both neuralgias.
+summarized question 3:

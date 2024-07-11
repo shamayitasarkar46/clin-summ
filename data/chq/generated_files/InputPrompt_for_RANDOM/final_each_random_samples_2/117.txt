@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I have had renal organ transplant surgery a year ago. What risk factos must I avoid to prevent the recurrance of ESRD and to maintain a healthy &functioning grafted kidney ?
+summarized question 1: How do I care for my kidney after renal transplant?
+##
+query 2: Angelman syndrome. Can a person with Angelman Syndrome have children? If so, can the disorder be passed on to offspring?
+summarized question 2: How is angelman syndrome inherited?
+##
+query 3: I am suffering from vitiligo patches (White spot) in my body. I am 57 years old. Kindly help me  to cure the disease  white spot due to this i am very depression.
+summarized question 3:

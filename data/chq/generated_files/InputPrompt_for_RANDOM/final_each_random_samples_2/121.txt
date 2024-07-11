@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 1: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 2: SUBJECT: cecum adhered to vaginal cuff MESSAGE: I am trying to find any article, photograph, or image that references to the cecum being stuck or adhered to the vaginal cuff due to adhesions from previous abdominal surgeries.  I have searched on PubMed for hours with no luck.  Any help would be greatly appreciated.  It would even be helpful if there is just some type of article that lists this as being encountered by surgeons during the surgery they were performing.
+summarized question 2: Are there any documented cases of cecum adhesions at the vaginal cuff?
+##
+query 3: Please, please let us know where to get information and treatment for COLLAGENOUS GASTRITIS.  Our 15 year old daughter has been suffering from severe abdominal pain, vomiting- almost daily/sometimes multiple times daily, lethargy,  and not able to live life for just 9.5 weeks now.  She was diagnosed with biopsy results from her endoscopy this week.  This is such a rare disease- we are not sure what to do.  Her peds GI has heard of this, but not  able to answer all our questions, as there seem to be no answers- no cure & no know cause.
+summarized question 3:

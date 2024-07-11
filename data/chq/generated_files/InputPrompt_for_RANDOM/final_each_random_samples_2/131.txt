@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ingredient in apremilast. MESSAGE: I looked everywhere on web pages & google too. All just say what it comes from. I think there something in the apremilast ingredient that might effect my cielca disease. Can you  help me what's in apremilast?   Thank you,  Jerome
+summarized question 1: What are the ingredients in  apremilast?
+##
+query 2: SUBJECT: My sister was told she has Breast Cancer MESSAGE:   Hello My Name is [NAME] My sister has been told that she has breast cancer. And I want to no if she could use Salinomycin to kill the breast cancer. [NAME]
+summarized question 2: Is Salinomycin a treatment for breast cancer?
+##
+query 3: Hi! Where in the world can I find a surgeon who will remove abdominal adhesions and mesh from a previous inguinal hernia repair? My husband is in terrible pain a lot of the time. I am a retired Registered Nurse and understand the procedures. Thank you for any help you can give me.
+summarized question 3:

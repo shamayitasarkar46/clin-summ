@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Azithromycin 250mg gluten MESSAGE: Hello can you please tell me if your Azithromycin 250mg tabs are gluten free?  Thank you!
+summarized question 1: What are the ingredients of Azithromycin and is it gluten free?
+##
+query 2: SUBJECT: rectal prolapse MESSAGE: my rectum is stretched out and I need information mailed to me about surgical options. My address is [LOCATION]
+summarized question 2: Where can I find information on rectal prolapse surgery?
+##
+query 3: I have fish smell disorder and i need as much as i could help. Please
+summarized question 3:

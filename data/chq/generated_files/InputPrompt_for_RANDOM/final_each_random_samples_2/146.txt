@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: saggy large breast MESSAGE: i have very huge breast i am only 25 and they cause me alot of pain on the neck chest and back. what can i do
+summarized question 1: What are the treatments for large breasts?
+##
+query 2: SUBJECT: You know Diabetes Insipidus? MESSAGE: I was born with Diabetes Insipidus and have many problems since the cell was removed when I was 22 and ALL
+summarized question 2: Where can I find information on diabetes insipidus?
+##
+query 3: I am trying to get some information.  I had eye surgery.  My surgical tech was clearly sick.  My hubby and i overheard her say she could not go home because they had no one to cover her.  When I was in the room alone with her and she was preparing for my surgery I clearly saw her clearing her throat coughing and touching her face covering her cough with the back of her hand.. I questioned her about the safety of her being there with a cold.. said dont worry thats why I have the mask on.. I put my trust in her went along with it.. 2 days later my nose was running profusely.. I called doctors office and they said dont worry its happens..that was a friday.. On monday I called the office and asked to be seen because my eye had started to swell..  it turns out i had developed an abscess  (endophtlamitis) now i am blind..  My understanding from reading your website the room was not sterile (air circulation) and the masks are not 100 percent germ proof..she was standing close to me handing the doctor tools i feel i was not safe with her coughing and touching them...I am looking for answers...thanks for all your help
+summarized question 3:

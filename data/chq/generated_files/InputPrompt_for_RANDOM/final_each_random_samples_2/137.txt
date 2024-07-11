@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: chronic hypersensitivity pneumonitis. could this condition be caused by memory foam mattress'.?
+summarized question 1: What causes chronic hypersensitivity pneumonitis?
+##
+query 2: Dear Doctors, Good day, I would like to ask about the possibility to make a Liver transplantation surgery for my uncle. his liver is damaged and need to be replaced so could you please advise me with the possibility to make the surgery and the approximately cost . also any other details should I know. Your Quick response is highly appreciated and thanks in advance for your cooperation.
+summarized question 2: Where can I find information on liver transplants, including cost?
+##
+query 3: I get wrist joint pain along with finger joint pains and my symptoms are similar to wrist osteoarthritis but I am diagnosed with ankylosing spondylitis because I am HLA-B27 positive. Therefore I want to know the following: I want to know whether osteoarthritis of wrist can occur in ankylosing spondylitis or it occurs in Ehlers–Danlos syndrome only?
+summarized question 3:

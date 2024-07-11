@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Can you please tell me the results of any clinical trials investigating a correlation between Buproprion (Wellbutrin) and cancer?  Is there a greater incidence of cancer rates with patients who have taken Buproprion long term as opposed to a control group?
+summarized question 1: What are the side effects of bupropion, including an increased risk of cancer?
+##
+query 2: SUBJECT: who and where to get cetirizine - D MESSAGE: I need/want to know who manufscturs Cetirizine. My Walmart is looking for a new supply and are not getting the recent
+summarized question 2: Who manufactures cetirizine?
+##
+query 3: Dear concerned, My mother is a kidney & heart patient and from last 3 years she is going through Dialysis on twice a week basis. Her cause of kidney failure can be Diabetes & High Blood Pressure from last 10 years. Currently her creatinine level is 9. Can you please guide me is there any way to revive her kidneys???  Looking forward to your kind support. Thanks & Regards
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: lupus MESSAGE: Hi,  I  want to know about Lupus and its treatment. Best,  [NAME]
+summarized question 1: Where can I find information on lupus and what are the treatments for it?
+##
+query 2: MESSAGE: My Aunt is on the following meds and is having pain not relieved by Tylenol.  Could she take Motrin along with these meds.   Aggrenox 25-200 Amlodipine 10 mg Simvastatin 20  levothyroxine 50 Mcg Oxybutynin.carb/comevo Sertraline
+summarized question 2: What drugs can interact with Motrin?
+##
+query 3: Hi, Please can you help - I am writing from South Africa. My daughter suffers with acute folliculitus, and has been since the age of 13. She is now 20 and is in so much distress as nothing seems to alleviate the itching and soreness. She is desperate for some relief and we have tried absolutely everything - creams, shampoos, antibiotics, biopsies, blood tests, allergy tests, light therapy, diet etc. We have consulted Professors of Dermatology but they do not know how to treat it. She is now getting suicidal thoughts as it is extremely debilitating and cries a lot. They have tested for both fungal and bacterial and have grown cultures to see what attacks it - nothing does. I am writing to you for any help you could give me to try and assist her. Could you recommend a specialist and someone who could help us with research? Please could you point us in the right direction? I am happy to send through her lab tests - please let me know. Thanks
+summarized question 3:

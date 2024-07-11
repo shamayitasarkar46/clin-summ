@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: are jumping genes[transposons] associated with lynch syndrome? [NAME]
+summarized question 1: Are jumping genes [transposons] associated with Lynch syndrome?
+##
+query 2: Dear Sir/Madam I'm [NAME] from [LOCATION], I'm 35 years old , I'd like to ask you a Medical Question as I've got an optic nerve atrophy in my eye and i lost my vision since i was 8 years old , Now I've got one eye just , So please is there treatment for optic nerve atrophy ! Please see the attachment which is a Medical report from [LOCATION], Best Wishes [NAME]
+summarized question 2: What are the treatments for optic nerve atrophy?
+##
+query 3: I am looking for any information you have on females with congenital adrenal hyperplasia, my wife has this condition. We are searching for a doctor for her medical care, and need all the information we can find on this condition.
+summarized question 3:

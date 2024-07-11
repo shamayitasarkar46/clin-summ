@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 1: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 2: SUBJECT: PTSD and IBS MESSAGE: I am looking for research on IBS and the link to PTSD. Thank you
+summarized question 2: What is the latest research on IBS and the link to PTSD?
+##
+query 3: My daughter suffers from a rare condition called Xeroderma Pigmentousim Type C.  I was wondering what can we do for my daughter. We live in Canada.
+summarized question 3:

@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Pupil Dilation.  How often can a pupil dilation or eye fundus can be performed? For example is there a problem if I had one last week and then to have another this week? I appreciate your quick answer.  Thank you
+summarized question 1: How often can pupil dilation be performed?
+##
+query 2: SUBJECT: MS MESSAGE: Hi, my name is [NAME] my brother has MS Im searching for something that can help him. I love my brother and its so upsetting to see him slowing down Can you please let me know if there is something that can help. Many Thanks!
+summarized question 2: What are the treatments for MS?
+##
+query 3: I m looking for do it cordon blood stem cells. For my autism son he is 6 years old..I m preagnet now 7 months..I want give a new babys cordon blood to my autism boy.please help me..
+summarized question 3:

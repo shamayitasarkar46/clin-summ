@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 1: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 2: SUBJECT: inversion of long arm chromasome7 MESSAGE: My son has been diagnosed with inversion of long arm chromasome 7 and down syndrome . please could you give me information on the chromasome 7 please because our doctors have not yet mentioned it
+summarized question 2: Where can I find information on chromosome 7?
+##
+query 3: Recently diagnosed with PBC and would like to see new readership or drugs  for this disease.
+summarized question 3:

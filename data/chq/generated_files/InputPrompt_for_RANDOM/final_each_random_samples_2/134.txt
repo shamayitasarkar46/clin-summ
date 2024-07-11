@@ -1,0 +1,10 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: ctscan see through mesh from hernia repair ? MESSAGE: I have mesh that repaired a hernia on my lower abdomen. Now I need a ctscan. Will the ct scan see through the mesh ??????
+summarized question 1: Will surgical mesh show up or interfere in a CT scan?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: chronic hypersensitivity pneumonitis. could this condition be caused by memory foam mattress'.?
+summarized question 2: What causes chronic hypersensitivity pneumonitis?
+##
+query 3: My 37 year old daughter is dying of Crohn's disease. It is very desperate.  Is there anything you can do? Time is of the essence.
+summarized question 3:
