@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Greetings: Iam [NAME], from [LOCATION]. I would like to know some of the Medications to Treat Coronary Artery Blockage. I will be grateful if you could let me know. Best Regards, [NAME]. [LOCATION]. [DATE]
+summarized question 1: What are the drug treatments for coronary artery blockage?
+##
+query 2: ClinicalTrials.gov - Question - specific study.  I was told by my family doctor, that I have total alopecia, I feel it was related to a hair color that I used in 2012, but seems there are no studies about chemical exposure from the coloring to prove my point of total hair loss, not sure about any study being done in this regard, mine was not a painless hair loss, I had burns to my scalp. thanks for any information, or help. Sincerely, [NAME]
+summarized question 2: Could chemical burns cause total alopecia and what are the treatments for it?
+##
+query 3: ClinicalTrials.gov - Question - general information.  I have returned from Nigeria. While there, I found out that a relative of mine has an outgrowth that has covered half his face, thus blinding him on one eye. The outgrowth is about the size of three baseballs. What can you do to help him? [NAME], [CONTACT]
+summarized question 3: What are the treatments for facial tumors, and how can I find physician(s) who specialize in it in Nigeria?
+##
+query 4: SUBJECT: Coronary Artery Spasms MESSAGE: I ask this as a General Question. Can a Pacemaker help prevent these spasms?
+summarized question 4: What are the causes of coronary artery spasms, and can a pacemaker prevent them?
+##
+query 5: SUBJECT: Growing Pain in Hip for over 15yrs MESSAGE: For as long as I can remember, I would get pain in my one hip, and surrounding area (at times) feels like it is a sleep...Though I Always would make sure it is not my underwear or pants pinching a nerve. My Doctor told me to just stretch my leg, as it is nothing more than growing pains, and will pass with time....But 15yrs+ I still have this strange feeling!! Is this something I should look into more?? And there are times, where the pain is just incredible!! Though I never take anything for it...I just drink a glass of milk thinking the Calcium can help my bones.Are there any suggestions?? I have no idea what to do, and do not want to look into this more if not needed, as I do not want to waste the Doctor's time & then think I am a wing nut!!
+summarized question 5: What are the treatments for hip pain?
+##
+query 6: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 6: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 7: SUBJECT: Suggestion on ILD problem MESSAGE: Dear I am suffering from ILD problem as per my doctor suggestion I am taking the home oxygen on this problem. Can you suggest me the perfect medicine on this problem it is helpful for my day to day activities as well as improve my life style.  Please suggest  I am waiting for your reply.  [NAME]
+summarized question 7: What are the treatments for ILD?
+##
+query 8: SUBJECT: downs syndrome daughter had a stroke MESSAGE: Where is there a rehab that can treat with physical therapy, from paralysis, with my 29 yr. old daughter with downs? We live in [LOCATION]. I would have to stay with her through out this ordeal, as she would not understand otherwise. We have run into this problem, but there has to be a rehab dedicated to people with disabilities. [NAME]
+summarized question 8: Where can I find facilities that offer physical therapy for special needs patients?
+##
+query 9: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 9: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 10: SUBJECT: dementia MESSAGE: I am looking for resources on how to deal with my husband who has vascular dementia and unsteady gait. Main prblem is him refusing to get out of bed for meals or activities of daily living. it takes hours on daily basis to get these essential basic life activities done. His doctors are aware but not very helpful. Any ideas or resources, other than SNF, will be apreciated
+summarized question 10: What are the treatments for vascular dementia and unsteady gait, and what caregiver resources are available?
+##
+query 11: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 11: Where can I find information on leg swelling and treatments?
+##
+query 12: SUBJECT: Does Tolnaftate work to help nail fungus? MESSAGE: Does Tolnaftate help with toe nail fungus?
+summarized question 12: Is Tolnaftate prescribed for toenail fungus?
+##
+query 13: SUBJECT: Pancreatitis Cancer MESSAGE: My Grandfather on my mothers side died of pancreatic cancer  and my mother also  i am the only daughter ,but also have 3 brothers is it more likely that i will have of chance of having this form of cancer that my brothers. My mom was only 57 when we lost her . I am now 51 and worry if i'm more likely to suffer with this cancer than my brothers.
+summarized question 13: What is the risk of developing  pancreatic cancer and how is it inherited?
+##
+query 14: "SUBJECT: Vamousse head lice treatment labe claims MESSAGE: To the best of my knowledge, any head lice treatment that claims to ""Kill"" lice and/or eggs is considered by FDA to be a drug claim and therefore needs to contain an FDA-registered pediculicide (kills lice) or an FDA-approved ovicide (kills eggs).  Otherwise the product is considered to be misbranded and a ""new drug"" requiring appropriate testing.  The ""Vamousse"" head lice treatment claims ""Kills 100% lice and eggs"" and does not conform.  In addition, the claim ""kills 100%"" is in violation of FTC rulings which prohibit claiming ""100%"".  This company has also introduced a Head Lice Prevention product which is also in violation of FTC rulings (see FTC vs Lornamead).  I think that you should research these issues and publish your findings.  Thank you."
+summarized question 14: Does Vamoose head lice treatment conform to FDA and FTC labeling guidelines?
+##
+query 15: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 15: How long does the tetanus vaccine last?
+##
+query 16: SUBJECT: EPI 747 MESSAGE: hi  My name is [NAME] My son, His age 4 month discovered it leigh disease infected from the mother side. and we have  full family history with the leigh disease.  my Daughter she lived for 7 years with the same disease, we have her Hospital reports, it is confirmed leigh Disease.  Kindly, if there is any hope for my son with EPI743 treatment, and we are appreciate to accept him in the treatment study.  i have a full reports for my son and the MRI. and all of it under your request.    Hope get your help ASAP because he is in the first stage. and we have a we are all hope he will be better.  Best Regards  [NAME]
+summarized question 16: Is EPI743 an effective treatment for leigh syndrome?
+##
+query 17: SUBJECT: theoretical question MESSAGE: How much time you can spend at most before a cerebral aneurysm will cause death? Sorry I'm using translator because I speak and write in Spanish if they were so kind to send me the answer to [CONTACT] Thanks.
+summarized question 17: What is the prognosis of cerebral aneurysm?
+##
+query 18: SUBJECT: NDC# for Injection, Testosterone Cypionate, 1mg MESSAGE: I am trying to find the NDC# for the above-mentioned injection. There is a new HCPCS code J1071 ([DATE]), the code is still new and no ones knows how to bill the insurance yet. With NDC# we will be able to figure out how the injection is packaged. Thank you for your help!
+summarized question 18: What is the NDC code for 1 mg Testosterone Cypionate injection?
+##
+query 19: SUBJECT: broken the shoulder. MESSAGE: how to provide the treatment of broken shoulder lock problem ?
+summarized question 19: What are the treatments for broken shoulder?
+##
+query 20: Testing. Where can someone be tested to determine a diagnosis of Adult Progressive Spinal Muscular Atrophy (Aran-Duchenne syndrome)?
+summarized question 20: How and where is Adult Progressive Spinal Muscular Atrophy diagnosed?
+##
+query 21: SUBJECT: who and where to get cetirizine - D MESSAGE: I need/want to know who manufscturs Cetirizine. My Walmart is looking for a new supply and are not getting the recent
+summarized question 21: Who manufactures cetirizine?
+##
+query 22: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 22: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 23: "SUBJECT: Questions (see in comment box) on ""Vistaril"" MESSAGE: I have a few Qs related to ""Vistaril"": 1. Is ""Vistaril"" a gluten-free product? 2. If not, is it because some of the raw materials in its ingredients that is gluten related? 3. If yes to Q1, is it a ""Certified"" gluten-free product and what kind of certification it has? 4. For capsule form, does it contain any kind of starch? If it does, what starch is it? 5.  Can you email to me a list of the ingredients in this drug? Thank you very much!"
+summarized question 23: What are the ingredients of vistaril and is it gluten and starch free?
+##
+query 24: SUBJECT: need to know about shingles MESSAGE: I have had shingles on my face about 6 or 7 years ago.  Should I still get a shingles Vaccine?  I really need to know.  Stress is big in my life.
+summarized question 24: Should someone who had shingles get the vaccine?
+##
+query 25: SUBJECT: Diltiazem BVF 120MG MESSAGE: I had a patient contact our office and states her pharmacy told her that TEZA was no longer going to be dispensing Diltiazem BVF 120MG. Is this fact?
+summarized question 25: Does TEZA manufacture  Diltiazem BVF 120MG?
+##
+query 26: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 26: Who should get the MMR vaccine?
+##
+query 27: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 27: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 28: SUBJECT: father suffering from IBS MESSAGE: My father is suffering from IBS and is loosing weight day by day.sometimes he even faints due to weakness.He cannot digest food .please help us and suggest us upon this problem.
+summarized question 28: What are the treatments for IBS?
+##
+query 29: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 29: How long does amoxicillin retain its potency?
+##
+query 30: SUBJECT: Pilot and Lazy Eye MESSAGE: Dear MedlinePus  I started to fly at the age of 15 and have been flying for over 3,5 years and has logged over 120 hours in my time as pilot. My dream is to become a Comerical Pilot and recently I undertook a medical class 1 which I failed in [LOCATION] because of my Eye position and Eye movment, hence I have not experienced any problem with my vision in daily life nor when I have been flying..  The problem is that my binocular vision is not good enough and the eye-doctor meant it could be a problem if I sudden developed double vision.  Is there any operation that can fix this? The Orthoptics I went to meant there was a problem with one of the eye muscles which where to thight and the other too weak. She said it can be fixed, but this is not &quot;normal&quot; in [LOCATION] because it is not big enough error she meant.  Is there anyway to fix this? I appreciate all information!  Kind Regards  [NAME]
+summarized question 30: What are the treatments for lazy eye?
+##
+query 31: SUBJECT: Hot Flashes for Male MESSAGE: I am a 79 year old male taking Eligard shots for prostate cancer.  I am having hot flashes from these shots.  Is it possible that Brisdelle would help me?
+summarized question 31: Will Brisdelle help hot flashes caused by prostate cancer therapy ?
+##
+query 32: SUBJECT: Ankylosing Spondylitis MESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]
+summarized question 32: What are the treatments for Ankylosing Spondylitis?
+##
+query 33: SUBJECT: thick blood. MESSAGE: When I was young, my hct and hgb were low normal.  Now that I am 68, my hct is high normal and my hgb is high (18).  Why/how has my blood thickened as I aged?  What can I do to thin my blood?
+summarized question 33:

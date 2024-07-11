@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Treatment, Paralysis MESSAGE: I have one left side leg is paralysis last 24 years, my other parts of the body is well, it is possible my leg will good for treatment, if possible how can i do the treatment and where ? THANKS
+summarized question 1: What are the treatments for leg paralysis?
+##
+query 2: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 2: What causes fibroid tumors on the spine?
+##
+query 3: SUBJECT: concussions and long term head trauma  from abuse Ii MESSAGE: I was a victim from an abusive relationship, both verbal and physical. During this time I received substantial injuries to my head. Slight concussions led to full-fledged concussions, losing the ability to talk very well, then think very well, and a subdural hematoma, on the left side, bled down inside my head to behind my left eye, which made it unable to move. Along with an intense headache and drinking a lot of coffee, the neurosurgeon didn't have to do brain surgery,  as my eye finally moved!Battered Women's told me to get out of the area a stay gone if I wanted to stay alive. So I did! Speech Therapy helped considerably, the story goes on.  Anyway, I hear and read a lot about concussions and head trauma for football players,  young and old,  and wonder if any studies have ever been done for women?   A few years ago,  I had a partial stroke,  but enough to set me back a bit.  But this time I know what I need to do to help fix my head,  again.
+summarized question 3: What is the latest research on concussions and head trauma in women?
+##
+query 4: SUBJECT: ALT in blood MESSAGE: My ALT is 45, AST is 56.  What is best way or test to know the reason for these increased values in Blood.  And any treatment possible without knowing the reason.  I am a [LOCATION] having retired life. I feel 99-100 F most of the time, Age 73, wt 87 kg, no alkohol, no smoking etc.
+summarized question 4: What are the causes of and treatments for eleveted ALT and AST?
+##
+query 5: SUBJECT: Radiation Therapy MESSAGE: I have foot drop symptoms. I think radiation cause them last year. My left foot is numb tingling and inflaming. please help and call my cell phone for more comments :[CONTACT]
+summarized question 5: What are the symptoms of foot drop, and what are the treatments for it?
+##
+query 6: NUT tumor in spine. My brother had a tumor in his cheek, which was surgically removed. He is still undergoing radiations. After dissecting the tumor, they noticed it had something to do with the chromosones. His tumor was rare. Last week they discovered very small tumors in his spine. They concluded the cancer has evolved in his bones. In [LOCATION] ([LOCATION]) they said only 2 cases of this cancer are known worldwide. They've given him 8 months!4 Months ago he was just fine. I'm looking for any information that can help him!
+summarized question 6: "Where can I get information and help for ""NUT tumor"" in the spine?"
+##
+query 7: thyroid panel prep.  Do I need to prepare in any specific way for the thyroid panel?  Do I need to fast?  I have been taking a very low dose of Lithium nightly.  How long do I need to stay off of it before having the panel done?
+summarized question 7: What preparations are required for a thyroid panel test?
+##
+query 8: SUBJECT: hearing loss MESSAGE: have you experience in hearing loss due to autoimmune disorder called Cogan syndrome? If yes I will contact you for my 18year old son.
+summarized question 8: Can Cogan syndrome cause hearing loss?
+##
+query 9: SUBJECT: RE: RX MESSAGE: I am taking Metafolic Plus caplet I know this helps memory of the brain.  What else does it help the brain with?
+summarized question 9: What remedies improve memory?
+##
+query 10: Williams' syndrome I would like to have my daughter tested for William's syndrome. Could you please tell me where I would go or who does it in my area?  Thank you!!
+summarized question 10: Where can I get genetic testing for william's syndrome?
+##
+query 11: SUBJECT: Rubella MESSAGE: My grandson (4 yrs old) has contracted Rubella.  I know for sure he has had at least one of the vaccines.  They are living in Mexico right now.  Should we be worried?
+summarized question 11: What is the prognosis of rubella in a child?
+##
+query 12: SUBJECT: frozen shoulder MESSAGE: We have 14 siblings in our family , at least 10 of us has had a frozen shoulder.  We are wondering why?  should we be concerned?
+summarized question 12: What are the causes of frozen shoulder, and is there a genetic predisposition?
+##
+query 13: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 13: Can shingles affect the teeth and gums?
+##
+query 14: Do you have any info on Korsocoff's syndrome brought on by long-term alcoholism and bad diet?  What about treatment options?
+summarized question 14: Where can I find information on korsakoff syndrome and what are the treatments?
+##
+query 15: SUBJECT: Excessive Eye Water MESSAGE: Thank for your information on my earlier question regarding what is causing skin itching. I have another question on another problem that I'm having. This problem is excessive eye water (tears) occurring all the time and filling my nose up mostly at night and stops using my nose while in bed after a couple of hours. This there any medicine that would reduce all these excessive tears?
+summarized question 15: What are the treatments for watery eyes?
+##
+query 16: SUBJECT: DECUBITUS ULCERS MESSAGE: To Whom This May Concern, My name is [NAME], i am a year 12 student at [LOCATION], [LOCATION]. I am doing a subject called research project, it is a compulsory subject.  My question is 'What are the biological causations of decubitus ulcers?' I am writing to you as i am in need of primary information from medical professionals. I am requesting that you complete a survey. If you are willing to participate please email me on; [CONTACT]   so i will be able to give you the survey and a letter detailing what it is for.  Thank You for spending your time reading this email, and i look forward to hearing from you. Yours Sincerely,           [NAME], Year 12 student at [LOCATION]
+summarized question 16: What causes decubitus ulcers?
+##
+query 17: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 17: What are treatments for excessive sweating?
+##
+query 18: SUBJECT: still very sore under my middle rib cage and little swollen MESSAGE: any suggestions for this discomfort ? sore and swollen from auto accident was wearing seat belt.
+summarized question 18: What are the treatments for rib pain and swelling after car accident?
+##
+query 19: SUBJECT: antacid named tritralac MESSAGE: I have taken Tritralac for years now it has been taken off the market.  What antacid is the closest one to Tritralac?  I preferred Tritralac because it came in pill form.
+summarized question 19: What antacid is the closest one to Titralac?
+##
+query 20: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 20: Are there any precautions for mixing or administering Fomepizole?
+##
+query 21: SUBJECT: meloxicam MESSAGE: Does this have to be taken everyday for it to work?  Can I just take it as needed or does it have to build up in my system....
+summarized question 21: How should meloxicam be used?
+##
+query 22: Stiff neck.  I have a stiff neck that will not go away.
+summarized question 22: What are the treatments for stiff neck?
+##
+query 23: SUBJECT: Frontometaphyseal dysplasia MESSAGE: My son has Frontometaphyseal Dysplasia ehich is listed on your site. Do you have any information realgarding how to contact anyone else with this syndrome? Kind regarfs
+summarized question 23: Where can I find support groups for people with Frontometaphyseal dysplasia?
+##
+query 24: williams sydrome conditon.  i need to send me more information about Williams Syndrome and some tips how to educate people with this disorder.I hope having news from you soon!!thank you
+summarized question 24: Where can I find information and educational materials on williams syndrome?
+##
+query 25: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 25: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 26: SUBJECT: prestigious place in USA for treatment to Common peroneal nerve dysfunction MESSAGE: Hello, I have foot drop for damage to the common peroneal nerve, caused by surgery on knee in November 2012.Please which is the most prestigious institution or place in USA for treatment or surgery of this type of injury. thanks a lot
+summarized question 26: How can I find physician(s) who specialize in Common peroneal nerve dysfunction?
+##
+query 27: ClinicalTrials.gov - Question - specific study. I WOULD LIKE TO SEE STUDY OF -5P CHROMOSOME SYNDROME, WHAT IS THE ORIGEN, TREATMENT
+summarized question 27: What causes the 5p chromosome syndrome and what are the treatments?
+##
+query 28: SUBJECT: entire body is red with itching and sclera of eyes are red MESSAGE: what causes the skin of the entire body to turn red including the sclera of the eyes.  Also there is itching of the skin.
+summarized question 28: What are the causes of red, itchy skin and sclera?
+##
+query 29: MESSAGE: Four years back my ankle had hit by the stone and there is small reddish pot from inside the ankle, due to which I can't walk properly and it pains and even gets swollen once I start walking. Is this pain temporary or life long or it will never get heel forever.  What type of pain is this? What treatment would you suggest me?
+summarized question 29: What are the causes and treatments for ankle swelling and pain?
+##
+query 30: What can I use when I feel my bladder is sore when I urinate my bladder just burn and its awkward for me its the second time now what should I use or take? Please I need your help
+summarized question 30: "What drugs are there to relieve ""burning bladder"" on urination?"
+##
+query 31: hello medineplus, i am a student an i am suffering from muscular dystrophy...i just want to know that, is muscular dystrophy belongs to locomotor disability? thanks,  yours sincerely
+summarized question 31: What is a locomotor disability and is it related to muscular dystrophy?
+##
+query 32: SUBJECT: Thyroid Cancer MESSAGE: thyroid cancer . please send all data regarding surgery, issues after the surgery possible outcomes to the surgery.
+summarized question 32: Where can I find information on surgery for thyroid cancer, including recovery and prognosis?
+##
+query 33: Fire Burn gives stain at stomach during my childhood and that is directly surrounded around the stomach button. and this matter was occurred past 15 years back. Do there is any therapy or remedy?
+summarized question 33:

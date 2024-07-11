@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: Degenerative bone &disk disease MESSAGE: Like to know more about Degenerative Bone &Disk Disease..I have had it for over 10 yrs..I'm losing muscle in my legs,at the point I can only walk about 30-40 steps my his freeze up with pain &pressure,hince I need a wheelchair,need more information on this disease...healthcare providers ""need surg.don't need surg"" I'm stuck in small town America....O I'm 59yrsold...any info would be apprec..."
+summarized question 1: Where can I find information on degenerative disc disease, including treatments?
+##
+query 2: SUBJECT: insomnia MESSAGE: What can I give my [AGE] father to help him sleep? He said he will take whatever. He is not on any medication, not allergic to anything.  Fully ambilatory!
+summarized question 2: What are treatments for insomnia?
+##
+query 3: SUBJECT: babygirl vagina itching MESSAGE: My newborn is 9 weeks and I noticed when I went to clean inside her vagina there was a little bit of spotting. Should I be concerned?
+summarized question 3: What are the causes of and treatment for newborn vaginal itching and spotting?
+##
+query 4: SUBJECT: Transderm Scop Patch (Placement options) MESSAGE: Am trying to find info on patch placement. Any reason it cannot be placed in another hairless site besides behind the ear? A specific reason for it's placement there? Am a PACU nurse. We often use for post op nausea but cannot for plastic surgery of face/neck. Have one source that says ok from neck to waist, upper thigh or outer upper arm. Is this indeed acceptable placement? If not, why? Thank you in advance [NAME]
+summarized question 4: Where could the transdermal scopolamine patch be applied besides behind the ear?
+##
+query 5: ClinicalTrials.gov - Question - specific study. I WOULD LIKE TO SEE STUDY OF -5P CHROMOSOME SYNDROME, WHAT IS THE ORIGEN, TREATMENT
+summarized question 5: What causes the 5p chromosome syndrome and what are the treatments?
+##
+query 6: SUBJECT: Pyloric Stenosis MESSAGE: Good day, I had pyloric when I was a baby - I am now 44 years old.  I have always suffered with stomach problems, leaky gut etc.  Is it at all possible that this is a related cause of pyloric long term?  I was the 1st baby girl to have this operation in [LOCATION] in [DATE].
+summarized question 6: What is the long-term prognosis and complications of pyloric stenosis?
+##
+query 7: I have exercise induced asthma. Would any of these non drug devises be suitable please?
+summarized question 7: What nondrug devices are suitable for treating exercise induced asthma?
+##
+query 8: SUBJECT: My sister was told she has Breast Cancer MESSAGE:   Hello My Name is [NAME] My sister has been told that she has breast cancer. And I want to no if she could use Salinomycin to kill the breast cancer. [NAME]
+summarized question 8: Is Salinomycin a treatment for breast cancer?
+##
+query 9: SUBJECT: LATEST INFORMATION MESSAGE: WANT TO KNOW LATEST DEVELOPMENT IN LUNCE CANCER TREATMENT, MY FRIENDS WIFE AGE 45, NAME [NAME], [LOCATION] SUFFERING WITH THIS DISEASE,WILL BE TAKING FIRST DOSE OF ALMITA PEMETREXED ON THRUSDAY THAT IS AFTER FOUR DAYS. PL. ADD MY E-MAIL ID
+summarized question 9: What new treatments are available for lung cancer?
+##
+query 10: SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.
+summarized question 10: What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?
+##
+query 11: SUBJECT: Rubella MESSAGE: My grandson (4 yrs old) has contracted Rubella.  I know for sure he has had at least one of the vaccines.  They are living in Mexico right now.  Should we be worried?
+summarized question 11: What is the prognosis of rubella in a child?
+##
+query 12: SUBJECT: SPECIFY COMPONENTS MESSAGE: COENZYME Q10(100-mg). WHAT ARE THE COMPONENTS OF THIS MEDICINE? IS IT USEABLE FOR MUSLIMS?
+summarized question 12: What are the ingredients of coenzyme q10?
+##
+query 13: SUBJECT: severe vaginal bleeding MESSAGE: I've been bleeding for almost 9 long years. I've been to the doctor and he just put me on birth control saying it will balance itself out. That didn't work. We tried another birth control..it didn't work either. Ever since this problem started I've had terrible migraines, I gained weight (which I've tried to exercise and diet off), severe vaginal pain, cramping, heavy bleeding, blood clots the size of my hand. I've probably gone through 1000's of underwear and my life revolves around this issue. My sex life is one sided (which sucks) and I just want help..what should I do..I feel like I should have another doctor..
+summarized question 13: What are the treatments for severe vaginal bleeding?
+##
+query 14: Thrush Article.  Maybe I over read the article, but I saw nothing about thrush being transferred from one Person to another. Weather it can happen or can't it should be told somewhere in the article. [NAME]
+summarized question 14: How is thrush transmitted?
+##
+query 15: SUBJECT: HELP TO LOCATE DRUG MESSAGE: Received instructions from the FDA in using this site to find an anti-depressant that DOES NOT contain soy in any ingredient.  No product found.  PLEASE HELP ME!!!!
+summarized question 15: What anti-depressant fdrugs do not contain soy as an inactive ingredient?
+##
+query 16: "MESSAGE: I have a fungal infection on my two legs which i have treated  several month with Lamisil 1o/o cream ,Betamethasone-N cream and sulphur skin ointmentcream. And the drugs-: terbanfine, fuschin,ampiclus beecham vitamin ""c"" etc. But with all of these,the fungal still remain the same.pls, which strong antifungal drug or injection would you people recomend for me or what advice would you give ? Yours faithfully  [NAME]"
+summarized question 16: What are the treatments for severe skin fungal infections resistant to over the counter medications?
+##
+query 17: SUBJECT: Ankylosing Spondylitis MESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]
+summarized question 17: What are the treatments for Ankylosing Spondylitis?
+##
+query 18: please can chronic myeloid leukemia (CML) be cure completely. waiting for your response. thanks
+summarized question 18: What are the treatments for chronic myeloid leukemia?
+##
+query 19: SUBJECT: Shoulder,back and neck paim MESSAGE: My health care provider has done nothing for but give me shots and pain medication. What can you do to stop the pain? This has been going on 1 and half years.
+summarized question 19: What are the treatments of shoulder, back, and neck pain?
+##
+query 20: Customer Service Request. Doing a genealogy search, I have been contacted by a person from the same ancestral line as myself, we are decendants of the [NAME] ancestral line and she told me that anderson tawil syndrome runs through our [NAME] line, What does it look like? I understand that it changes the face features. This 82 year old great grandma would like to know more about this.   Many thanks,
+summarized question 20: Where can I find information on andersen tawil syndrome?
+##
+query 21: What are the causes of rib cage pain? And and the remedy
+summarized question 21: What are the causes and treatments for rib cage pain?
+##
+query 22: "SUBJECT: bathing MESSAGE: Can I go in tub , pool or shower while wearing the lidocaine patch?  If not, can I take off the patch (2or 3), and put a new one on in a different area for the remainder of the 12 hr. ""on"" period"
+summarized question 22: Can the lidocaine patch get wet or be replaced after getting wet?
+##
+query 23: SUBJECT: FRIED FOODS AND HEART FAILURE. -  DOES THIS APPLY TO ALL OILS USED FOR FRYING? MESSAGE: THE RESEARCH CAUTIONS AGAINST CONCUMPTION OF FRIED FOODS.  DOES THIS CAUTION APPLIES TO ALL TYPES OF OIL USED FOR FRYING?  HOW ABOUT COCONUT OIL AND GINGELY OIL? THESE TWO OILS ARE LARGELY CONSUMED IN THE SOUTHERN STATES OF INDIA, AND SINCE I HAIL FROM [LOCATION], THIS QUESTION.
+summarized question 23: Do foods fried in coconut oil or sesame oil contribute to heart disease?
+##
+query 24: SUBJECT: CHUNT IN THE BACK MESSAGE: Can the chunt be done from the vertebra instead of the cranium. My child needed a chunt due to the high fluid pressure in the brain. I need advice which method will be the best.
+summarized question 24: What is the procedure for inserting a shunt to relieve high fluid pressure in the brain?
+##
+query 25: Crainosynstosis. My 2.5 year old daughter has this condition with the metoptic, Sagittal and bi-coronals sutures prematurely fusing. Do you know if any syndrome deals with those three fusing together?  She also has flabby eyelids, a flatter/wider nose, a blueish tint around her nose and the metoptic suture, fat big toes, deep lines on her hands, shorter chubbier hands, somewhat sucken eyes, a butt dimple (ruled out tethered spine) and rule out a displaced anus. I am in between genetics doctors.Thanks, [NAME]
+summarized question 25: What syndromes are associated with Craniosynostosis?
+##
+query 26: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 26: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 27: Have been on methadone for four years.  I am interested in the rapid withdrawl under anesthesia, but do not have a clue where I can find a doctor or hospital who does this.  I also would like to know the approximate cost and if or what insurance companies pay for this.
+summarized question 27: How can I find physician(s) or hospital(s) who specialize in rapid methadone withdrawal under anesthesia, and the cost and insurance benefits for the procedure?
+##
+query 28: SUBJECT: Blood in cough MESSAGE: before some time i vomit. and blood came in cough with vomit.  what to do . it happens 4-5 times.  when i ask to doc reply that its throat infection.  please advice home remedy for this.
+summarized question 28: What are the treatments for coughing up blood?
+##
+query 29: SUBJECT: pulmonary tuberchlosis MESSAGE: respected sir/madam, i takeing treatment of pulmonary tuberchlosis past two years now it is in 2nd stage. there is no change in my x-ray report they show constant figure. my sputum report is negative hiv test also negative in ultra sound show some fluid (water) but it shows constant. what shall i do for clear the remaining fluids.
+summarized question 29: What are the treatments for lung fluid retention after two years of anti-tuberculosis treatment?
+##
+query 30: heritary angioedema. Injecting white bloods cells into a person with this issue...??? Help...?
+summarized question 30: What are the treatments for hereditary angioedema?
+##
+query 31: SUBJECT: Chronic Dry mouth. MESSAGE: How can I relieve dry mouth.
+summarized question 31: What are the treatments for dry mouth?
+##
+query 32: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 32: What are the causes of abdominal pain and swelling?
+##
+query 33: SUBJECT: Recovery from Erb's Palsy. MESSAGE: For a baby with an Erb's Palsy, What is the recommended age at which the infant can be a subject to nerve conduction test? What is it for surgical treatment? Is their an alternative methodolgy for nerve test other than electrical pulses? Where is this provided in the U.S?
+summarized question 33:

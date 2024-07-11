@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: is there any help available,for fibromalgia MESSAGE: is there any treatment s available.?
+summarized question 1: What are the treatments for Fibromyalgia?
+##
+query 2: SUBJECT: Frontometaphyseal dysplasia MESSAGE: My son has Frontometaphyseal Dysplasia ehich is listed on your site. Do you have any information realgarding how to contact anyone else with this syndrome? Kind regarfs
+summarized question 2: Where can I find support groups for people with Frontometaphyseal dysplasia?
+##
+query 3: SUBJECT: Bipolar and Generalized Anxiety Disorder MESSAGE: I read about TMS Therapy.  Do you know anything about it?  Has it had success?  Also wondering about ECT?  Finally, I've been told acupuncture can help for mood disorders.  Is that true for mixed bipolar and generalized anxiety disorder along with meds?  Have you ever heard of this?
+summarized question 3: What are the treatments for bipolar disorder with generalized anxiety disorder?
+##
+query 4: Hey I was just wanting to know how I can try to receive stem cell treatment for spinal cord injury using the stem cells I have banked from my newborn baby's umbilical cord tissue? If u have any information please tell me, you'll be helping to save my life!
+summarized question 4: How to receive stem cell treatment for spinal cord injury?
+##
+query 5: SUBJECT: Teen pregnancy MESSAGE: Good morning,   I am a student from Carver Military Academy on the far south side of Chicago. My fellow classmates and I are conducting a research project on social issues and problems we are affected by everyday mine is Teen Pregnancy. Since I am a teenager I know how having a child can really affect our young lives. They can stop our achievements in school, goals for the future,all our fun would stop,and our dreams. I would like to ask someone from your organization a few questions because it seems as though your organization could provide me with valuable information about teen pregnancy,statistics,facts, and your opinion about it. Your time and assistance would be greatly appreciated and I hope to hear from you soon.   Thank you,  [NAME]
+summarized question 5: Where can I find information on teen pregnancy?
+##
+query 6: ClinicalTrials.gov - Question - specific study.  I was told by my family doctor, that I have total alopecia, I feel it was related to a hair color that I used in 2012, but seems there are no studies about chemical exposure from the coloring to prove my point of total hair loss, not sure about any study being done in this regard, mine was not a painless hair loss, I had burns to my scalp. thanks for any information, or help. Sincerely, [NAME]
+summarized question 6: Could chemical burns cause total alopecia and what are the treatments for it?
+##
+query 7: MESSAGE: I need the information for posterior fossa  One of my friends struggling with this disease  ..
+summarized question 7: Where can I find information on posterior fossa disease?
+##
+query 8: SUBJECT: after surgery of ear drum still same problem MESSAGE: i got surgery for hole in my ear drum(hole was in my ear from 5 0r 6 ears but i did not know it but when i came to know i got surgery) but after  two year surgery still i have same problem. problem in listening and continuous noise like buzzing or ringing in my right ear.so sir what should i do right now? plz sir help me. buzzing in my both has been started from last 3 year.plz help me....
+summarized question 8: What are the treatments for perforated eardrum?
+##
+query 9: SUBJECT: other uses for Phentermine MESSAGE: Hello, My name is [NAME]. I do not usually send comments or questions online. I am only doing this because I am trying to find an answer to a baffling situation I am experiencing. I started taking Phentermine about 3 years ago for weight loss. I lost weight successfully, but also found that the Phentermine substantially relieved my arthritis pain. Now my doctor has taken me off of the Phentermine. He will not prescribe it for pain relief as he does not believe there is any correlation between the Phentermine and relief of my arthritis pain. I have taken many pain relief medications over the years as my arthritis is acute. The Phentermine works the best. Is there any correlation between Phentermine and pain relief?  Sincerely, [NAME]
+summarized question 9: Can Phentermine be used for pain relief?
+##
+query 10: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 10: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 11: SUBJECT: Low Red Blood Cell Count MESSAGE: If a patient's Red Blood Cell Count becomes low because of a 3-month medicine regimen, will the RBC normally increase back to normal when the intake of prescribed drug ceases? Thank you. [NAME]
+summarized question 11: Will a low red blood count return to normal after the responsible medication is stopped?
+##
+query 12: SUBJECT: Sensorineural hearing loss (SNHL) MESSAGE: Hi, my father has lost his hearing in one ear, and ever since he has been suffering with constant buzzing in his ear. Is there treatments that can be recommended to solve this? Kind Regards [NAME]
+summarized question 12: What are treatments for ringing in the ears?
+##
+query 13: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 13: Does neurofibromatosis affect congestive heart failure?
+##
+query 14: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 14: Can epilepsy be cured?
+##
+query 15: MESSAGE: I just read an article submitted by you that stated your research shows that you've identified the mechanism that causes burning mouth syndrome. Also because of these findings you can find a treatment. I've had this for 15 yrs and am just holding on. When will a good treatment be available??  I belong to a group of over 500 bmsers. We're suffering terribly and were from all over the world. What would the treatment be?
+summarized question 15: What are the treatments for burning mouth syndrome?
+##
+query 16: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 16: How long does amoxicillin retain its potency?
+##
+query 17: SUBJECT: enlarge prostate MESSAGE: Hi, I have some questions about enlarge prostate. My bf has that and he tried different pills and now his been on just 1 type of pill which are SANDOZ-ALFUZOSIN...hes been on them for over 2 years i think...but his sex drive has decrease...and so i was wondering if he has surgery will his sex drive increase again or it would there be still a chance of that side effect? He has talked to his dr. but that doesnt seem to help much. So i was wondering if you have any suggestions because i would like for this situation to change if thats at all possible.  Please let me know what your opinion are. thank-you
+summarized question 17: What are the treatments for enlarged prostate, and how do they affect sex drive?
+##
+query 18: "SUBJECT: Questions on albinism MESSAGE: Hello my name is [NAME] and I'm hoping you can help me. When i was born my doctor diagnosed me with albinism. I have color in my hair (brown) and in my eyes (hazel) they do not shake. My skin is fair but my markings are visible. It is not one solid fair white on all of me. I apparently have 3 different levels. most of my body is covered by level 1 pigmentation (the fairest) i have level 2 on some as well and a small patch of my arm of level (3) it basically looks like a huge birthmark that goes from my right side of the body to the left.  When I was born the doctors still didn't know much about Albinism and I""m hoping to learn more myself. For instance what type this would fall under... I hope you can help. Sincerely, [NAME]"
+summarized question 18: Where can I find information on albinism?
+##
+query 19: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 19: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dear Clinical Trials, I am searching for treatment for a disease called Baker, which  is related to Neurology Department. I did not get any  treatment before for this disease. I need to get treatment by Medical Researches if possible . Note: I will be in New York at May 11.
+summarized question 20: What are the treatments for baker disease?
+##
+query 21: SUBJECT: Bruxism MESSAGE: I understand that bruxism may be a result of tension or anxiety, but why that particular release? Why don't people clench their fists during sleep, or kick, or any number of activities? In other words, why is the jaw the most common location?
+summarized question 21: What are the causes of bruxism?
+##
+query 22: SUBJECT: Gelatin MESSAGE: My daughter has a dairy allergy and I wanted to know about the gelatin used in your adderall xr capsules. Does it contain dairy proteins?  Thank you
+summarized question 22: What are the ingredients of adderall xr capsules, and is it dairy free?
+##
+query 23: i wanted info on anhedonia... your web site is -well, i have never seen a better done website in 20 years!!! -in one word: your Organization reeks *Quality*. [NAME], 73, [LOCATION]
+summarized question 23: Where can I find information on anhedonia?
+##
+query 24: SUBJECT: Research Report Assistance for Sudden Cardiac Arrest in Adolescence MESSAGE: Hello,               My name is [NAME] and I am a high school freshman at the [LOCATION] in [LOCATION]. I am doing a research report on Sudden Cardiac Arrest in Adolescence and I am contacting you to see if you could send me any articles, newsletters, brochures, research, pamphelts, or any other item(s) that you think might help me with my paper (especially any research that has been done or absolutely any information that you have on my topic). I am very interested in finding out more about this and the progress that has been made. I am mainly interested in researching about causes, symptoms, warning signs, treatment (if any), detection of it, and if it is purely genetic. I was also hoping you could help me better understand Sudden Cardiac Arrest in Adolescence. Let me thank you in advance for anything you send me via e-mail or mail. (In addition, if you have absolutely anything you can send me in the mail, please just tell me and I will gladly provide you with my address.) I hope that one day we can find eliminate Sudden Cardiac Arrest in Adolescence.  Thank you for your time and help, [NAME]
+summarized question 24: Where can I find information on sudden cardiac arrest in adolescents?
+##
+query 25: SUBJECT: thalamic lacunar strokes MESSAGE: I am interested in anything you have on this condition. I have this stroke and am aiming for knowledge. If at all possible, my thalamic lacunar stroke is yours to study.
+summarized question 25: Where can I find information on thalamic lacunar strokes?
+##
+query 26: SUBJECT: kalydeco MESSAGE: hello I have cystic fibrosis, and I want to buy a kalydeco, for buy it my government gave me money, my doctor agree that I am ready to take kalydeco, if you can tell me prices for 3 month kalydeco. best regards [NAME] [LOCATION]
+summarized question 26: What is the cost for three months of kalydeco?
+##
+query 27: SUBJECT: lupus an info on the diseise MESSAGE: Need all up date on lupus an send by mail informations on this subject..please i need more information to see if what i am exprienceing is in fact related to lupus ...thank you.
+summarized question 27: Where can I find the latest information on lupus?
+##
+query 28: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 28: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 29: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 29: What are the treatments for brain tumors and spinal tumors?
+##
+query 30: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dental/sjogrens. Because of Sjogrens, my teeth have decayed Severely in the past 2 years.I have a few teeth that have not decayed. It is devastating!  What should I do...implants or dentures? What about funds?  Help.    [NAME]
+summarized question 30: What teeth replacements are better for sjogren's: implants or dentures?
+##
+query 31: SUBJECT: What is the difference? MESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?
+summarized question 31: What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?
+##
+query 32: williams sydrome conditon.  i need to send me more information about Williams Syndrome and some tips how to educate people with this disorder.I hope having news from you soon!!thank you
+summarized question 32: Where can I find information and educational materials on williams syndrome?
+##
+query 33: SUBJECT: ClinicalTrials.gov - Question - general information. MESSAGE: I have a question about Lofexidine. do you have to be on suboxone and orbuprenorphine to use it and is it approved in the [LOCATION] yet?
+summarized question 33:

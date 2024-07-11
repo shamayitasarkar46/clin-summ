@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: If a 60 yo male patient has a level of cobalt or chromium  over the highest acceptable level, can that possibly create blood in urine? thank you
+summarized question 1: What are the causes of blood in the urine?
+##
+query 2: SUBJECT: Peruvian girl MESSAGE: Dear Sir/Madam, I am writing you on behalf of [NAME], who is very stress and with a lot of tension,looking for HELP for her daughter [NAME].  [NAME] has a complex hearth defect called Tetralogy of Fallot, she is about 7 months old and her family dont have resources to cover her treatment in order to get her welfare.  [NAME] has a very low income, lives in a rented room with her husband and her two children, in [LOCATION] - Peru. She works at [LOCATION] and she has been taking her daughter to children hospital in [LOCATION] but she cant afford the medicines and treatment that they ask for, she is looking desperately for help for her daughter.  I was wondering if you guys have any contact here in [LOCATION] of any organization, who can help [NAME]. I have been looking but cant find or never not came back to me when I asked them.  If you please know about any organization who can help us here in [LOCATION] Peru, I will really appreciate and we can make help to give [NAME] a better life :-)  I am a Health and Social care worker and work at the hospital too with the employees. Thank you very much for your time  [NAME]  [CONTACT]
+summarized question 2: Which organizations provide support for Tetralogy of Fallot in Peru?
+##
+query 3: SUBJECT: saggy large breast MESSAGE: i have very huge breast i am only 25 and they cause me alot of pain on the neck chest and back. what can i do
+summarized question 3: What are the treatments for large breasts?
+##
+query 4: SUBJECT: cirrhosis of the liver question MESSAGE: I have cirrhosis of the liver.  Do high ammonia levels effect breathing?  I have spells of not being able to breath very well. No pain.
+summarized question 4: Can high ammonia levels in the blood affect breathing?
+##
+query 5: MESSAGE: Dear sir, I feel weak on my body aspecially in the morning. so I want to know the solution to my problem. because this is long time ago. in the body joints knees and arm. thanks.
+summarized question 5: What are the treatments for body weakness?
+##
+query 6: SUBJECT: Lyme Disease MESSAGE: 12 years ago I was bitten by tick while deer hunting. The bite area contained the ring as described in Lyme Disease symptoms.  I was treated with antibiotics;  however, ever since that time I have many of the symptoms cited for Lyme.  Also, usually prior to, and during these symptoms I have a reddish-pink welt appear at the site of the bite on my groin.  Can you offer any enlightment on my condition?
+summarized question 6: What is the prognosis for post-treatment Lyme Disease symptoms?
+##
+query 7: MESSAGE: Can u give me more information about physiotherapy for  patient with acute stroke treated wiht trombolysis..?
+summarized question 7: Where can I find information on physical therapy after acute stroke?
+##
+query 8: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 8: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Hi  i am  having a littel eye trouble  like  a glare  or blurr vision and  i am a typed 2 diabitic  since 2010 this promble been going own now four - six monthes now and i have low pressure in my right  eye and cloudy and blurr a  lil. I need  to know what my  problem is and can it  fix  and without going  blinding ..Reply back. .To  [CONTACT]  voice mail  or email text are accepted or [CONTACT]
+summarized question 9: Can type 2 diabetes cause blurry vision, and what are the treatments for it?
+##
+query 10: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 10: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 11: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 4 months baby has ocular albinism. Can you please help me or suggest any medicine to cure him.
+summarized question 11: What are the treatments for ocular albinism?
+##
+query 12: genetic beriberi. Is it true that wet and dry beriberi usually occur in the same patient?
+summarized question 12: Can wet beriberi and dry beriberi occur in the same person?
+##
+query 13: Re: 16p-13.11 duplication of genes. Dear all, I am a health professional and have recently assessed a 9 year old boy on my caseload whose mother reported that he has been diagnosed with 16p-13.11 duplication of genes.  I have never come across it and when I looked on the internet I could not find anything coherent.  I have been in contact with the paediatrician who used to be in charge of that child but she is unfortunately on long term sick.  Would you be able to give me some information on this condition with key features please? Are there behavioural, coordination, sensory difficulties, etc...that can be associated with it?
+summarized question 13: Where can I find information on 16p-13.11 duplication, including symptoms?
+##
+query 14: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 14: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 15: Kidney transplant.  My father is having trouble with the kidney he received from a donor.  When he first had the transplant, things were ok. Now on the kidney is giving him trouble.  Some tests came back stating that the kidnewy was damaged and the transplant still took place. What steps can we do with getting the hospital to take charge with fixing this issue? His transplant procedure was at [LOCATION] in [LOCATION].
+summarized question 15: What is the prognosis and potential complications of a kidney transplant?
+##
+query 16: congenital diaphragmatic hernia. what are the causes of congenital diaphragmatic hernia? Can cousin marriage cause this? What kind of lung disease the baby might experience life long?
+summarized question 16: What causes congenital diaphragmatic hernia and what lung complications could arise?
+##
+query 17: SUBJECT: Walgreens Low Dose Aspirin MESSAGE: I noticed there is no listing for Walgreens Low Dose Aspirin. I am allergic to Providone and just started taking their low dose aspirin. I started having trouble breathing again and am trying to find their Binding ingredient to see if it is Povidone. Can you help?
+summarized question 17: Does Walgreens low dose aspirin contain povidone?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 18: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 19: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 19: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 20: "SUBJECT: Renal Amyloidosis - best treatment for my coustin MESSAGE: This is [NAME] living in [LOCATION] . My Cousin [NAME] biopsy report suggested that he is suffering from ""Renal Amyloidosis"". He has earlier history of some hereditary diseases. PFA the reports. Please go through these reports and let me know possible best treatment for his treatment."
+summarized question 20: What are the treatments for renal amyloidosis?
+##
+query 21: SUBJECT: gabapentin MESSAGE: How long is Gabapentin good at room temperature? Thank you, [NAME]
+summarized question 21: For how long can Gabapentin be stored at room temperature?
+##
+query 22: asthsma.  I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?
+summarized question 22: What are the symptoms of asthma?
+##
+query 23: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 23: How long will an insecticide application last in the house?
+##
+query 24: SUBJECT: Vasectomy MESSAGE: On the text that says it is very rare that the vas deferens can grow back and my partner pregnant ... So is it possible? ... Is that my partner got pregnant, I have vasectomy 16 years .. [CONTACT]     thanks
+summarized question 24: What is the late failure rate of vasectomy?
+##
+query 25: Hi, I'm looking to purchase Epidermal Growth Factor to use topically in skin care creams.  Do you sell it and if so how can I learn about this?  If you don't can you give any suggestions of who might?  Any information you can provide would be greatly appreciated.  THNAK YOU!  [NAME]
+summarized question 25: Where can I buy  Epidermal Growth Factor cream?
+##
+query 26: SUBJECT: Bendectin MESSAGE: In 1964, I began taking Bendectin for morning sickness and with each subsequent pregnancy I continued to do so. My third child developed a meningioma of the brain at 11 years old and currently, my daughter, 47 years old, has been diagnosed with a lesion(?) of the brain. I am justifiably concerned about my daughter's condition and wonder if I contributed to her status. I am only interested in helping her and not for any litigious reason. If someone also had a similar situation and was treated positively, I would so appreciate knowing about it. Thank you and God bless.
+summarized question 26: What birth defects are associated with taking bendectin during pregnancy and are there any treatments?
+##
+query 27: SEARCHING FOR ARTICLES. HOW CAN I SERACH FOR THE  ASSOCIATION BETWEEN GENE MUTATION AND CONGESTIVE HEART FAILURE.
+summarized question 27: Where can I find informaton on gene mutations and congestive heart failure?
+##
+query 28: SUBJECT: contents of barium sulfate solution MESSAGE: I have your Readi-Cat 2 barium sulfate solution.  21% w/v, 2.0% w/w.  I need to know of this contains any gluten or dairy.  Also, do you know if it contains any salicylates or anything similar to aspirin?
+summarized question 28: What are the ingredients of Readi-Cat 2 barium sulfate solution, and is it gluten and dairy free?
+##
+query 29: SUBJECT: Jaundice MESSAGE: Can older infants get jaundice? What is the age range?
+summarized question 29: Can older infants get jaundice?
+##
+query 30: types or kinds of sickle cell. Pls i want to know the possibility of two people who are AS getting a baby who will be AS! AA! OR  SS!. And what are the types of sickle cell. E.g. AS
+summarized question 30: What are the types of sickle cell anemia and how is it inherited?
+##
+query 31: MESSAGE: should Advair and Spiriva be used together?  It is my understanding that they are both control meds
+summarized question 31: Can Advair and Spiriva be taken together?
+##
+query 32: SUBJECT: my 28 year old daughter has been sick for 5 years. and it is very hard for her.. MESSAGE: I need to find support for my daughter, she been sick for  5 years.. and has lost several jobs. and had several sugeries.. she has diegestive issues.. and cannot eat without getting sick.
+summarized question 32: Where can I find support groups for people with digestive disorders?
+##
+query 33: SUBJECT: Loss of sense of taste. MESSAGE: I have not been able to taste most foods for over a year ( I am 54 and in good health for the most part, I do not have a loos of sense of taste and do not have gum disease.) either due to using a vaperizor where the fluid leaked and got on my throat or where my smoking did.  I am also Hypothyroid classified with Hashimots's.  I am at my breaking point and need something medically to fix this.  Is there such a medicine?  No one will help me it seems. Thanks, [NAME]
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 1: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 2: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 2: What are the symptoms of chlamydia?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Good day. I'm living with lupus. I just want to ask if I can take glutathione supplement? I already completed my chemotherapy last month (march) and free off steroid after two weeks. Thanks
+summarized question 3: I have lupus; can I take a glutathione supplement?
+##
+query 4: Does high Thyroid level (31.13) interfere with recovery I just had double knee replacement on 01/15/2014. I take Levothyroxin 137mg dailey for my thyroid condition.  I take no other meds on a regular basis except for the normal pain meds prescribed during my recovery. During my recovery, I never felt comfortable and free of pain. I finally asked for a blood test and discovered my TSH level at 31.13.  My question is, will a high TSH level interfere with healing and recovery of muscle tissue and bones?  I am now taking a higher dose of Levthyroxin, can I expect a longer than normal recovery period due to a high TSH level?  Thank You, [NAME]
+summarized question 4: Can high TSH levels or Levothyroxine impact muscle tissue recovery?
+##
+query 5: asthsma.  I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?
+summarized question 5: What are the symptoms of asthma?
+##
+query 6: Post chemo for breast ca.( methotrexate and cytoxin) I gained weight. I had always been a string bean until then. After reading about christensenella I began to wonder what might kill our little friendly gut bacteria. Antibiotics and chemo are so common in our culture. I wondered could this be  causative in the obesity that exists in the USA ?
+summarized question 6: Does antibiotic use and chemotherapy cause weight gain?
+##
+query 7: Wolff Parkinson White- slow heart rate. Your article is very illuminating but does not refer to the rarer slow rate WPW which my husband has. Where can I find this information?
+summarized question 7: Where can i find information on Wolff Parkinson White syndrome with bradycardia?
+##
+query 8: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 8: Can I take Metformin pills given to me by someone else?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 9: How is hypomaturation type IIA2 inherited?
+##
+query 10: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 10: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 11: bile.  because reason vomit bile?
+summarized question 11: What causes vomiting bile?
+##
+query 12: SUBJECT: asthma MESSAGE: Question. What is the consensus of medical doctors as to whether asthma can be cured? And do you have an article discussing whether asthma can be cured?
+summarized question 12: What are the treatments for asthma and can it be cured?
+##
+query 13: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 13: Who should get the MMR vaccine?
+##
+query 14: SUBJECT: Parkinson's Disease MESSAGE: Has etanercept been used to assist sufferers of Parkinson's Disease?  If so, how successful was this? Thank you
+summarized question 14: Is etanercept a treatment for Parkinson's disease, and how did it perform?
+##
+query 15: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 15: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 16: "SUBJECT: Decreasing Wellbutrin HCL XL MESSAGE: Hello, I'm not sure if this is something you can help me with, but I thought that I would ask, as your organization is affiliated with trusted mental health and general health organizations.  I was recently taken off of Wellbutrin HCL XL completely without any tapering. I'm having a difficult time finding out online if this is safe (to ""go cold turkey"") or if I should have been given the medication in slowly-decreasing doses. Can you please offer some guidance?  Thank you. [NAME]"
+summarized question 16: How do I stop taking wellbutrin HCL XL?
+##
+query 17: SUBJECT: Geriatric Psychiatrists - recommendations MESSAGE: I'm looking for a geriatric psychiatrist in the sun city west, AZ area to do an evaluation for a loved one (male) who may be suffering from depression.  I'm looking for a psychiatrist that has experience working with older veterens who has a no nonsense, scientific approach.
+summarized question 17: How can I find geriatric psychiatrists in Sun City West Arizona?
+##
+query 18: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 18: What is the half life of Chlordiazepoxide?
+##
+query 19: Customer Service Request. Doing a genealogy search, I have been contacted by a person from the same ancestral line as myself, we are decendants of the [NAME] ancestral line and she told me that anderson tawil syndrome runs through our [NAME] line, What does it look like? I understand that it changes the face features. This 82 year old great grandma would like to know more about this.   Many thanks,
+summarized question 19: Where can I find information on andersen tawil syndrome?
+##
+query 20: "SUBJECT: cosmetic leg shortening surgery MESSAGE: Hi,  I am a tall girl(5'8""), who wants to undergo leg shortening sugery of 2 inches for cosmetic purpose. It would be good if I can get more information about it. I would like to know the cost of this surgery, the recovery time and the risks associated with it. How long should I stay in the hospital?  Thanks and regards"
+summarized question 20: Where can I find information on leg shortening surgery, including risks, cost, and recovery time?
+##
+query 21: Dear Sir/Madam I'm [NAME] from [LOCATION], I'm 35 years old , I'd like to ask you a Medical Question as I've got an optic nerve atrophy in my eye and i lost my vision since i was 8 years old , Now I've got one eye just , So please is there treatment for optic nerve atrophy ! Please see the attachment which is a Medical report from [LOCATION], Best Wishes [NAME]
+summarized question 21: What are the treatments for optic nerve atrophy?
+##
+query 22: stomach pain.  My son of 13y is facing upper abdominal pain siverly in the mornig time and slightly after eating lunch and in the night time after dinner.kindly i went five doctors and ultra scan also but problem not resolved.pls advaice me what to do.
+summarized question 22: Where can I find information on upper abdominal pain, including diagnosis and treatment?
+##
+query 23: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 23: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 24: SUBJECT: My humerus bone MESSAGE: Hello. My name is [NAME], I am 33 yearsold, from Romania in Europe and I have a 6 inches difference between my left humerus bone and my right one. It all started when I was around 4 yearsold and I had a bone illness called: bone cyst. First it affect my right femur and then my left shoulder. The bones were very fragile in the mentioned areas and I had fractured them many times very easily. I had 3 surgery at my shoulder and I heal up after a bone transplant from my hip and after some hidrocortisone injections. All good but as I said my left humerus bone is a lot shorter. The doctors said that my growth plate was affected that's way it is this difference between hands. It bother me a lot, especally when I m in sports (bodybuillding, basketball), I and I would like to know if there is something that can be done for me to make things right. Any suggestions is welcome but just don t tell me to give up.     Hopping in a soon answer I thank you.
+summarized question 24: What are treatments for differences in arm length,  and how can I find physician(s) or hospital(s) who specialize in it in Romania?
+##
+query 25: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 25: How long does amoxicillin retain its potency?
+##
+query 26: Kartagener's syndrome. I am suffering from Kartagener's syndrome and wanted information from you or from Dr. [NAME]. for this syndrome. (About fertility) and if possible other symptoms. Thank you.
+summarized question 26: Where can I find information on kartagener's syndrome and its symptoms, including  fertility?
+##
+query 27: Melanoma.  The doctor wants my father to take interferon Alfa-2b They did the surgery it was on his feet  know they want him to take the biological therapy he is very scared I just want some more info please can u get me info ASAP thank u
+summarized question 27: Where can I find information about interferon alfa-2B therapy for melanoma?
+##
+query 28: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 28: What is the effect of dexamethasone on cortisol levels?
+##
+query 29: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 29: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 30: SUBJECT: Anxiety MESSAGE: How does one deal with anxiety and the looming feeling that I am about to have a heart attack?  I am taking clonazepam which helps but I would rather go back to the person I used to be without this condition.  How can I re-train my brain into not thinking a heart attach is about to hit me?
+summarized question 30: What are the non-drug treatments for anxiety?
+##
+query 31: SUBJECT: Ingredients !! MESSAGE: Hi, Please help me to find ingredients for fluoxetine hcl liquid. I want to know is there any gelatin or animal product in there or not? Please send me any information or web link where i can find information. Thank you
+summarized question 31: What are the ingredients of liquid fluoxetine HCL?
+##
+query 32: SUBJECT: how to breathe MESSAGE: Dear Sirs,  This may seem like a stupid question but here goes anyway.  I am 64 yrs old and a type II diabetic.  I walk frequently to stay fairly fit but always seem to get out of breath when going up even gentle hills. Today however I noticed that I could change how I breath. Thus, I could force air out using my diaphram (ie like blowing out a candle)then relax and just let the air flow back in or I could use my diaphram to suck in air (like breathing in the morning air)and again relax my diaphram to push it out. I also found that I could breath faster under conscious control which seemd to help my performance. I dont know if any of this makes sense to you but I would like to know what you think and whether there are any do's and dont's and if there is a 'better' way to breath.  Thanks very much for your help with this,  Regards,  [NAME]
+summarized question 32: What are techniques for  proper breathing?
+##
+query 33: SUBJECT: INTESTINAL OBSTRUCTION WITHOUT SURGERY. MESSAGE: From Our Family, 35 years old female patient has been diagnosed adenocarcinoma with multiple metastases all over abdomen along with pancreatic tail bulky. Ovary and Uteruses has been removed. Patient has received TWO Cycles of Chemotherapy presently at 3rd Stage and is admitted with intestinal obstruction pancreas. Please Suggest for Intestinal Obstruction without Surgery. Please Reply Urgently.
+summarized question 33:

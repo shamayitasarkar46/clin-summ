@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: laser hair removal treatment.  I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!
+summarized question 1: Where can I find information on laser hair removal including long term consequences?
+##
+query 2: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 2: What are the causes of testicular pain?
+##
+query 3: SUBJECT: MLC MESSAGE: My son is patient of MLC, can we plan to another baby. What is the % of 2nd baby would be MLC or NOT.
+summarized question 3: How is Megalencephalic leukoencephalopathy with subcortical cysts (MLC) inherited?
+##
+query 4: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 4: What is the prognosis and course of recovery after stroke?
+##
+query 5: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 5: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 6: SUBJECT: Congestive Heart Failure MESSAGE: Why is my daily fluid intake limited to 2 liters?  What is so special about 2 liters as opposed to any other amount?
+summarized question 6: What is the recommended daily fluid restriction for Congestive Heart Failure?
+##
+query 7: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 7: What are the treatments for scoliosis pain?
+##
+query 8: SUBJECT: meadicine for itiching MESSAGE: my face is itiching too much. and iam using deetol soap ....... but not feeling well is there any medicine
+summarized question 8: What are the treatments for itchy skin?
+##
+query 9: I have painful sores around my genitals..what could  be..i realy need an answer urgently or to talk to one of your consultants
+summarized question 9: What causes genital sores?
+##
+query 10: Ostiogenesis Imperfecta. Is it possible to take out whatever causes this disease out of a persons gene to stop this in my family.
+summarized question 10: How is Osteogenesis imperfecta inherited and is it possible to stop it?
+##
+query 11: SUBJECT: Geriatric Psychiatrists - recommendations MESSAGE: I'm looking for a geriatric psychiatrist in the sun city west, AZ area to do an evaluation for a loved one (male) who may be suffering from depression.  I'm looking for a psychiatrist that has experience working with older veterens who has a no nonsense, scientific approach.
+summarized question 11: How can I find geriatric psychiatrists in Sun City West Arizona?
+##
+query 12: SUBJECT: Shingles MESSAGE: I have had /Shingles for over 10 years, and have been working with my physician, using Lidocain and Lyrica. Even with these, it's painful, particularly in my house, and some rooms in the building where I work. I experience this during, and immediately after these rooms are been cleaned with detergents. Is this my imagination, or there is a connection between certain detergents and pain, with Shingles?
+summarized question 12: Do detergents exacerbate shingles pain?
+##
+query 13: SUBJECT: Treatment for Nodular Goiter MESSAGE: Hi,  I'm suffering from nodular goiter. The size of enlarged thyroid gland is visible, but not like a big one. I need treatment for this. Some Doctors have suggested surgery which I don't want to go through. What are the other treatment options. Also let me know the place where I can visit to consult.  Thanks, [NAME]
+summarized question 13: What are the non-surgical treatments for nodular goiter and where can I find a specialist to treat it?
+##
+query 14: SUBJECT: ingredient in apremilast. MESSAGE: I looked everywhere on web pages & google too. All just say what it comes from. I think there something in the apremilast ingredient that might effect my cielca disease. Can you  help me what's in apremilast?   Thank you,  Jerome
+summarized question 14: What are the ingredients in  apremilast?
+##
+query 15: SUBJECT: NEUROFIBROMATOSIS MESSAGE: Hi:  I have neurofibromatosis handed down by my Mother, (from what we understand was from spontaneous mutation).  I was diagnosed with an Optic Giloma about 25 years ago.  I have also been getting MRI’s to keep an “eye” on it (excuse the pun please), along with visual fields.  The last MRI, according to the radiologist, said it was not there and my Neurologist told me that they do disappear.  My question is, do Optic Giloma go away?  Thanks
+summarized question 15: Can an optic glioma in an adult spontaneously disappear?
+##
+query 16: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 16: What are the treatments for anosmia?
+##
+query 17: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 17: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 18: SUBJECT: help me MESSAGE: 24-year-old male. Wilson's illness severe stem cell therapy can be done? Please help us. Stem cell therapy is fit? We finance. Mongolia to treat this disease physicians, hospitals, nursing there.
+summarized question 18: Is stem cell therapy a treatment for Wilson's disease, and how can I find physician(s) or hospital(s) in Mongolia who specialize in it?
+##
+query 19: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 19: What are treatments for excessive sweating?
+##
+query 20: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 20: Are there any medicines for dry mouth?
+##
+query 21: SUBJECT: Is finasteride a medication for life? MESSAGE: Hi, I have been taking this medication for the last 7 years.I asked my family doctor,since I have difficulty in my sexual desire or intercourse,if I can stop taking it.She said that is for life. My psa in normal 0,71.What you suggest? Thank you for your replay.
+summarized question 21: Are there alternative treatments to finasteride for enlarged prostate?
+##
+query 22: who makes bromocriptine i am wondering what company makes the drug bromocriptine, i need it for a mass i have on my pituitary gland and the cost just keeps raising. i cannot ever buy a full prescription because of the price and i was told if i get a hold of the maker of the drug sometimes they offer coupons or something to help me afford the medicine. if i buy 10 pills in which i have to take 2 times a day it costs me 78.00. and that is how i have to buy them.  thanks.
+summarized question 22: Who manufactures bromocriptine?
+##
+query 23: SUBJECT: pregabalin MESSAGE: I have peripheral neuropathy but not diabetes.  I have had numerous tests to try and determine the cause of the neuropathy without success.   Will pregabalin help with the pain?
+summarized question 23: Is pregabalin effective for treating pain from peripheral neuropathy?
+##
+query 24: hospital stay for a hitiala hernia to be removed?.  I have a hernia that needs to be removed how long would I be in the hospital after it is removed?
+summarized question 24: How long would I be in the hospital after a hiatal hernia removal?
+##
+query 25: "SUBJECT: use of spacer with inhaler/warning sound MESSAGE: I've just read the instructions for using a spacer with my symbicort inhaler.  What if I breathe in according to directions and there is a warning ""whistle"" or ""sound?  What am I doing incorrectly?"
+summarized question 25: How do I use a spacer with the symbicort inhaler?
+##
+query 26: SUBJECT: beginning forgetfulness MESSAGE: Are there any suggestions for help or coping with beginning forgetfulness... age 84, healthy female. Looking for something to read about this problem and how to cope. Have not been diagnosed with any disease of the body or brain.
+summarized question 26: Where can I get information on forgetfulness, and what resources are available for combating it?
+##
+query 27: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 27: What are the causes of and treatment for scrotal rash?
+##
+query 28: SUBJECT: questions about products posted on the internet MESSAGE: I suffered a massive stroke on [DATE] with paralysis on my left side of my body, I'm home and conduct searches on the internet to find help with recovery, and always this product called neuroaid appears claiming to restore function. to my knowledge it isn't approved by the FDA, but it sounds so promising. do you know anything about it and id there anything approved by our FDA, that does help?
+summarized question 28: What are treatments for paralysis after stroke approved by FDA?
+##
+query 29: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 29: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 30: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 30: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 31: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dental/sjogrens. Because of Sjogrens, my teeth have decayed Severely in the past 2 years.I have a few teeth that have not decayed. It is devastating!  What should I do...implants or dentures? What about funds?  Help.    [NAME]
+summarized question 31: What teeth replacements are better for sjogren's: implants or dentures?
+##
+query 32: ClinicalTrials.gov - Question - specific study.  I was told by my family doctor, that I have total alopecia, I feel it was related to a hair color that I used in 2012, but seems there are no studies about chemical exposure from the coloring to prove my point of total hair loss, not sure about any study being done in this regard, mine was not a painless hair loss, I had burns to my scalp. thanks for any information, or help. Sincerely, [NAME]
+summarized question 32: Could chemical burns cause total alopecia and what are the treatments for it?
+##
+query 33: did anyone have this and does it require surgery? my mri says forminal stenosis from bone spurs c4,5,6. my nerve test shows severe nerve compression c7,8. i’m in so much pain, mostly my arm and shoulder and leg. waiting to see the pain specialist to see what’s next. would love to know what you guys think is required..
+summarized question 33:

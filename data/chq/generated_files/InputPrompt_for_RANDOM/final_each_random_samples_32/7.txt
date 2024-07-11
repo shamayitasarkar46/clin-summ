@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 1: Are endometriosis and cysts possible complications of NF1?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Sir. I am [NAME] from  [LOCATION]. My father is 61 years older suffering with Pancreatic cancer and it's in 3/4 Rd stage. All doctors are help less for us as they told my father can't leave more then 4 months. . I want to take your suggestions and help for my father's Pancreatic cancer. I want to save my father's life . If any type of treatment is available then please help me. Please contact me on my below mobile no.  [CONTACT]
+summarized question 2: What are the treatments for stage 3/4 pancreatic cancer?
+##
+query 3: SUBJECT: Glyburide 2.5 MG MESSAGE: I just picked up a prescription for Glyburide 2.5 MG tablets from Teva Pharmaceuticals and my pharmacy could not confirm that these tablets are gluten free. Do these pills contain gluten? Or are they manufactured on shared equipment for other gluten products? Any help in this matter would be greatly appreciated, thank you for your time!
+summarized question 3: What are the ingredients of Glyburide and is it gluten free?
+##
+query 4: Vitamins.  Can I take zinc and zinc citrate at the same time?
+summarized question 4: Can zinc and zinc citrate be taken together?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm woundering what over the counter medications I can take for autoimmune nerve disorder. So please help me out. I'd really appreciate it. Thank you
+summarized question 5: What are the treatments for autoimmune nerve disorder?
+##
+query 6: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 6: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 7: ClinicalTrials.gov - Question - specific study. I WOULD LIKE TO SEE STUDY OF -5P CHROMOSOME SYNDROME, WHAT IS THE ORIGEN, TREATMENT
+summarized question 7: What causes the 5p chromosome syndrome and what are the treatments?
+##
+query 8: ClinicalTrials.gov - Error Found - in a study. Dear all, I am [NAME] from Malaysia. My mother has suffered from MSA and it is be discovered on 2009year. I have a question. From this, it showed that this disease is not to be hereditary. I got a real life example is that my grandpa was suffered with this disease and he had passed away, follow by my uncle that had inheritated this disease. My mother also got the same disease with her father. And this disease is discovered and proven by [LOCATION]. Is that really not hereditary? If my mother suffered from this disease, what is my probability to i will get this disease? I now feel worry about my future. I scared i will got the disease from mother. Could you please reply my message? Looking forward for your precious answer. Thank you. Yours sincerely, [NAME]
+summarized question 8: Is MSA disease hereditary?
+##
+query 9: MESSAGE: should Advair and Spiriva be used together?  It is my understanding that they are both control meds
+summarized question 9: Can Advair and Spiriva be taken together?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 10: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 11: Phobia: fear of taxidermy.  Hello, I was wondering if there was a name for the fear of taxidermy? I often find myself having the symptoms this website describes when in the presence of something I fear deeply.
+summarized question 11: Where can I find information on fear of taxidermy?
+##
+query 12: "SUBJECT: allergic reactions MESSAGE: I have RLS. I had allergic reactions (my neurologist is confused) to Ropinirole and the Neupro patch. I need to know if the pramipexole made by your company has a ""something - sulfite"" as a stablizing ingredient. This is what, seems, oddly, to be causing swelling of my hands, feet, nose, throat, eyelids and tongue. Could I get an email or a drug package insert so I could find out all the inactive ingredients. I am desperate to find relief from this horrifying affliction. I not only has the sensations in my legs but also my arms. Thank you for your time and information. My mailing address: [CONTACT] or perhaps a voicemail message: [CONTACT]"
+summarized question 12: What are the inactive ingredients of pramipexole?
+##
+query 13: SUBJECT: Rheumatoid arthritis MESSAGE: Dear Sir- my wife is suffering from subject since last couples of years, and recently diagnose that she is effected with subject. therefore i need your kind support for treatment and percussion step.  awaiting your kind reply and action. thanks and best Regards
+summarized question 13: What are the treatments for rheumatoid arthritis?
+##
+query 14: Dear sir/madam I am 40 year old man  & have vericoceal on my left side .My wife is 24year old ,we are trying for a baby for the last 4 months with no positive result. doctor suggest me try for baby for at least 1 year. Please suggest me what i have to do for a baby. i will be highly obliged . thank you [NAME] [LOCATION]
+summarized question 14: What are treatments for male fertility issues and varicocele?
+##
+query 15: SUBJECT: blind technology MESSAGE: Hello, I am a student doing a research project on blind technology. I am wondering if you have any contacts of people who have research information on this topic because I want to find out their opinions on certain technologies. Also, I would appreciate it if you could tell me ways to improve/cure blindness. For example, information on ' stem cell surgery', bionic eye', 'gene therapy to cure blindness' etc. Thankyou!
+summarized question 15: How can I find someone doing research on technologies for the blind, and what are the treatments for blindness?
+##
+query 16: SUBJECT: how long is the amoxicillin still potent? MESSAGE: I had dental work done last Jan. and I still have many tablets in the bottle ( for more dental work). Is the medicine still good, after 4 or 5 months?
+summarized question 16: How long does amoxicillin retain its potency?
+##
+query 17: SUBJECT: Body Lice MESSAGE: How do I get rid of these little devils? Me and My mom have tried so many things to get rid of these bugs and they just don't go away were the family that takes 2 showers and now about 3 showers a day we never understood how they could have infected us but I was just wondering is washing our clothes the best bet to get rid of these things, because apparently it hasn't worked for us. So is there any suggestions?
+summarized question 17: What are the treatments for body lice?
+##
+query 18: MESSAGE: My urea is showing 40.IS IT DANGEROUS ? IF IT IS DANGEROUS. NOW WHAT I  HAVE TO DO. MY URIC ACID IS ALSO SHOWING 2.7. IS IT DANGEROUS AND HOW I WILL COVER IT UP. [NAME]
+summarized question 18: What are the normal ranges for urea and uric acid, and what are the treatments for high levels of urea and uric acid?
+##
+query 19: Spinal Cord.  My Brother is 58 years old have spinal cord problem his both legs he cannot move them wheelchair user his legs are very heavy as he had urinaire infection after the other now the test comes positive and the infection still going cannot clear so his Doctor cannot give him any treatment for his main problem (Spinal cord) I want to help him what he should do I want to get advice please baging you for help and advice, many thank you
+summarized question 19: What are the treatments for urinary tract infection?
+##
+query 20: SUBJECT: Heightened Sense of Smell MESSAGE: Is there any information on heightened sensitivity to smells? I have difficulty smelling fragrances and chemicals especially cleaning chemicals. I sometimes have distorted smells or smells that aren't  there. It started over 6 years ago with a weird smell in my nose for days.
+summarized question 20: Where can I find information about heighted or distorted sense of smell?
+##
+query 21: SUBJECT: lupus an info on the diseise MESSAGE: Need all up date on lupus an send by mail informations on this subject..please i need more information to see if what i am exprienceing is in fact related to lupus ...thank you.
+summarized question 21: Where can I find the latest information on lupus?
+##
+query 22: SUBJECT: what to eat MESSAGE: I have very bad diarrhea for last two months. Doctors have not found what causing it. It reserve watery.I need to know what I can eat. And is lactase milk and yougar is ok are not?
+summarized question 22: What foods should I eat when I have diarrhea?
+##
+query 23: SUBJECT: claw hand MESSAGE: I have a claw hand and I would like you to mail me information regarding treatments for it. My address is [LOCATION] Thank you.
+summarized question 23: What are the treatments for claw hand?
+##
+query 24: SUBJECT: grievance counseling MESSAGE: My father passed away [DATE].  Hospice helped our family with his passing and offered us counseling which at that time our family didn't use.   My brother is now interested in counseling services and I'm wondering if I can get some information on this.   Thank you.
+summarized question 24: Where can I get information on grief counseling and support groups?
+##
+query 25: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 25: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 26: SUBJECT: CRPS MESSAGE: In stage 3 can ones bones break/fracture? For example if nerve damage is in lower leg, can the bones in the foot over time fracture/break?
+summarized question 26: Can complex regional pain syndrome cause bone fractures?
+##
+query 27: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 27: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 28: TMAU.  Please find a way to research TMAU And how to cure it with gene therapy. I'm tired kg smelling like fish/feces And getting talked about everyday of my life.
+summarized question 28: What is the latest research on TMAU and treatments for it?
+##
+query 29: I have painful sores around my genitals..what could  be..i realy need an answer urgently or to talk to one of your consultants
+summarized question 29: What causes genital sores?
+##
+query 30: SUBJECT: Severly depressed/Major Anziety MESSAGE: I have been addicted to opiates and have been on suboxone for a few years now. I also take anxiety meds and an anti-seizure medication. Lately my life has been spinning out of control and I'm so scared. I can't seem to find the right doctor and I need someone to speak to NOT JUST GIVE ME MEDICATIONS! I need help and if I do not get help soon I'm afraid for myself. I have no intentions on hurting or harming myself but I'm a mess. I need a doctor who can help me in both ways (talking & medication). I just want to go away, move far away! What would you suggest? What type of doctor should I be looking for? I'm desperate!
+summarized question 30: How can I get non-drug treatment for depression and anxiety?
+##
+query 31: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 31: For how long can Atorvastatin be stored at room temperature?
+##
+query 32: SUBJECT: tongue problem MESSAGE: I can speak every thing I have mistake some word like r,n I can n't speak.this is my problem .every person tell me..please give me suggestion..
+summarized question 32: What are the treatments for speech disorders?
+##
+query 33: I an autoimmune disease and suffer with MCS. Recently I purchased a new combustion heater and went away for the first week while my friend burned it daily to allow the paint to cure. However when I returned, each time I lit it, after 1/2 a hour this pungent toxic burning plastic smell filles the house causing my mouth to burn, a rash on my face, a whooshing sound in my ears. I couldn't make a decision, had an urgency to defecate and then fight and flight panic affected so badly I had to leave my home. I had the manufactures come to my home but the didn't wait long enough for the smell to start, there were more concerned with the function of the unit, no the toxic smell. The did admit that the flu had not been correctly installed and they are going to rectify that however they assured me that the smell I described would not be coming from the fire. So I tried it again and the smell reoccurred, this time I got a friend to come and help. He suggested it might be the new vinyl flooring of gassing as the house heated up. ( I had recently had a reno done. My issue is that I need to identify what is making me ill so I can avoid it. If it proves to be the floor I will get rid of it. I cant live in my home under these conditions as this chemical effects me so much it makes me literally crazy. I cant talk, I get confused, I cry then I panic and run. This week the chemical messed with my head so badly I drove in the path of a truck? Lucky he has just started up and missed me. I just sat in the car and cried. I really really need the help of a specialist. Where do I go from here? Kindest regards
+summarized question 33:

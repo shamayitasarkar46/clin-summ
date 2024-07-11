@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Transderm Scop Patch (Placement options) MESSAGE: Am trying to find info on patch placement. Any reason it cannot be placed in another hairless site besides behind the ear? A specific reason for it's placement there? Am a PACU nurse. We often use for post op nausea but cannot for plastic surgery of face/neck. Have one source that says ok from neck to waist, upper thigh or outer upper arm. Is this indeed acceptable placement? If not, why? Thank you in advance [NAME]
+summarized question 1: Where could the transdermal scopolamine patch be applied besides behind the ear?
+##
+query 2: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 2: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 3: Aortic Valve Replacement surgery.  Is Minimally Invasive Surgery (MIAVR, not TAVR) any less effective, or riskier than the Conventional Method where the breast bone is split? Can the surgeon do as good a job if the MIAVR procedure is used?
+summarized question 3: How does MIAVR compare to TAVR in effectiveness and risk?
+##
+query 4: SUBJECT: severe vaginal bleeding MESSAGE: I've been bleeding for almost 9 long years. I've been to the doctor and he just put me on birth control saying it will balance itself out. That didn't work. We tried another birth control..it didn't work either. Ever since this problem started I've had terrible migraines, I gained weight (which I've tried to exercise and diet off), severe vaginal pain, cramping, heavy bleeding, blood clots the size of my hand. I've probably gone through 1000's of underwear and my life revolves around this issue. My sex life is one sided (which sucks) and I just want help..what should I do..I feel like I should have another doctor..
+summarized question 4: What are the treatments for severe vaginal bleeding?
+##
+query 5: SUBJECT: lymphedema MESSAGE: HelloI was suffering from filariasis before 6 month, then i observed that I started having leg swelling about 6 months ago.It's lymphedema of my left leg. I has seen many doctors for this problem. but nobody help me to cure this.Finally they answer me there is no treatment for this. i have to live with this disease. but i can't spend whole life with this disease. Better then i will comit or prefer sucide and say goodbye to life.So please suggest me treatment if any treatment available.please reply atleast if no solution.
+summarized question 5: What are the treatments for lymphedema?
+##
+query 6: MESSAGE: WHAT IS THE LATTEST RESEARCH ON USING D-Limonene AS A TREATMENT FOR CANCER?? PARTICULLARY SKIN CANCER??
+summarized question 6: What is the latest research on D-Limonene as a treatment for skin cancer?
+##
+query 7: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 7: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 8: SUBJECT: gluten free MESSAGE: Can you tell me if this drug is gluten free. Pms-Hydrochlorothiazide thank you [NAME]
+summarized question 8: What are the ingredients of Pms-Hydrochlorothiazide and it is gluten free?
+##
+query 9: Respected Sir/Madam, I am [NAME], I'm from India aged 22yrs old. When I came to look across the Medical diary which was used in my childhood hood days, I found a section regarding my scan reports of Kidney. In that report a figure was given and mentioned that I'm having a S shaped Kidney. I have enclosed the images of the reports written by the doctor and please clarify whether I have ectopic kidney. Please reply at the earliest and if you need the current reports of my kidney I'm ready to take the scan of the current development of the kidneys. Thanking you. Yours faithfully, [NAME]
+summarized question 9: Where can I find information and images on ectopic kidneys?
+##
+query 10: "unknown mitochondrial mutation. hi my son [NAME]  is now almost 4 and was diagnosed with a mitochondrial mutation at about 10 months. we have no treatment other then some vitamins and carnitine and hes got really poor tone low energy pain and behavioral issues. He also has sleep  apnea and a history of tubes and now hearing imapairment which we are investigating. He has gerd and high piruvate levels and lactic acid levels almost every time they are drawn. His mutation has ""never been seen before"". Im wondering if you can help in any way. My twin sister has mito she was diagnosed through a muscle biopsy but not the same mutation as [NAME] i had a biopsy with a negative result as my insurance won't cover the genetic blood pannel i really need so for me its inconclusive, im wondering if you have ever heard of this mutation or are willing to look into it  Heres a little snipit of one of his diagnosis ""heteroplasmic mutation in the ATP6 gene, c8899A (L M), GERD, epsisodes of cyanosis and an abnormal 6-channel study suggesting apnea. He has lactate and pyruvate elevations in addition to a mtDNA mutation consistant with a mitochondrial disorder."" If you can help in any way we would be eternally greatful! thanks so much for taking the time to read this."
+summarized question 10: Where can I find inforrmation on mitrochondrial mutations, including diagnosis, symptoms and treatments?
+##
+query 11: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 11: What are the latest treatments for Parkinsons disease?
+##
+query 12: SUBJECT: Blood pressure MESSAGE: Take blood pressure med atenolol 50mg, blood pressure running 91/59 HR65, most of the time lower in the upper to mid 80's.  My doc is not in for 3 day's.  What can I do to raise it.  I am on anxiety, pain & muscle relaxers for a medical condition in my neck and legs that I can't have surgery on again.  Please how do I get my pressure back up until I can get to my doctor?  I am so tired and can't get rid of the headache.
+summarized question 12: What are the treatments for low blood pressure?
+##
+query 13: SUBJECT: does fluocinonide contain tea tree oil?  An allergist determined I am allergic. MESSAGE: Tea tree oil is identified on a product as fragrance and I  used this product yesterday and my fingers are broken out  significantly and I'd like to know if I am allergic to fluocinonide.
+summarized question 13: Does tea tree oil contain fluocinonide?
+##
+query 14: MESSAGE: Dear Sir I am newly marrired. Now from few days i am suffering erection problem. Pls suggest me. Thanks [NAME]
+summarized question 14: What are the treatments for erectile dysfunction?
+##
+query 15: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 15: Can I take Metformin pills given to me by someone else?
+##
+query 16: SUBJECT: Heightened Sense of Smell MESSAGE: Is there any information on heightened sensitivity to smells? I have difficulty smelling fragrances and chemicals especially cleaning chemicals. I sometimes have distorted smells or smells that aren't  there. It started over 6 years ago with a weird smell in my nose for days.
+summarized question 16: Where can I find information about heighted or distorted sense of smell?
+##
+query 17: SUBJECT: Blood in cough MESSAGE: before some time i vomit. and blood came in cough with vomit.  what to do . it happens 4-5 times.  when i ask to doc reply that its throat infection.  please advice home remedy for this.
+summarized question 17: What are the treatments for coughing up blood?
+##
+query 18: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 18: How can I locate a support group for patients with taste and smell disorders?
+##
+query 19: "Good day doctor.... My name is [NAME] from Nigeria in West Africa. Please I'll appreciate so much if you will reach me urgently with any advice that can be valuable to a total cure of the diabetes that I came down with since the year 2008... at ""[CONTACT]"" . I'll be eagerly waiting for your response soonest, please.... Thanks for your anticipated corporation. [NAME]"
+summarized question 19: What are the treatments for diabetes and can it be reversed?
+##
+query 20: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 20: How long does swelling from sleep apnea take to heal?
+##
+query 21: SUBJECT: tracheomalacia MESSAGE: My Tracheomalacia is so wide spread with 90% blockage surgery is not an option.  I wear o2 24/7 what is going to happen to me.  Will it get worse until I die please someone just be honest with me.
+summarized question 21: What is the prognosis for tracheomalacia?
+##
+query 22: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 22: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 23: I would appreciate it if you can send me or email  me  some exercises for a person who is a stroke victim. I am unable to walk due to a  arthritic knee. otherwise I am flexable..  my home address is [CONTACT], My email is [CONTACT] (mailto:[CONTACT]) Thank you, [NAME]
+summarized question 23: What are good exercises for stroke recovery in people with knee arthritis?
+##
+query 24: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 24: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 25: SUBJECT: finastride and pregnancy MESSAGE: my wife is pregnant. She is in week30 of pregnancy. Now i am going to  consume finastride 1mg for my hair loss.is it dangerous for pregnancy  for my wife and her fetus؟ i use condom when i have sex with my wife.  please answer me .can finastride shift to mothers body by my sweat orskin contact?please answer me .thank you.
+summarized question 25: Can finasteride be transmitted via bodily fluid or skin contact?
+##
+query 26: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 26: What are the symptoms of chlamydia?
+##
+query 27: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: Dear sir/ madam. I am a patient suffering from Friedreich's ataxia and i heard there was a medicine for it. In 2009 and since we are looking for the medicine kindly help on this and I have DNA report could You please help us on this as there are two people respective age 22 years and 24 years suffering from it. Looking for your help on this ASAP and please let us know when the medicine will be there in market and attaching two files for your reference
+summarized question 27: What are the treatments for friedreich's ataxia?
+##
+query 28: SUBJECT: Asking about Hairy cell leukemia MESSAGE: I get report for my father from hospital it is saying that he have Hairy cell leukemia i am here to ask if this dissease dangerous and there is treatment for it  Also if The one who have it will live for long or not ?  My father age is 55  We discover the dissease by blood test
+summarized question 28: Where can I find information on hairy cell leukemia, including treatment and prognosis?
+##
+query 29: SUBJECT: Heat rash MESSAGE: I am looking for information on heat rash.  Specifically, can it look like a red line and how it appears at it resolves. If information is available, I can come to the library to read hard copy text or copy photographs. I can be reached through email or by calling [CONTACT]. I appreciate all the help that may be available on this important matter.
+summarized question 29: Where can I find information on heat rash, including symptoms and treatment?
+##
+query 30: SUBJECT: Kidney disease diet MESSAGE: My aunty has a kidney disease, and wants to use a product that contains aloe. Is that ok?
+summarized question 30: Is aloe contraindicated for patients with kidney disease?
+##
+query 31: "SUBJECT: BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium a MESSAGE: Hello, I want to purchase from you a remedy. I have Multiple Sclerosis, and there is much talk in the media about ""C. perfringens, Type B"" being a trigger for Multiple Sclerosis. Here is a link of the news http://www.bbc.com/news/health-25925658. I would like to purchase this product ""BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid"".  Or could you kindly recommend a remedy that will address this bacteria?  And email me how I should purchase and the total cost including the shipping so I can order it. I'm eager for your reply and thank you Kindly. Below are all my details: [NAME] [LOCATION] [CONTACT] [EMAIL]"
+summarized question 31: Where can I purchase BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid and how much does it cost?
+##
+query 32: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 32: Is there a cure for hepatitis B?
+##
+query 33: outbreak of red raise sores on back shoulder and arms from shoulder to wrist with raised bulbs of liquid. treatment and maintenance ?
+summarized question 33:

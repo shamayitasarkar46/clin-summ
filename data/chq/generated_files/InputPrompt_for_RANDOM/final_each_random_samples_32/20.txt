@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Is TDM-1 DRUG CAN BE USED TO IMPROVE IMMUNE TO MALE PATIENT WHO HAS METOSTASIS IN BRAIN,LUNGS?  THANK YOU [NAME]
+summarized question 1: Can TDM-1 drug be used to treat brain/lung metastatic cancer?
+##
+query 2: are jumping genes[transposons] associated with lynch syndrome? [NAME]
+summarized question 2: Are jumping genes [transposons] associated with Lynch syndrome?
+##
+query 3: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 3: Can I take Metformin pills given to me by someone else?
+##
+query 4: Prothesis to assist Facioscapulohumeral muscular dystrophy. My 22 yr old grandson has Facioscapulohumeral muscular dystrophy. Has weak arm & hands curl inward. He has difficulty picking up a plate or opening doors. Some type of shoulder harness with support for arms could help. Something electrical like limbs for amputees. Is anything being considered in this area?
+summarized question 4: Are there assistive devices for Facioscapulohumeral muscular dystrophy?
+##
+query 5: "SUBJECT: Proper average weight MESSAGE: I am a 68 year young male 5'7"" tall. Please give me a guideline as to what would be a healthy weight for me. Even though I have back problems from a vertebra fracture from 2005 and have had 4 surgeries to include a stimulator and 3 fused vertebras, Yet I keep myself pretty active. I am currently weighing 179.4 lbs.  Thank you for your help.  [NAME]"
+summarized question 5: "What is a healthy weight for a 5'7"" male?"
+##
+query 6: SUBJECT: Abnormal Growth MESSAGE: I have a 11 year old grandson that does not seem to be growing normally with his age group. He has 4 other brothers & sisters 3 girls and one brother that except for the oldest {girl} all seem to be having normal growth. The 11 I am referring to is very short and stumpy 5-7 inches shorter than his friends.His father is pretty short and stumpy also. The other brother seems to have normal growth. Is there any answer to this, he is having a hard time emotionally at school.
+summarized question 6: How is delayed growth diagnosed, and what are treatments for it?
+##
+query 7: SUBJECT: treatment options versus migraine types MESSAGE: Migraine seems to be a spectrum of conditions rather than only one easily diagnosed affliction.  Many innovative migraine treatments are now in use, but it seems that each treatment only addresses a narrow set of conditions; for example, my daughter has tried many different treatment options (QEEG, HEG, TMS, topamax, ...) without success.  Has any research been done to characterize which treatment types are effective against which migraine types?
+summarized question 7: Has any research been done to characterize which treatment types are effective against which migraine types?
+##
+query 8: I had a molar removed painful and not healing. swab test in tooth extraction hole revealed I have serratia marcescens. Oral surgeon ordered levaquin. Scared went to a new oral surgeon, he said since I have been on antibiotics for more than four months do not take new antibiotic. I am scared!!! Dont really have any serious symptoms. bad taste in mouth funny colored tongue. follow up with new dr this monday.Please help.
+summarized question 8: What are the treatments for serratia marcescens infection?
+##
+query 9: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 9: How can I locate a support group for patients with taste and smell disorders?
+##
+query 10: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 10: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 11: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 11: What causes fibroid tumors on the spine?
+##
+query 12: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 12: What are the treatments for loss of appetite?
+##
+query 13: Second opinion for hemifacial microsomnia. I am a 34 female born with hemifacial miscrosomnia. I have had multiple surgeries but yet I feel I am not where I would like to be. I have been treated through the military because I can not afford a second opinion from an outside source. I lack tissue, muscle and fat on the right side of my face as well as a definite under developed right mandible. I know I would never be perfect, but I would love a chance to be able to walk down the street without people staring and I for one time in my life feel some what normal. Can you please help
+summarized question 13: How can I find physician(s) or hospital(s) who specialize in hemifacial microsomnia?
+##
+query 14: SUBJECT: low WBC issue MESSAGE: respected sir,                i humbly want to say  you thanx for making this website. i am [NAME] from [LOCATION] and i want to help myself by you please help me sir i will greatful to yo(sorry sir my English is not so good)      masturbation is my hobby its my taboo really sir now i am tired i want to change myself please sir give me some suggestions ....   this is bad habit in my life but i am also a bright student since last year .............. .......... .......... i am crying... sorry ...... please help me sir plzz rply me in my id.. and wish me luck     i know you have a golden heart ....
+summarized question 14: What are techniques to stop masturbating?
+##
+query 15: Does either of these help with skin keloids? What would help keloids?
+summarized question 15: What are the treatments for skin keloids?
+##
+query 16: SUBJECT: sexual dysfunction MESSAGE: Dear Doctor  i am male of 39 years, and facing problem of sexual weekness, erection is ok, once my penis stand up and after some seconds its become down like dead, i also feel size is also came down, i am worried, kindly suggest me a medicine for such decease i shall be very great full to you.  Regards [NAME]  [LOCATION]
+summarized question 16: What are the treatments for erectile dysfunction?
+##
+query 17: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: OK. I understand your reticence to list unconfirmed 'untrigger' lipids. However, I am a trained scientist who's 72 years old, so I don't really have time to wait for confirmatory tests to be run on several K more old coots. so QUE3TION: What [NB: THE HELL] precisely are the 10 lipids in question? I would then plan to have myself checked for those 10 lipids.
+summarized question 17: What are the ten lipids that can predict dementia?
+##
+query 18: ectopic pregnancy.  Is there a chance that my daughter can have an ectopic pregnancy if my wife had it?
+summarized question 18: Does ectopic pregnancies run in families?
+##
+query 19: SUBJECT: Do Shrimp Allergies Subside Over Time MESSAGE: I used to eat shrimp all the time but suddenly developed an allergy to it when I turned 24. I went to an allergist and I definitely tested positive for shrimp allergy (all other shellfish like lobster, crab, etc. oddly was negative).  Are food allergies that develop later in life like this known to disappear over time? I'm just wondering if there's a safe way to test it if I'm too lazy/poor to go see an allergist again. It's been 8 years since I was diagnosed.  I'm not asking for a recommendation to my personal case but was just wondering the answer to my first question above.  Thanks
+summarized question 19: Is it possible for a shrimp allergy to go away?
+##
+query 20: SUBJECT: Central venous catheters - ports MESSAGE: Hello, I was wondering about the Central venous catheters - ports and how they work. My grandma takes dialysis treatments and hers blew a couple days ago. Both of her arms swelled immediately. They were asked to do another one,  but said it was ok. After another treatment today both arms turned purple. I want to know, if you can tell me, how dangerous is it if they are using the port and it is blown? Can she bleed out or throw blood clots?
+summarized question 20: What are the complication of central venous catheters?
+##
+query 21: CITROBACTOR FREUNDII.  Does ciprofaxin work well? Is there a better drug if so what.
+summarized question 21: What are the treatments for citrobacter freundii infection?
+##
+query 22: SUBJECT: Transderm Scop Patch (Placement options) MESSAGE: Am trying to find info on patch placement. Any reason it cannot be placed in another hairless site besides behind the ear? A specific reason for it's placement there? Am a PACU nurse. We often use for post op nausea but cannot for plastic surgery of face/neck. Have one source that says ok from neck to waist, upper thigh or outer upper arm. Is this indeed acceptable placement? If not, why? Thank you in advance [NAME]
+summarized question 22: Where could the transdermal scopolamine patch be applied besides behind the ear?
+##
+query 23: Eye.  i do see black things what couse it? or likd a sand i my Eye? how can i get treatment?
+summarized question 23: What are the causes and treatments for eye floaters?
+##
+query 24: SUBJECT: sti. infection and circumcised MESSAGE: I have noticed that I have an Sti virus on my Penis called Warts human virus(Hpy) so I need a help
+summarized question 24: What are the treatments for HPV genital warts?
+##
+query 25: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: will dalfampridine be effective for people with spinal musclar atrophy. is this a possibility in the future
+summarized question 25: Is dalfampridine an effective treatment for spinal muscular atrophy?
+##
+query 26: cant use site.  I want to find a doctor who specializes in burning mouth syndrome and that could be in many specialities, I cannot understand how to do this on your website.
+summarized question 26: How can I find physician(s) who specialize in burning mouth syndrome?
+##
+query 27: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 5 yr old Grandson has Tourette's, his Dad, my son also has it. His 7 yr old brother picks his arms and leaves scars, Is there anything we can do? He has been to A Neurologists once, and he said to keep records of the 6 yr old and to come back in 6 mo, or sooner if things get worse.
+summarized question 27: What are the symptoms of tourette's syndrome and their treatments?
+##
+query 28: Do you have any info on Korsocoff's syndrome brought on by long-term alcoholism and bad diet?  What about treatment options?
+summarized question 28: Where can I find information on korsakoff syndrome and what are the treatments?
+##
+query 29: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 29: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 30: SUBJECT: ODD facilities MESSAGE: Two friends of ours have an 8-year-old child with Oppositional Defiant Disorder and autism, and they are being told by a facility that they need to institutionalize him there. Our friends are heartbroken. Are there any excellent places in the country that specialize in ODD in combination with autism that might offer other options for them? Thanks for any counsel you might have.
+summarized question 30: How can I find physician(s) or hospital(s) who specialize in oppositional defiant disorder and autism?
+##
+query 31: Testing for CETP Gene. I live in [LOCATION] Tennessee, and am interested in being tested to see if I have  CETP Hyperalphalipoproteinemia. Could you please let me know how and where I can get this test? (I have had the VAP test and I do have the LDL Density Pattern A.)
+summarized question 31: Where can I get genetic testing for the CETP gene?
+##
+query 32: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 32: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 33: is there an increased risk of infiltration, dislodgement, or phlebitis in a stroke patient with a peripheral intravenous catheter insertion in the affected extremity?
+summarized question 33:

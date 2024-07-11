@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: human chimerism MESSAGE: My daughter, born 5 days ago, was curiously found to have c+ blood type.  Having ruled out most causes for this, we are left with a possible vanishing twin chimera and don't know where to turn for more information or research. At this point we don't even have confirmation of whether she is xx/xx or xx/xy, or concrete exclusion of microchimerism. Help? I can be reached by cellular at [CONTACT]. my husband and I are local to the [LOCATION], and both [PROFESSION]. Thank you!
+summarized question 1: Where can I find information on chimerism and twin absorption?
+##
+query 2: SUBJECT: varicella  shingles MESSAGE: How can I determine whether or not I've had chicken pox.  If there is a test for it, what are the results of the tests I need to know that will tell me whether or not I have had chicken pox?  I want to know this to determine if I should have shingles vaccine  (Zostavax) Thank you.
+summarized question 2: How do i find out if i had chickenpox?
+##
+query 3: SUBJECT: Pilot and Lazy Eye MESSAGE: Dear MedlinePus  I started to fly at the age of 15 and have been flying for over 3,5 years and has logged over 120 hours in my time as pilot. My dream is to become a Comerical Pilot and recently I undertook a medical class 1 which I failed in [LOCATION] because of my Eye position and Eye movment, hence I have not experienced any problem with my vision in daily life nor when I have been flying..  The problem is that my binocular vision is not good enough and the eye-doctor meant it could be a problem if I sudden developed double vision.  Is there any operation that can fix this? The Orthoptics I went to meant there was a problem with one of the eye muscles which where to thight and the other too weak. She said it can be fixed, but this is not &quot;normal&quot; in [LOCATION] because it is not big enough error she meant.  Is there anyway to fix this? I appreciate all information!  Kind Regards  [NAME]
+summarized question 3: What are the treatments for lazy eye?
+##
+query 4: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 4: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 5: SUBJECT: blind technology MESSAGE: Hello, I am a student doing a research project on blind technology. I am wondering if you have any contacts of people who have research information on this topic because I want to find out their opinions on certain technologies. Also, I would appreciate it if you could tell me ways to improve/cure blindness. For example, information on ' stem cell surgery', bionic eye', 'gene therapy to cure blindness' etc. Thankyou!
+summarized question 5: How can I find someone doing research on technologies for the blind, and what are the treatments for blindness?
+##
+query 6: SUBJECT: lack of adhesive while I swim MESSAGE: I weekly apply the clonidine transdermal patch. Medically it is effective. I swim 3 or 4 times a week for 30-45 minutes. Quite often the patch loses it's adhesive quality and falls off my skin. What can I do to help it stick on my arm? thanks
+summarized question 6: What can I do to keep the clonidine transdermal patch secure during swimming?
+##
+query 7: "SUBJECT: Complex Regional Pain Syndrome (CRPS) or Regional Sympathetic Dystrophy (RSD) MESSAGE: I have searched your pages and website for information on this medical condition but found nothing. I know there's not a lot of research on this but I'm pretty certain that my father had it in his legs and now I do to. Is there any evidence this condition is genetic or is it an ""Unknown at this time""?  Thanks"
+summarized question 7: What causes Complex regional pain syndrome?
+##
+query 8: Metastatic malignant melanoma.  I've got skin cancer, and I want this treatment, but RBCs Btensl Is it possible that taking this medication
+summarized question 8: What are the treatments for metastatic malignant melanoma?
+##
+query 9: SUBJECT: adrenoleukodystrophy MESSAGE: A child I have been asked to work with has been diagnosed with this condition.I am so far unable to find info pertaining to this illness. Can you help??
+summarized question 9: Where can I find information on adrenoleukodystrophy?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I would like to know if there is a side affect from taking mestinone while tanning in a booth.  it seems if have a rash on back and burning on chest and stomach which has never happened before I started taking mestinon.   are we more sensitive to sun while on this medication?
+summarized question 10: What are the side effects of mestinon and tanning?
+##
+query 11: SUBJECT: chemical reactions to meds. MESSAGE: What is the clinical name for people who have chemical reactions to medications? Is there a cure?  Thanks
+summarized question 11: What are the treatments for drug reactions?
+##
+query 12: Stiff neck.  I have a stiff neck that will not go away.
+summarized question 12: What are the treatments for stiff neck?
+##
+query 13: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 13: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 14: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 14: Is lincomycin still prescribed for human use?
+##
+query 15: SUBJECT: Laparoscopic Splenectomy MESSAGE: Dear Sir/Madam My brother [NAME] is diagnosed ITP. His doctor advises Laparoscopic Splenectomy for him. Can you please mail me detail and cost of this surgery. His Platletts count is decreased to 12 and his doctors giving him Injection Mebthera today to increase plattlets count. We are form [LOCATION], [LOCATION]. Please mail us as soon possible. Thanks & Best Regards [NAME]
+summarized question 15: Where can I find information on laparoscopic splenectomy, including cost?
+##
+query 16: SUBJECT: how to breathe MESSAGE: Dear Sirs,  This may seem like a stupid question but here goes anyway.  I am 64 yrs old and a type II diabetic.  I walk frequently to stay fairly fit but always seem to get out of breath when going up even gentle hills. Today however I noticed that I could change how I breath. Thus, I could force air out using my diaphram (ie like blowing out a candle)then relax and just let the air flow back in or I could use my diaphram to suck in air (like breathing in the morning air)and again relax my diaphram to push it out. I also found that I could breath faster under conscious control which seemd to help my performance. I dont know if any of this makes sense to you but I would like to know what you think and whether there are any do's and dont's and if there is a 'better' way to breath.  Thanks very much for your help with this,  Regards,  [NAME]
+summarized question 16: What are techniques for  proper breathing?
+##
+query 17: SUBJECT: sti. infection and circumcised MESSAGE: I have noticed that I have an Sti virus on my Penis called Warts human virus(Hpy) so I need a help
+summarized question 17: What are the treatments for HPV genital warts?
+##
+query 18: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 18: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 19: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 19: What are the treatments for nocturia?
+##
+query 20: SUBJECT: meloxicam MESSAGE: Does this have to be taken everyday for it to work?  Can I just take it as needed or does it have to build up in my system....
+summarized question 20: How should meloxicam be used?
+##
+query 21: SUBJECT: New Hep C Virus Treatments MESSAGE: In 2006-2007, at the VAMC in [LOCATION], i went through the HEP C Treatment using Ribavirin and Interferon. My viral load was undetectable immediately at the BOT. I stayed on the treatment faithfully and painfully for a4 months; when at the EOT my viral load was still indictable. I was considered a success. When i came back after 6 months for a checkup, it was found my HCV had relapsed. Now I want to know what treatments are now available to me. I hear of these new wonder cures that have been approved in the past year and i want to be retreated. Please send me all the info you have on these new treatments while i wait here and die at age 45. I was exposed with the HCV virus from a tattoo while in the armed forces overseas.
+summarized question 21: What new treatments are available for recurrent hepatitis C?
+##
+query 22: SUBJECT: Lyme Disease MESSAGE: 12 years ago I was bitten by tick while deer hunting. The bite area contained the ring as described in Lyme Disease symptoms.  I was treated with antibiotics;  however, ever since that time I have many of the symptoms cited for Lyme.  Also, usually prior to, and during these symptoms I have a reddish-pink welt appear at the site of the bite on my groin.  Can you offer any enlightment on my condition?
+summarized question 22: What is the prognosis for post-treatment Lyme Disease symptoms?
+##
+query 23: SUBJECT: inversion of long arm chromasome7 MESSAGE: My son has been diagnosed with inversion of long arm chromasome 7 and down syndrome . please could you give me information on the chromasome 7 please because our doctors have not yet mentioned it
+summarized question 23: Where can I find information on chromosome 7?
+##
+query 24: congenital diaphragmatic hernia. what are the causes of congenital diaphragmatic hernia? Can cousin marriage cause this? What kind of lung disease the baby might experience life long?
+summarized question 24: What causes congenital diaphragmatic hernia and what lung complications could arise?
+##
+query 25: SUBJECT: Does Tolnaftate work to help nail fungus? MESSAGE: Does Tolnaftate help with toe nail fungus?
+summarized question 25: Is Tolnaftate prescribed for toenail fungus?
+##
+query 26: SUBJECT: Tailbone trauma MESSAGE: are there any risks for an elderly person to fly with a cracked or bruised tailbone? thank you in advance
+summarized question 26: Can I fly with a tailbone injury?
+##
+query 27: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 27: Are there any precautions for mixing or administering Fomepizole?
+##
+query 28: are jumping genes[transposons] associated with lynch syndrome? [NAME]
+summarized question 28: Are jumping genes [transposons] associated with Lynch syndrome?
+##
+query 29: SUBJECT: fluocinolone acetonide ointment tube MESSAGE: Is it possible to obtain this ointment (.25 mg) in anything other than a metal tube?  I travel a lot, and the tube constantly develops cracks, so the ointment squeezes out everywhere -- very messy.  My pharmacy doesn't know of any other packaging.  Thank you!
+summarized question 29: Does fluocinolone acetonide ointment .25 mg come in a non-metal tube or other packaging?
+##
+query 30: SUBJECT: Progressive Supernuclear Palsy MESSAGE: What  is the best thing to do for my Dad who we r sure has psp!  Who r the best dr to treat this cease.  We believe my uncle had pep also   He recently passed away ,  I want to give my dad the best treatment available
+summarized question 30: What are the treatments for progressive supranuclear palsy and how can I find physician(s) who specialize in it?
+##
+query 31: SUBJECT: instructions MESSAGE: I purchased PH Test Strips and after receiving them I saw that there were no instructions included. I don't know how to use them and need some help with that. Could you please explain how to use them. Thank You, [NAME]
+summarized question 31: How do I use pH test strips?
+##
+query 32: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Stiff person Syndrome. Please can you tell me what are the early symptoms I have severe cramps in my feet which are twisting into an arc,muscle spasms slowly getting worse and my muscles particularly in my legs are cramping like someone has pushed a knitting needle into them. Started off at night but now happening through the day my back and neck and voice box are also effected and my chest area has now seized to the point of restricting my breathing to very shallow at times I find that I am stretching out involuntarily right through my body and this is becoming more frequent
+summarized question 32: What are the early symptoms of Stiff person Syndrome?
+##
+query 33: what are the possible side effects of not taking olanzapine after having tanker it for a long period of time
+summarized question 33:

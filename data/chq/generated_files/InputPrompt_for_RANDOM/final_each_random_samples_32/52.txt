@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Find a Doctor, a specialist on this problem MESSAGE: who is a certified Opt. in or near the Nashville, TN area who does surgery for strabismus. please help me find a trusted doctor who performs this kind of surgery
+summarized question 1: How can I find physician(s) who specialize in strabismus surgery near Nashville TN?
+##
+query 2: vagual nerve stimulation and depression.  have suffered for many years complicated by frequent migraines and little help from meds   like to learn more about vagual nerve stimulation
+summarized question 2: Where can I find information on vagus nerve stimulation for the treatment of depression and migraines?
+##
+query 3: SUBJECT: inguinal hernia MESSAGE: I am a 75 year old man. I have 2 inguinal hernia. Do you offer any written pamplets on these.
+summarized question 3: Where can I find information on inguinal hernia?
+##
+query 4: Why and how does Isotretinoin build up in the body system? Does it's structure contribute to the build up of it?
+summarized question 4: Why and how does Isotretinoin build up in the body?
+##
+query 5: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 5: Where can I find information on russell-silver syndrome?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dental/sjogrens. Because of Sjogrens, my teeth have decayed Severely in the past 2 years.I have a few teeth that have not decayed. It is devastating!  What should I do...implants or dentures? What about funds?  Help.    [NAME]
+summarized question 6: What teeth replacements are better for sjogren's: implants or dentures?
+##
+query 7: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 7: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 8: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 8: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 9: My mother has Pulmonary ARTERIAL hypertension in the left side of her heart.  Is there anything that can be done to improve her health.
+summarized question 9: What are the treatments for Pulmonary Arterial Hypertension?
+##
+query 10: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 10: What are the inheritance patterns for pierre robins syndrome?
+##
+query 11: SUBJECT: Levothyroxin tab 0.05 MG MESSAGE: I am happy to note that all of your medications are gluten free.  The Levothyroxin tab 0.05 MG is gluten free, ***IS THERE ANY DAIRY (including lactose, casein) in the Levothyroxin Tab 0.05 MG? Thank you!
+summarized question 11: What are the ingredients of levothyroxin and is it dairy free?
+##
+query 12: SUBJECT: Treatment without amputation MESSAGE: My father is 70 years old his arteries in the both limbs have blockage. He is having pace maker. Doctor's suggest to go for amputation but there is high risk in it. Please suggest treatment without amputation! He foot is turning black and blisters are forming on his limbs.  Please advice
+summarized question 12: What alternatives to amputation are available for blocked leg arteries if the foot is turning black?
+##
+query 13: SUBJECT: Relationship between Angelman Syndrome and pancreatitis MESSAGE: Have any relationships been found between Angelman Syndrome and pancreatitis?  My son with AS had recurrent pancreatitis and finally passed away at 22 from pancreatitis.
+summarized question 13: Is there a connection between angelman syndome and pancreatitis?
+##
+query 14: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm 33 years old and got diagnosed with rhabdomyosarcoma stage 4 last December. I went through 13 weeks on intense chemotherapy and my last scan showed that I'm in remission. I'm looking for more guidence as far as a stem cell replacement goes.
+summarized question 14: Is stem cell therapy appropriate for stage 4 rhabdomyosarcoma in remission?
+##
+query 15: SUBJECT: severe vaginal bleeding MESSAGE: I've been bleeding for almost 9 long years. I've been to the doctor and he just put me on birth control saying it will balance itself out. That didn't work. We tried another birth control..it didn't work either. Ever since this problem started I've had terrible migraines, I gained weight (which I've tried to exercise and diet off), severe vaginal pain, cramping, heavy bleeding, blood clots the size of my hand. I've probably gone through 1000's of underwear and my life revolves around this issue. My sex life is one sided (which sucks) and I just want help..what should I do..I feel like I should have another doctor..
+summarized question 15: What are the treatments for severe vaginal bleeding?
+##
+query 16: SUBJECT: stage 5 kidney failure MESSAGE: father-in-law 84.now in hospice. is sweating normal?
+summarized question 16: Is sweating normal during stage five kidney failure?
+##
+query 17: "SUBJECT: Questions (see in comment box) on ""Vistaril"" MESSAGE: I have a few Qs related to ""Vistaril"": 1. Is ""Vistaril"" a gluten-free product? 2. If not, is it because some of the raw materials in its ingredients that is gluten related? 3. If yes to Q1, is it a ""Certified"" gluten-free product and what kind of certification it has? 4. For capsule form, does it contain any kind of starch? If it does, what starch is it? 5.  Can you email to me a list of the ingredients in this drug? Thank you very much!"
+summarized question 17: What are the ingredients of vistaril and is it gluten and starch free?
+##
+query 18: SUBJECT: Ankle Injury MESSAGE: I got hurt in my left leg ankle almost 5 months ago. I went to doctor, got x-ray, where no damage was found. He suggested me some pain killers and advised me to wear anklet. I have been following the instruction since then; I went to another doctor who advised me to go for physiotherapy (Short Wave Diathermy) and advised me some exercises. I have been following them too. But yet now, I have not been fully recovered from the pain. Especially when I try to walk quickly or try to put pressure with my left leg, I feel pain. I am very tensed about this. Can you please suggest me how to overcome the pain. Thanks.
+summarized question 18: What are the treatments for ankle injury and pain?
+##
+query 19: What are the causes of rib cage pain? And and the remedy
+summarized question 19: What are the causes and treatments for rib cage pain?
+##
+query 20: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 20: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 21: ClinicalTrials.gov - Question - general information. Both my parents died in [LOCATION] TX with multiple myeloma, father in 70's and mother 84 years old.   the attending oncologist advised that I should be tested every few years. I was unaware of a genetic test for MM I am 63 yr old female, in good health, and where could I get the genetic test for MM and approx cost for testing?
+summarized question 21: Where can I get genetic testing for multiple myeloma, and what is the cost?
+##
+query 22: SUBJECT: dry maculare tetinal degeneration MESSAGE: my grandfather had lens implants, now he has dry macular retinal degeneration.  he can hardly see!  searching for help!
+summarized question 22: What are the treatments for dry macular retinal degeneration?
+##
+query 23: SUBJECT: RE: RX MESSAGE: I am taking Metafolic Plus caplet I know this helps memory of the brain.  What else does it help the brain with?
+summarized question 23: What remedies improve memory?
+##
+query 24: SUBJECT: úlcera bucal por efectos de la radio terapia MESSAGE: What should I do if I have a cold sore? and treatments I use
+summarized question 24: What are the treatments for cold sore?
+##
+query 25: SUBJECT: huntington's disease MESSAGE: Hello, I was wondering if the huntington's disease could be infectious; for example, can you be infected by this disease  through contact in the blood of a person or animal who has this disease? I was on a tour of the animal lab today, and I got to observe dissecrion of the huntington's disease mice model. While observing it closely, a few drops of blood splashed on my face by accident, and now I'm worried that it might have went in my mouse.
+summarized question 25: How is Huntington's disease transmitted?
+##
+query 26: "SUBJECT: Erythema Nodosum MESSAGE: I have read that a form of ""honey"" might be used to treat my skin condition, Erythema Nodosum. Would appreciate your comment on this."
+summarized question 26: Is honey an effective treatment for erythema nodosum?
+##
+query 27: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 27: What are the treatments for neck lumps or neck tumors?
+##
+query 28: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 28: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 29: SUBJECT: High Blood Pressure MESSAGE: I know you may not answer this but my blood pressure comes up at night when I am asleep. I take four medicines. I have asked doctors why this happens and no one knows. This morning at four A.M. It was 164 and I took a clonidine to help get it done. It worries me so.
+summarized question 29: What causes a rise in blood pressure when asleep?
+##
+query 30: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 30: How do I switch from Amlodipine to atenolol?
+##
+query 31: SUBJECT: NIFEDIPINE MESSAGE: Hi, i have been taking nifedipine for about 5 years but only take it in the winter. I take it to treat my raynauds syndrome. During winter when i take the nifedipine i have regular nose bleeds that last up to 20 mins, i want to find out if this relates to the medication i am taking. Thanks for any help you can provide
+summarized question 31: Are nosebleeds a side effect of nifedipine?
+##
+query 32: SUBJECT: concussions and long term head trauma  from abuse Ii MESSAGE: I was a victim from an abusive relationship, both verbal and physical. During this time I received substantial injuries to my head. Slight concussions led to full-fledged concussions, losing the ability to talk very well, then think very well, and a subdural hematoma, on the left side, bled down inside my head to behind my left eye, which made it unable to move. Along with an intense headache and drinking a lot of coffee, the neurosurgeon didn't have to do brain surgery,  as my eye finally moved!Battered Women's told me to get out of the area a stay gone if I wanted to stay alive. So I did! Speech Therapy helped considerably, the story goes on.  Anyway, I hear and read a lot about concussions and head trauma for football players,  young and old,  and wonder if any studies have ever been done for women?   A few years ago,  I had a partial stroke,  but enough to set me back a bit.  But this time I know what I need to do to help fix my head,  again.
+summarized question 32: What is the latest research on concussions and head trauma in women?
+##
+query 33: three weeks ago I saw the local doctor lady.. she listened to my description of abdominal pain down the left groin area. now the pain is occasionally not nice and there is a swelling which is uncomfortable to touch when I have the pain . The swelling is soft like a liquid pouch. I have undergon Prostrate cancer Radiotherapy which resulted in occasional mucus and blood discharge when passing stool and wind. This mucky bum has settled down and for some months I have not had any accidents (soiled pants). The doctors letter said iI had a friable back passage which bled on contact. I am due for Colonoscopy. What should I do? is it dangerous to undergo the colonoscopy with a friable weakened colon . I  am 68 year old white male. 6ft 4  tall 84 kg. reasonably fit and active.
+summarized question 33:

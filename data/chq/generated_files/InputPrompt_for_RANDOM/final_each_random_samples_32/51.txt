@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 1: Can epilepsy be cured?
+##
+query 2: SUBJECT: need to know about shingles MESSAGE: I have had shingles on my face about 6 or 7 years ago.  Should I still get a shingles Vaccine?  I really need to know.  Stress is big in my life.
+summarized question 2: Should someone who had shingles get the vaccine?
+##
+query 3: SUBJECT: Bone Marrow Cancer MESSAGE: hello Sir, i want to ask something about bone marrow marrow cancer.... its 22 year age... and have many symptoms of BMC..  often feel pain in bones....  i don't know the stage.... is treatment is possible at any stage???? how i can find stage??? if treatment is possible  how long(in months) it takes to recover???  kindly reply me...
+summarized question 3: Where can I find informaton on bone marrow cancer, includinf diagnosis, treatment, and prognosis?
+##
+query 4: Hi, I'm looking to purchase Epidermal Growth Factor to use topically in skin care creams.  Do you sell it and if so how can I learn about this?  If you don't can you give any suggestions of who might?  Any information you can provide would be greatly appreciated.  THNAK YOU!  [NAME]
+summarized question 4: Where can I buy  Epidermal Growth Factor cream?
+##
+query 5: SUBJECT: gabapentin MESSAGE: How long is Gabapentin good at room temperature? Thank you, [NAME]
+summarized question 5: For how long can Gabapentin be stored at room temperature?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 6: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 7: "ClinicalTrials.gov - Question - general information.  Hello,  My name is [NAME],I am 30 years old and I am from [LOCATION]. I met my friend [NAME] on a chat room. [NAME] is 25 years old and he currently lives in [LOCATION], Algeria. His dad died, his brother died 2 years ago in a motorcycle accident and about 9 months ago my dear friend got into a car accident. In that car accident he suffered a T-6 and T-7 fracture which cause him to be paralyzed from his waist down. He is so young and it really hurts how much he has suffered in his short life. Not only him, but just thinking how much his mom has suffered it really breaks my heart. I asked him how or what can I do to help him, he did not asked for money or something like, he just said: ""Would you help me to research how to get cured?"". Since I met my friend there is no one day I have stopped thinking in what can I do to make his dream come true. I know we lives in an imperfect world and things happen to people but faith moves mountains. I have no experience on a situation like this, I have no knowledge on what can be done and that is why I NEED your help. Please help my friend. I will do anything necessary or anything you need. If you need money I will find it, I am not rich but there are good people out there willing to help. Please tell me what to do, I am desperate and I cannot sleep thinking about my friend. Please help [NAME]. I have his doctor’s diagnosis and it is paste below. It is in French sorry about that. Thank you very much for your help. I am very confident that we can help my friend. Thank you, [NAME] i.r.m medullaire protocole sagittales t1 se /stir sagittales/coronales frfse t2 axiales t2 frfse/t1 se myelo-irm RESULTATS MISE EN évidence de fractures complexes corporelles de t6 et t7 avec tassement cunéiforme des pl"
+summarized question 7: Where can I get information about treatment for T-6 and T-7 fracture paraplegia?
+##
+query 8: Information please. Hi my name is [NAME] and im currently trying to write a book about a girl with ewings sarcoma, i need more information on ewings sarcoma and chemotherapy , radiation and surgical treatments. When i finish the book , i aim to have a portion of book sales to go towards cancer research as i lost my sister to cancer.By the way i am only 15, thanks heaps
+summarized question 8: Where can I find information on Ewing's sarcoma, including treatments?
+##
+query 9: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 9: What are the causes of and treatment for scrotal rash?
+##
+query 10: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 10: What are the causes of severe body weakness?
+##
+query 11: SUBJECT: ingredients MESSAGE: I would like to know if zolmitriptan tablets and zolmitriptan orally disintegrating tablets contain any wheat, rye or barley gluten. Thank you, [NAME]
+summarized question 11: Do zolmitriptan tablets or zolmitriptan orally disintegrating tablets contain any wheat, rye or barley gluten?
+##
+query 12: SUBJECT: Vasospastic angina MESSAGE: Can arteries in any part of the body spasm or is this only possible with coronary arteries? If so, does someone with vasospastic angina have a greater chance of developing spasms elsewhere in the body and is the treatment the same?
+summarized question 12: What are the causes of and treatment for artery spasms?
+##
+query 13: "SUBJECT: Need help finding information about kidney ""nodules"".  Please help. MESSAGE: Need help finding info. on kidney ""nodule""."
+summarized question 13: Where can I find information on kidney cysts?
+##
+query 14: vagual nerve stimulation and depression.  have suffered for many years complicated by frequent migraines and little help from meds   like to learn more about vagual nerve stimulation
+summarized question 14: Where can I find information on vagus nerve stimulation for the treatment of depression and migraines?
+##
+query 15: curvature of the spine.  In the 1870's in MA what would be the treatment for curvature of the spine in children whose backs were injured in an accidental fall.
+summarized question 15: What was the treatment for back injury in children in the 1870s in Massachusetts?
+##
+query 16: SUBJECT: methadone causing COPD MESSAGE: My daughter said there was a study done  and it concluded that methadone can cause COPD. Do you know if there is any truth to this and if so where can I get info on it. Thank you [NAME]
+summarized question 16: What are the side effects of methadone?
+##
+query 17: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 17: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 18: BCG and Stage 3 Urinary Bladder Cancer.  My dad begins this BCG Treatment in a few weeks for Stage 3 cancer tumors in the urinary bladder?  How effective is BCG for this issue?  Thank you very much.    Is BCG similiar to Chemotherapy?
+summarized question 18: What is BCG treatment, and is it an effective treatment for bladder cancer?
+##
+query 19: SUBJECT: Heat rash MESSAGE: I am looking for information on heat rash.  Specifically, can it look like a red line and how it appears at it resolves. If information is available, I can come to the library to read hard copy text or copy photographs. I can be reached through email or by calling [CONTACT]. I appreciate all the help that may be available on this important matter.
+summarized question 19: Where can I find information on heat rash, including symptoms and treatment?
+##
+query 20: SUBJECT: looking for a good advice. MESSAGE: what should I do for decrease my hand's tremor?I m affected by this illness for around 5-6 yera's.
+summarized question 20: What are the treatments for hand tremor?
+##
+query 21: SUBJECT: Possibility to Treat Eye Injury MESSAGE: When I was 7, my young brother suffered to me an eye injury. He used to play an inject bin that was injected my mother before a night. He directed me the inject bin as he was trying to frighten me for injecting. However, everything changed and he injected the bin to my eye. Now, I'm 21years old and my eye lost the vision and crossed, So what is the solution for me?
+summarized question 21: What are the treatments for vision loss?
+##
+query 22: SUBJECT: Need information abouot Folgard OS MESSAGE: Need information about Folgard OS. I am in U.S.A. but that wasn't listed as a choice of countries!
+summarized question 22: Where can I find information on folgard OS in USA?
+##
+query 23: SUBJECT: prob gum MESSAGE: My. Teeth gum blood comeing what medicine I use
+summarized question 23: What are treatments for bleeding gums?
+##
+query 24: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 24: What causes fibroid tumors on the spine?
+##
+query 25: MESSAGE: I have undergone Total Hip Replacement of both my hip jonts in 1977 (Charnley Process ) My left joint is completely worn out.How safe and effective is revision surgery..can I get a cementless joint..I am 66 years old..An early repy to my query will be very much appreciated.
+summarized question 25: Where can I find information on hip revision surgery, including risks and prognosis?
+##
+query 26: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 26: Does neurofibromatosis affect congestive heart failure?
+##
+query 27: SUBJECT: Cardiomegaly with chronic chest pain MESSAGE: With cardiomegaly chest pain will the heart muscle continue to thicken? Most all the doctors have given up trying to find the cause of his pain.  It has changed his life, he enjoys work and spending time outdoors and now he can't.
+summarized question 27: What  are the causes  and treatments of chronic chest pain with cardiomegaly?
+##
+query 28: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 28: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 29: SUBJECT: research on the treatment of Pruritic rash consistant with a drug reaction from Diltiazem in Africian- Americans. MESSAGE: I am an 86 year old senior and I have been suffering since December 2014 with a rash when Furosemide was added to diltiazem in order to lower my blood pressure in preparation for a knee replacement. Rash on arms , chest, face . It keeps recurring. Main treatment has been topical creams and steroid injections and pills of the same. Are there other treatments available? The itch is terrible. Two biopsies were done. One [LOCATION] the doctors are waiting for me to solve my problem. I have been to seven doctors in my area.  rresearch has been done Dr.[NAME] and Dr. [NAME] at [LOCATION]
+summarized question 29: Are there treatments for a pruritic rash other than topical creams and steroids?
+##
+query 30: Scleroderma (Systemic Sclerosis). i am 22yrs now and was 18th when i was detected with the disease in [DATE] 2010 after the conduction of Biopsy. there after i had taken PSS- Pulse for Systemic Sclerosis in which i was given Solumedrol for 9 months. and then after a gap of 6 months since the disease activity progressed i was given PSS again -Dexa for 3 months. along with this i am under medication with medicines as follows Depin, HCQS, Antoxid, Cyra, Omnacortil and Folitrax(weekly on saturdays and sundays). currently am under PSS which is done once in Every 6 months. but i am getting bad digital ulcers on my fingure tips on hands and legs both. i seriously need your help for this as to what else treatment can be done to it. please revert back soon
+summarized question 30: What new treatments are available for systemic sclerosis and scleroderma skin ulcers?
+##
+query 31: SUBJECT: Congestive Heart Failure MESSAGE: Why is my daily fluid intake limited to 2 liters?  What is so special about 2 liters as opposed to any other amount?
+summarized question 31: What is the recommended daily fluid restriction for Congestive Heart Failure?
+##
+query 32: "MESSAGE: I have a fungal infection on my two legs which i have treated  several month with Lamisil 1o/o cream ,Betamethasone-N cream and sulphur skin ointmentcream. And the drugs-: terbanfine, fuschin,ampiclus beecham vitamin ""c"" etc. But with all of these,the fungal still remain the same.pls, which strong antifungal drug or injection would you people recomend for me or what advice would you give ? Yours faithfully  [NAME]"
+summarized question 32: What are the treatments for severe skin fungal infections resistant to over the counter medications?
+##
+query 33: I NEED PARENT TRAINING. My 9 year old son has ODD and ADHD.  I’m in desperate need of an extensive parent training class. I don’t know what to do anymore and really need help.  My son says I do nothing for him after spending the entire day taking him places.  He yells and screams at me and tells me I’m a terrible mother.  He refuses to listen and I have to ask 10 times before he reacts. He will not do homework..  I have tried positive reinforcement…… Please I need someone that know their stuff..
+summarized question 33:

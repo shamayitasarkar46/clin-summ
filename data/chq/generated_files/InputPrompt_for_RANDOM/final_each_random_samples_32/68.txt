@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Scabbies/ treatment area MESSAGE: My husband and I had scabie . I used it in my vaginal area.  I don't know how to treat The reaction I'm having. I think I have burned the delicate tissue in that area.  What can I do to treat the reaction. Please help any suggestions?
+summarized question 1: How is sgenital cabies treated?
+##
+query 2: SUBJECT: Rubella MESSAGE: My grandson (4 yrs old) has contracted Rubella.  I know for sure he has had at least one of the vaccines.  They are living in Mexico right now.  Should we be worried?
+summarized question 2: What is the prognosis of rubella in a child?
+##
+query 3: Treatment for optic nerve atrophy.  Hello Name's case :[NAME] Sex : Male  Date of Birth : 1964 Nationality : [LOCATION] Diagnosis :  optic nerve atrophy .  i am suffering from optic atrophy, which led to loss of vision and inability to see, I suffer from this case from 1998 saluting suffered a fall on the head, which led to began this case even lost look, and have been performed process surgery in [LOCATION] in 1998-1999 .  And then in 2009 cured by reactive optic nerve by Russian Professor .   i want know you hospital have treatment for optic nerve atrophy , and what this treatment  i need more information about treatment of optic nerve because now  16 years old I can not vision, and I wish  could belive hope for treatment of my case. And i want know the cost of treatment . Thank you  Regards / [NAME]
+summarized question 3: What are the treatments for optic nerve atrhrophy and how much do they cost?
+##
+query 4: SUBJECT: inguinal hernia MESSAGE: I am a 75 year old man. I have 2 inguinal hernia. Do you offer any written pamplets on these.
+summarized question 4: Where can I find information on inguinal hernia?
+##
+query 5: SUBJECT: critical diabetic. looking for a implant MESSAGE: Hello, I am a type one diabetic. Ive recently heard about the pancreas implants. I just wanted to find out the process in which I would take to try an receive one.
+summarized question 5: What is the latest research on pancreas transplants for type one diabetes?
+##
+query 6: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 6: What is the half life of Chlordiazepoxide?
+##
+query 7: SUBJECT: Abscess in lungs MESSAGE: Is abscess in lungs curable?  My Dad has surgery and found 2 abscess in his lungs. After a week out of surgery room, he developed fluid. The doctor is telling us they can use the syringe to remove the fluid, nothing else can be done.   There is  a small bottle attached to his surgical area which is collecting liquid from infection.  Thank you for your reply. My dad is 84 yo.
+summarized question 7: What are the treatments for lung abscess?
+##
+query 8: SUBJECT: Gastroesophageal Reflux Disease MESSAGE: Can GERD BE CURED? I AM SUFFERING FROM THIS DISEASE FOR ALMOST THREE YEARS NOW.I HAVE GONE TO MANY HOSPITALS  BUT STILL CAN'T BE CURED.I HAVE BEEN GIVEN OMEPRAZOLE CAPSULES MANY TIMES.PLEASE HELP ME.
+summarized question 8: What are the treatments for GERD and can it be cured?
+##
+query 9: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 9: What are the causes of and treatment for scrotal rash?
+##
+query 10: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 10: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 11: Shakiness.  I have acquired a symptom of extreme internal body shaking. Sometimes I canyon even speak right or use a pen. A doctor yesterday asked if I had a recent thyroid checkup. I see my thyroid doc the end of March.  Usually they say my T4 levels are low. I'm confused when it comes to what levels the thyroid should be.  I also have chronic fibromyalgia.  Seems that is blamed on for a lot of my problems.  Thank you for this site.
+summarized question 11: What are normal thyroid levels, and can thyroid problems cause body tremors?
+##
+query 12: SUBJECT: New Hep C Virus Treatments MESSAGE: In 2006-2007, at the VAMC in [LOCATION], i went through the HEP C Treatment using Ribavirin and Interferon. My viral load was undetectable immediately at the BOT. I stayed on the treatment faithfully and painfully for a4 months; when at the EOT my viral load was still indictable. I was considered a success. When i came back after 6 months for a checkup, it was found my HCV had relapsed. Now I want to know what treatments are now available to me. I hear of these new wonder cures that have been approved in the past year and i want to be retreated. Please send me all the info you have on these new treatments while i wait here and die at age 45. I was exposed with the HCV virus from a tattoo while in the armed forces overseas.
+summarized question 12: What new treatments are available for recurrent hepatitis C?
+##
+query 13: SUBJECT: Plaquenil MESSAGE: I was recently diagnosed with lupus. A few months prior I had a terrible reaction to levofloxacin. My doctor wants to give me plaquenil. I am concerned as this is in the quinolone family. Should I be concerned? Is this a quinolone drug?
+summarized question 13: What are the contraindications for plaquenil?
+##
+query 14: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 14: How is thalassemia inherited?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 15: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 16: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child. How likely would B child pass it on their child?
+summarized question 16: What are the inheritance patterns for rickets?
+##
+query 17: Genetically Engineered Foods. I am a high school student currently in a science class called [ID].  During my research, I came across this web site that has helped me better my knowledge on the topic of genetically engineered food.  I was wondering if you could tell me about the risks that come with genetically engineered food and how the modification is actually conducted.
+summarized question 17: What are the risks that come with genetically engineered food, and how is the modification actually conducted?
+##
+query 18: Dear Sir Several diseases including skin cancer and hypovitaminosis D occur due to migration of dark skinned and light skinned people to each others habitats, I want to know what latitude woud be best for Fitzpatrick type IIIa skin, I mean, I'm moving to Portland, Maine is my skin best suited for UV rays there and what is the best skin type for Portland Maine, with regards on the ozone depletion that expose us to more UV,thanks. yours, [NAME]
+summarized question 18: What is the best latitude for someone with Fitzpatrick type III skin?
+##
+query 19: factors two and five together. My brother is getting tested for factor five because his daughter was tested and said to have factors two and five.Two is said to come from her mother. My question is if my brother has factor should I and my five children and grandchildren be tested? Thank you. [NAME]
+summarized question 19: What is the inheritance pattern of Factor five?
+##
+query 20: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 20: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 21: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 21: Where can I find information on SIDS?
+##
+query 22: SUBJECT: MS MESSAGE: Hi, my name is [NAME] my brother has MS Im searching for something that can help him. I love my brother and its so upsetting to see him slowing down Can you please let me know if there is something that can help. Many Thanks!
+summarized question 22: What are the treatments for MS?
+##
+query 23: SUBJECT: lupus MESSAGE: Hi,  I  want to know about Lupus and its treatment. Best,  [NAME]
+summarized question 23: Where can I find information on lupus and what are the treatments for it?
+##
+query 24: SUBJECT: nocturia MESSAGE: I had my Prostate removed by surgery because of Cancer several years ago. I have discussed this with my doctor and he cannot give me anything that will stop my having to get up 4-6 times during the night to urinate. I have no pain with it and the stream is normal. Your suggestions welcomed. Thank you.
+summarized question 24: What are the treatments for nocturia?
+##
+query 25: Dear Sir and Madame, i´m looking very urgently for help and i really hope you give me an answer. My name is [NAME], from Germany, [LOCATION], 25 years old. A year ago i got sick, Gorlin Goltz syndrome an mutation of the PCH1 Gen. My condition worsened and here in Germany, nobody can help me. Sry for my english, its not the best.  Ive heard from Gentechnik, so that defective genes can be exchanged or settled by cells or vitamins. Iam to young and i dont have much power. My doctors here in Germany partly dont know what to do and iam actually a strong person but I stay in an impasse. For me its no travel too far or too long. I fight for a long time but since I get every three weeks basaliomas I lose my zest for life. Im sure it gives an opportunity even if it is a larger intervention that I can be cured. Whatever how much it costs. I have read that they are furthest in the research which relates to cancer. I have a big heart, and no way is to long for me if you help me. PLEASE HELP ME!!! Best wishes [NAME]
+summarized question 25: What are the latest treatments for Gorlin Goltz syndrome?
+##
+query 26: Pupil Dilation.  How often can a pupil dilation or eye fundus can be performed? For example is there a problem if I had one last week and then to have another this week? I appreciate your quick answer.  Thank you
+summarized question 26: How often can pupil dilation be performed?
+##
+query 27: SUBJECT: Need glucosamine sulfate not containing shellfish meats MESSAGE: Can you please help me? I have been taking a glucosamine sulfate product with MSM for my arthritis. My nutritionist warned me I could develop a shellfish allergy if it is made from the shellfish meat. The customer service of the product that I am taking confirmed their product is made from the shellfish meat of 3 crustaceans. Can you direct me to how I can find this product not made from the meats, but the shells instead. (I don't want the vegetarian version because it is so hard on the stomach). I appreciate your help.
+summarized question 27: What glucosamine sulfate is manufactured only from shellfish shells?
+##
+query 28: SUBJECT: Rheumatoid arthritis MESSAGE: Dear Sir- my wife is suffering from subject since last couples of years, and recently diagnose that she is effected with subject. therefore i need your kind support for treatment and percussion step.  awaiting your kind reply and action. thanks and best Regards
+summarized question 28: What are the treatments for rheumatoid arthritis?
+##
+query 29: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 29: What are the treatments and prognosis for a child with AML?
+##
+query 30: SUBJECT: Daily Fluid Intake MESSAGE: What is the significance of keeping my daily fluid intake at @2 liters per day?  Why that particular amount?    I have been diagnosed with Congestive Heart Failure.  Thanks
+summarized question 30: For Congestive Heart Failure, what is the significance of keeping my daily fluid intake at 2 liters per day?
+##
+query 31: SUBJECT: Theophyline MESSAGE: I have been taking this drug since 1994.  Now my PCP will not prescribe it and has sent me to a pulmonary specialist who will also not prescribe it.  She wants me to take more expensive drugs such as Advair Diskus. Neither doctor has performed a serum Theophyline level.  The pulmonologist performed a PFt and ordered a methachlorine test which I cancelled.  I don't have asthma I have bronchitis.  Both doctors told me that it was extremely dangerous to take this drug for this long of a period.  I have had no problems with it.  Now that I have stopped taking it I don't feel as well as I did with it.  My questions are is it dangerous to take Theophyline long term? Should they have stopped the drug suddenly Like they did?  Please help me.  Thanks, [NAME] (I am 57 years old)
+summarized question 31: Are there adverse effects of long term Theophylline use, and how should Theophylline be stopped?
+##
+query 32: SUBJECT: High Blood Pressure MESSAGE: I know you may not answer this but my blood pressure comes up at night when I am asleep. I take four medicines. I have asked doctors why this happens and no one knows. This morning at four A.M. It was 164 and I took a clonidine to help get it done. It worries me so.
+summarized question 32: What causes a rise in blood pressure when asleep?
+##
+query 33: Lewy Body Disease. I have been researching Lewy Body Disease and have a few questions.1) Is this disease hereditary2) Does alcoholism play a role in the beginning process of this disease3) What are the initial symptoms of the diseaseAny information you could forward would be greatly appreciated.
+summarized question 33:

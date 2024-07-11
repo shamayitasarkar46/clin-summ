@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: MMR vaccine MESSAGE: My doctor recommended I get the MMR vaccine, which covers mumps, measles, and rubella.  Isn't rubella a form of measles?  As a child, I had the 3-day measles--was that German measles or the other kind?  As a child I also had mumps.  Do I really need the MMR or just a vaccine for the rubella?
+summarized question 1: Who should get the MMR vaccination?
+##
+query 2: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 2: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 3: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 3: Who should get the MMR vaccine?
+##
+query 4: SUBJECT: Laparoscopic Splenectomy MESSAGE: Dear Sir/Madam My brother [NAME] is diagnosed ITP. His doctor advises Laparoscopic Splenectomy for him. Can you please mail me detail and cost of this surgery. His Platletts count is decreased to 12 and his doctors giving him Injection Mebthera today to increase plattlets count. We are form [LOCATION], [LOCATION]. Please mail us as soon possible. Thanks & Best Regards [NAME]
+summarized question 4: Where can I find information on laparoscopic splenectomy, including cost?
+##
+query 5: SUBJECT: asthma MESSAGE: Question. What is the consensus of medical doctors as to whether asthma can be cured? And do you have an article discussing whether asthma can be cured?
+summarized question 5: What are the treatments for asthma and can it be cured?
+##
+query 6: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 6: What does w/exertion mean on a prescription for oxygen?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I HAVE A BOY 16 WHO JUST GOT OUT OF A PLACE THAT GAVE HIM MEDACATION,THES ARE THE MEDS.MONTELUKAST,LORATADINE,OXCARBAPINE. WHAT DISORDER ARE THEY FOR?
+summarized question 7: What are the indications for montelukast, loratadine, and oxcarbazepine?
+##
+query 8: SUBJECT: New drug, want are side affect/and how does help you. MESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You
+summarized question 8: Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?
+##
+query 9: SUBJECT: Cocaine Topical MESSAGE: Hi I wanted to inquire about NDC: 00527172874 Topical Cocaine. And how long the dye in the product lasts on the skin.
+summarized question 9: For Topical Cocaine NDC: 0527-1728-74, how long does the dye stay on the skin?
+##
+query 10: SUBJECT: G6PD deficiency adopted 1957 MESSAGE: My primary care says that even though I have had three blood tests that all confirm I am totally lacking the G6PD that my deficiency is unsubstantiated. Other than expensive genetic testing how to I get them to confirm this? I want need this in my medical records and a bracelet or necklace or something to wear that I have this so they do not give me drugs and/or vitamins supplements that I should not have at all and make me worse or kill me? I am adopted and the records are still sealed and I have a son and a daughter and four grandchildren that could have had this deficiency passed on to them so you see why this is important to me. I got injured at work years ago and they gave me some kind of anesthesia I should not of had to find a bleeder on the inside and sew it and then they could not wake me up for two days. Also same job required that I get yellow fever shot every six months. No wonder I felt so awfull back then. I do not want or need a repeat of this or worse for my family or myself again. Please how to do this as I only get $9.00 an hour. I am a [PROFESSION] female. How many more blood tests do I need to substantiate this? I ask questions but get told nothing/or told that this is unsubstantiated. I asked for a hematologist a specialist and I asked for a dietician to help me with the food avoidance and do not have problems since I have more than one condition to be concerned with it is difficult with only about $48.00 a week for foods.  Thank you for any comments or suggestions and for your time and attention to this matter. [NAME]
+summarized question 10: How is G6PD deficiency inherited and diagnosed, and what are the treatments for it?
+##
+query 11: SUBJECT: PROLIA SIDE EFFECTS MESSAGE: HAD 2ND INJECTION IN MARCH  LOTS OF RANDOM SIDE EFFECTS  HAD HEART RULED OUT WAITING FOR ESOPHIGUS BIOPSY REPORT.  MEANWHILE HEART AND MOUTH, NECK SYMPTOMS PERSIST.
+summarized question 11: What are the side effects of prolia?
+##
+query 12: SUBJECT: ingredient in apremilast. MESSAGE: I looked everywhere on web pages & google too. All just say what it comes from. I think there something in the apremilast ingredient that might effect my cielca disease. Can you  help me what's in apremilast?   Thank you,  Jerome
+summarized question 12: What are the ingredients in  apremilast?
+##
+query 13: what does it means if someone blood is light.  I took injection this night and the nurse said my blood is light, what's does that mean. Sinfe , have been worry.
+summarized question 13: Why is my blood a light red?
+##
+query 14: vagual nerve stimulation and depression.  have suffered for many years complicated by frequent migraines and little help from meds   like to learn more about vagual nerve stimulation
+summarized question 14: Where can I find information on vagus nerve stimulation for the treatment of depression and migraines?
+##
+query 15: SUBJECT: Voice MESSAGE: Hi I am wondering if anyone can help me get my voice back. I have ALS in my throat and I don't want to go out on a disability. I want to keep working. Thank you.
+summarized question 15: What are the treatments for voice disorders caused by ALS?
+##
+query 16: "SUBJECT: How is ""elderly"" defined in cautionarys regarding dosage. MESSAGE: Lower dosages of various medications are recommended for ""the elderly.""  Please define that age for me.  Thank you."
+summarized question 16: "How is ""elderly"" defined in drug precautions regarding dosage?"
+##
+query 17: MESSAGE: What should I do for my excess hair growth?? hair growth on legs ,they appear when I took oral contraceptive only two time ....but the excess hairs on legs are appeared since last year after heavy itching on legs.....!what diagnosis should I do?????
+summarized question 17: What causes excess haur growth on the legs and what are the treatments?
+##
+query 18: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 18: Is there a medication that can cause bleeding during sex?
+##
+query 19: ClinicalTrials.gov - Question - specific study.  I have hcv 3a,my doctor prescribed  sovaldi  ribavirin (24 weeks)I am looking for trials using the same medication.
+summarized question 19: Where can I find clinical trials for HCV genotype 3 using sovaldi ribavirin?
+##
+query 20: MESSAGE: I will love to try diet I need. To lose weight
+summarized question 20: Where can I get help with a weight-loss diet?
+##
+query 21: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 21: What are the treatments for lichen planus?
+##
+query 22: SUBJECT: Gout and Blood pressure MESSAGE: I have had many gout attacks since i have been 30 years old now 70 . I take allopurinol and blood pressure meds . Before i took allopurinol i never had high blood pressure . Also i have developed basal cell skin cancer i have heard allopurinol will cause that . Reduces acid in your system ?
+summarized question 22: What are the side effects of allopurinol?
+##
+query 23: SUBJECT: Arthritis on elderly MESSAGE: Is there something available, in English or Spanish, about Phisiotherapy specific for ankle arthritis? Just to know something more. There is a case in my Family and it is being followed by both a phisician and a phisiotherapist. My e-mail is [CONTACT]. Thanks. [NAME].
+summarized question 23: Where can I find information on physical therapy for ankle arthritis?
+##
+query 24: asthsma.  I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?
+summarized question 24: What are the symptoms of asthma?
+##
+query 25: Eye.  i do see black things what couse it? or likd a sand i my Eye? how can i get treatment?
+summarized question 25: What are the causes and treatments for eye floaters?
+##
+query 26: SUBJECT: adrenoleukodystrophy MESSAGE: A child I have been asked to work with has been diagnosed with this condition.I am so far unable to find info pertaining to this illness. Can you help??
+summarized question 26: Where can I find information on adrenoleukodystrophy?
+##
+query 27: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 27: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 28: SUBJECT: shingles MESSAGE: I work at the Airport and I am in contact with hundreds of people a day. I want to be sure that I am not going to expose people to Shingles. When is it safe for me to go back to work?
+summarized question 28: When is shingles contagious?
+##
+query 29: SUBJECT: Cypress Pharmaceuticals MESSAGE: Just found out from my pharmacy that Cypress Pharmaceuticals is going out of business and after next month he will no longer be able to supply me with the Cytra-K Crystals.  Please help, do you no of any other company that makes them?
+summarized question 29: Is there an alternative source for Cytra-K Crystals besides Cypress Pharmaceuticals?
+##
+query 30: "SUBJECT: Vamousse head lice treatment labe claims MESSAGE: To the best of my knowledge, any head lice treatment that claims to ""Kill"" lice and/or eggs is considered by FDA to be a drug claim and therefore needs to contain an FDA-registered pediculicide (kills lice) or an FDA-approved ovicide (kills eggs).  Otherwise the product is considered to be misbranded and a ""new drug"" requiring appropriate testing.  The ""Vamousse"" head lice treatment claims ""Kills 100% lice and eggs"" and does not conform.  In addition, the claim ""kills 100%"" is in violation of FTC rulings which prohibit claiming ""100%"".  This company has also introduced a Head Lice Prevention product which is also in violation of FTC rulings (see FTC vs Lornamead).  I think that you should research these issues and publish your findings.  Thank you."
+summarized question 30: Does Vamoose head lice treatment conform to FDA and FTC labeling guidelines?
+##
+query 31: SUBJECT: Gelatin MESSAGE: My daughter has a dairy allergy and I wanted to know about the gelatin used in your adderall xr capsules. Does it contain dairy proteins?  Thank you
+summarized question 31: What are the ingredients of adderall xr capsules, and is it dairy free?
+##
+query 32: SUBJECT: NEUROFIBROMATOSIS MESSAGE: Hi:  I have neurofibromatosis handed down by my Mother, (from what we understand was from spontaneous mutation).  I was diagnosed with an Optic Giloma about 25 years ago.  I have also been getting MRI’s to keep an “eye” on it (excuse the pun please), along with visual fields.  The last MRI, according to the radiologist, said it was not there and my Neurologist told me that they do disappear.  My question is, do Optic Giloma go away?  Thanks
+summarized question 32: Can an optic glioma in an adult spontaneously disappear?
+##
+query 33: Can I get my acid reflux surgery clipped to get lap band or would you suggest the sleeve or gastric bypass instead. What are possible complications if I get my acid reflux surgury clipped to get lap band? Thanks!
+summarized question 33:

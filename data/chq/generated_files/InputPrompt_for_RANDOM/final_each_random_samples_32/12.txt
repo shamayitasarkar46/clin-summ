@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: laser hair removal treatment.  I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!
+summarized question 1: Where can I find information on laser hair removal including long term consequences?
+##
+query 2: cinca sindrome. where the treatment of cinca sindrome.
+summarized question 2: What are the tratments for cinca syndrome?
+##
+query 3: I need help with a rare disorder Hello, As I stated I need help with a rare disorder. I have tested   positive for lupus then - negative I have tests   positive for a blood clotting disorder then - negative I have tested positive for Brain Vasculitus then brian Vasculopathy? I have tested positive for a Brain infection then not.  I don't know what to think.  I need a special testing center
+summarized question 3: Where can I receive comprehensive testing for difficult to diagnose symptoms?
+##
+query 4: SUBJECT: oleander poisoning MESSAGE: If oleandor was ingested by touching the plant stems inner part and then directly eating without washing hands, how long would u exspect symptoms would start? And how severe would you say symptoms may get.
+summarized question 4: When do symptoms of oleander poisoning appear after ingesting the plant, and how severe can they get?
+##
+query 5: SUBJECT: Stroke mobility equipment MESSAGE: Husband has had 3 strokes since 1990.  He refuses to take anymore maintenance therapy.  It is becoming more challenging to help him be mobile.  There does not seem to be any source to assist me in learning what equipment, etc.  I could or should get to help him and to help me in my role as caregiver.  Any help you can give would be much appreciated!
+summarized question 5: Where can I find information on stroke resources, including mobility equipment and caregiver support groups?
+##
+query 6: Need information about Thalassemia medical center in Aisa Hello dear sir/Madam, My son has Thalassemia, and i have been looking for his treatment. I need you to guide me where I can take my son for his treatment? actually, I am in Afghanistan and there is no hospital for his treatment. so please guide me
+summarized question 6: How can I find physician(s) or hospital(s) in Asia who specialize in Thalassemia?
+##
+query 7: medical articles.  I have been told that there are several medical case studies about Loin pain hematuria syndrome (aka LPHS) and Medtronic's Symplicity Renal Denervation medical equipment and that these cases have been published by PubMed.  However, I am unable to locate them.  Can you please recommend a way for me to locate and receive copies?  Thank you!
+summarized question 7: How do I find case studies in PubMed on loin pain hematuria syndrome and renal denervation?
+##
+query 8: SUBJECT: pitting edema MESSAGE: s it normal for the skin on my legs to have pitting edema even though my legs are not swollen it is there weather they are or not. I feel like my legs are made of playdough. LOL. but seriously I have rheumatoid arthritis,vasculitis,fibromyalgia.and idiopathic urticaria.
+summarized question 8: What causes pitting edema?
+##
+query 9: I have exercise induced asthma. Would any of these non drug devises be suitable please?
+summarized question 9: What nondrug devices are suitable for treating exercise induced asthma?
+##
+query 10: SUBJECT: loss of  taste MESSAGE: i  have  giant  cell arteritis.  on  steroids.  lost  taste  .  is  this  related  to  the  illness  (  was  it  ever  reported  in  GCA  ?  )  or  side  rx  to  prednisone.  i   wish  a  rheumatologist  at  NIH  responds
+summarized question 10: What causes loss of  taste and is it related to GCA or steroids?
+##
+query 11: SUBJECT: Medical Diagnosis of Asbestosis MESSAGE: My doctors hint that I have asbestosis but do not say I have asbestosis.  All the medical information that I have read from the CDC, Medlin and NIH all say that the symptoms presented are related to a high level of asbestos.  Why won't the doctor say it?
+summarized question 11: How is asbestosis diagnosed?
+##
+query 12: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 12: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 13: SUBJECT: Bleeding Gums MESSAGE: My brother has denture the lower denture hurts his gum and it makes it bleed and his gum is sore were he has a hard time to chew anything. He needs to know what can he do for it?
+summarized question 13: What are the treatments for bleeding gums under dentures?
+##
+query 14: SUBJECT: Klinefelter Syndrome MESSAGE: I would like to learn more about my condition. Please send me any literature you feel I could use. thanks, [NAME]
+summarized question 14: Where can I find information on klinefelter syndrome?
+##
+query 15: MESSAGE: Dear sir, I feel weak on my body aspecially in the morning. so I want to know the solution to my problem. because this is long time ago. in the body joints knees and arm. thanks.
+summarized question 15: What are the treatments for body weakness?
+##
+query 16: SUBJECT: about thalassemia treatment MESSAGE: sir,my friend is suffering from thalassemia ,in that majorly red blood anemia,white blood anemia and the blood is comming out from mouth when she got cough .her condition is very severe .in her body the red ,white blood cells are abscent .so that blood transfusion is doing for every 16-20days.then in the recent days the blood also comming out from mouth please tell me where can i get the treatment for this disease .we can travel around the world for treatment please reply me as soon as possible. thank you sir.
+summarized question 16: What are the treatments for thalassemia?
+##
+query 17: Williams' syndrome I would like to have my daughter tested for William's syndrome. Could you please tell me where I would go or who does it in my area?  Thank you!!
+summarized question 17: Where can I get genetic testing for william's syndrome?
+##
+query 18: SUBJECT: high inner eye pressure above 21 possible glacoma MESSAGE: have seen inner eye pressure increase as I have begin taking Rizatriptan. I understand the med narrows blood vessels.  Can this med.  cause or effect the closed or wide angle issues with the eye lense/glacoma.
+summarized question 18: Can Rizatriptan cause glaucoma?
+##
+query 19: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 19: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 20: hospital stay for a hitiala hernia to be removed?.  I have a hernia that needs to be removed how long would I be in the hospital after it is removed?
+summarized question 20: How long would I be in the hospital after a hiatal hernia removal?
+##
+query 21: My grand child was born on [DATE] with Multicystic dysplastic kidneys.  After reading your article I would like to know whether the stem cell could bring hope to this child. Is this possible?  How to go about? Cloning? Please give me something to work on.
+summarized question 21: What are the latest treatments for multicystic dysplastic kidneys, including stem cell therapy?
+##
+query 22: cant use site.  I want to find a doctor who specializes in burning mouth syndrome and that could be in many specialities, I cannot understand how to do this on your website.
+summarized question 22: How can I find physician(s) who specialize in burning mouth syndrome?
+##
+query 23: SUBJECT: Nephrotic Syndrome MESSAGE: What is Nephrotic Syndrome.  What are its causes and cures?
+summarized question 23: What is Nephrotic Syndrome, its causes and cures?
+##
+query 24: SUBJECT: Rheumatoid arthritis MESSAGE: Dear Sir- my wife is suffering from subject since last couples of years, and recently diagnose that she is effected with subject. therefore i need your kind support for treatment and percussion step.  awaiting your kind reply and action. thanks and best Regards
+summarized question 24: What are the treatments for rheumatoid arthritis?
+##
+query 25: I was trying get more information on Pain associated with Polycythemia Vera and medications usually used to treat pain in Polycythemia vera. Thank you, [NAME]
+summarized question 25: What treatments are available for  pain associated with Polycythemia Vera?
+##
+query 26: SUBJECT: Cure for hoe in lung MESSAGE: I certainly would like to request for medical for hoe in the lung  Please help all the necessary information on how to cure this hoe in lung, I have be try some medical here they are not help the situation. Please reply immediately with necessary information.
+summarized question 26: What are the treatments for water in the lung?
+##
+query 27: SUBJECT: Best Disease MESSAGE: There are 38 members of our family that have Best Disease. All members of the [NAME] family. Most of us live in [LOCATION].
+summarized question 27: Where can I find information on Best disease, including inheritance patterns?
+##
+query 28: MESSAGE: should Advair and Spiriva be used together?  It is my understanding that they are both control meds
+summarized question 28: Can Advair and Spiriva be taken together?
+##
+query 29: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 29: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 30: SUBJECT: chlameydia MESSAGE: If My test comes back positive for this dx..is it possible that it made my face break out?
+summarized question 30: What are the symptoms of chlamydia?
+##
+query 31: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 31: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 32: Metastatic malignant melanoma.  I've got skin cancer, and I want this treatment, but RBCs Btensl Is it possible that taking this medication
+summarized question 32: What are the treatments for metastatic malignant melanoma?
+##
+query 33: why does the united states have a high mortality rate of covid-19 than other countries
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Liquid Nutrition without Vitamin K MESSAGE: My Mother (age 84) is often not hungry and would like to try one of those liquid meals, but was told by her doctor not to take anything with Vitamin K in it.  I have looked at the labels on all of those products and they all have vitamin K in them.  Any ideas of where to look?  Thanks so much.
+summarized question 1: What nutritional drinks do not contain vitamin K?
+##
+query 2: I am a type 1 diabetic and have been since I was nine months old.  I am now 34 and would love to talk to anyone interested in trials on the reversal vaccine that I have read articles about.  I currently live in [LOCATION].  I was not sure if any local Endo Doctors are running trials similar, or would be interested in working with a patient that has had t1d for as long as I have.  I am very active in my community with JDRF and would love nothing more than to be cured of this terrible disease.  Please contact me via email or my cell# [CONTACT], I welcome any information that can be provided.  Thank you, [NAME]
+summarized question 2: Where can I find information on clinical trials for type 1 diabetes reversal vaccines?
+##
+query 3: Vitamins.  Can I take zinc and zinc citrate at the same time?
+summarized question 3: Can zinc and zinc citrate be taken together?
+##
+query 4: I had my house sprayed to eradicate crickets and spiders.  I immediately started feeling very ill. I had a very tight chest, racing heart pulse, terrible tiredness and sore throat and very sore red eyes. That was over a month ago.  I still have a very sore throat bad chest and sore eyes. Is it possible that the spray is still giving off a harmful effect in my home.  Every day I find masses of dead crickets and an assortment of flying insects lying all over my house.
+summarized question 4: How long will an insecticide application last in the house?
+##
+query 5: SUBJECT: Stroke Due to Aneurysm? MESSAGE: My son had a hemmorhagic stroke at 4 weeks of age....he is now 31 years old.  In the week leading up to the stroke he had a head cold and I had been giving  him infant cold drops.  After he had the stroke the doctors at the time could only say that it was a 'fluke' and would probably never happen again.  The reason for the stroke has haunted me ever since.  Now we just recently found out that my mother has a cerebral aneurysm and they say this can be hereditary.  So my question now is 'did my son have an aneurysm that burst or was it caused by a blood clot?...is there anyway of knowing or getting an answer to that question after the event has happened?
+summarized question 5: Can the cause of hemmorhagic stroke be determined many years later?
+##
+query 6: SUBJECT: pitting edema MESSAGE: s it normal for the skin on my legs to have pitting edema even though my legs are not swollen it is there weather they are or not. I feel like my legs are made of playdough. LOL. but seriously I have rheumatoid arthritis,vasculitis,fibromyalgia.and idiopathic urticaria.
+summarized question 6: What causes pitting edema?
+##
+query 7: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 7: What are the treatments for lactose intolerance and can it be cured?
+##
+query 8: Beckwith-Wieddeman Syndrome. I would like to request further knowledge on this specific disorder.
+summarized question 8: Where can I find information about Beckwith-Wieddeman Syndrome?
+##
+query 9: SUBJECT: I want to ask a question about botox MESSAGE: I want to know if botox is useful in treating someone who had a stroke and their left arm is crippled up? The man had a cerebral hemmorhage I want to know if this helps or not?
+summarized question 9: Can botox help arm paralysis?
+##
+query 10: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 10: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 11: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 11: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 12: pls guide us.  Dear sir/Madam pls guide us recently we found one of woman staying with us ,she coughing and blood coming from mouth so she went to doctor on 2012 they did blood test and sputm test ct scan also they didnt find anything ,recently she went to indonesia [LOCATION] ,they found repot was PROGRESSIVE DISEASE,ACTIVE LUNG TBINTHE RIGHT B2 AND B4 SEGMENS,THE EXUDATIVE LESIONS IS INCREASING WITH SMALL CAVITY .so what we have to do for her is this contages ,who is the pople staying with her need to do test ?pls guide me thank u my contact [CONTACT]
+summarized question 12: What are the treatments for tuberculosis, and is it contagious?
+##
+query 13: SUBJECT: Shingles MESSAGE: I am recovering from shingles. I am on antiviral medication. This is my second week with shingles. I have not experience any draining with my sores which are currently on the right side of my face close to my right eyebrow. My question is this: My husband is having surgery tomorrow, Can I go to the hospital with my husband?
+summarized question 13: When is shingles contagious?
+##
+query 14: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 14: What are the side effects of barium sulfate?
+##
+query 15: need up todate current treatment programs for advanced cancer plus informaton for hemp oil solutons for ths cancer.   pub med/ 21475304
+summarized question 15: What is the latest research on treatments for hepatocellular carcinoma, including hemp oil?
+##
+query 16: "My sister was diagnosed with meningitis 13 years ago and lost her sight. She's had multiple doctors tell her that she's lying about not being able to see or that they do not see why she can't see given that her eyes reacts to light. Fast forward 13 years, I spoke with her today and she was a little overjoyed. She said that ""she's been having good days"". I asked her to elaborate and she said that sometimes she can see shadows and sometimes she can see light. From my self-knowledge, I thought that this kind of vision loss could not be repaired. I'm writing you all for possible answers or if you could point me in the right direction toward getting them. Thanks in advance."
+summarized question 16: Can vision loss due to meningitis be restored?
+##
+query 17: MESSAGE: what is the latest news on tennitis, or ringing in the ear, I am 75 years old and have had ringing in the ear since my mid 5os. Thank you.
+summarized question 17: What is the latest research on tinnitis?
+##
+query 18: SUBJECT: adenoma carcinom pancreatic MESSAGE: Patient 65 year,without any other disorder has now diagnose solid adenocarcinom with 4 hepar metastases.IS possible treatment wit oncolytic virus with Gemcitabine? Who and where make it?
+summarized question 18: What are the treatments for pancreatic adenocarcinoma?
+##
+query 19: SUBJECT: Blood pressure MESSAGE: Take blood pressure med atenolol 50mg, blood pressure running 91/59 HR65, most of the time lower in the upper to mid 80's.  My doc is not in for 3 day's.  What can I do to raise it.  I am on anxiety, pain & muscle relaxers for a medical condition in my neck and legs that I can't have surgery on again.  Please how do I get my pressure back up until I can get to my doctor?  I am so tired and can't get rid of the headache.
+summarized question 19: What are the treatments for low blood pressure?
+##
+query 20: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 20: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 21: SUBJECT: Gluten Free Product? MESSAGE: HI, I was just wondering the source of the MALTODEXTRIN (UNII: 7CVR7L4A2D) in your product DEXTROAMPHETAMINE SULFATE- dextroamphetamine sulfate tablet NDC Code(s): 0555-0952-02, 0555-0953-02 . I was prescribed this medication and just wanted to make sure it was sourced from corn or something besides wheat because I am allergic to gluten!
+summarized question 21: What are the ingredients of dextroamphetamine sulfate and is it gluten free?
+##
+query 22: SUBJECT: burning rash MESSAGE: my left buttocks has painful sores a nurse at my work said to put cortisol10 cream on it but its not helping she thinks i got this by being in a dirty hottub! i hope its not something bad. please help
+summarized question 22: How can I get help for a burning rash on my buttocks that does not respond to OTC hydrocortisone cream?
+##
+query 23: Ostiogenesis Imperfecta. Is it possible to take out whatever causes this disease out of a persons gene to stop this in my family.
+summarized question 23: How is Osteogenesis imperfecta inherited and is it possible to stop it?
+##
+query 24: SUBJECT: Operation for Pectus Excavatum MESSAGE: Dear Medical Doctors,  Good day!  We are a resident of [LOCATION] (previously affected with super typhoon Haiyan). We have noticed with our nephew who is 16 yrs old now that his breast is not normal the same with the other nephew that we have having the same age. As we start to consult our physician's in [LOCATION], they told us that it is just normal, however, we are worried because as we can it is a symptom of Pectus Excavatum. We want to know from you the details what to do if we want our nephew to undergo this kind of operation to correct the ribs in his breast (pectus excavatum)?  Hope to hear from you. Thank you very much.   [NAME]
+summarized question 24: Whare can I find information on surgery for Pectus Excavatum?
+##
+query 25: SUBJECT: Heightened Sense of Smell MESSAGE: Is there any information on heightened sensitivity to smells? I have difficulty smelling fragrances and chemicals especially cleaning chemicals. I sometimes have distorted smells or smells that aren't  there. It started over 6 years ago with a weird smell in my nose for days.
+summarized question 25: Where can I find information about heighted or distorted sense of smell?
+##
+query 26: MESSAGE: Dear Sir I am newly marrired. Now from few days i am suffering erection problem. Pls suggest me. Thanks [NAME]
+summarized question 26: What are the treatments for erectile dysfunction?
+##
+query 27: Genetically Engineered Foods. I am a high school student currently in a science class called [ID].  During my research, I came across this web site that has helped me better my knowledge on the topic of genetically engineered food.  I was wondering if you could tell me about the risks that come with genetically engineered food and how the modification is actually conducted.
+summarized question 27: What are the risks that come with genetically engineered food, and how is the modification actually conducted?
+##
+query 28: SUBJECT: Tamsulosin MESSAGE: Is Tamsulosin gluten-free and where is it manufactured? Thank you. [NAME], RN, BA
+summarized question 28: Is Tamsulosin gluten-free and where is it manufactured?
+##
+query 29: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 29: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 30: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 5 yr old Grandson has Tourette's, his Dad, my son also has it. His 7 yr old brother picks his arms and leaves scars, Is there anything we can do? He has been to A Neurologists once, and he said to keep records of the 6 yr old and to come back in 6 mo, or sooner if things get worse.
+summarized question 30: What are the symptoms of tourette's syndrome and their treatments?
+##
+query 31: SUBJECT: Airborne contact dermatitis from methylchloroisothiazolinone in wall paint. Abol MESSAGE: Hello,  I've read this article (http://www.ncbi.nlm.nih.gov/pubmed/10750849) because I have a dermatis caused by Airborne contact from methylchloroisothiazolinone in wall paint. I knwo since 1 year that I have allergie of methylchloroisothiazolinone but I didn't know it could be airborne so afte rmy husband had paint the bedroom I have begin to have dermatis, eczema and I look after the cause so I heard about airborne contact dermatitis  from methylchloroisothiazolinone in wall paint. I want to know how many times the properties of methylchloroisothiazolinone are in the wall paint ? It is enough to aerate the room and how many time ? Or should we remove the paint on ceiling, wall and painted cabinet ? I read your article about  inactivation by sodium bisulfite, how can we do that ? thanks a lot for your help because none give me answer at hospital about these questions. excuse me for my english!! Best regards,
+summarized question 31: What are the treatments for contact dermatitis from methylchloroisothiazolinone in paint?
+##
+query 32: MESSAGE: Is TDM-1 DRUG CAN BE USED TO IMPROVE IMMUNE TO MALE PATIENT WHO HAS METOSTASIS IN BRAIN,LUNGS?  THANK YOU [NAME]
+summarized question 32: Can TDM-1 drug be used to treat brain/lung metastatic cancer?
+##
+query 33: SUBJECT: MMR second dosage by mistake. MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 33:

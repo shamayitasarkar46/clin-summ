@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 1: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 2: SUBJECT: Cervical Cancer MESSAGE: Can a long term untreated bladder infection aid in the cause of cervical cancer? And can the fact that my mom has cervical cancer aid in my chance of getting cervical cancer?
+summarized question 2: What causes cervical cancer, and is it hereditary?
+##
+query 3: SUBJECT: Gelatin MESSAGE: My daughter has a dairy allergy and I wanted to know about the gelatin used in your adderall xr capsules. Does it contain dairy proteins?  Thank you
+summarized question 3: What are the ingredients of adderall xr capsules, and is it dairy free?
+##
+query 4: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 4: How long does swelling from sleep apnea take to heal?
+##
+query 5: TMAU.  Please find a way to research TMAU And how to cure it with gene therapy. I'm tired kg smelling like fish/feces And getting talked about everyday of my life.
+summarized question 5: What is the latest research on TMAU and treatments for it?
+##
+query 6: cinca sindrome. where the treatment of cinca sindrome.
+summarized question 6: What are the tratments for cinca syndrome?
+##
+query 7: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 7: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 8: ClinicalTrials.gov - Question - specific study. Hello! My daughters name is [NAME] and she has Trisomie 13 (free). She's now 15 month and I would like to find studies - how old is oldest child with this Syndrom? Many greetings from [LOCATION]. [NAME]
+summarized question 8: What is the life expectancy of someone with free trisomy 13?
+##
+query 9: SUBJECT: instructions MESSAGE: I purchased PH Test Strips and after receiving them I saw that there were no instructions included. I don't know how to use them and need some help with that. Could you please explain how to use them. Thank You, [NAME]
+summarized question 9: How do I use pH test strips?
+##
+query 10: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 10: What are the treatments for mouth ulcers?
+##
+query 11: SUBJECT: ingredient in apremilast. MESSAGE: I looked everywhere on web pages & google too. All just say what it comes from. I think there something in the apremilast ingredient that might effect my cielca disease. Can you  help me what's in apremilast?   Thank you,  Jerome
+summarized question 11: What are the ingredients in  apremilast?
+##
+query 12: Hello, Im sorry about my mom, she has black her mounth, neck and arms, her skin is changed in color black, she has diabetes, she inyects insuline. Can you reccomend me something please?    Sent from my MetroPCS 4G Android device
+summarized question 12: What treatments are available for diabetic skin darkening?
+##
+query 13: SUBJECT: Levothyroxin tab 0.05 MG MESSAGE: I am happy to note that all of your medications are gluten free.  The Levothyroxin tab 0.05 MG is gluten free, ***IS THERE ANY DAIRY (including lactose, casein) in the Levothyroxin Tab 0.05 MG? Thank you!
+summarized question 13: What are the ingredients of levothyroxin and is it dairy free?
+##
+query 14: MESSAGE: There is a lot of collection. Its good. But I dont find my problem and suggestion. I want to know about male Reproductive
+summarized question 14: Where can I find information and help for male reproductive health?
+##
+query 15: SUBJECT: Mayonnaise and food poisoning MESSAGE: I have researched many other sites that say that mayonnaise is a safe food and that it is a myth that it causes food poisoning.  It seems to get a bad rap because it is used in combination with other items that cause food poisoning.  Some sites insist that it can even prevent the onslaught of bacterial growth, thus helping to ward off food poisoning because of its acidic nature.  Apparently it often used to be made at home, with eggs, and the eggs would go bad.....mayonnaise has thus carried this stigma ever since.  But many sites insist it is safe.  I was wondering what you think of these findings?   Thank you!
+summarized question 15: Does mayonnaise cause food poisoning?
+##
+query 16: MESSAGE: Hi I have aquestion regarding the chikenpox vaccination. My son is now 9 years old and got his  1st dose of chikenpox vaccine in September 2007 and the second does skipped then.so please guide me if my son could gey the vaccine once again now.
+summarized question 16: Where can I find information on chickenpox vaccination schedules?
+##
+query 17: MESSAGE: I am 23yr boy,i have knock knees i want treatment. Please help me.
+summarized question 17: What are the treatments for knock-knee?
+##
+query 18: SUBJECT: Please help me MESSAGE: I have been dealing with undiagnosed issues. It started 3 years ago as nausea and dull achy pain. Doctors decided to remove my gallbladder, even though it only had scarring. Since the surgery ([DATE]) I have had a sharp, stabbing random pain in that area and around it. I also get dull, crampy pain. Finally, the surgeon ordered a CT scan because the pain is so bad. His nurse called and said everything was fine. So I went to my primary, who noticed that I have ascites on my liver. My side is slightly bloated, was not before. And I am scared because I don't know what I'm supposed to do. No one will help me and I do not want to be on pain meds my whole life.  Please let me know your thoughts or guide me in the direction I need, please.  I live in south carolina, i dont know why when I made my email it had the co.uk
+summarized question 18: What are the treatments for ascites?
+##
+query 19: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 19: What are the treatments for severe endometriosis in adolescents?
+##
+query 20: "SUBJECT: How is ""elderly"" defined in cautionarys regarding dosage. MESSAGE: Lower dosages of various medications are recommended for ""the elderly.""  Please define that age for me.  Thank you."
+summarized question 20: "How is ""elderly"" defined in drug precautions regarding dosage?"
+##
+query 21: MESSAGE: Sir .my problem based on nerves ..my sister legs nerves tried  each other how i can treat
+summarized question 21: What are the treatments for leg nerves?
+##
+query 22: SUBJECT: concussions and long term head trauma  from abuse Ii MESSAGE: I was a victim from an abusive relationship, both verbal and physical. During this time I received substantial injuries to my head. Slight concussions led to full-fledged concussions, losing the ability to talk very well, then think very well, and a subdural hematoma, on the left side, bled down inside my head to behind my left eye, which made it unable to move. Along with an intense headache and drinking a lot of coffee, the neurosurgeon didn't have to do brain surgery,  as my eye finally moved!Battered Women's told me to get out of the area a stay gone if I wanted to stay alive. So I did! Speech Therapy helped considerably, the story goes on.  Anyway, I hear and read a lot about concussions and head trauma for football players,  young and old,  and wonder if any studies have ever been done for women?   A few years ago,  I had a partial stroke,  but enough to set me back a bit.  But this time I know what I need to do to help fix my head,  again.
+summarized question 22: What is the latest research on concussions and head trauma in women?
+##
+query 23: ClinicalTrials.gov - Question - general information.  where can I find someone or some place in Boston Massachusetts to get thahlidomide treatments for melanoma, skin cancer [NAME], [LOCATION]
+summarized question 23: How can I find physician(s) or hospital(s) in Boston who specialize in thalidomide treatments for melanoma?
+##
+query 24: SUBJECT: Chlordizepoxide MESSAGE: Hello and respect.. how long is the half life of Chlordizepoxide please?and when is the most effcetive of this drug??..this quastion is very important for my study,,thats why answer to me please as soon as..thanks a lot
+summarized question 24: What is the half life of Chlordiazepoxide?
+##
+query 25: MESSAGE: Is it okay to drink alcohol in moderation when taking Ampicillin.  I was told it negates any medical effect of the drug
+summarized question 25: Can I drink alcohol while taking Amoxicillin?
+##
+query 26: SUBJECT: DECUBITUS ULCERS MESSAGE: To Whom This May Concern, My name is [NAME], i am a year 12 student at [LOCATION], [LOCATION]. I am doing a subject called research project, it is a compulsory subject.  My question is 'What are the biological causations of decubitus ulcers?' I am writing to you as i am in need of primary information from medical professionals. I am requesting that you complete a survey. If you are willing to participate please email me on; [CONTACT]   so i will be able to give you the survey and a letter detailing what it is for.  Thank You for spending your time reading this email, and i look forward to hearing from you. Yours Sincerely,           [NAME], Year 12 student at [LOCATION]
+summarized question 26: What causes decubitus ulcers?
+##
+query 27: SUBJECT: grievance counseling MESSAGE: My father passed away [DATE].  Hospice helped our family with his passing and offered us counseling which at that time our family didn't use.   My brother is now interested in counseling services and I'm wondering if I can get some information on this.   Thank you.
+summarized question 27: Where can I get information on grief counseling and support groups?
+##
+query 28: asthsma.  I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?
+summarized question 28: What are the symptoms of asthma?
+##
+query 29: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 29: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 30: hi. i'm a student that suffers from Pectus excavatum (funnel chest), and i need help to pass it. please give me some way to get the solution of this problem. waiting for your answer. please need help!
+summarized question 30: What are treatments for pectus excavatum?
+##
+query 31: SUBJECT: phinomea shot MESSAGE: when should this shot be taken, at what span of years... I'm 77 yrs. old.
+summarized question 31: When should you get a pneumonia vaccine?
+##
+query 32: SUBJECT: shingles MESSAGE: I am having symptoms of shingles, no rash or blisters, is it too late to get the vaccine? I have had the chicken pox and take acylovir on a as needed basis for blisters I get on my buttocks
+summarized question 32: I am having symptoms of shingles; is it too late to get the vaccine?
+##
+query 33: when to start anohter round of antibiotics? how long can you wait to start a new dose of an antibiotic? 
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: Tailbone trauma - aftercare  I read the article, but what if the person hasn't falling or been bumped?  What could cause this?
+summarized question 1: What causes tailbone injury?
+##
+query 2: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 2: What are the treatments for kidney stones?
+##
+query 3: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 3: What is the prognosis and course of recovery after stroke?
+##
+query 4: Fibrodysplasia Ossificans Progressiva. I just received a new patient at the age of 3 years old with the diagnosis Fibrodysplasia Ossificans Progressiva.  She has spent the last several months in [LOCATION] and has come back to this country for financial reasons.  I am one of two pediatricians in the county and the closest pediatric specialist are between 1.5 to 3 hours away.  I would like the specialists that are recommended for the condition and if OT or PT is helpful for the patient.
+summarized question 4: What are the treatments for fibrodysplasia ossificans progressiva, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 5: My wife suffers from MS since 1991, where the base is cognitive only. She has no physical signs of MS. I would like to consider more info on the stem cell research, anything you could offer would be appreciated.
+summarized question 5: Where can I find information about stem cell therapy for multiple sclerosis?
+##
+query 6: SUBJECT: ball and socket joint MESSAGE: sir, with due respect I would like to state that there is a pain in my ball and socket joint . I didn't feel and pain in normal or lower position as I up my hard there is a huge site of pain in my ball and socket joint. please prescribe a medicine for the cure .
+summarized question 6: What are the treatments for joint pain?
+##
+query 7: SUBJECT: shingles MESSAGE: Hi I had shingles a while ago on my left forehead and above my eye, not long after it started again, this time under my left breast, extremely painful and am wondering can this start again ? ty [NAME]
+summarized question 7: Where can I find information on recurrent shingles?
+##
+query 8: SUBJECT: Home resources for AMD people MESSAGE: What specific resources are available for an elderly male living by himself at home?  My father in law is 85 years old, lives alone and has macular degeneration.  Looking for visual aids to assist him around the house.
+summarized question 8: What resources are available for elderly with age-related macular degeneration?
+##
+query 9: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My sister have htlv-1 we are looking information or processing can help.   MI hermana es de Colombia ella tiene este virus de htlv-1 pero en Colombia no saben como tratar este virus ya que es muy raro y ella esta buscando un lugar donde puedan ayudar con su problema de salud ella esta dispuesta someterse a pruebas con las células madre adultas.
+summarized question 9: Where can I find information on htlv-1?
+##
+query 10: SUBJECT: pots puffy tumor MESSAGE: what will happen to a 53 year old woman who has been dignoised with pots puffy tumor if she doesnt have the surgery? she has been on antibiotics for akmost a year now but scared to have surgery and it is getting worse thank you for your time [NAME]
+summarized question 10: What is the prognosis for untreated pott's puffy tumor?
+##
+query 11: CITROBACTOR FREUNDII.  Does ciprofaxin work well? Is there a better drug if so what.
+summarized question 11: What are the treatments for citrobacter freundii infection?
+##
+query 12: SUBJECT: Shingles MESSAGE: I am 67 year old female. Very healthy accept I had shingles in my mid 50.Started on one side later had on both sides. I suffered through shingles for many years, finally I can say I have recovered 95%. Because I am still sensitive in my back and  head. I can live with that. I will be going through a major teeth work, implants. My question is does the shingles effect your gum nerves,  tissue and gum bones? Has any research being done in this area also?
+summarized question 12: Can shingles affect the teeth and gums?
+##
+query 13: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER??  WHICH ARE THE BEST?? [CONTACT]
+summarized question 13: What are the best creams for skin cancer?
+##
+query 14: SUBJECT: SKIN CANCER?? MESSAGE: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER?? 1. WHAT EFFECT DO SKIN CREAMS WITH VIT C HAVE ON SKIN CANCER? 2.WHAT EFFECT DO SKIN CREAMS WITH ASPIRIN HAVE ON SKIN CANCER?
+summarized question 14: Are skin creams with vitamin C or aspirin a treatment for skin cancer?
+##
+query 15: Question..for the past 3 4 years I was get infection in my testis ball ( right hand side) now a day my Siemens come out in very low quantity and very thin in weight...give me some solution or advice .now I am getting married two months ago..and I m worried for our future
+summarized question 15: What are the treatments for low sperm count?
+##
+query 16: my mom 75 old suffering from cryptococcal menimgtisneef an assisstance.  I am desperate looking for a strong medicine that can help mom she is suffering from cryptococcal meningitis she is 75 years  old
+summarized question 16: What are the treatments for cryptococcal meningitis?
+##
+query 17: SUBJECT: I am going to start the latest treatment for HEP C. MESSAGE: I just received the results from my recent blood test results, which says that I have a higher than normal Alkalilne Phosphatase.  Is there some type of drug to correct it, or is it norman?  Will I receive permanent, horrible results?  Is there some kind of drug or vitamin that I need less of or change of blood work?  I do take Lamital and Risperdol-besides little normal ones-I have brain damage. Can I still get treated to loose HEP C?
+summarized question 17: Should high Alkaline Phosphatase be treated and can I start treatment for hepatitis C?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 18: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 19: My name is [NAME] and i am 45 years old and come from [LOCATION]. I got involved in a shock cerebral (Brain stroke in Cerebellum) and took apoplexy cerebral. I did a surgery for placing shunt. After my surgery i lost my body balance to some extent. Now i am trying to improve my condition with physiotherapy, swimming and etc. My doctor says the shunt is not necessary longer. I found your name between scientists which are involved in research on brain stroke so my request is if you could advice me with new methods for curing my problem. I can come to [LOCATION] if needed to do further therapy for my problem. I would be very thankful of your help
+summarized question 19: What are the treatments and recovery for cerebellar stroke?
+##
+query 20: SUBJECT: still very sore under my middle rib cage and little swollen MESSAGE: any suggestions for this discomfort ? sore and swollen from auto accident was wearing seat belt.
+summarized question 20: What are the treatments for rib pain and swelling after car accident?
+##
+query 21: ClinicalTrials.gov - Question - specific study. Do you have any more indepth information regarding pseudocholinesterace deficiency? My son 28 and myself 56 have this problem and we both have systemic muscle spasms. cramps contractions. Most seem to be caused by knots or trigger points. I assume this has something to do with this deficiency because it deals with neuro transmissions correct. Anyway we are looking for relief. The muscle relaxants help a bit but the knots do not go away and so the pain is still there at a deeper level. The doctors and neurologist have no idea. Thank you. [NAME]
+summarized question 21: Where can I find information on pseudocholinesterase deficiency icluding treatment?
+##
+query 22: SUBJECT: Bipolar and Generalized Anxiety Disorder MESSAGE: I read about TMS Therapy.  Do you know anything about it?  Has it had success?  Also wondering about ECT?  Finally, I've been told acupuncture can help for mood disorders.  Is that true for mixed bipolar and generalized anxiety disorder along with meds?  Have you ever heard of this?
+summarized question 22: What are the treatments for bipolar disorder with generalized anxiety disorder?
+##
+query 23: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 23: What is the difference between residual and recurrent maligancy?
+##
+query 24: thyroid panel prep.  Do I need to prepare in any specific way for the thyroid panel?  Do I need to fast?  I have been taking a very low dose of Lithium nightly.  How long do I need to stay off of it before having the panel done?
+summarized question 24: What preparations are required for a thyroid panel test?
+##
+query 25: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 25: Can I take Metformin pills given to me by someone else?
+##
+query 26: SUBJECT: I want to ask a question about botox MESSAGE: I want to know if botox is useful in treating someone who had a stroke and their left arm is crippled up? The man had a cerebral hemmorhage I want to know if this helps or not?
+summarized question 26: Can botox help arm paralysis?
+##
+query 27: SUBJECT: Excessive Eye Water MESSAGE: Thank for your information on my earlier question regarding what is causing skin itching. I have another question on another problem that I'm having. This problem is excessive eye water (tears) occurring all the time and filling my nose up mostly at night and stops using my nose while in bed after a couple of hours. This there any medicine that would reduce all these excessive tears?
+summarized question 27: What are the treatments for watery eyes?
+##
+query 28: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 28: How can I locate a support group for patients with taste and smell disorders?
+##
+query 29: MESSAGE: Bleach on bed sores? Yes or no? Hear to add water and rag?
+summarized question 29: Can I put bleach on bed sores?
+##
+query 30: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 30: What are the causes of and treatment for scrotal rash?
+##
+query 31: asthsma.  I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?
+summarized question 31: What are the symptoms of asthma?
+##
+query 32: hi. i'm a student that suffers from Pectus excavatum (funnel chest), and i need help to pass it. please give me some way to get the solution of this problem. waiting for your answer. please need help!
+summarized question 32: What are treatments for pectus excavatum?
+##
+query 33: I had surgery in 2011. I had an injury from a gunshot and the doctors put a stent in my carotid artery. I want to play sports. I am sure basketball is fine. I do not know about football since it is mainly a contact sport. Has anyone ever played football witha a stent in their neck ? I know there are some details I should note before furthering my want of playing sports.
+summarized question 33:

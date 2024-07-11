@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Testo-XL mixed Male Libido XL MESSAGE: I want to find out is it got any side effect if I take both medicine as above together? I'm new user, not so sure about both products if mixed together. Is it will harm my health? Please give me some advise and usage about both  medicine. Thank you.
+summarized question 1: Can Testo-XL and Male Libido XL be taken together?
+##
+query 2: SUBJECT: Scabbies/ treatment area MESSAGE: My husband and I had scabie . I used it in my vaginal area.  I don't know how to treat The reaction I'm having. I think I have burned the delicate tissue in that area.  What can I do to treat the reaction. Please help any suggestions?
+summarized question 2: How is sgenital cabies treated?
+##
+query 3: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 3: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 4: SUBJECT: burning rash MESSAGE: my left buttocks has painful sores a nurse at my work said to put cortisol10 cream on it but its not helping she thinks i got this by being in a dirty hottub! i hope its not something bad. please help
+summarized question 4: How can I get help for a burning rash on my buttocks that does not respond to OTC hydrocortisone cream?
+##
+query 5: SUBJECT: Pessary in while doing Kegels? Yes or no? MESSAGE: Hi. I have been using a pessary for a number of years and was happy with the help it provided. Lately I've been experiencing prolapse worsening during and after particular exercises so I reduced those type of exercises and decided to do more kegel exercises. My question is should I remove the pessary while doing kegel exercises?
+summarized question 5: Should I remove my pessary while doing Kegel exercises?
+##
+query 6: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 6: What options are available for scar repair?
+##
+query 7: SUBJECT: possible metoclopramide side effects MESSAGE: I started taking thismedication 3/27/14, two tablets by mouth twice daily. I have now developed mouth sores on the inside of my lower lip (almost at the bottom). Could these be a side of effect of this medicine?
+summarized question 7: Are mouth sores a side effect of metoclopramide?
+##
+query 8: SUBJECT: DECUBITUS ULCERS MESSAGE: To Whom This May Concern, My name is [NAME], i am a year 12 student at [LOCATION], [LOCATION]. I am doing a subject called research project, it is a compulsory subject.  My question is 'What are the biological causations of decubitus ulcers?' I am writing to you as i am in need of primary information from medical professionals. I am requesting that you complete a survey. If you are willing to participate please email me on; [CONTACT]   so i will be able to give you the survey and a letter detailing what it is for.  Thank You for spending your time reading this email, and i look forward to hearing from you. Yours Sincerely,           [NAME], Year 12 student at [LOCATION]
+summarized question 8: What causes decubitus ulcers?
+##
+query 9: SUBJECT: Suggestion on ILD problem MESSAGE: Dear I am suffering from ILD problem as per my doctor suggestion I am taking the home oxygen on this problem. Can you suggest me the perfect medicine on this problem it is helpful for my day to day activities as well as improve my life style.  Please suggest  I am waiting for your reply.  [NAME]
+summarized question 9: What are the treatments for ILD?
+##
+query 10: MESSAGE: I am taking Metformin and I am concerned about how can I cut back without any dangerous side effects; at the moment I weigh 182lbs. where I was weighing before at 220lbs. Is it possible I don't need to take this medicine anymore or is their another prescription medicine that I can take to replace that is not so strong, the one I have  is 500mg 60 tablets.
+summarized question 10: Should metformin dosage be reduced after weight loss?
+##
+query 11: Crainosynstosis. My 2.5 year old daughter has this condition with the metoptic, Sagittal and bi-coronals sutures prematurely fusing. Do you know if any syndrome deals with those three fusing together?  She also has flabby eyelids, a flatter/wider nose, a blueish tint around her nose and the metoptic suture, fat big toes, deep lines on her hands, shorter chubbier hands, somewhat sucken eyes, a butt dimple (ruled out tethered spine) and rule out a displaced anus. I am in between genetics doctors.Thanks, [NAME]
+summarized question 11: What syndromes are associated with Craniosynostosis?
+##
+query 12: SUBJECT: questins MESSAGE: i am looking for the latest evidence based practice on guidelines for assessing and treating Alcohol and Opiate withdrawal. Thanks.
+summarized question 12: What are the latest evidence based treatments for alcohol and opiate withdrawal?
+##
+query 13: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 13: What does w/exertion mean on a prescription for oxygen?
+##
+query 14: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 14: When is shingles contagious?
+##
+query 15: SUBJECT: Duloxetine DR 20 mg casules. MESSAGE: I started taking Cymbalta about three months ago.  I recently developed curvature of the spine.  Could this curvature being caused by the Cymbalta?  My pharmacist wasn't sure and suggested I contact you.  Thanks!
+summarized question 15: Can Cymbalta cause curvature of the spine?
+##
+query 16: SUBJECT: Low Red Blood Cell Count MESSAGE: If a patient's Red Blood Cell Count becomes low because of a 3-month medicine regimen, will the RBC normally increase back to normal when the intake of prescribed drug ceases? Thank you. [NAME]
+summarized question 16: Will a low red blood count return to normal after the responsible medication is stopped?
+##
+query 17: SUBJECT: POMEGRANATE MESSAGE: Rosuvastatin (Crestor) Rosuvastatin (Crestor) is broken down by the body in the liver. Drinking pomegranate juice might decrease how quickly the liver breaks down rosuvastatin (Crestor). This might increase the effects and side effects of rosuvastatin (Crestor).  My question is what about Lipitor?
+summarized question 17: Does Lipitor interact with pomegranate juice?
+##
+query 18: Hello! Ive just become handicap.  I need to learn how to live handicap.  I live in [LOCATION]
+summarized question 18: How can I learn how to live with a handicap?
+##
+query 19: McArdle's Disease.  Is there any evidence that trauma such as a physical injury i.e., neck injury, torn ligament, etc., can worsen McArdle's disease?
+summarized question 19: Does trauma worsen McArdle disease?
+##
+query 20: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 20: Where can I find information on familial mediterranean fever?
+##
+query 21: MESSAGE: I was told not to take the shingles vaccine..i have many healthe problems and many allergies…
+summarized question 21: When is the shingles vaccine contraindicated?
+##
+query 22: May I can find a cure for my case in therapeutic your center that I have an infection chronic granulomatous Mastitis take and how much the treatment period. Please advise me of the post by you.to this my Email Note : that I have all the medical reports and tests for this disease ??? this case of my wife and can be send your comment by below E-mail
+summarized question 22: What are the treatments for chronic granulomatous mastitis?
+##
+query 23: MESSAGE: I have been dealing with an autoimmune disease for almost 4 years now, I've been tested for many things and the doctors can't seem to find what excactly is wrong. It began with pain, swelling and stiffness in my feet and  toes.A lot of the pain is joint stiff n ess and my skin feels like its being burned. Over time it has moved into my knees also. I am always tired. Recently I've been getting pains in my stomache and feeling sick. Does any of this sound like Lupus?? I've tested negative for it before, but the more I read about it I feel that's what i could have. Any ideas would be greatly appreciated.
+summarized question 23: What are the symptoms of lupus?
+##
+query 24: SUBJECT: NEUROFIBROMATOSIS MESSAGE: Hi:  I have neurofibromatosis handed down by my Mother, (from what we understand was from spontaneous mutation).  I was diagnosed with an Optic Giloma about 25 years ago.  I have also been getting MRI’s to keep an “eye” on it (excuse the pun please), along with visual fields.  The last MRI, according to the radiologist, said it was not there and my Neurologist told me that they do disappear.  My question is, do Optic Giloma go away?  Thanks
+summarized question 24: Can an optic glioma in an adult spontaneously disappear?
+##
+query 25: SUBJECT: taking the berry  smothie redi cat 2 MESSAGE: is it normal of the patients stool to be totally deep deep blood red? my husband [NAME] took 1 bottle of the berry smoothie flavor of this barium sulfate suspension before we found out today that the test was cancelled because his blood work showed his kidneys weren't as they should be. He was directed to drink lots of water to wash the barium sulfate from his body, and he's been to the bathroom twice and the toilet is filled with liquid blood red, deep red color when he's finished. Thank you [CONTACT]
+summarized question 25: What are the side effects of barium sulfate?
+##
+query 26: SUBJECT: my HDL reports shows   29  .i  need your further suggession. MESSAGE: I am 43 years male man.my HDL reports shows   29  .i  need your further suggestion.I seems very low .what i have to do its optimise,please
+summarized question 26: What are the treatments for low HDL cholesterol?
+##
+query 27: SUBJECT: Painful menstrual periods MESSAGE: My wife has suffered this . How can treat this.
+summarized question 27: What are the treatments for painful menstrual periods?
+##
+query 28: MESSAGE: There is a lot of collection. Its good. But I dont find my problem and suggestion. I want to know about male Reproductive
+summarized question 28: Where can I find information and help for male reproductive health?
+##
+query 29: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 29: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 30: SUBJECT: imitrex to be prescriped to 72 year old woman MESSAGE: I was in hospital for pancretitis.  On the 2nd day I was doing ok but came down with a migraine headache.  I have not had one in 2 years. but have the imitrex  tab.  which I did not have in the hospital  They gave me Toradol injection and it worked.  but they told me I should not take imitex as an older person.  I plan to go to my internist.  but decide to ask this question.   thanks
+summarized question 30: Is imitrex contraindicated in the elderly?
+##
+query 31: SUBJECT: Amputed finger MESSAGE: SIr; my 4 yrs old daughter left hand ring finger was crushed in fatal door closure... expert plastic surgeons were consulted and it was finally decided to remove the dead balck portion of finger  and sealed it; now i wish to know to knw wht best treatement I can get for her... she is having pain as her finger/hand  is still in plaster...... I need expert opinions ; pl help ////  regards [NAME]  Father [CONTACT]
+summarized question 31: What is the treatment and prognosis for a crushed finger on a child?
+##
+query 32: Fibrodysplasia Ossificans Progressiva. I just received a new patient at the age of 3 years old with the diagnosis Fibrodysplasia Ossificans Progressiva.  She has spent the last several months in [LOCATION] and has come back to this country for financial reasons.  I am one of two pediatricians in the county and the closest pediatric specialist are between 1.5 to 3 hours away.  I would like the specialists that are recommended for the condition and if OT or PT is helpful for the patient.
+summarized question 32: What are the treatments for fibrodysplasia ossificans progressiva, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 33: I have heard about M.M.S. can it help with Barr syndrome/crohns I know about supplements but need more for the hands /feet muscles an diaphragm muscles, using only small dosage of the myatoxin only let's the body build defense to the paralyzed muscles so any information on both M. M. S. ,sodium chloride/citric acid healing curing, everything, to govern. Clinical trials for people suffering severe muscle problems in hands. Feet lungs
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: are coleus and caladiums poisonous to pets MESSAGE: Are these two plants considered poisonous to pets?  The vet said to call you and check about this.
+summarized question 1: Are coleus and caladiums poisonous to pets?
+##
+query 2: Genetic Test for IHHS heart condition. Is there a commercial genetic test for the IHHS heart condition?  My family suffers from this heridity condition and I would like to know who is susseptable.   If so, where could I get it done in [LOCATION] Texas?
+summarized question 2: Where can I get genetic testing for IHSS in Texas?
+##
+query 3: My grand child was born on [DATE] with Multicystic dysplastic kidneys.  After reading your article I would like to know whether the stem cell could bring hope to this child. Is this possible?  How to go about? Cloning? Please give me something to work on.
+summarized question 3: What are the latest treatments for multicystic dysplastic kidneys, including stem cell therapy?
+##
+query 4: SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.
+summarized question 4: Does diabetes affect bowel movements?
+##
+query 5: MESSAGE: My father has undergone braincancer operation and radiation Also.His left side hand and leg is very weak he cant hold a glass nor he cant walk .if he try to walk he falls down.pls suggest treatment for hand and his leg.we will d very gratefull for u.contact [CONTACT] from [LOCATION] u.
+summarized question 5: What are treatment options for recovery of limb use after a brain cancer operation?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: chronic hypersensitivity pneumonitis. could this condition be caused by memory foam mattress'.?
+summarized question 6: What causes chronic hypersensitivity pneumonitis?
+##
+query 7: SUBJECT: dry maculare tetinal degeneration MESSAGE: my grandfather had lens implants, now he has dry macular retinal degeneration.  he can hardly see!  searching for help!
+summarized question 7: What are the treatments for dry macular retinal degeneration?
+##
+query 8: "SUBJECT: surgery for early Macular Degeneration MESSAGE: On your website, I clicked on driving with Macular Degeneration and on the PDF it says, ""there are surgical procedures that may help if they are done in the early stages"". Where can I find information about these procedures?"
+summarized question 8: What are the surgical options for early macular degeneration?
+##
+query 9: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 9: For how long can Atorvastatin be stored at room temperature?
+##
+query 10: SUBJECT: Pain MESSAGE: Sirs, I have a medical problem and I'd be very grateful if you can help. I feel some pain in the posterior area between the hip and the knee (as if there was something that stings). I noticed that the veins are prominent in this area. What can this be? What doctor should I see? Thanks for your cooperation,
+summarized question 10: What are the causes of posterior hip pain, and how can I find physician(s) who specialize in it?
+##
+query 11: Okay, so for about a year or two I've had chronic depression, insomnia, migraines, mistaking stomache problems as something worse, and having issues focusing on many of things. At first i thought i had ADD because ive never been tested for it, and because im young and dumb i took 2 pills of aderol because i was having very bad issues focusing. It worked and i was able to focus way better, but seeing all of these symptoms makes me think its not ADD. I'm only 16 years old, and I've just started getting tired of going through this every day of my life! So based on on all of this information I've provided you, do you believe that I may have GAD and should talk fo my doctor, or does it sound like something different?
+summarized question 11: What are the symptoms of generalized anxiety disorder and when should I contact my doctor to discuss my symptoms?
+##
+query 12: SUBJECT: adenoma carcinom pancreatic MESSAGE: Patient 65 year,without any other disorder has now diagnose solid adenocarcinom with 4 hepar metastases.IS possible treatment wit oncolytic virus with Gemcitabine? Who and where make it?
+summarized question 12: What are the treatments for pancreatic adenocarcinoma?
+##
+query 13: SUBJECT: How appendix problems affect people in the genetic family? MESSAGE: How appendix problems affect people in the genetic family?
+summarized question 13: Can appendicitis run in the family?
+##
+query 14: "SUBJECT: bathing MESSAGE: Can I go in tub , pool or shower while wearing the lidocaine patch?  If not, can I take off the patch (2or 3), and put a new one on in a different area for the remainder of the 12 hr. ""on"" period"
+summarized question 14: Can the lidocaine patch get wet or be replaced after getting wet?
+##
+query 15: SUBJECT: high inner eye pressure above 21 possible glacoma MESSAGE: have seen inner eye pressure increase as I have begin taking Rizatriptan. I understand the med narrows blood vessels.  Can this med.  cause or effect the closed or wide angle issues with the eye lense/glacoma.
+summarized question 15: Can Rizatriptan cause glaucoma?
+##
+query 16: SUBJECT: Muscle function loss of Left Arm MESSAGE: Dear Doctor,  I am [NAME] from [LOCATION] ,first of all thank you very much for this article and its a great service.I am writing this email for my loving father ,He lost his left arm muscle because of nerve damage but he can access his finger .he cannot lift his hand without help of right hand.we already get consults from many doctors but there is no result found ,We are from village and poor family background ,i don't have much money to give good treatment for my father .so i request you please recommend a proper treatment for my father .this is my kind request to save my father . for more details required please feel free to contact me  my Email:-[CONTACT] My contact number :-[CONTACT]  With lot s of expectations,  [NAME]
+summarized question 16: What are the treatments for nerve damage in the arm?
+##
+query 17: "SUBJECT: Shortness of breath in the mornings MESSAGE: My wife has been having shortness of breath in the mornings (mornings only).  She has, what I think, excessive heart rate as well.  Again, mornings only. Could this be anxiety attacks?  I don't think it would be a heart issue.  She certainly isn't overweight.  SHe is 5'2"" and 100-105 pounds.  if she is having anxiety attack... what is the best course of action?  She seems to feel better when she lies down and rests.....while either watching TV...or sleeps.  WHat is weird about it is ... it only happens in the mornings.  SHe has no history in her family for heart disease either.  WHat are your thoughts?"
+summarized question 17: What could cause shortness of breath in the mornings?
+##
+query 18: SUBJECT: Scabbies/ treatment area MESSAGE: My husband and I had scabie . I used it in my vaginal area.  I don't know how to treat The reaction I'm having. I think I have burned the delicate tissue in that area.  What can I do to treat the reaction. Please help any suggestions?
+summarized question 18: How is sgenital cabies treated?
+##
+query 19: "SUBJECT: VD MESSAGE: A lot of yrs. ago I went to my Dr. because I had blister like bumps on the inside of the vagina. He squeezed all of them and I have always wondered if my husband had given me some kind of veneral disease. They came back and I squeezed them myself. They had runny stuff in them. I ask the dr. what they were and he only said this ""oh nothing to worry about, some women just get these."" Was this some kind of VD do you think.? thank you for a reply. We are divorced now and he has passed away. [NAME]"
+summarized question 19: Could blister-like bumps on the inside of the vagina be indicative of veneral disease?
+##
+query 20: SUBJECT: Help for my diagnose MESSAGE: I have been diagnosed with SCA3. I was wondering if MedlinePlus is able to help me with resources that I may need on my journey through this disease? If not, can you help me find an organization or association that can help me.
+summarized question 20: Where can I find information on SCA3, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 21: SUBJECT: finastride and pregnancy MESSAGE: my wife is pregnant. She is in week30 of pregnancy. Now i am going to  consume finastride 1mg for my hair loss.is it dangerous for pregnancy  for my wife and her fetus؟ i use condom when i have sex with my wife.  please answer me .can finastride shift to mothers body by my sweat orskin contact?please answer me .thank you.
+summarized question 21: Can finasteride be transmitted via bodily fluid or skin contact?
+##
+query 22: Hi, I cannot find informatión about Antennatal corticoids Therapy, for lung maturation in diabetics after 34 weeks pregnancy. Can you help me.
+summarized question 22: Where can I find information on antenatal corticosteroids for lung maturation in diabetics after 34 weeks of pregnancy?
+##
+query 23: MESSAGE: I had the  lap band but I just gain the weight back. can I still have the bypass done ?
+summarized question 23: Can gastric/GI bypass surgery for weight loss be done after failed lap band surgery?
+##
+query 24: SUBJECT: tongue problem MESSAGE: I can speak every thing I have mistake some word like r,n I can n't speak.this is my problem .every person tell me..please give me suggestion..
+summarized question 24: What are the treatments for speech disorders?
+##
+query 25: "I have a daughter in law with ""Glioblastoma"". She just finished her first round of RXS. Now having 6 months of treatment of RXS, the first 5 days, twice a month, now nothing. Looking for any alternatives. Sincerely, [NAME]"
+summarized question 25: What are alternatives to RXS treatment for Glioblastoma?
+##
+query 26: G6PD. I have been searching for detailed information of what someone with G6PD can and cannot eat or have in contact, but am getting conflicting information. Any help?
+summarized question 26: What foods should be avoided with G6PD deficiency?
+##
+query 27: SUBJECT: RKS have a 6 month old baby.. MESSAGE: Hi everyone, I am a mum of 6 months old boy who was diagnosed with Cerebral palsy (Hypotonia/Hypotonic form) in relation with Pallister-Killian syndrome. Also he has got mixed form of hydrocephalus There is no epiactivity. Our neurologist has suggested to go through Vojta method/ Bobat therapy.  Please could you let me know your experience with these methods ( if any).. I will be very grateful for any info about it as I do to have enough information to operate with. Also, any thoughts about transcranial direct-current stimulation, occupational therapy or Feldenkrais? Please please please if you can share your experience - it would be absolutely priceless.  Thank you in advance,  Best Regards,  [NAME]
+summarized question 27: Where can I find information on treatments for cerebral palsy, and specifically the vojta method and bobath therapy?
+##
+query 28: SUBJECT: Rubella MESSAGE: My grandson (4 yrs old) has contracted Rubella.  I know for sure he has had at least one of the vaccines.  They are living in Mexico right now.  Should we be worried?
+summarized question 28: What is the prognosis of rubella in a child?
+##
+query 29: SUBJECT: Abnormal Growth MESSAGE: I have a 11 year old grandson that does not seem to be growing normally with his age group. He has 4 other brothers & sisters 3 girls and one brother that except for the oldest {girl} all seem to be having normal growth. The 11 I am referring to is very short and stumpy 5-7 inches shorter than his friends.His father is pretty short and stumpy also. The other brother seems to have normal growth. Is there any answer to this, he is having a hard time emotionally at school.
+summarized question 29: How is delayed growth diagnosed, and what are treatments for it?
+##
+query 30: ARE THERE ANY SKIN CREAMS THAT HAVE POSITIVE EFFECTS ON SKIN CANCER??  WHICH ARE THE BEST?? [CONTACT]
+summarized question 30: What are the best creams for skin cancer?
+##
+query 31: Why and how does Isotretinoin build up in the body system? Does it's structure contribute to the build up of it?
+summarized question 31: Why and how does Isotretinoin build up in the body?
+##
+query 32: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 32: What causes fibroid tumors on the spine?
+##
+query 33: SUBJECT: Small head. MESSAGE: I am [NAME], 17 years old girl my head size is small then average.  Enough small that everybody can  notice.  My question is that wall it grow to average.  Or i have to face this throughout my life
+summarized question 33:

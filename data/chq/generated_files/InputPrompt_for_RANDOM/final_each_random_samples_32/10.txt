@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Looking for comparison FloraQ/RisaQuad MESSAGE: My MD instructed FloraQ.  Amazon advertises RisaQuad as comparable. Your site has never heard of RisaQuad.  Amazon ad doesn't tell you much. I checked several drugstores and can't find flora q in stock Can you help
+summarized question 1: What are the differences between Flora Q and RisaQuad?
+##
+query 2: MESSAGE: I just read an article submitted by you that stated your research shows that you've identified the mechanism that causes burning mouth syndrome. Also because of these findings you can find a treatment. I've had this for 15 yrs and am just holding on. When will a good treatment be available??  I belong to a group of over 500 bmsers. We're suffering terribly and were from all over the world. What would the treatment be?
+summarized question 2: What are the treatments for burning mouth syndrome?
+##
+query 3: SUBJECT: obese daughter MESSAGE: i'm a mother of 5 children. My son has leukemia who is the youngest. My daughter is 12yrs old and is obese. i dont know where to turn but i need some professional help. my daughter has always suffered  with weight issues. while i deal with my 11yr old son at [LOCATION] im so scared of loosing my daughter. Shes already been suicidal and her grades are so bad. please i need help. you can contact me anyt time
+summarized question 3: What resources are available for overweight children with suicidal behavior?
+##
+query 4: laser hair removal treatment.  I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!
+summarized question 4: Where can I find information on laser hair removal including long term consequences?
+##
+query 5: SUBJECT: Kidney Failures MESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in
+summarized question 5: What are the stages of chronic kidney disease based on GFR results?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: will dalfampridine be effective for people with spinal musclar atrophy. is this a possibility in the future
+summarized question 6: Is dalfampridine an effective treatment for spinal muscular atrophy?
+##
+query 7: genetically inherited ability to low cholesterol. Is there a medical term used for genetically inherited ability to low cholesterol? I have it, I am told 1 in 3000, have this. I'm 64 y/o, LDL 74, HDL 78, TRI 91, CHOL 170. You'd thing that this is good but my veins & arteries are struggling to keep my B/P up the older I get. All cardiology test are good, can't find a cause for low B/P below 90/60 issues. There has to be a medical term for this, what is it, what gene is this? Since I never knew my parent, what country does this originate?
+summarized question 7: Is low cholesterol genetic?
+##
+query 8: SUBJECT: how to breathe MESSAGE: Dear Sirs,  This may seem like a stupid question but here goes anyway.  I am 64 yrs old and a type II diabetic.  I walk frequently to stay fairly fit but always seem to get out of breath when going up even gentle hills. Today however I noticed that I could change how I breath. Thus, I could force air out using my diaphram (ie like blowing out a candle)then relax and just let the air flow back in or I could use my diaphram to suck in air (like breathing in the morning air)and again relax my diaphram to push it out. I also found that I could breath faster under conscious control which seemd to help my performance. I dont know if any of this makes sense to you but I would like to know what you think and whether there are any do's and dont's and if there is a 'better' way to breath.  Thanks very much for your help with this,  Regards,  [NAME]
+summarized question 8: What are techniques for  proper breathing?
+##
+query 9: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 9: Is lincomycin still prescribed for human use?
+##
+query 10: "SUBJECT: ""ClinicalTrials.gov - Question - general information "" MESSAGE: Please i really need your reply and your help :( My wife has Allergy from all milk products and whenever she drinks or eats any thing contains small amount of any milk products she goes to the hospital. I have faith that there is a cure for that but i really donno what to say to her. She thinks that she will never be cured. So please can you tell me is there is any cure for milk products allergy, any cure? or any cure in the very near future? I will be very very very grateful if you replied, Thanks alot. :)"
+summarized question 10: What are the treatments for lactose intolerance and can it be cured?
+##
+query 11: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does this medication have gluten containing ingredients? I have Celiac disease and I am very sensitive to small amounts, so I am trying to make sure this medication is safe to take. Thank you for any and all help. -[NAME]
+summarized question 11: What are the ingredients of  20mg generic Adderall and it is gluten free?
+##
+query 12: Does either of these help with skin keloids? What would help keloids?
+summarized question 12: What are the treatments for skin keloids?
+##
+query 13: SUBJECT: Gout and Blood pressure MESSAGE: I have had many gout attacks since i have been 30 years old now 70 . I take allopurinol and blood pressure meds . Before i took allopurinol i never had high blood pressure . Also i have developed basal cell skin cancer i have heard allopurinol will cause that . Reduces acid in your system ?
+summarized question 13: What are the side effects of allopurinol?
+##
+query 14: SUBJECT: thalassemia carrier MESSAGE: i need to ask that i dn't knw that my mother and father is normal or carrier. i have 7 sibling. one die. 3 with beta thalassemia carrier and on normal. me and my little brother doesnot have done test. so i need to know how much chance is for me and my brother to become a carrier or normal
+summarized question 14: How is thalassemia inherited?
+##
+query 15: SUBJECT: dry maculare tetinal degeneration MESSAGE: my grandfather had lens implants, now he has dry macular retinal degeneration.  he can hardly see!  searching for help!
+summarized question 15: What are the treatments for dry macular retinal degeneration?
+##
+query 16: SUBJECT: Pessary in while doing Kegels? Yes or no? MESSAGE: Hi. I have been using a pessary for a number of years and was happy with the help it provided. Lately I've been experiencing prolapse worsening during and after particular exercises so I reduced those type of exercises and decided to do more kegel exercises. My question is should I remove the pessary while doing kegel exercises?
+summarized question 16: Should I remove my pessary while doing Kegel exercises?
+##
+query 17: "SUBJECT: VD MESSAGE: A lot of yrs. ago I went to my Dr. because I had blister like bumps on the inside of the vagina. He squeezed all of them and I have always wondered if my husband had given me some kind of veneral disease. They came back and I squeezed them myself. They had runny stuff in them. I ask the dr. what they were and he only said this ""oh nothing to worry about, some women just get these."" Was this some kind of VD do you think.? thank you for a reply. We are divorced now and he has passed away. [NAME]"
+summarized question 17: Could blister-like bumps on the inside of the vagina be indicative of veneral disease?
+##
+query 18: loss of ability to Taste and Smell due to surgery that acut olifactory nerve. Can you recommend a group  to help a patient who has lost ability to taste and small, and who is profoundly depressed, has lost enormous amount of weight, has no interest in food and is virtually not eating, has no energy and I am afraid he will die of starvation if he does not get some help.  The various doctors involved are not helping.  He needs to think of food as medicine.  He must eat but hardly does.  Have you any suggestions.
+summarized question 18: How can I locate a support group for patients with taste and smell disorders?
+##
+query 19: SUBJECT: Asthma MESSAGE: I have been treated for breast cancer and had chemotherapy and readiation.  I am on many drugs but since stopping treatment I have now presented as having asthma.  I take Letrozole. 2.5 to block any estrogen in my body as my tumor was estrogen positive. What type of drugs impact asthma symptoms?   Please advise
+summarized question 19: Where can I find information on drug-induced asthma?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: Dental/sjogrens. Because of Sjogrens, my teeth have decayed Severely in the past 2 years.I have a few teeth that have not decayed. It is devastating!  What should I do...implants or dentures? What about funds?  Help.    [NAME]
+summarized question 20: What teeth replacements are better for sjogren's: implants or dentures?
+##
+query 21: SUBJECT: IHSS heart condition and WPW heart condition MESSAGE: Is there any way you could send me information on both these heart conditions? My son has to get tested for them eventually and I would just like information to understand the conditions of both of them more.
+summarized question 21: Where can I find information on Idiopathic hypertrophic subaortic stenosis (IHSS) and Wolff-Parkinson-White (WPW) syndrome?
+##
+query 22: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 22: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 23: SUBJECT: Pituitary gland/high level Vitamin D MESSAGE: My sister has a high level of Vitamin D in her system/blood work.  Her specialist cannot find the cause.   Would there be any connection with her pituitary?   Had her thyroid gland removed 3 years ago, and cancer in breast/removed cancer and had radiation/cured 2 years ago.
+summarized question 23: What are the causes of high vitamin D levels?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 24: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 25: solve the erectio problem.  sir, some time my penis erect and some time it does not work . So please help me . My contect nomber is [CONTACT]
+summarized question 25: What are the treatments for erectile dysfunction?
+##
+query 26: Pemphigus, vulgaris.  I have a family member who is suffering from Pemphigus, vulgaris.  It has been going on for last 6 months she is a young lady ages 29yrs old, has been on steriods for treatment, i am worried if she can have a baby?
+summarized question 26: Does pemphigus vulgaris or steriod treatment for it affect female fertility?
+##
+query 27: Eye.  i do see black things what couse it? or likd a sand i my Eye? how can i get treatment?
+summarized question 27: What are the causes and treatments for eye floaters?
+##
+query 28: SUBJECT: Hypotension MESSAGE: I'm looking for books about hypotension/low blood pressure. Can you suggest any that I might be able to purchase?
+summarized question 28: Where can I find information on hypotension?
+##
+query 29: SUBJECT: nutcracker patient MESSAGE: I was diagnosed with ncs about 10 yrs ago but little was known about it at the time. They said I needed surgery but refused due to the fact I didn't have any money. It has been left untreated all this time and is feeling worse. What can I do to get help with this? I am pleading for help, thank you.
+summarized question 29: What are the treatments for nutcracker syndrome?
+##
+query 30: My wife developed a very severe deep hoarse cough. She has asthma but this is different. This cough is not a breathing problem. It has been going on for four months day and night. She has had every test possible, no diagnosis. Her Ct scan shows her lungs are great. Could this be conversion hysteria. She is always stressed over bills.
+summarized question 30: What are the symptoms of conversion hysteria?
+##
+query 31: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Hello, my dad, 68 years old, has gastritis,  it did ache occasionally over the last several years. The other day, he went to hospital to have medical check-up with endoscopic ultrasonography, and found GIST with about 1cm in size. Doctor told him that he may consider surgery or not, it is up to him. What are we supposed to do? will it develop to bad condition? any suggestions?  I 'm looking forward to your early reply. Thank you so much. Best Regards [NAME]
+summarized question 31: What are the treatments and prognosis for a small GIST?
+##
+query 32: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 32: What are the causes of nipple discharge?
+##
+query 33: what/why do flu-like symtoms such as: hot/cold sweats, chills, diarrhea, nausea, vommiting, runny nose, for longer than 13 days or more? could on-going stomach/flu symtoms that persist 13 days or more be something other than a bug or virus?
+summarized question 33:

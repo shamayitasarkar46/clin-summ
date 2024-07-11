@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: good day. At the age of 50 ive started swelling for about a week now. Its my whole body, especially legs and feet. Im using antistax but not sure if its helping. please advise its so frustrating, i cant get into any clothes.
+summarized question 1: What are the causes of and treatments for legand body swelling?
+##
+query 2: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 2: Are there any medicines for dry mouth?
+##
+query 3: SUBJECT: permanent cure for Nystagmus MESSAGE: For me from birth shaking of eyes disorder is there & in family nobody is having this kind of issuse. Pls. Tell me if any curable option for this disease.
+summarized question 3: What are the treatments for nystagmus and can it be cured?
+##
+query 4: SUBJECT: MS MESSAGE: Hi, my name is [NAME] my brother has MS Im searching for something that can help him. I love my brother and its so upsetting to see him slowing down Can you please let me know if there is something that can help. Many Thanks!
+summarized question 4: What are the treatments for MS?
+##
+query 5: MESSAGE: My husband has blood pressure of 247 in one arm and 170 in the other arm. What does that mean?
+summarized question 5: What are the causes of different blood pressure readings in each arm?
+##
+query 6: SUBJECT: burning rash MESSAGE: my left buttocks has painful sores a nurse at my work said to put cortisol10 cream on it but its not helping she thinks i got this by being in a dirty hottub! i hope its not something bad. please help
+summarized question 6: How can I get help for a burning rash on my buttocks that does not respond to OTC hydrocortisone cream?
+##
+query 7: SUBJECT: fibroadenomas MESSAGE: i have a fibroadenomas? my question is it can remove without surgery? taking medicine is help to reduce or remove this? or if i didnt undergo operation it is safe? because surgery is expensive here at the philippines
+summarized question 7: Can fibroadenoma be treated without surgery?
+##
+query 8: SUBJECT: prob gum MESSAGE: My. Teeth gum blood comeing what medicine I use
+summarized question 8: What are treatments for bleeding gums?
+##
+query 9: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 9: What are treatments for excessive sweating?
+##
+query 10: ClinicalTrials.gov - Question - general information. I was diagnosised with mucha haberman, and I need to find someone who can treat it, I live in [LOCATION]. and I need some help
+summarized question 10: How can I find physician(s) or hospital(s) who specialize in mucha habermann disease?
+##
+query 11: MESSAGE: I need help. I have been suffering  from loose of appetite for some times now  and i have done much to help the situation but no any improvement.Thefore i am pleading with you to kindly help me with this problem.If there is a medicine that can cure me please l et  me know. contact me through: [CONTACT] or [CONTACT]. Thank you.
+summarized question 11: What are the treatments for loss of appetite?
+##
+query 12: my mom 75 old suffering from cryptococcal menimgtisneef an assisstance.  I am desperate looking for a strong medicine that can help mom she is suffering from cryptococcal meningitis she is 75 years  old
+summarized question 12: What are the treatments for cryptococcal meningitis?
+##
+query 13: MESSAGE: WHAT IS THE LATTEST RESEARCH ON USING D-Limonene AS A TREATMENT FOR CANCER?? PARTICULLARY SKIN CANCER??
+summarized question 13: What is the latest research on D-Limonene as a treatment for skin cancer?
+##
+query 14: SUBJECT: Stroke mobility equipment MESSAGE: Husband has had 3 strokes since 1990.  He refuses to take anymore maintenance therapy.  It is becoming more challenging to help him be mobile.  There does not seem to be any source to assist me in learning what equipment, etc.  I could or should get to help him and to help me in my role as caregiver.  Any help you can give would be much appreciated!
+summarized question 14: Where can I find information on stroke resources, including mobility equipment and caregiver support groups?
+##
+query 15: SUBJECT: allopurinol and diuretics MESSAGE: I am presently taking 200mg Allopurinol daily for the treatment of Gout.  My feet swell.  How dangerous is it to take a diuretic.
+summarized question 15: Can a diuretic be taken with Allopurinol?
+##
+query 16: SUBJECT: tysabri in ALS MESSAGE: dear sir My wife is 54 years old being diagnosed with ALS for the last 2 years. Currently she can,t use hands or legs, can,t talk properly but still can swallow soft food and breath. I heard that this TYSABRI injection can be of great help in my wife,s case. Please advice as soon as possible
+summarized question 16: Is natalizumab an effective treatment for ALS?
+##
+query 17: NUT tumor in spine. My brother had a tumor in his cheek, which was surgically removed. He is still undergoing radiations. After dissecting the tumor, they noticed it had something to do with the chromosones. His tumor was rare. Last week they discovered very small tumors in his spine. They concluded the cancer has evolved in his bones. In [LOCATION] ([LOCATION]) they said only 2 cases of this cancer are known worldwide. They've given him 8 months!4 Months ago he was just fine. I'm looking for any information that can help him!
+summarized question 17: "Where can I get information and help for ""NUT tumor"" in the spine?"
+##
+query 18: "SUBJECT: Alzheimer's disease MESSAGE: This may sound strange, but unfortunately our family, my wife's dad, are dealing with the ugly disease of Alzheimers. To make this short, is there any way that we can challenge him to do things, or attempt to even ""get off the couch"", because he seems to respond to that type of activity. Fortunately my wife is able to spend a great deal of time with her mom and dad, but he seems to perk up when I see him at times and ""not baby him"" like the rest of the family. Thanks much."
+summarized question 18: What are stimulating activities for Alzheimer's patients?
+##
+query 19: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: A friend had chemo for breast cancer.  She has developed a foam in her mouth that appears to come from her gums.  She has been to every doctor, but no one can diagnose.  She has tried everything recommended and nothing seems to work.  She has gone into a deep depresstion because of this constant foam.  Would there be any studies available?  Could someone give an idea of what could be causing this problem in her mouth?  Is there any interest of looking into her case?  Thank you.
+summarized question 19: What causes foamy saliva?
+##
+query 20: MESSAGE: My father has undergone braincancer operation and radiation Also.His left side hand and leg is very weak he cant hold a glass nor he cant walk .if he try to walk he falls down.pls suggest treatment for hand and his leg.we will d very gratefull for u.contact [CONTACT] from [LOCATION] u.
+summarized question 20: What are treatment options for recovery of limb use after a brain cancer operation?
+##
+query 21: MESSAGE: dear sir, my name is [NAME] from India. actually sir my sister is 27 year old accouding to doctor she is a anemia pasent. loss of blood.plz sir any drug for anti anemia.plzzzzzzzzzzzz sir
+summarized question 21: What are the treatments for anemia?
+##
+query 22: Shakiness.  I have acquired a symptom of extreme internal body shaking. Sometimes I canyon even speak right or use a pen. A doctor yesterday asked if I had a recent thyroid checkup. I see my thyroid doc the end of March.  Usually they say my T4 levels are low. I'm confused when it comes to what levels the thyroid should be.  I also have chronic fibromyalgia.  Seems that is blamed on for a lot of my problems.  Thank you for this site.
+summarized question 22: What are normal thyroid levels, and can thyroid problems cause body tremors?
+##
+query 23: Dear Sir Several diseases including skin cancer and hypovitaminosis D occur due to migration of dark skinned and light skinned people to each others habitats, I want to know what latitude woud be best for Fitzpatrick type IIIa skin, I mean, I'm moving to Portland, Maine is my skin best suited for UV rays there and what is the best skin type for Portland Maine, with regards on the ozone depletion that expose us to more UV,thanks. yours, [NAME]
+summarized question 23: What is the best latitude for someone with Fitzpatrick type III skin?
+##
+query 24: American Ginseng.  Any publication on American Ginseng and its medicinal benefits?
+summarized question 24: What are the medicinal benfitis of American Ginseng?
+##
+query 25: SUBJECT: babygirl vagina itching MESSAGE: My newborn is 9 weeks and I noticed when I went to clean inside her vagina there was a little bit of spotting. Should I be concerned?
+summarized question 25: What are the causes of and treatment for newborn vaginal itching and spotting?
+##
+query 26: SUBJECT: treatment options versus migraine types MESSAGE: Migraine seems to be a spectrum of conditions rather than only one easily diagnosed affliction.  Many innovative migraine treatments are now in use, but it seems that each treatment only addresses a narrow set of conditions; for example, my daughter has tried many different treatment options (QEEG, HEG, TMS, topamax, ...) without success.  Has any research been done to characterize which treatment types are effective against which migraine types?
+summarized question 26: Has any research been done to characterize which treatment types are effective against which migraine types?
+##
+query 27: Prenatal exams for leigh syndrome. I am looking for information about having prenatal exams anmnio or chorionic villus sampling for NARP and leigh syndrome. Thank you in advance
+summarized question 27: Where can I find information on prenatal genetic tests for NARP and leigh syndrome?
+##
+query 28: SUBJECT: athrtics MESSAGE: My right shoulder is getting pain and my right hand is not moving up and back freely.  Doctor explained me that it is pediathratic problem.  I have done some pschyotharapi treatment. Mr doctor advised me that there in no medicine and regular exercise required. What is the next stage I want to do.  Please explain.
+summarized question 28: What are the treatments for shoulder pain and loss of hand movements?
+##
+query 29: SUBJECT: Anxiety MESSAGE: How does one deal with anxiety and the looming feeling that I am about to have a heart attack?  I am taking clonazepam which helps but I would rather go back to the person I used to be without this condition.  How can I re-train my brain into not thinking a heart attach is about to hit me?
+summarized question 29: What are the non-drug treatments for anxiety?
+##
+query 30: SUBJECT: Swan NDC 0869-0871-43 MESSAGE: I found 4 cases of expired (04/2010) Hydrogen Peroxide.  How do I safely dispose of this product? [LOCATION] [LOCATION] [LOCATION] [LOCATION]  [CONTACT] [NAME]
+summarized question 30: How do I dispose of hydrogen peroxide?
+##
+query 31: SUBJECT: Administration of IV Antibiotics MESSAGE: Can you administer antibiotics by IV to treat a refractory sinus infection for a patient who cannot tolerate oral antibiotics.  If not, do you know of any facility in the Washington DC area who can do so.
+summarized question 31: Where can I find information on IV antibiotics for refractory sinus infection, and how can I find hospital(s) in Washington DC who specialize in it?
+##
+query 32: hospital stay for a hitiala hernia to be removed?.  I have a hernia that needs to be removed how long would I be in the hospital after it is removed?
+summarized question 32: How long would I be in the hospital after a hiatal hernia removal?
+##
+query 33: MESSAGE: I have been dignosed Bladder Cancer and in [DATE] surgery Radical cystoprostatectomy with bilateral PLND under EA/GA was done.I would like to know if the stoma closure is possible? Request to please guide me.
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: phinomea shot MESSAGE: when should this shot be taken, at what span of years... I'm 77 yrs. old.
+summarized question 1: When should you get a pneumonia vaccine?
+##
+query 2: SUBJECT: Request for literature for Chromosome 16 duplication MESSAGE: I have 3 week old who was admitted in our [LOCATION] for being growth retarded.  He was delivered term but weighed only 1.44 kg.  There was polyhydramnios during pregnancy but the rest of the antenatal scans did not detect any other abnormalities. When the baby was born, we noted some dysmorphysm, namely:  small head, low set ears, round face with wide phlitrum, slight hyperteloris, wide spaced nipples, clinodactyly and stubby toes.  blood was sent for karyotype and showed 46XY,dup(16)(q13q23). I looked up any information about this condition and could not find any on-line. Can u please forward any literature you may have so as I can better appraise the parents of the prognosis and make a more detailed treatment plan for the patient. Thank you
+summarized question 2: Where can I find information on chromosome 16 duplication, specifically karyotype 46XY,dup(16)(q13q23)?
+##
+query 3: SUBJECT: kalydeco MESSAGE: hello I have cystic fibrosis, and I want to buy a kalydeco, for buy it my government gave me money, my doctor agree that I am ready to take kalydeco, if you can tell me prices for 3 month kalydeco. best regards [NAME] [LOCATION]
+summarized question 3: What is the cost for three months of kalydeco?
+##
+query 4: MESSAGE: dear sir, my name is [NAME] from India. actually sir my sister is 27 year old accouding to doctor she is a anemia pasent. loss of blood.plz sir any drug for anti anemia.plzzzzzzzzzzzz sir
+summarized question 4: What are the treatments for anemia?
+##
+query 5: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 5: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 6: SUBJECT: possible metoclopramide side effects MESSAGE: I started taking thismedication 3/27/14, two tablets by mouth twice daily. I have now developed mouth sores on the inside of my lower lip (almost at the bottom). Could these be a side of effect of this medicine?
+summarized question 6: Are mouth sores a side effect of metoclopramide?
+##
+query 7: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 7: What are the treatments for anosmia?
+##
+query 8: MESSAGE: good day. At the age of 50 ive started swelling for about a week now. Its my whole body, especially legs and feet. Im using antistax but not sure if its helping. please advise its so frustrating, i cant get into any clothes.
+summarized question 8: What are the causes of and treatments for legand body swelling?
+##
+query 9: SUBJECT: Hydrocortisone for 32 years, and counting MESSAGE: There are serious side-effects to Hydrocortisone, and I have to take it because of panhypopituitarism. Are there any more tolerable replacements? Thank you! [NAME]
+summarized question 9: What treatments are available for panhypopituitarism aside from hydrocortisone?
+##
+query 10: SUBJECT: MMR second dosage by mistake MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 10: Is an extra dose of MMR vaccine harmful?
+##
+query 11: From: [CONTACT] Sent: Thursday, March 19, 2015 3:18 AM To: NLM/NCBI Info Subject: asking about content of a study Dear Sir or Madam, This study calims that lincomycin is no longer used by humans. Is that true? if so what is the reference for that? if not how is false information published? http://www.ncbi.nlm.nih.gov/pubmed/25671960 waiting for your reply. best regards [NAME].
+summarized question 11: Is lincomycin still prescribed for human use?
+##
+query 12: SUBJECT: Asthma MESSAGE: I have been treated for breast cancer and had chemotherapy and readiation.  I am on many drugs but since stopping treatment I have now presented as having asthma.  I take Letrozole. 2.5 to block any estrogen in my body as my tumor was estrogen positive. What type of drugs impact asthma symptoms?   Please advise
+summarized question 12: Where can I find information on drug-induced asthma?
+##
+query 13: MESSAGE: Is it okay to drink alcohol in moderation when taking Ampicillin.  I was told it negates any medical effect of the drug
+summarized question 13: Can I drink alcohol while taking Amoxicillin?
+##
+query 14: Dear sir, I was affected on trichoepithilioma in my nose on 12yrs.i consult the multiple doctorand skin specialists.but no one can do cure that
+summarized question 14: What are the treatments for trichoepithilioma?
+##
+query 15: MESSAGE: Dear Sir I am newly marrired. Now from few days i am suffering erection problem. Pls suggest me. Thanks [NAME]
+summarized question 15: What are the treatments for erectile dysfunction?
+##
+query 16: SUBJECT: Purpura MESSAGE: My brother has purpura disease since 2003. kindly gude us with the correct medicine and if you know any good doctor then please let us know.  Thank You
+summarized question 16: What are the treatments for purpura and how can I find physician(s) who specialize in it?
+##
+query 17: MESSAGE: my thumb and forefinger hurt all the time. nerves is there any medicine that will help .
+summarized question 17: Is there any medicine that will help nerve pain in my thumb and forefinger?
+##
+query 18: How helpful is radiation for melanoma of heel and spread all the way up the leg? Would this effect treatment of trial drugs or other treatments?
+summarized question 18: Is radiation an effective treatment for skin melanoma and would it preclude experimental treatments?
+##
+query 19: SUBJECT: Omege 3 Acid capsule MESSAGE: I am currently taking Lovaza. My pharmacy, CVS, has advised me that the above, Omega 3 Acid capsule is now available as a generic alternate. My doctor has said that she is not aware of a generic for Lovaza. Who is correct?
+summarized question 19: Is there a generic version of Lovaza?
+##
+query 20: SUBJECT: Bad Breath MESSAGE: I have very bad breath and at times it can make myself and others sick.  I need some advice as to what I need to do.
+summarized question 20: What are the treatments for bad breath?
+##
+query 21: SUBJECT: coal oil MESSAGE: My father at an early age was given coal oil when he was sick with a cold or flu, my family and I are just wondering if there could have been permanent damage done to his stomach, heart, or any other internal organs.  I'm not asking for a second opinion, just want some information on this matter for our own inquiries.
+summarized question 21: What are the adverse effects of coal oil?
+##
+query 22: SUBJECT: pregnancy MESSAGE: I just want to ask if have some ways or have a operation to be pregnant a woman like me had a tubal ligation before  7yrs. Ago..
+summarized question 22: Where can I find information on tubal ligation reversal?
+##
+query 23: SUBJECT: Theophyline MESSAGE: I have been taking this drug since 1994.  Now my PCP will not prescribe it and has sent me to a pulmonary specialist who will also not prescribe it.  She wants me to take more expensive drugs such as Advair Diskus. Neither doctor has performed a serum Theophyline level.  The pulmonologist performed a PFt and ordered a methachlorine test which I cancelled.  I don't have asthma I have bronchitis.  Both doctors told me that it was extremely dangerous to take this drug for this long of a period.  I have had no problems with it.  Now that I have stopped taking it I don't feel as well as I did with it.  My questions are is it dangerous to take Theophyline long term? Should they have stopped the drug suddenly Like they did?  Please help me.  Thanks, [NAME] (I am 57 years old)
+summarized question 23: Are there adverse effects of long term Theophylline use, and how should Theophylline be stopped?
+##
+query 24: SUBJECT: Periventricular Heterotopia MESSAGE: I have a 10 year old boy with that syndrome and I will like to know if there someone doing reasech about it.  At the same time I will like to learn more about it. When my son was diagnose I was told he wasn't going to be able to do nothing at all. He was very weak , he learn to walk when he was 7 years. it been hard but I will do anything for my baby.
+summarized question 24: Where can I find information on periventricular heterotopia, including the latest research?
+##
+query 25: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 25: What are the risks of knee surgery in an older person?
+##
+query 26: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My sister have htlv-1 we are looking information or processing can help.   MI hermana es de Colombia ella tiene este virus de htlv-1 pero en Colombia no saben como tratar este virus ya que es muy raro y ella esta buscando un lugar donde puedan ayudar con su problema de salud ella esta dispuesta someterse a pruebas con las células madre adultas.
+summarized question 26: Where can I find information on htlv-1?
+##
+query 27: IP. My daughter has IP and was diagonsed when she was born 27 years ago, she is now pregnant, what do we need to do about having her tested besides a amnio, I heard on the news 3 weeks ago about blood tests that identify chromosome problems with a blood test....Will [LOCATION] still have her medical records from way back then? At the time we belonged to [LOCATION], how do we get information to her current doctor who knows nothing about this, I would not like her to have a ammnio due to the chance of miscarage.
+summarized question 27: What prenatal genetic testing is available for Incontinentia Pigmenti (IP)?
+##
+query 28: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: My name is [NAME] and I am 76 years old. I have had jock itch (just itch no rash) for 7 years. When I try to stop the itch comes back with a vengeance. I am currently using Ketoconazole 2% cream to control the itch. It appears that I am doomed to no cure but I hope I may be wrong. So, given this I have a few questions: 1. Am I still doomed or is/are there any drugs or treatments that can cure me? 2. If not, then are there any drugs that your studies have shown to be superior to Ketoconazole?  If so, will you please list up to 3 of them for me? 3. My Dermatologist suggested that I use Zeasorb antifungal powder.  Have you ever conducted a study of this? If so, how does it perform when compared to Ketoconazole or any of the drugs you may have listed in # 2 above?
+summarized question 28: What are alternative treatments to Ketoconazole for jock itch?
+##
+query 29: about Glucosamine Sulphate Will Glucosamine Sulphate affect Kidney?   Will it increase the Potassium content in a person?
+summarized question 29: What are the side effects of glucosamine sulphate?
+##
+query 30: SUBJECT: Thoracic outlet syndrome MESSAGE: I was diagnose with TOS in my left shoulder was told surgery would help my problem. physical therapy did not help tired of the numbness in pain in hand just wondering if the stats our good percentage wise for surgery results Dr.[NAME] is my surgeon
+summarized question 30: What are the success rate and prognosis for thoracic outlet syndrome surgery?
+##
+query 31: SUBJECT: shingles MESSAGE: I just sent a message about working at the airport with shingles. my dr has me released to go back to work in 3 days. that will be only 11days , Ito recover. I still have random fever and blisters, want to make sure Im not going to expose anyone to this.please answer before 3-13-14
+summarized question 31: When is shingles contagious?
+##
+query 32: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 32: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 33: I have 6 months twin daughter. M one daughter is ok but another one have blood less issue from start. and she required bool every month. after check . of her, her mother and my. result find out that. My report is ok from Thalassemia. Her mother have minor Thalassemia . and she (daughter) have no Thalassemia but my daughter have Anemia. so doctor give her foli acid and mother milk. but she still problem, now he sagest for bone marrow and maybe she have Anemia.. so give me some guideline that what I do.... thank..
+summarized question 33:

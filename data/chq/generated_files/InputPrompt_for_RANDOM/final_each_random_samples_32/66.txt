@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: factors two and five together. My brother is getting tested for factor five because his daughter was tested and said to have factors two and five.Two is said to come from her mother. My question is if my brother has factor should I and my five children and grandchildren be tested? Thank you. [NAME]
+summarized question 1: What is the inheritance pattern of Factor five?
+##
+query 2: Prosthetic foot.  Which prosthetic foot is better for a lower amp. The echelon or kinttera foot ?
+summarized question 2: What prosthetic foot is better for lower amputation: echelon prosthetic foot or  kinterra prosthetic foot?
+##
+query 3: chromosome 3. chromosome 3 found in the bloods between the father and son,,,would this mean that my son,s blood is not the same as mine,,i was told it was all about learning problems,,,but i am woried that theres more involved,,can you send me a chart or some thing describeing ch 3 is all about and too what area of the body its being tested on espicaly a 9 year old child ,,thanks
+summarized question 3: What health conditions are associated with changes in chromosome 3?
+##
+query 4: SUBJECT: instructions MESSAGE: I purchased PH Test Strips and after receiving them I saw that there were no instructions included. I don't know how to use them and need some help with that. Could you please explain how to use them. Thank You, [NAME]
+summarized question 4: How do I use pH test strips?
+##
+query 5: MESSAGE: There is a lot of collection. Its good. But I dont find my problem and suggestion. I want to know about male Reproductive
+summarized question 5: Where can I find information and help for male reproductive health?
+##
+query 6: MESSAGE: I have a fractured nose i need it fixed. its been broke for 3 years now
+summarized question 6: What are delayed treatments for nose fracture?
+##
+query 7: "SUBJECT: BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium a MESSAGE: Hello, I want to purchase from you a remedy. I have Multiple Sclerosis, and there is much talk in the media about ""C. perfringens, Type B"" being a trigger for Multiple Sclerosis. Here is a link of the news http://www.bbc.com/news/health-25925658. I would like to purchase this product ""BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid"".  Or could you kindly recommend a remedy that will address this bacteria?  And email me how I should purchase and the total cost including the shipping so I can order it. I'm eager for your reply and thank you Kindly. Below are all my details: [NAME] [LOCATION] [CONTACT] [EMAIL]"
+summarized question 7: Where can I purchase BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid and how much does it cost?
+##
+query 8: SUBJECT: Asking about Hairy cell leukemia MESSAGE: I get report for my father from hospital it is saying that he have Hairy cell leukemia i am here to ask if this dissease dangerous and there is treatment for it  Also if The one who have it will live for long or not ?  My father age is 55  We discover the dissease by blood test
+summarized question 8: Where can I find information on hairy cell leukemia, including treatment and prognosis?
+##
+query 9: MESSAGE: Please i want to know the cure to Adenomyosis. I have been going through alot of pains during my menstruation. I want to see a specialist doctor to help me out. I am dying with pains.
+summarized question 9: What are treatments for adenomyosis, and how can I find physician(s) who specialize in it?
+##
+query 10: SUBJECT: Hydrocortisone 1% cream MESSAGE:  I would like to know what type of GLYCERIN(animal or vegetal glycerin) is in the 1% Hydrocortisone Cream.  For religion purpose(our believes)we can not eat or use anything that has PORK in it. Thanks.
+summarized question 10: What are the ingredients of  1% Hydrocortisone Cream?
+##
+query 11: SUBJECT: CRPS MESSAGE: In stage 3 can ones bones break/fracture? For example if nerve damage is in lower leg, can the bones in the foot over time fracture/break?
+summarized question 11: Can complex regional pain syndrome cause bone fractures?
+##
+query 12: SUBJECT: questions about products posted on the internet MESSAGE: I suffered a massive stroke on [DATE] with paralysis on my left side of my body, I'm home and conduct searches on the internet to find help with recovery, and always this product called neuroaid appears claiming to restore function. to my knowledge it isn't approved by the FDA, but it sounds so promising. do you know anything about it and id there anything approved by our FDA, that does help?
+summarized question 12: What are treatments for paralysis after stroke approved by FDA?
+##
+query 13: SUBJECT: breast feeding MESSAGE: need information in different languages about breast feeding. Follows the WHO recommendation to promote breast feeding.
+summarized question 13: Where can I get information in different languages about breast feeding, specifically the WHO recommendation to promote breast feeding?
+##
+query 14: SUBJECT: Painful menstrual periods MESSAGE: My wife has suffered this . How can treat this.
+summarized question 14: What are the treatments for painful menstrual periods?
+##
+query 15: SUBJECT: X-OUT WASH-IN TREATMENT- benzoyl peroxide gel MESSAGE: Can you please tell me if the product X-OUT WASH-IN TREATMENT- benzoyl peroxide gel would contain any animal, dairy, insect, seafood or human by-products? Also would it contain any honey? Thank you for your help in researching this information for me. Make it a great day! Best Regards, [NAME] [CONTACT]
+summarized question 15: What are the active and inactive ingredients of X-OUT WASH-IN TREATMENT- benzoyl peroxide gel?
+##
+query 16: MESSAGE: WHAT IS THE LATTEST RESEARCH ON USING D-Limonene AS A TREATMENT FOR CANCER?? PARTICULLARY SKIN CANCER??
+summarized question 16: What is the latest research on D-Limonene as a treatment for skin cancer?
+##
+query 17: SUBJECT: My sister was told she has Breast Cancer MESSAGE:   Hello My Name is [NAME] My sister has been told that she has breast cancer. And I want to no if she could use Salinomycin to kill the breast cancer. [NAME]
+summarized question 17: Is Salinomycin a treatment for breast cancer?
+##
+query 18: I need help with a rare disorder Hello, As I stated I need help with a rare disorder. I have tested   positive for lupus then - negative I have tests   positive for a blood clotting disorder then - negative I have tested positive for Brain Vasculitus then brian Vasculopathy? I have tested positive for a Brain infection then not.  I don't know what to think.  I need a special testing center
+summarized question 18: Where can I receive comprehensive testing for difficult to diagnose symptoms?
+##
+query 19: SUBJECT: PERIDONTITIS LEFT UNTREATED EFFECTS MESSAGE: Hi, If periodontitis is left untreated for approx 7 months will it have any affect on the condition as I need to travel.  A dentist has told me I have mod-advanced periodontitis with gum pockets of 5-9mm and bone loss 20-50>% with restorations and caries.  I have all my teeth at this stage, some are loose.  If I leave it for this amount of time is it likely to worsen at all and what could I expect?  On the other hand if I seek treatment immediately will help in any way.  Hope to hear from you.  Thanks kindly [NAME]
+summarized question 19: What is the prognosis for untreated periodontitis?
+##
+query 20: MESSAGE: my thumb and forefinger hurt all the time. nerves is there any medicine that will help .
+summarized question 20: Is there any medicine that will help nerve pain in my thumb and forefinger?
+##
+query 21: "cure for hepatitus B.  I am the care taker of a family member with hep B.  He is end stage liver failure, but dosn't meet the guidelines for a liver transplant due to a colon cancer diagnosis in 2012.  The colon cancer was successfully treated with colon resection. We were told by a previous physician that there is an approved drug which ""cures"" hep b.  He emphasized that the new drug is a cure, not a treatment.  I tried to find infoon my own, to no avail.  I contacted NIH and was told to call the FDA.  I have had no response from the FDA re: messages left in 2013.  Their website was futile. Can you assist us.  My family member is end stage and if this physician was accurate, this could assist us tremendously.  He is taking baracluse and  xifacxin as well as lactulose.  His primary care physician is alarmingly unknowledgable."
+summarized question 21: Is there a cure for hepatitis B?
+##
+query 22: SUBJECT: I need help MESSAGE: Dear sir, I need  your help. I am [NAME], I have some question to ask you. My uncle a heart problem due to a gastro problem and bleeding from the intestinal the doctor says. He is an handicap person. Now he is a little bit ok , it's just that he is suffering from his belly a lot, but he is stop bleeding from inside. He often have breath problem also, i give him smetimes ventoline spray. We don't know what we treatment we should give him, Please I need your help. Thank you in advance sir.  Best regards [NAME].
+summarized question 22: What are the treatments for breathing difficulties?
+##
+query 23: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 23: What are the treatments for arm and neck pain?
+##
+query 24: SUBJECT: tysabri in ALS MESSAGE: dear sir My wife is 54 years old being diagnosed with ALS for the last 2 years. Currently she can,t use hands or legs, can,t talk properly but still can swallow soft food and breath. I heard that this TYSABRI injection can be of great help in my wife,s case. Please advice as soon as possible
+summarized question 24: Is natalizumab an effective treatment for ALS?
+##
+query 25: SUBJECT: headache which can precede a stroke MESSAGE: Headaches are many and varied.  Could you describe the headache which precedes a stroke?
+summarized question 25: Could you describe the headache which precedes a stroke?
+##
+query 26: SUBJECT: Gout and Blood pressure MESSAGE: I have had many gout attacks since i have been 30 years old now 70 . I take allopurinol and blood pressure meds . Before i took allopurinol i never had high blood pressure . Also i have developed basal cell skin cancer i have heard allopurinol will cause that . Reduces acid in your system ?
+summarized question 26: What are the side effects of allopurinol?
+##
+query 27: SUBJECT: bowl movements question. MESSAGE: I have been having BM two or three times a day, that is not a problem, it seems natural, but the feeling that I have not finish is there every time. I feel that I have not finish and something is going back in, when I get up. I had back surgery 6 months ago.
+summarized question 27: What are the treatments for incomplete bowel emptying?
+##
+query 28: SUBJECT: Excessive Eye Water MESSAGE: Thank for your information on my earlier question regarding what is causing skin itching. I have another question on another problem that I'm having. This problem is excessive eye water (tears) occurring all the time and filling my nose up mostly at night and stops using my nose while in bed after a couple of hours. This there any medicine that would reduce all these excessive tears?
+summarized question 28: What are the treatments for watery eyes?
+##
+query 29: SUBJECT: X-linked congenital stationary night blindness MESSAGE: i m suffering from similar or same decease.my mothers father suffered from same & my brother also.we have problem in low light infact cant view in damp conditions during day also have myopia but still not normal myopia cant see little object with clarity.life is looking like imprisonment.is there any chance for our recovery from this x linked decease.will we be able to see like normal ones.plz help. my age 38 y brother 44.address [LOCATION]
+summarized question 29: What are the treatments for X-linked congenital stationary night blindness?
+##
+query 30: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 30: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 31: SUBJECT: Duloxetine DR 20 mg casules. MESSAGE: I started taking Cymbalta about three months ago.  I recently developed curvature of the spine.  Could this curvature being caused by the Cymbalta?  My pharmacist wasn't sure and suggested I contact you.  Thanks!
+summarized question 31: Can Cymbalta cause curvature of the spine?
+##
+query 32: "SUBJECT: IV Ringers lactate MESSAGE: I received ""slushy"" Ringers Lactate from our supplier due to the bitter cold in Wisconsin. If I allow these fluids to thaw at room temperature will I be able to use them for IV therapy."
+summarized question 32: Can  ringers lactate be used after freezing?
+##
+query 33: co q10 how effective and side effects for blood pressure treatment? Cider vinegar?
+summarized question 33:

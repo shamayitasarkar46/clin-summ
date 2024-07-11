@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 1: Does neurofibromatosis affect congestive heart failure?
+##
+query 2: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 2: What are the treatments for flatulance?
+##
+query 3: SUBJECT: Bipolar and Generalized Anxiety Disorder MESSAGE: I read about TMS Therapy.  Do you know anything about it?  Has it had success?  Also wondering about ECT?  Finally, I've been told acupuncture can help for mood disorders.  Is that true for mixed bipolar and generalized anxiety disorder along with meds?  Have you ever heard of this?
+summarized question 3: What are the treatments for bipolar disorder with generalized anxiety disorder?
+##
+query 4: SUBJECT: LIFESPAN OF UN-OPENED MEDICATION MESSAGE: Hi I have an un-opened prescription of Atorvastatin. How long is the lifespan in an Un-Opened container that has been stored at room temp (roughly 60degrees)?   Thanks
+summarized question 4: For how long can Atorvastatin be stored at room temperature?
+##
+query 5: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 5: What are the treatments for neck lumps or neck tumors?
+##
+query 6: Are there any guidelines to tell how quickly Humalog becomes active after injection?  I believe it remains active for about 4 hours.  Is this reasonable?
+summarized question 6: How long does it take for humalog to start working, and how long does it last?
+##
+query 7: SUBJECT: Possibility to Treat Eye Injury MESSAGE: When I was 7, my young brother suffered to me an eye injury. He used to play an inject bin that was injected my mother before a night. He directed me the inject bin as he was trying to frighten me for injecting. However, everything changed and he injected the bin to my eye. Now, I'm 21years old and my eye lost the vision and crossed, So what is the solution for me?
+summarized question 7: What are the treatments for vision loss?
+##
+query 8: SUBJECT: drop foot MESSAGE: What can I do to try to get better from drop foot do to having two of my disks in my back  replaced ? Its been four months since I had surgery and it hasn't come back yet. I want to do what ever I can to help  it come back if it dose.
+summarized question 8: What are the treatments for drop foot?
+##
+query 9: ClinicalTrials.gov - Question - specific study. I WOULD LIKE TO SEE STUDY OF -5P CHROMOSOME SYNDROME, WHAT IS THE ORIGEN, TREATMENT
+summarized question 9: What causes the 5p chromosome syndrome and what are the treatments?
+##
+query 10: SUBJECT: lupus an info on the diseise MESSAGE: Need all up date on lupus an send by mail informations on this subject..please i need more information to see if what i am exprienceing is in fact related to lupus ...thank you.
+summarized question 10: Where can I find the latest information on lupus?
+##
+query 11: SUBJECT: Low Platelet Count MESSAGE: hello i am facing low platelet count in my blood ( PTI ) and am taking the therapy ( 1 Pill Prednisone 2mg Morning -  MyFortic 2 Pills Morning - 2 Pills Night )  i want to ask [NAME] MD, Professor of Medicine if removing the spleen will cause anything or if there any side effects when removing it.  and what is the cause of this ( PTI )  Been in this 4 months  and my platelet count are ( 70 000 - 140 000 - 65 000 - 90 000 ) didnt reach the normal count. is this therapy good and will it help?  i just need some answers please.  waiting to hear from you soon  sincerely, [NAME]
+summarized question 11: What are the causes and best treatments for low platelet counts?
+##
+query 12: SUBJECT: Bedlam MESSAGE: This pesticide was used to get rid of bed bugs where I live. It was sprayed in areas I had to sleep in, sleep sofa. I wasn't told about it and slept through 4 applications over a 10 week period. I have one lung and severe COPD. Should this have been used knowing about my respiratory issues>
+summarized question 12: What are the side effects of bedlam insecticide?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I HAVE A BOY 16 WHO JUST GOT OUT OF A PLACE THAT GAVE HIM MEDACATION,THES ARE THE MEDS.MONTELUKAST,LORATADINE,OXCARBAPINE. WHAT DISORDER ARE THEY FOR?
+summarized question 13: What are the indications for montelukast, loratadine, and oxcarbazepine?
+##
+query 14: SUBJECT: inguinal hernia MESSAGE: I am a 75 year old man. I have 2 inguinal hernia. Do you offer any written pamplets on these.
+summarized question 14: Where can I find information on inguinal hernia?
+##
+query 15: SUBJECT: antacid named tritralac MESSAGE: I have taken Tritralac for years now it has been taken off the market.  What antacid is the closest one to Tritralac?  I preferred Tritralac because it came in pill form.
+summarized question 15: What antacid is the closest one to Titralac?
+##
+query 16: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 16: What are the treatments and prognosis for a child with AML?
+##
+query 17: My age is 56 years. And i am suffering from non-toxic goiter on left neck of size about 13cm from 5 years. My thyroid test of T3,T4,T5 are normal,FNAC test is normal and i am having no complications right now.  1) Please suggest should i go for operation of my thyroid gland.? 2) Is Radioiodine treatment better then surgery for me? Thanks  [NAME]
+summarized question 17: What is the best treatment for non-toxic goiter?
+##
+query 18: SUBJECT: My humerus bone MESSAGE: Hello. My name is [NAME], I am 33 yearsold, from Romania in Europe and I have a 6 inches difference between my left humerus bone and my right one. It all started when I was around 4 yearsold and I had a bone illness called: bone cyst. First it affect my right femur and then my left shoulder. The bones were very fragile in the mentioned areas and I had fractured them many times very easily. I had 3 surgery at my shoulder and I heal up after a bone transplant from my hip and after some hidrocortisone injections. All good but as I said my left humerus bone is a lot shorter. The doctors said that my growth plate was affected that's way it is this difference between hands. It bother me a lot, especally when I m in sports (bodybuillding, basketball), I and I would like to know if there is something that can be done for me to make things right. Any suggestions is welcome but just don t tell me to give up.     Hopping in a soon answer I thank you.
+summarized question 18: What are treatments for differences in arm length,  and how can I find physician(s) or hospital(s) who specialize in it in Romania?
+##
+query 19: laser hair removal treatment.  I HAVE EXCESS HAIR GROWTH ON MY NECK AND CHIN. REASON IS MY HORMONAL IMBALANCE AND THYROID. THEY ARE BLACK HARD HAIRS. I WANT TO KNOW THAT LASER HAIR REMOVAL IS SAFE AND SATISFATORY FOR ME OR NOT? WHAT IS ITS CONSEQUENCES IN LONG TERM? WILL THE HAIR GROWTH WILL BE CONTROLLED LIFE TIME! PLEASE GUIDE ME.. ! THANKING YOU!
+summarized question 19: Where can I find information on laser hair removal including long term consequences?
+##
+query 20: SUBJECT: dementia MESSAGE: I am looking for resources on how to deal with my husband who has vascular dementia and unsteady gait. Main prblem is him refusing to get out of bed for meals or activities of daily living. it takes hours on daily basis to get these essential basic life activities done. His doctors are aware but not very helpful. Any ideas or resources, other than SNF, will be apreciated
+summarized question 20: What are the treatments for vascular dementia and unsteady gait, and what caregiver resources are available?
+##
+query 21: SUBJECT: Azithromycin 250mg gluten MESSAGE: Hello can you please tell me if your Azithromycin 250mg tabs are gluten free?  Thank you!
+summarized question 21: What are the ingredients of Azithromycin and is it gluten free?
+##
+query 22: Many of us have a fear of getting an asymptomatic, insideous perforation in the digestive tract -- one that leads to vague complaints or even degenerative conditions but doesn't announce itself in any acute way.  Can this ever happen?  And if it does, how can a patient detect it?  There are stories of people swallowing needles and they don't even know it! One answer I've heard put forward is that foreign objects embedded in tissue become encased in some kind of hard flesh and somehow eliminated from the body.  Could this really happen?  Is there something I could read about it?  What about the people who have found foreign objects still sitting around in their tissues after aeons? I'm one of those internet worry-worts.  I go to online forums where people really want to know the worst case scenario for things like this.  This particular issue has worried me for years.  Thanks for discussing it with me. [NAME]
+summarized question 22: How to detect asymptomatic swallowed foreign objects in the body and what are the prognosis and treatments for them?
+##
+query 23: Project. Hi my name is [NAME] and I'm doing a school project about leukemia and I was wondering if you can anwser some of my questions please.1. What cause leukemia cancer?2. Can you survive leukemia?3. How does leukemia affect your body?4. Is leukemia inherited?5. What is advanced leukemia?6. How long can someone with leukemia expect to live?7. Can you tell if you have leukemia?8. What treatments do you need to take?9. What are the signs of leukemia?10. What is the difference between AML and CML ?
+summarized question 23: Where can I find information on the different types of leukemia, including causes, treatment, prognosis, diagnosis, symptoms, and inheritance?
+##
+query 24: I have had two groing area hernias 1-mesh 10 years ago Dr [NAME] [LOCATION],& 1-plug& mesh 1 year ago Dr [NAME] [LOCATION], after serious pain & huge bulge that never went away and serious nerve dicomfort in upper thigh area for last year, I got mri and it says I have another hernia! I then seen a Dr [NAME] [LOCATION], he says I must lose 30 pounds before operation.,he says he wants to attach mesh to hip bones thuss using bigger mesh holding etire groing area!unfortionatly I am getting apears to be infection in bulging area, I am a heavy equipment operator seatbelted in to giant bouncing earthmovers all day, most likely moving mesh inside my groing area? I dont know! question is? is this proceedure sound feasible and have researchers heard of it? I am interested in a research program if I can be helped once and for all if possible! please  give me some feedback or at least a great proceedure with a great surgin in palm springs area. thank you [NAME] [LOCATION]
+summarized question 24: Where can I find the latest research on surgery for groin hernia, and and how can I find physician(s) in Palm Springs who specialize in it?
+##
+query 25: MESSAGE: I am a male in my mid 60's. I was wondering if there is a name for sleep apnea that happens during the daytime when awake?  Any information that helps further explore this will be appreciated.  Thank you in advance for your help.
+summarized question 25: Can sleep apnea occur during the day when awake?
+##
+query 26: I have exercise induced asthma. Would any of these non drug devises be suitable please?
+summarized question 26: What nondrug devices are suitable for treating exercise induced asthma?
+##
+query 27: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 27: Where can I find clinical trials for macular degeneration?
+##
+query 28: SUBJECT: Left hip replacement surgery MESSAGE: In  [DATE], I had a total left hip replacement surgery, during that surgery, my femur was broken.  Two weeks later, there was a a revision fine due to possible infection in that same left hip. Today is [DATE] and my question is what should I be expected to be doing? I still rely on my walker, I am 54 years young and I suffer from Chronic Osteoarthritis in my lower extremities which is the reason for hip replacement at such an earlier age.
+summarized question 28: What is the recovery time and expected activities for hip replacement surgery and a broken femur?
+##
+query 29: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm 33 years old and got diagnosed with rhabdomyosarcoma stage 4 last December. I went through 13 weeks on intense chemotherapy and my last scan showed that I'm in remission. I'm looking for more guidence as far as a stem cell replacement goes.
+summarized question 29: Is stem cell therapy appropriate for stage 4 rhabdomyosarcoma in remission?
+##
+query 30: "SUBJECT: pseudogout MESSAGE: @ http://www.nlm.nih.gov/medlineplus/ency/article/000421.htm I see the statement ""There is no known way to prevent this disorder. However, treating other problems that may cause pseudogout may make the condition less severe"" which I would like to have explained, especially what those other problems are &how they may be treated. I'm especially interested in whether supplemental calcium may not be good to take."
+summarized question 30: What are the treatments for pseudogout?
+##
+query 31: SUBJECT: Janumet XR 50mg/1000mg- 1 daily MESSAGE: Doctor prescribed for type 2 diabetes w/Metformin 500 mg 2 times daily. Pharmacy refused to fill stating overdose of Metformin. Who is right &what is maximum daily dosage of Metformin? Pharmacy is a non-public pharmacy for a major city employer plan provided for employees only.
+summarized question 31: What is the maximum dosage of metformin?
+##
+query 32: "SUBJECT: Erythema Nodosum MESSAGE: I have read that a form of ""honey"" might be used to treat my skin condition, Erythema Nodosum. Would appreciate your comment on this."
+summarized question 32: Is honey an effective treatment for erythema nodosum?
+##
+query 33: I have a detached cruciate ligament in my left knee. If I submit to reconstruction surgery, how long will recovery take? Because of my age (over 90) I need to remain as physically active as possible. I live alone. My injury occured several years ago, but only recently has been causing me major discomfort.
+summarized question 33:

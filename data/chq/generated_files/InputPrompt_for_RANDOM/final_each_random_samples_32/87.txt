@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: severe unprovoked vulvodynia MESSAGE: Where can I purchase topical gabapentin cream?  Do I need a prescription?
+summarized question 1: Where can I purchase topical gabapentin cream and do I need a prescription?
+##
+query 2: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 2: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 3: Physician.  I am looking for a type of physician that specializes in treating leg cramps in the elderly.  Specifically, possibly one that provides treatment for leg circulation issues.  What medical specialty is that called?
+summarized question 3: What type of physician treats poor circulation in the legs?
+##
+query 4: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 4: Can I take Metformin pills given to me by someone else?
+##
+query 5: SUBJECT: Ingredients !! MESSAGE: Hi, Please help me to find ingredients for fluoxetine hcl liquid. I want to know is there any gelatin or animal product in there or not? Please send me any information or web link where i can find information. Thank you
+summarized question 5: What are the ingredients of liquid fluoxetine HCL?
+##
+query 6: MESSAGE: Hello, about 9 years ago I was poisoned and I didn't know what it was that was fed to me until a month ago. It was mercury and I'm losing my vision among other illnesses and don't know where to turn for help.
+summarized question 6: What are the treatments for mercury poisoning?
+##
+query 7: SUBJECT: spg11 MESSAGE: My 24 year old son was recently diagnosed with  spg11 after over 15 years of trying to figure out what was wrong.  We are already doing some of the common treatments.  My question is, where do we go from here to give him the best chance at life,
+summarized question 7: What are the treatments and prognosis for spg11?
+##
+query 8: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 8: How can I find a doctor to perform tubal ligation?
+##
+query 9: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 9: Are the  long-term effects of morphine reversible?
+##
+query 10: SUBJECT: Treatment without amputation MESSAGE: My father is 70 years old his arteries in the both limbs have blockage. He is having pace maker. Doctor's suggest to go for amputation but there is high risk in it. Please suggest treatment without amputation! He foot is turning black and blisters are forming on his limbs.  Please advice
+summarized question 10: What alternatives to amputation are available for blocked leg arteries if the foot is turning black?
+##
+query 11: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 11: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 12: ClinicalTrials.gov - Question - general information.  My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.
+summarized question 12: What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?
+##
+query 13: ClinicalTrials.gov - Question - specific study.  I was told by my family doctor, that I have total alopecia, I feel it was related to a hair color that I used in 2012, but seems there are no studies about chemical exposure from the coloring to prove my point of total hair loss, not sure about any study being done in this regard, mine was not a painless hair loss, I had burns to my scalp. thanks for any information, or help. Sincerely, [NAME]
+summarized question 13: Could chemical burns cause total alopecia and what are the treatments for it?
+##
+query 14: pubic lice.  What are some treatments for pubic lice
+summarized question 14: What are the treatments for pubic lice?
+##
+query 15: SUBJECT: Plaquenil MESSAGE: I was recently diagnosed with lupus. A few months prior I had a terrible reaction to levofloxacin. My doctor wants to give me plaquenil. I am concerned as this is in the quinolone family. Should I be concerned? Is this a quinolone drug?
+summarized question 15: What are the contraindications for plaquenil?
+##
+query 16: MESSAGE: What is the best way to naturally treat a 7 yr old boy with ADHD? Without prescription medicine?
+summarized question 16: What are the non-drug treatments for ADHD?
+##
+query 17: SUBJECT: Bruxism MESSAGE: I understand that bruxism may be a result of tension or anxiety, but why that particular release? Why don't people clench their fists during sleep, or kick, or any number of activities? In other words, why is the jaw the most common location?
+summarized question 17: What are the causes of bruxism?
+##
+query 18: SUBJECT: just a question MESSAGE: hi..just wanna ask... 1.how the aspirin can affect the ear? 2. what is the cause of suddenly ringging in the ear? isn't dangerous? tq.. :)
+summarized question 18: What causes ringing in the ear, and can aspirin affect the ear?
+##
+query 19: SUBJECT: Pancreatitis Cancer MESSAGE: My Grandfather on my mothers side died of pancreatic cancer  and my mother also  i am the only daughter ,but also have 3 brothers is it more likely that i will have of chance of having this form of cancer that my brothers. My mom was only 57 when we lost her . I am now 51 and worry if i'm more likely to suffer with this cancer than my brothers.
+summarized question 19: What is the risk of developing  pancreatic cancer and how is it inherited?
+##
+query 20: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 5 yr old Grandson has Tourette's, his Dad, my son also has it. His 7 yr old brother picks his arms and leaves scars, Is there anything we can do? He has been to A Neurologists once, and he said to keep records of the 6 yr old and to come back in 6 mo, or sooner if things get worse.
+summarized question 20: What are the symptoms of tourette's syndrome and their treatments?
+##
+query 21: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 21: Where can I find information on familial mediterranean fever?
+##
+query 22: SUBJECT: Magnesium Pill MESSAGE: So I took a magnesium pill but without the pill, I poured it on some orange juice. Can this be harmful? And will this affect the effectiveness of the pill? Thanks
+summarized question 22: Can magnesium be taken with orange juice?
+##
+query 23: SUBJECT: Do Shrimp Allergies Subside Over Time MESSAGE: I used to eat shrimp all the time but suddenly developed an allergy to it when I turned 24. I went to an allergist and I definitely tested positive for shrimp allergy (all other shellfish like lobster, crab, etc. oddly was negative).  Are food allergies that develop later in life like this known to disappear over time? I'm just wondering if there's a safe way to test it if I'm too lazy/poor to go see an allergist again. It's been 8 years since I was diagnosed.  I'm not asking for a recommendation to my personal case but was just wondering the answer to my first question above.  Thanks
+summarized question 23: Is it possible for a shrimp allergy to go away?
+##
+query 24: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 24: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 25: errection problem.  I have errection problem,Iam 52 years old I get errection it looses when I go for intercoarse pl suggest me medicine
+summarized question 25: What are the treatments for erectile dysfunction?
+##
+query 26: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 26: Does neurofibromatosis affect congestive heart failure?
+##
+query 27: SUBJECT: Eye muscle surgery as a result fo a TBI cycling accident MESSAGE: I had surgery on the muscles of two eyes as a result of a cycling accident in [LOCATION] in [DATE] 2012 resulted in hospitalized care for s Traumatic Brain Injury.  My eyes were given a year to heal but some double vision occurred and my vision was off center.  Recovery amazing but eyes were a problem (double vision),  Surgery 10 days ago (May) getting mixed opinions on when to go back to sports; cycling, lifting small weights.  Is it 2 week, 4 weeks or 8 weeks of doing nothing.
+summarized question 27: When can I resume exercising  after eye muscle surgery?
+##
+query 28: "SUBJECT: Periventricular Heterotopia.  Scoliosis  - possibility of a known link ? MESSAGE: Question in laymen terms: Has any genetic or other correlation ever been made between these two diagnosis? My 59 y.o. sister has a diagnosis of Periventricular Heterotopia.  Her 30 y.o. daughter has been suffering with same for last 15 years.  Her 37 Y.O. daughter is clinically full-care retarded (since infancy) and has severe idiopathic scoliosis.  I have severe idiopathic scoliosis. I use the term ""severe"" to express debilitating and multiple fusion surgeries.  All four of my generation female siblings have a level of scoliosis. FYI: this PH sister died last week, her remains are at the [LOCATION]"
+summarized question 28: Is there a link between periventricular heterotopia and scoliosis?
+##
+query 29: "SUBJECT: IV Ringers lactate MESSAGE: I received ""slushy"" Ringers Lactate from our supplier due to the bitter cold in Wisconsin. If I allow these fluids to thaw at room temperature will I be able to use them for IV therapy."
+summarized question 29: Can  ringers lactate be used after freezing?
+##
+query 30: SUBJECT: broken the shoulder. MESSAGE: how to provide the treatment of broken shoulder lock problem ?
+summarized question 30: What are the treatments for broken shoulder?
+##
+query 31: Interested in research regarding Arimidex and the pros and cons of taking it following lumpectomy and radiation for breast cancer.  Are there research results of recent research?  The possible side effects are worrying - I make decisions for my 47 year old daughter with Down Syndrome-trying to do what is best.  She has taken Anastrozole for a year now.
+summarized question 31: What is the the latest research on Arimidex, and the benefits and side effects of the drug?
+##
+query 32: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 32: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 33: I have been diagnosed with bipolar and fibromialgia and have been told I cannot take lyrica with having been put on medication for bipolar as well as the issue with side affects. Is this true?
+summarized question 33:

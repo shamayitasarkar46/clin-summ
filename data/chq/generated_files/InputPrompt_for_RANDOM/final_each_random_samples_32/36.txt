@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 1: What are the causes of nipple discharge?
+##
+query 2: Melanoma.  The doctor wants my father to take interferon Alfa-2b They did the surgery it was on his feet  know they want him to take the biological therapy he is very scared I just want some more info please can u get me info ASAP thank u
+summarized question 2: Where can I find information about interferon alfa-2B therapy for melanoma?
+##
+query 3: SUBJECT: Leg pain MESSAGE: I am diabetic since last 18 years and present it is 6.6 and morning it varies from 110 to 135 and afternoon and from 125 to 175.I regularly take medicine. swimming, exercise &Yoga for 1.5 Hours in the morning &1.5 Hours in the evening but recently the  pain has started in the legs and Dr. has suggested stiloz-50.I also take Kerala juice/Methi seeds &it is water in the morning. Is this due to diabetes or any excess exercise?
+summarized question 3: What are the causes of leg pain?
+##
+query 4: Information please. Hi my name is [NAME] and im currently trying to write a book about a girl with ewings sarcoma, i need more information on ewings sarcoma and chemotherapy , radiation and surgical treatments. When i finish the book , i aim to have a portion of book sales to go towards cancer research as i lost my sister to cancer.By the way i am only 15, thanks heaps
+summarized question 4: Where can I find information on Ewing's sarcoma, including treatments?
+##
+query 5: SUBJECT: Optic nerve artrophy MESSAGE: Good afternoon,  I am [NAME] from [LOCATION]. For my nephew is optic nerve artrophy about 2-3 years. He is 8 years old. One eye is dead now, other eye he can see about 20 percentage. No one doctor can`t help him in [LOCATION] (Europe).  Could You view his health history and to give the opinion about my nephew health situation and You will have proposition how we can help him.  I would be very grateful for Your.  Best regards,  [NAME] from [LOCATION].
+summarized question 5: What are treatments for optic nerve atrophy, and how can I find physician(s) in Europe who specialize in it?
+##
+query 6: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 6: How can I find a doctor to perform tubal ligation?
+##
+query 7: SUBJECT: recovery after stroke? MESSAGE: what is the pattern of recovery after stroke?
+summarized question 7: What is the prognosis and course of recovery after stroke?
+##
+query 8: SUBJECT: tongue problem MESSAGE: I can speak every thing I have mistake some word like r,n I can n't speak.this is my problem .every person tell me..please give me suggestion..
+summarized question 8: What are the treatments for speech disorders?
+##
+query 9: ClinicalTrials.gov - Question - general information. my name is [NAME] from [LOCATION],my 10year old boy has duchenne muscular dystrophy  patient. my question is what is exon skipping & it can help for dmd  patient ?
+summarized question 9: What is exon skipping, and is it an effective treatment for  duchenne muscular dystrophy?
+##
+query 10: SUBJECT: Blood Sugar Levels and Parkinson's MESSAGE: I'm wondering if there is a correlation between blood sugar level's and how it may effect the presentation of Parkinson's particularly in tremors. It seems that extreme blood sugar levels would make the tremors a great deal worse and appearing none typical.
+summarized question 10: Is there a connection between blood sugar levels and symptoms of Parkinson's disease?
+##
+query 11: Pemphigus, vulgaris.  I have a family member who is suffering from Pemphigus, vulgaris.  It has been going on for last 6 months she is a young lady ages 29yrs old, has been on steriods for treatment, i am worried if she can have a baby?
+summarized question 11: Does pemphigus vulgaris or steriod treatment for it affect female fertility?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 5 yr old Grandson has Tourette's, his Dad, my son also has it. His 7 yr old brother picks his arms and leaves scars, Is there anything we can do? He has been to A Neurologists once, and he said to keep records of the 6 yr old and to come back in 6 mo, or sooner if things get worse.
+summarized question 12: What are the symptoms of tourette's syndrome and their treatments?
+##
+query 13: SUBJECT: Gluten Free Inquiry MESSAGE: I have gluten allergies and have taken Klor-Con, mfg by another drug company in the past, their pharmacist said it was gluten free.  Sandoz is a new mfg for me and I am wondering if their Klor-Con M20 Tabs 20meq contains any gluten.  The refill was  processed by  Express Scripts #03  on [DATE].  I am just starting this refilled prescription.
+summarized question 13: What are the ingredients of Klor-Con M20 and is it gluten free?
+##
+query 14: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 14: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 15: SUBJECT: Platelet count and Infection MESSAGE: Hello,  My nephew is just 1 week old and from since his birth he is admitted in hospital due to less platelet count and some infection. As per the report the platelet counts are fluctuating. How much time it takes to increase the count to the normal (near 1,00,000 - 1,50,000) ?   2) And he is also affected by some infection and the count is 114 (as per the doctor's the count should be below 5). When will he come back to normal ?  3) Initially the platelet counts were 40k and then raised to 67k and suddenly came down to 20k.   Waiting for your feedback.  Thanks & Regards  [NAME]
+summarized question 15: How long does it take for Platelet count to return to normal after an Infection in a 1-week-old infant?
+##
+query 16: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 16: How long does the tetanus vaccine last?
+##
+query 17: SUBJECT: adenoma carcinom pancreatic MESSAGE: Patient 65 year,without any other disorder has now diagnose solid adenocarcinom with 4 hepar metastases.IS possible treatment wit oncolytic virus with Gemcitabine? Who and where make it?
+summarized question 17: What are the treatments for pancreatic adenocarcinoma?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I HAVE A BOY 16 WHO JUST GOT OUT OF A PLACE THAT GAVE HIM MEDACATION,THES ARE THE MEDS.MONTELUKAST,LORATADINE,OXCARBAPINE. WHAT DISORDER ARE THEY FOR?
+summarized question 18: What are the indications for montelukast, loratadine, and oxcarbazepine?
+##
+query 19: SUBJECT: LATEST INFORMATION MESSAGE: WANT TO KNOW LATEST DEVELOPMENT IN LUNCE CANCER TREATMENT, MY FRIENDS WIFE AGE 45, NAME [NAME], [LOCATION] SUFFERING WITH THIS DISEASE,WILL BE TAKING FIRST DOSE OF ALMITA PEMETREXED ON THRUSDAY THAT IS AFTER FOUR DAYS. PL. ADD MY E-MAIL ID
+summarized question 19: What new treatments are available for lung cancer?
+##
+query 20: SUBJECT: Kidney Failures MESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in
+summarized question 20: What are the stages of chronic kidney disease based on GFR results?
+##
+query 21: SUBJECT: Múltiple Misscarriage MESSAGE: I had 4 misscarriage before I had my healthy daugther. I had another misscarriage a month ago. The Kareotipe for the fetus show genetic problems. Trisomy 8 and 15. Im 39 years old. Is the first time that I know the reason for the lost. I had the Kareotipe for me and my husband and there is no problem. The infertility Dr told me that I have progesterone problems Because I dont know the reason for the four misscarriage I am scared thinking the reason for all the lost babies is for genetic causes. I want another baby. What are the chances of having a baby with genetic problems?
+summarized question 21: After a miscarriage of a fetus with trisomy 8 and 15, what are the chances of a successful pregnancy?
+##
+query 22: SUBJECT: Jaundice MESSAGE: Can older infants get jaundice? What is the age range?
+summarized question 22: Can older infants get jaundice?
+##
+query 23: SUBJECT: Gout and Blood pressure MESSAGE: I have had many gout attacks since i have been 30 years old now 70 . I take allopurinol and blood pressure meds . Before i took allopurinol i never had high blood pressure . Also i have developed basal cell skin cancer i have heard allopurinol will cause that . Reduces acid in your system ?
+summarized question 23: What are the side effects of allopurinol?
+##
+query 24: SUBJECT: Lichen Planus yrs MESSAGE: Help help help. I have Lichen Planus and I think at times I might go crazy from the itching. I had once before about 22 yrs ago and it went away after a cycle or two of Prednisone. This time it has been over 15yrs and keeps on. It will not go away. I can not take prednisone any more!!!! It makes me mean. I need some kind of help. I use steroid creams and shots and they ease the lesions and the itching, but after a while it gets really bad again. I a at my wits end. It is all over my feet ankles legs and wrists arms back and butt. help me please!!!!!!!!
+summarized question 24: What are non-steriod treatments for lichen planus?
+##
+query 25: MESSAGE: Hello i would like more info about Familial Mediterean Fever please as my husband suffers from this. THANKS
+summarized question 25: Where can I find information on familial mediterranean fever?
+##
+query 26: SUBJECT: Ankylosing Spondylitis MESSAGE: Hello, My name is [NAME] and i live in india. I have suffered Ankylosing Spondylitis problem since last 2 years in lower back. so plz guid me properly how to cure this problem?  Thanks [NAME]
+summarized question 26: What are the treatments for Ankylosing Spondylitis?
+##
+query 27: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Please help me with my brother with locked-in syndrome in [LOCATION] for 3 years.Somebody please help. God bless .[NAME] [CONTACT]
+summarized question 27: What are the treatments and support for locked-in syndrome?
+##
+query 28: SUBJECT: Rehabbing a finger that was splinted MESSAGE: I badlydislocated my finger 7 weeks ago.  I reset it myself as it happened late in the evening. I splinted it myself with a store-bought splint because of concern for a break as well as ligament damage.  I just went to see an orthopedic doctor for the first time today (yes, I'm kicking myself for not going earlier).  The X-ray showed that the finger is still offset somewhat, perhaps indicating that some of the ligaments were ruptured. (The bone was ok.  I guess we won't know if it was ever broken.)  Nonetheless, I have to see a surgeon for an opinion in a few days.  Meanwhile, there is still some swelling and the ring finger that was in the splint is out but stiff as a board.  I'm concerned and not sure what possibilities to expect.  I certainly know you won't know what the situation is or what the surgeon will say but I was curious (a) what possibilities I might expect and (b) how problematic it is that the finger is so stiff...should I expect to regain motion...can it be rehabbed?  I'm assuming so, and if so, how long does it take to regain motion from a finger that has been splinted for so long?
+summarized question 28: What are the treatments and prognosis for a dislocated finger not initially treated?
+##
+query 29: SUBJECT: adrenoleukodystrophy MESSAGE: A child I have been asked to work with has been diagnosed with this condition.I am so far unable to find info pertaining to this illness. Can you help??
+summarized question 29: Where can I find information on adrenoleukodystrophy?
+##
+query 30: are jumping genes[transposons] associated with lynch syndrome? [NAME]
+summarized question 30: Are jumping genes [transposons] associated with Lynch syndrome?
+##
+query 31: SUBJECT: questins MESSAGE: i am looking for the latest evidence based practice on guidelines for assessing and treating Alcohol and Opiate withdrawal. Thanks.
+summarized question 31: What are the latest evidence based treatments for alcohol and opiate withdrawal?
+##
+query 32: SUBJECT: CURE FOR PNEUMONIA MESSAGE: Dear DR, please i have a friend that has the above illness..I want to find out...since i want to marry her...is it an infectious illness,,and can it be totally cured. And how can i help her to get this cured..Please i really need your reply urgently
+summarized question 32: What are the treatments for pneumonia?
+##
+query 33: Hi I am wondering what the chances are for ototoxicity and liver damage with the use of itraconazole. In case these occur are the side effects reversible? Also what are the risks of congestive heart failure in a person taking this medication if patient has a family history significant for Myocardial infarctions? Thank you for you time.
+summarized question 33:

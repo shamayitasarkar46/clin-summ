@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating. Trouble leaving my room (air conditioner @ 68%). Ruining my life. Can you help!
+summarized question 1: What are treatments for excessive sweating?
+##
+query 2: sarcoidosis.  One thing no physician has been able to tell me is whether or not fatigue--ongoing--is a part of this disease. I was diagnosed in 2006, and have noted a lessening of energy, endurance. If this is a possible side effect, I have not found it in any info on this. Please add to your information if this is a viable issue. Thanks so much! [NAME]
+summarized question 2: Is fatigue a symptom of sarcoidosis?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i am 9 years post bleed stroke and still can not use my left arm or hand and when i walk i hip hike on my left side.  is this as good asit gets
+summarized question 3: What is the long-term prognosis of limb use after stroke?
+##
+query 4: SUBJECT: Need information abouot Folgard OS MESSAGE: Need information about Folgard OS. I am in U.S.A. but that wasn't listed as a choice of countries!
+summarized question 4: Where can I find information on folgard OS in USA?
+##
+query 5: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 5: Are endometriosis and cysts possible complications of NF1?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: A friend had chemo for breast cancer.  She has developed a foam in her mouth that appears to come from her gums.  She has been to every doctor, but no one can diagnose.  She has tried everything recommended and nothing seems to work.  She has gone into a deep depresstion because of this constant foam.  Would there be any studies available?  Could someone give an idea of what could be causing this problem in her mouth?  Is there any interest of looking into her case?  Thank you.
+summarized question 6: What causes foamy saliva?
+##
+query 7: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 7: What are the treatments for kidney stones?
+##
+query 8: SUBJECT: need to know about shingles MESSAGE: I have had shingles on my face about 6 or 7 years ago.  Should I still get a shingles Vaccine?  I really need to know.  Stress is big in my life.
+summarized question 8: Should someone who had shingles get the vaccine?
+##
+query 9: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I HAVE CRONIC PAIN FROM SEVERE SHINGLES.THE BLISTERS ARE GONE BUT THE PAIN IS SEVERE.WHAT SHOULD I DO. I CAN' KEEP THIS PAIN
+summarized question 9: What are the treatments for shingles pain?
+##
+query 10: MESSAGE: I want more information on Hypertension and fibromyalgia, I seem to be getting only topics on diabetes and I do not have this.   I enjoy reading the current info.  thanks [NAME]
+summarized question 10: Where can I find information on hypertension and fibromyalgia?
+##
+query 11: SUBJECT: Mysthenia Gravis MESSAGE: hi i am 34 & a half years old, unmarried female.in 2011 i was diagnosed with MG ( early stage)when my right eyelid drooped a lot. the special blood test & enlarged thymus confirmed it. i was on prescribed medication since then till 3 months back when i discontinued the medicines assuming i am ok. but the drooping has again started though thymus is no longer enlarged ( as per latest CT scan ) so my doc has told me to continue the medicines lifelong. i am OK with it. but i dont want to pass on this disease to my kids. pls tell me if there is any way by which i can ensure that my kids dont get this disease during pregnancy? is it genetic or do the antobodies pass on from pregnant mother to the foetus? is there any way out to save the baby from this disease/ pls tell .
+summarized question 11: Is myasthenia gravis inherited and can it be passed from mother to fetus?
+##
+query 12: SUBJECT: phenobarbital MESSAGE: I have been taking this medication for many years.  I am 75 years old and would like to know if there is any other medication to replace  phenobabiral.  I am concerned that it could be toxic to me as I become older.  I also take Dilantin as I have a seizure disorder due to a birth defect.  Any info you could provide would be appreciated.
+summarized question 12: What are alternatives to phenobarbital?
+##
+query 13: SUBJECT: Medical MESSAGE: I have rash on the skin of the scrotum. What would cause it and how do I treat it?
+summarized question 13: What are the causes of and treatment for scrotal rash?
+##
+query 14: SUBJECT: HELP TO LOCATE DRUG MESSAGE: Received instructions from the FDA in using this site to find an anti-depressant that DOES NOT contain soy in any ingredient.  No product found.  PLEASE HELP ME!!!!
+summarized question 14: What anti-depressant fdrugs do not contain soy as an inactive ingredient?
+##
+query 15: SUBJECT: Acetaminophen inactive ingredients MESSAGE: My wife is severely allergic to Titanium Dioxide.  It is not listed in the inactive ingredients for Equate or Tylenol Acetaminophen on the package or on your page but other sources on the Internet claim it is used to coat the tablets to make them easier to swallow.  Are they coated with Titanium Dioxide and if so why is it not listed as an inactive ingredient? Thanks, [NAME]
+summarized question 15: Is titanium dioxide an inactive ingredient in Equate acetaminophen or Tylenol acetaminophen?
+##
+query 16: genetic beriberi. Is it true that wet and dry beriberi usually occur in the same patient?
+summarized question 16: Can wet beriberi and dry beriberi occur in the same person?
+##
+query 17: SUBJECT: just a question MESSAGE: hi..just wanna ask... 1.how the aspirin can affect the ear? 2. what is the cause of suddenly ringging in the ear? isn't dangerous? tq.. :)
+summarized question 17: What causes ringing in the ear, and can aspirin affect the ear?
+##
+query 18: "MESSAGE: I have a fungal infection on my two legs which i have treated  several month with Lamisil 1o/o cream ,Betamethasone-N cream and sulphur skin ointmentcream. And the drugs-: terbanfine, fuschin,ampiclus beecham vitamin ""c"" etc. But with all of these,the fungal still remain the same.pls, which strong antifungal drug or injection would you people recomend for me or what advice would you give ? Yours faithfully  [NAME]"
+summarized question 18: What are the treatments for severe skin fungal infections resistant to over the counter medications?
+##
+query 19: SUBJECT: what to eat MESSAGE: I have very bad diarrhea for last two months. Doctors have not found what causing it. It reserve watery.I need to know what I can eat. And is lactase milk and yougar is ok are not?
+summarized question 19: What foods should I eat when I have diarrhea?
+##
+query 20: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 20: Are there any precautions for mixing or administering Fomepizole?
+##
+query 21: I would appreciate it if you can send me or email  me  some exercises for a person who is a stroke victim. I am unable to walk due to a  arthritic knee. otherwise I am flexable..  my home address is [CONTACT], My email is [CONTACT] (mailto:[CONTACT]) Thank you, [NAME]
+summarized question 21: What are good exercises for stroke recovery in people with knee arthritis?
+##
+query 22: cant use site.  I want to find a doctor who specializes in burning mouth syndrome and that could be in many specialities, I cannot understand how to do this on your website.
+summarized question 22: How can I find physician(s) who specialize in burning mouth syndrome?
+##
+query 23: SUBJECT: Mental Health (Anxiety) interview MESSAGE: I would like to interview someone by email in order to obtain information over Generalized Anxiety Disorder for a Newsletter project in my Abnormal Psychology Class at [LOCATION]. Thank you very much
+summarized question 23: Where can I find information on generalized anxiety disorder?
+##
+query 24: SUBJECT: headache which can precede a stroke MESSAGE: Headaches are many and varied.  Could you describe the headache which precedes a stroke?
+summarized question 24: Could you describe the headache which precedes a stroke?
+##
+query 25: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I HAVE A BOY 16 WHO JUST GOT OUT OF A PLACE THAT GAVE HIM MEDACATION,THES ARE THE MEDS.MONTELUKAST,LORATADINE,OXCARBAPINE. WHAT DISORDER ARE THEY FOR?
+summarized question 25: What are the indications for montelukast, loratadine, and oxcarbazepine?
+##
+query 26: "SUBJECT: use of spacer with inhaler/warning sound MESSAGE: I've just read the instructions for using a spacer with my symbicort inhaler.  What if I breathe in according to directions and there is a warning ""whistle"" or ""sound?  What am I doing incorrectly?"
+summarized question 26: How do I use a spacer with the symbicort inhaler?
+##
+query 27: SUBJECT: MedlinePlus Service Request MESSAGE: if A PERSON HAS BEEN USING MORPHINE FOR YEARS (10)FOR PAIN RELIEF,AND ARE EXHIBITING THE FLU-LIKE INABILITY TO THINK OR COMMUNICATE, AS A LOVING FRIEND , COULD YOU GUESS/ESTIMATE FOR ME HOW LONG THE HELL THEY'RE EXPERIENCING MAY LAST?1 WEEK, 1 YEAR?
+summarized question 27: Are the  long-term effects of morphine reversible?
+##
+query 28: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 28: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 29: SUBJECT: Vasectomy MESSAGE: On the text that says it is very rare that the vas deferens can grow back and my partner pregnant ... So is it possible? ... Is that my partner got pregnant, I have vasectomy 16 years .. [CONTACT]     thanks
+summarized question 29: What is the late failure rate of vasectomy?
+##
+query 30: SUBJECT: health MESSAGE: I have been bleeding since 2010 and I have been having sharp pain on my left stomach since 2014 and my stomach is so big and I feel weak I have don a lot of test and nothing was seen. What could be wrong with me? And how can I conquer?
+summarized question 30: What are the causes of abdominal pain and swelling?
+##
+query 31: SUBJECT: menstruation MESSAGE: What causes women menses over a month ? And how bad it is interms of their health ?
+summarized question 31: What causes prolonged periods?
+##
+query 32: SUBJECT: Snhl MESSAGE: I am searching for sensorial hearing loss cure. My daughter is one and half months now. Please help me
+summarized question 32: What are the treatments for sensorineural hearing loss?
+##
+query 33: hydroxychloroquine for rheumatoid arthritis. Can you tell me if this medication that my doctor put me on could make me sweat profusely at the slightest little strenuous activity I'm also methotrexate 6 2.5mg once a week. could you please email me back thank you very much
+summarized question 33:

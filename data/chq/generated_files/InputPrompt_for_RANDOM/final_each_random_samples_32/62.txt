@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I am 22 weeks pregnant and just found out my son has Transposition Of The Great Arteries &will have to have surgery a few days after birth.When reading your section on this it mentions may have other birth defects,what would those be? Also i was wondering out of the surgery's listed how severe is this one in comparison to the others?Thanks for your time and i am anxiously waiting on your reply.Sincerely, [NAME]
+summarized question 1: What birth defects co-occur with Transposition Of The Great Arteries  and how dangerous is the surgery to corect it in a newborn?
+##
+query 2: Physician.  I am looking for a type of physician that specializes in treating leg cramps in the elderly.  Specifically, possibly one that provides treatment for leg circulation issues.  What medical specialty is that called?
+summarized question 2: What type of physician treats poor circulation in the legs?
+##
+query 3: SUBJECT: what are the chemicals or meds in lidocaine? MESSAGE: what are the chemicals or meds in lidocaine?
+summarized question 3: What are the ingredients of lidocaine?
+##
+query 4: SUBJECT: Nephrotic Syndrome MESSAGE: What is Nephrotic Syndrome.  What are its causes and cures?
+summarized question 4: What is Nephrotic Syndrome, its causes and cures?
+##
+query 5: SUBJECT: PSEUDOMONA AERUGINOSA - DIABETES MESSAGE: Hello. My name is [NAME], I have a daughter of 11 years with type 1 diabetes and I have a query. The bacteria Pseudomonas aeruginosa has been detected in the water tank of my building. I found that I have to take extra care with diabetics. Could advise me about that ?? Thank you.   [NAME]
+summarized question 5: Are there special precautions for diabetes and pseudomonas aeruginosa?
+##
+query 6: SUBJECT: Azithromycin Oral Suspension Stability/Storage MESSAGE: I am a pharmacy technician, and I work at an in-patient pharmacy. We carry Azithomycin 100mg/5mL Oral Suspension. We have been having some technicians putting the Reconstituted Suspension into our fridge. Our fridge is kept at a pretty steady 5* Celsius temperature. I know that the lower range of the stability is at 5*C. Is it a problem to keep it that cold? Should the suspension be kept out of the fridge?
+summarized question 6: How should Azithomycin Oral Suspension be stored?
+##
+query 7: SUBJECT: Letrozole MESSAGE: Can u please advise me what year Letrozole  was first used in the market. As I was not given this tablet after Breast surgery in 2007 and my tumour grew again. I had gone through the Menopause in 1990 so was not offered Tamoxin.
+summarized question 7: When was Letrozole approved for use?
+##
+query 8: migraine. I want to know the treatment for FHM type of migrain . I had observed the all symptoms which are same as provided in information and additionally my father and my younger sister face the acidity problem too. they feel relief after vomiting so both of them do the same by drinking warm water containing salt.
+summarized question 8: What are the treatments for familial hemiplegic migraine?
+##
+query 9: SUBJECT: FRIED FOODS AND HEART FAILURE. -  DOES THIS APPLY TO ALL OILS USED FOR FRYING? MESSAGE: THE RESEARCH CAUTIONS AGAINST CONCUMPTION OF FRIED FOODS.  DOES THIS CAUTION APPLIES TO ALL TYPES OF OIL USED FOR FRYING?  HOW ABOUT COCONUT OIL AND GINGELY OIL? THESE TWO OILS ARE LARGELY CONSUMED IN THE SOUTHERN STATES OF INDIA, AND SINCE I HAIL FROM [LOCATION], THIS QUESTION.
+summarized question 9: Do foods fried in coconut oil or sesame oil contribute to heart disease?
+##
+query 10: SUBJECT: Friedreich's ataxia MESSAGE: I have been told I have Friedreich's ataxia.  I am looking for a treatment to reverse it. I has to do with the chromosome number 9 defective in both of my parents and possible damage to chromosome number 10.  Would you be able to tell me if number 9 is defective in me.
+summarized question 10: Where can I get genetic testing for friedreich's, and what are the treatments for it?
+##
+query 11: "SUBJECT: Vamousse head lice treatment labe claims MESSAGE: To the best of my knowledge, any head lice treatment that claims to ""Kill"" lice and/or eggs is considered by FDA to be a drug claim and therefore needs to contain an FDA-registered pediculicide (kills lice) or an FDA-approved ovicide (kills eggs).  Otherwise the product is considered to be misbranded and a ""new drug"" requiring appropriate testing.  The ""Vamousse"" head lice treatment claims ""Kills 100% lice and eggs"" and does not conform.  In addition, the claim ""kills 100%"" is in violation of FTC rulings which prohibit claiming ""100%"".  This company has also introduced a Head Lice Prevention product which is also in violation of FTC rulings (see FTC vs Lornamead).  I think that you should research these issues and publish your findings.  Thank you."
+summarized question 11: Does Vamoose head lice treatment conform to FDA and FTC labeling guidelines?
+##
+query 12: Metformin varieties.  As of today, I have been on Metformin HCL 500MG twice a day, for two weeks now. Was diagnosed via 495 blood sugar result and now down to 180 this morning. Pills were prescribed from ER as I have no doctor of my own and awaiting ACA insurance. My friend gave me two bottles of Metformin her mother had used before she died, and I was wondering if I could take them myself.   The first is (according to the label on the bottle) GLIP/METFORM2.5-500MTAB TEVA USA, ONE BY MOUTH EVERY DAY WITH A MEAL. The pill is white, flat sides, oval shaped, and has 7456 on one side and 93 on the other.   The second says GLYB/METFORM 2.5/500TAB ACTAV MID Generic for GLUCOVANCE 2.5/500 TAB. TAKE TWO TABLETS BY MOUTH IN THE MORNING AND THEN TAKE ONE TABLET BY MOUTH IN THE EVENING. This pill is about the same size as the above listed pill, but with what looks like P., then 752. Nothing is on the opposite side.  I have to ask this because while I am waiting for my insurance to kick in, I cannot get a refill on the Metformin HCL I am taking now since I have no doctor to go through. So, if these extras I was given are just as generic as mine, can I take them? Would I adjust the dosage? And, if so, how should I take them (dosage and how many a day)? Being poor sucks, so I hope you can help me out... Thanks!  [NAME]
+summarized question 12: Can I take Metformin pills given to me by someone else?
+##
+query 13: Literature on Cardiac amyloidosis.  Please let me know where I can get literature on Cardiac amyloidosis.  My uncle died yesterday from this disorder.  Since this is such a rare disorder, and to honor his memory, I would like to distribute literature at his funeral service.  I am a retired NIH employee, so I am familiar with the campus in case you have literature at NIH that I can come and pick up.  Thank you
+summarized question 13: Where can I find information on cardiac amyloidosis?
+##
+query 14: broken veins in legs.  is vein surgery for mostly cosmetic reasons recommended any dangers serious side effects
+summarized question 14: What are the complications of varicose vein surgery?
+##
+query 15: MESSAGE: I have numbness/tingling in my lower right arm from elbow to my fingers. A EMG has shown nothing abnormal. I have had this for a long time, I need help.
+summarized question 15: Where can I find information and treatment for numbness and tingling in lower right arm?
+##
+query 16: SUBJECT: Irritation on the gland MESSAGE: There is a problem on my penis gland, due to using lidokaine a lot. The skin is irritating and very sensitive especially when it is wet. Also, the gland is peeling every 3 or 4 days during a week leading to very high stimulating feelings. I have undergone several treatments for skin as well as my neurotic system but with no result at all. Please help me to cure this. Some doctors said there is no treatment for me and there would be no sexual contact forever.
+summarized question 16: What are the treatments for sensitive, irritated skin on the penis?
+##
+query 17: MESSAGE: About my vagina..i hve somethng fishy smell..and daily dicharge white  .but why its so bad smell..and its pain
+summarized question 17: What are the causes of vaginal odor, vaginal discharge, and vaginal pain?
+##
+query 18: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 18: Are endometriosis and cysts possible complications of NF1?
+##
+query 19: SUBJECT: CURE FOR PNEUMONIA MESSAGE: Dear DR, please i have a friend that has the above illness..I want to find out...since i want to marry her...is it an infectious illness,,and can it be totally cured. And how can i help her to get this cured..Please i really need your reply urgently
+summarized question 19: What are the treatments for pneumonia?
+##
+query 20: care giving for parents My mother has been diagnosed with Alzheimer's, my father is not of the greatest health either and is the main caregiver for my mother. My question is where do we start with attempting to help our parents w/ the care giving and what sort of financial options are there out there for people on fixed incomes.
+summarized question 20: What resources are available  for Alzheimer's caregivers?
+##
+query 21: SUBJECT: duchenne. MESSAGE: My name is [NAME] from Morocco I am 27 years old. I have muscular dystrophy disease category duchenne. Are there any effective treatment for this disease
+summarized question 21: What are the treatments for duchenne muscular dystrophy?
+##
+query 22: Dear sir/madam I am 40 year old man  & have vericoceal on my left side .My wife is 24year old ,we are trying for a baby for the last 4 months with no positive result. doctor suggest me try for baby for at least 1 year. Please suggest me what i have to do for a baby. i will be highly obliged . thank you [NAME] [LOCATION]
+summarized question 22: What are treatments for male fertility issues and varicocele?
+##
+query 23: MESSAGE: Dear Sir I am newly marrired. Now from few days i am suffering erection problem. Pls suggest me. Thanks [NAME]
+summarized question 23: What are the treatments for erectile dysfunction?
+##
+query 24: MESSAGE: I have had renal organ transplant surgery a year ago. What risk factos must I avoid to prevent the recurrance of ESRD and to maintain a healthy &functioning grafted kidney ?
+summarized question 24: How do I care for my kidney after renal transplant?
+##
+query 25: SUBJECT: RKS have a 6 month old baby.. MESSAGE: Hi everyone, I am a mum of 6 months old boy who was diagnosed with Cerebral palsy (Hypotonia/Hypotonic form) in relation with Pallister-Killian syndrome. Also he has got mixed form of hydrocephalus There is no epiactivity. Our neurologist has suggested to go through Vojta method/ Bobat therapy.  Please could you let me know your experience with these methods ( if any).. I will be very grateful for any info about it as I do to have enough information to operate with. Also, any thoughts about transcranial direct-current stimulation, occupational therapy or Feldenkrais? Please please please if you can share your experience - it would be absolutely priceless.  Thank you in advance,  Best Regards,  [NAME]
+summarized question 25: Where can I find information on treatments for cerebral palsy, and specifically the vojta method and bobath therapy?
+##
+query 26: SUBJECT: High Blood Pressure MESSAGE: I know you may not answer this but my blood pressure comes up at night when I am asleep. I take four medicines. I have asked doctors why this happens and no one knows. This morning at four A.M. It was 164 and I took a clonidine to help get it done. It worries me so.
+summarized question 26: What causes a rise in blood pressure when asleep?
+##
+query 27: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i am 9 years post bleed stroke and still can not use my left arm or hand and when i walk i hip hike on my left side.  is this as good asit gets
+summarized question 27: What is the long-term prognosis of limb use after stroke?
+##
+query 28: SUBJECT: Need information abouot Folgard OS MESSAGE: Need information about Folgard OS. I am in U.S.A. but that wasn't listed as a choice of countries!
+summarized question 28: Where can I find information on folgard OS in USA?
+##
+query 29: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Good day. I'm living with lupus. I just want to ask if I can take glutathione supplement? I already completed my chemotherapy last month (march) and free off steroid after two weeks. Thanks
+summarized question 29: I have lupus; can I take a glutathione supplement?
+##
+query 30: SUBJECT: chickenpox MESSAGE: I do not know if I had chickenpox. Is there a blood test available to tell me ? And if not which vaccine should I get, if any ?
+summarized question 30: Is there a blood test for chickenpox and who should get vaccinated?
+##
+query 31: "SUBJECT: pseudogout MESSAGE: @ http://www.nlm.nih.gov/medlineplus/ency/article/000421.htm I see the statement ""There is no known way to prevent this disorder. However, treating other problems that may cause pseudogout may make the condition less severe"" which I would like to have explained, especially what those other problems are &how they may be treated. I'm especially interested in whether supplemental calcium may not be good to take."
+summarized question 31: What are the treatments for pseudogout?
+##
+query 32: SUBJECT: sti. infection and circumcised MESSAGE: I have noticed that I have an Sti virus on my Penis called Warts human virus(Hpy) so I need a help
+summarized question 32: What are the treatments for HPV genital warts?
+##
+query 33: I ask the home health aide to give me an enema. the home health aide has never given an enema. what should the home health aide do? I have not had a bowel movement in three days
+summarized question 33:

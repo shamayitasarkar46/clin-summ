@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: In Vitro Fertilization Hi. I am interested to have In vitro Fertilization (Test Tube Baby). May I know the risk and the cost. Thanks
+summarized question 1: What are the risks of in vitro fertilization and how much does it cost?
+##
+query 2: SUBJECT: chemical reactions to meds. MESSAGE: What is the clinical name for people who have chemical reactions to medications? Is there a cure?  Thanks
+summarized question 2: What are the treatments for drug reactions?
+##
+query 3: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 3: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 4: SUBJECT: drugs/liver failure MESSAGE: I don't know if you can answer this, but I thought I'd try. If someone used to use drugs, mainly heroin,  and they've stopped using and are around 30 days clean, will they not be able to test negative for drugs if their liver is failing?
+summarized question 4: How long is heroin detectable in your system?
+##
+query 5: SUBJECT: Geriatric Psychiatrists - recommendations MESSAGE: I'm looking for a geriatric psychiatrist in the sun city west, AZ area to do an evaluation for a loved one (male) who may be suffering from depression.  I'm looking for a psychiatrist that has experience working with older veterens who has a no nonsense, scientific approach.
+summarized question 5: How can I find geriatric psychiatrists in Sun City West Arizona?
+##
+query 6: SUBJECT: Coronary Artery Spasms MESSAGE: I ask this as a General Question. Can a Pacemaker help prevent these spasms?
+summarized question 6: What are the causes of coronary artery spasms, and can a pacemaker prevent them?
+##
+query 7: SUBJECT: Janumet XR 50mg/1000mg- 1 daily MESSAGE: Doctor prescribed for type 2 diabetes w/Metformin 500 mg 2 times daily. Pharmacy refused to fill stating overdose of Metformin. Who is right &what is maximum daily dosage of Metformin? Pharmacy is a non-public pharmacy for a major city employer plan provided for employees only.
+summarized question 7: What is the maximum dosage of metformin?
+##
+query 8: ClinicalTrials.gov - Question - general information.  My fathers 85 and has severe hearing loss - he has tried hearing aids which at first helped but loss has become worst - has loss the hearing on one ear - hearing aids seem to cause him lots of pain I now see that he now can't hear and is becoming isolated, which concerns me and makes me very sad and afraid he'll become very depress and not care. If you can't help us can you please direct me somewhere for help. We live in the los angeles area Thank you [NAME].  [CONTACT]
+summarized question 8: What are the treatments for hearing loss aside for hearing aids?
+##
+query 9: SUBJECT: severe full body weakness MESSAGE: Could you please tell me why the body would be severely weak. And after viral infection body does not return normal still is severely weak
+summarized question 9: What are the causes of severe body weakness?
+##
+query 10: MESSAGE: My son  five years old has Ganglisidose GM 1, we are looking for a drug that could help him, or at least could prolong life. He gets Miglusitat for 1 week. Can you help us or just send some information. We would be very grateful.
+summarized question 10: Where can I find information on GM1 gangliosidosis, including treatment and prognosis?
+##
+query 11: SUBJECT: Short Height Of My Daughter MESSAGE: My Daughter is 12 years old and her height is 105 cm and weight is 15 kg. I want to consult about her growth overall . can you suggest some medicine or anything else.
+summarized question 11: What are the treatments for delayed growth?
+##
+query 12: SUBJECT: voids to avoid with ebstien-barr virus in the liver MESSAGE: In pain after I eat...wondering if I am eating wrong foods. I have been diagnosed with this and had cat scan with and without dye and it shows a clump of blood vessels infected with the virus....
+summarized question 12: What foods to  avoid with epstein barr virus and abdominal pain?
+##
+query 13: SUBJECT: Subcutaneous retrocalcaneal bursitis MESSAGE: Haglund's deformity of the calcaneum.  I have this problem.  Can you please help to overcome this?
+summarized question 13: Where can I find information about Subcutaneous retrocalcaneal bursitis and Haglund's deformity of the calcaneum, specifically treatment information?
+##
+query 14: anemia in kids. My daughter is 6 years old she is suffering from microcytic anemia for last three years.in 2009 she has been blood transfused but now her hb count is 4.5.Doctors are unable to find out the cause of her anemia.we are much worried about her.plz if u can guide us in regard.
+summarized question 14: What are the causes of  and treatments for microcytic anemia?
+##
+query 15: SUBJECT: breast feeding MESSAGE: need information in different languages about breast feeding. Follows the WHO recommendation to promote breast feeding.
+summarized question 15: Where can I get information in different languages about breast feeding, specifically the WHO recommendation to promote breast feeding?
+##
+query 16: SUBJECT: Kidney Stone MESSAGE: Hello Dr.,In a case of patient with Kidney Stone size of 1.2mm x 2.3mm. What can i do? Pls i need your advice.
+summarized question 16: What are the treatments for kidney stones?
+##
+query 17: SUBJECT: Small Intestine Died MESSAGE: My Father-in-law died recently after his Small intestine died. He was apparently in good health and ate dinner on Saturday and had to be rushed to the hospital on Sunday. Early on Tuesday they operated on him after his blood pressure dropped. They removed 70-80% of his small intestine and part of his large intestine (dead). Is this reasonable that they would find this % of his intestine dead -- again he appeared to be OK the day before.
+summarized question 17: What causes the small intestine to die and what are the symptoms?
+##
+query 18: SUBJECT: MS MESSAGE: Hi, my name is [NAME] my brother has MS Im searching for something that can help him. I love my brother and its so upsetting to see him slowing down Can you please let me know if there is something that can help. Many Thanks!
+summarized question 18: What are the treatments for MS?
+##
+query 19: MESSAGE: About my vagina..i hve somethng fishy smell..and daily dicharge white  .but why its so bad smell..and its pain
+summarized question 19: What are the causes of vaginal odor, vaginal discharge, and vaginal pain?
+##
+query 20: SUBJECT: DECUBITUS ULCERS MESSAGE: To Whom This May Concern, My name is [NAME], i am a year 12 student at [LOCATION], [LOCATION]. I am doing a subject called research project, it is a compulsory subject.  My question is 'What are the biological causations of decubitus ulcers?' I am writing to you as i am in need of primary information from medical professionals. I am requesting that you complete a survey. If you are willing to participate please email me on; [CONTACT]   so i will be able to give you the survey and a letter detailing what it is for.  Thank You for spending your time reading this email, and i look forward to hearing from you. Yours Sincerely,           [NAME], Year 12 student at [LOCATION]
+summarized question 20: What causes decubitus ulcers?
+##
+query 21: hearing loss due to Alports Disease. If hearing loss is due to Alports Disease, is the hearing loss the same degree of both ears?
+summarized question 21: Where can I find information on hearing loss and Alports disease?
+##
+query 22: SUBJECT: Bendectin MESSAGE: In 1964, I began taking Bendectin for morning sickness and with each subsequent pregnancy I continued to do so. My third child developed a meningioma of the brain at 11 years old and currently, my daughter, 47 years old, has been diagnosed with a lesion(?) of the brain. I am justifiably concerned about my daughter's condition and wonder if I contributed to her status. I am only interested in helping her and not for any litigious reason. If someone also had a similar situation and was treated positively, I would so appreciate knowing about it. Thank you and God bless.
+summarized question 22: What birth defects are associated with taking bendectin during pregnancy and are there any treatments?
+##
+query 23: Regarding Gene. Hello!Can you advise me as to where I might be able to find information on the Gene and Variation:  BCMO1 rs 4889294, BCMO1 R267S rs 12934922 by chance please?  I believe it has to do with Vitamin A conversation but I cannot locate any info about it and treatment of course!  Thank you for your time and help! Gratefully,[NAME]
+summarized question 23: Where can I find information on conditions caused by SNPs BCMO1 rs 4889294 and BCMO1 R267S rs 12934922, and what are the treatments for them?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 24: How is hypomaturation type IIA2 inherited?
+##
+query 25: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: SIR/MADAM I READ DETAILS OF MY PROBLEM FROM INTERNET THAT'S WHY I AM GOING TO HAVE IN TOUCH WITH YOUR SITE. I AM HAVING A PROBLEM IN WALKING AND CAN NOT PUT MY FEET PROPERLY FOR WALKING MY LEFT LEG FINGER'S LAYED FIRST ON FLOOR . I JUST HAVING THIS PROBLEM FROM LAST FIVE YEARS JUST BECAUSE I HAD WITH AN ACCIDENT AND I GOT A  INJURY IN HEAD ALSO. I EVEN HAD PHYSIOTHERAPY FOR ALL AROUND THREE YEARS BUT STILL I AM FACING THIS PROBLEM. PLEASE HELP ME .
+summarized question 25: What are the treatments for difficulty in walking after head injury?
+##
+query 26: MESSAGE: My 3yrs old boy found my bleach at the laundry and I suspect he swallowed a bit of it. How do I treat this pls.
+summarized question 26: What are the treatments for bleach poisoning?
+##
+query 27: SUBJECT: hydatidiform mole MESSAGE: Iam hoping to find a scientist that is doing research on hydatidiform mole.  I had thins in my early 20s I am now 66 years old and its back.  There is some ver interesting information about this demon that invaded my body. There were thee of me friends of mine in the early 70s.  All three of us lived in [LOCATION]. All three of us could not have children after that and have had many medical problems. I have taken test and this has returned.I am just hoping someone is doing research and I could help in some way.  This has had serious problems for me the last 46 years. Thank you [NAME]
+summarized question 27: Who is doing research on hydatidiform mole?
+##
+query 28: "SUBJECT: Need help finding information about kidney ""nodules"".  Please help. MESSAGE: Need help finding info. on kidney ""nodule""."
+summarized question 28: Where can I find information on kidney cysts?
+##
+query 29: memory losses.  Information about dealing with, or medical care for, beginning forgetfulness. Not been diagnosed w/ any disease.
+summarized question 29: What are the treatments for forgetfulness?
+##
+query 30: SUBJECT: gelatin MESSAGE: Hi I want to make sure what kind of gelatin is used at vitamin d. Is it from pork? thank you for cooperation.
+summarized question 30: Is gelatin an inactive ingredient of vitamin D and is it pork-free?
+##
+query 31: ClinicalTrials.gov - Question - specific study.  I have hcv 3a,my doctor prescribed  sovaldi  ribavirin (24 weeks)I am looking for trials using the same medication.
+summarized question 31: Where can I find clinical trials for HCV genotype 3 using sovaldi ribavirin?
+##
+query 32: SUBJECT: residual cancer MESSAGE: How long do radiation treatments actively treat the area where it was delivered? Would cancer found approximately 3 months after radiation(which followed chemo, which followed surgery, and pt is on aromatase inhibitor since chemo) be considered residual or reoccurrence by most oncologists?
+summarized question 32: What is the difference between residual and recurrent maligancy?
+##
+query 33: when you check your blood with the insulin meter what is a good number
+summarized question 33:

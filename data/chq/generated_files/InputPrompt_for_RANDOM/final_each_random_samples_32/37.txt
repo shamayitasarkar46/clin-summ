@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: gluten free MESSAGE: Can you tell me if this drug is gluten free. Pms-Hydrochlorothiazide thank you [NAME]
+summarized question 1: What are the ingredients of Pms-Hydrochlorothiazide and it is gluten free?
+##
+query 2: MESSAGE: to Anyone   What can one do if they have no feeling in there feet ? [NAME]
+summarized question 2: What are the treatment for sensory loss in legs?
+##
+query 3: SUBJECT: Levothyroxin tab 0.05 MG MESSAGE: I am happy to note that all of your medications are gluten free.  The Levothyroxin tab 0.05 MG is gluten free, ***IS THERE ANY DAIRY (including lactose, casein) in the Levothyroxin Tab 0.05 MG? Thank you!
+summarized question 3: What are the ingredients of levothyroxin and is it dairy free?
+##
+query 4: SUBJECT: HELLP risk MESSAGE: My sister had HELLP during her first pregancey and is viewed to to at high risk for it again. I was wondering what the risk of me having HELLP during my pregancey was
+summarized question 4: What are the causes of HELLP syndrome, and is there a genetic predisposition?
+##
+query 5: garcinia Cambodia.  In the USA and elsewhere, plenty of Adds promoting the extract of this plant(Garcinia  cambodia)to fight obesity. Any reliable information on this claim will be appreciated
+summarized question 5: Does Garcinia Cambogia help weight loss?
+##
+query 6: MESSAGE: Hi,I hope you can help me with my query, but if not, maybe you can point me in the right direction.I currently suffer from lower abdominal adhesions, that were diagnosed and separated in January 2013, but have since returned.To combat the pain, I have begun an application to get a neurostymulation device inserted into my lower back.However, the main reason why I am contacting you is for a second opinion on whether or not I will have difficulty or if I can pregnant. Would it be advisable to avoid pregnancy? Please know that we have always talked about adoption, so it is not the end of the world if I can't have my own kids.Also, I was told that my adhesions were caused by an appendectomy (appendix had not ruptured) I had in 2004, but as it was all keyhole surgery, I don't understand why? Please note that they also removed a small cist from both the ovaries and bowel at the the same time. I am prone to small ovarian cists that come and go on their own (most of the time).Can you help with my questions?Many Thanks for any information you have,Kind Regards,[NAME]
+summarized question 6: Can abdominal adhesions or  a neurostimulation device affect pregnancy?
+##
+query 7: SUBJECT: IHSS heart condition and WPW heart condition MESSAGE: Is there any way you could send me information on both these heart conditions? My son has to get tested for them eventually and I would just like information to understand the conditions of both of them more.
+summarized question 7: Where can I find information on Idiopathic hypertrophic subaortic stenosis (IHSS) and Wolff-Parkinson-White (WPW) syndrome?
+##
+query 8: MESSAGE: Hi.. My mother is aged around 50 years.She has a keloid on face.she has undergone all types of treatments but all in vain(cryo surgery,surgery,steroid,compression band etc).It is getting bigger and bigger day by day.As it is on face she finds it very difficult to face people and society.So i request you to kindly suggest a remedy for the same..Please . With Regards
+summarized question 8: What are the latest treatments for facials keloids?
+##
+query 9: I was at my endocrinologist today and he said I should look into testing or new reshearch for someone like myself.  I am type 1 diabetic and my doctor said my case is unique he suggested I contact you to see if you may have research that could help me
+summarized question 9: What is the latest research on type one diabetes testing and treatments?
+##
+query 10: SUBJECT: Jaundice MESSAGE: Can older infants get jaundice? What is the age range?
+summarized question 10: Can older infants get jaundice?
+##
+query 11: diagnosis of OI/ resources. I was writing to inquire about more information regarding the diagnosis of OI.  We have family members who are in the process of waiting for genetic testing to come back but are under allegations of child abuse.  Is there any information and / or resources that may be helpful to us? Any help is appreciated. Thank you,[NAME]
+summarized question 11: How is osteogenesis imperfecta diagnosed and what are its symptoms?
+##
+query 12: SUBJECT: Omege 3 Acid capsule MESSAGE: I am currently taking Lovaza. My pharmacy, CVS, has advised me that the above, Omega 3 Acid capsule is now available as a generic alternate. My doctor has said that she is not aware of a generic for Lovaza. Who is correct?
+summarized question 12: Is there a generic version of Lovaza?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 13: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 14: SUBJECT: Possibility to Treat Eye Injury MESSAGE: When I was 7, my young brother suffered to me an eye injury. He used to play an inject bin that was injected my mother before a night. He directed me the inject bin as he was trying to frighten me for injecting. However, everything changed and he injected the bin to my eye. Now, I'm 21years old and my eye lost the vision and crossed, So what is the solution for me?
+summarized question 14: What are the treatments for vision loss?
+##
+query 15: How do I know if the cause why my penis didn't growth up to a normal penis size was because of IHH? And How can I have a treatment with hCG? Where Can I get the injections?
+summarized question 15: What are the tratments for small penis size and where can I get the treatments?
+##
+query 16: SUBJECT: new treatment for lipoma of forearm MESSAGE: I have had two surgeries on my right forearm.  The last was 2 years ago.  The lipoma has returned.  Are there any new treatments or experimental procedures that might help me?
+summarized question 16: What are the latest treatments for recurrent lipoma of the arm?
+##
+query 17: Does high Thyroid level (31.13) interfere with recovery I just had double knee replacement on 01/15/2014. I take Levothyroxin 137mg dailey for my thyroid condition.  I take no other meds on a regular basis except for the normal pain meds prescribed during my recovery. During my recovery, I never felt comfortable and free of pain. I finally asked for a blood test and discovered my TSH level at 31.13.  My question is, will a high TSH level interfere with healing and recovery of muscle tissue and bones?  I am now taking a higher dose of Levthyroxin, can I expect a longer than normal recovery period due to a high TSH level?  Thank You, [NAME]
+summarized question 17: Can high TSH levels or Levothyroxine impact muscle tissue recovery?
+##
+query 18: asthsma.  I have been having problems w/ shortness of breath and dizziness and stress heat. what do you think? do i have asthsma or not?
+summarized question 18: What are the symptoms of asthma?
+##
+query 19: SUBJECT: Cervical Cancer MESSAGE: Can a long term untreated bladder infection aid in the cause of cervical cancer? And can the fact that my mom has cervical cancer aid in my chance of getting cervical cancer?
+summarized question 19: What causes cervical cancer, and is it hereditary?
+##
+query 20: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 20: What are the treatments for strabismus, including stem cell therapies?
+##
+query 21: ClinicalTrials.gov - Question - general information.  i am a two time peg/ interferon non responder, under medical care at [LOCATION] Medical center, had an eye issue, at same time i was almost viral free. I need in a clinical trial of on new Sofosbuvir treatment.
+summarized question 21: Where can I find information on clinical trials for sofosbuvir?
+##
+query 22: SUBJECT: lupus an info on the diseise MESSAGE: Need all up date on lupus an send by mail informations on this subject..please i need more information to see if what i am exprienceing is in fact related to lupus ...thank you.
+summarized question 22: Where can I find the latest information on lupus?
+##
+query 23: NUT tumor in spine. My brother had a tumor in his cheek, which was surgically removed. He is still undergoing radiations. After dissecting the tumor, they noticed it had something to do with the chromosones. His tumor was rare. Last week they discovered very small tumors in his spine. They concluded the cancer has evolved in his bones. In [LOCATION] ([LOCATION]) they said only 2 cases of this cancer are known worldwide. They've given him 8 months!4 Months ago he was just fine. I'm looking for any information that can help him!
+summarized question 23: "Where can I get information and help for ""NUT tumor"" in the spine?"
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: for the last 2 years I have suffered with scalp psoriasis have tried every known shampoo for this problem and no I am trying vitamins also! I cannot afford the doctors treatment unless medicare would pay for it, please can u give me some advice. I take blood pressure meds after a triple bypass would that be working against me? I a, alicensed cosmetologist and even embarrassed to have a co worker cut my hair!
+summarized question 24: What are the treatments for scalp psoriasis?
+##
+query 25: MESSAGE: Will storing my medication in the freezer reduce their efficacy? I have many and more related questions about storing pills at various temperatures that I would like to ask about, but let's start with that question. The drugs that I am concerned about are digoxin and lisinopril. As far as I know, the dosage is the lowest possible prescribed dosage for each medication (if that matters). I hope my question will not be thought of as a specific, or individually based question and you are able to answer in the most broad and objective way. Thank you very much in advance.
+summarized question 25: Will storing digoxin and lisinopril in the freezer reduce their efficacy?
+##
+query 26: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I'm a mother of a 13 year old girl that has been diagnosed with endometrises. I know its not spelled right. The doctor stated it was severe and uncommon for children her age. she was 12 when diagnosed is there anything going on for her age? she has not had any treatments and hurts constantly.
+summarized question 26: What are the treatments for severe endometriosis in adolescents?
+##
+query 27: Do you have any info on Korsocoff's syndrome brought on by long-term alcoholism and bad diet?  What about treatment options?
+summarized question 27: Where can I find information on korsakoff syndrome and what are the treatments?
+##
+query 28: SUBJECT: Peptic Ulcers & Tylenol MESSAGE: I have a history of peptic ulcers, so I don't take aspirin or anything that contains it. However, I still experience ulcerative pain when I take Tylenol, especially on the second day of it's administration in recommended doses.   Why is this so?
+summarized question 28: Can tylenol cause ulcerative pain?
+##
+query 29: Pupil Dilation.  How often can a pupil dilation or eye fundus can be performed? For example is there a problem if I had one last week and then to have another this week? I appreciate your quick answer.  Thank you
+summarized question 29: How often can pupil dilation be performed?
+##
+query 30: Thank you for your response to my inquiry about the MMR vaccine.  I was born in 1942, never had the 10-day measles but did have the 3-day measles, and did have mumps as a child.  A recent blood test indicated that I am not immune to Rubella so my doctor recommended I get the MMR vaccine.  In light of my age, etc., do you agree or do you feel it is unnecessary or is there a separate vaccine for just Rubella?  Which is the measles that has started to reappear?
+summarized question 30: Who should get the MMR vaccine?
+##
+query 31: MESSAGE: my thumb and forefinger hurt all the time. nerves is there any medicine that will help .
+summarized question 31: Is there any medicine that will help nerve pain in my thumb and forefinger?
+##
+query 32: SUBJECT: coal oil MESSAGE: My father at an early age was given coal oil when he was sick with a cold or flu, my family and I are just wondering if there could have been permanent damage done to his stomach, heart, or any other internal organs.  I'm not asking for a second opinion, just want some information on this matter for our own inquiries.
+summarized question 32: What are the adverse effects of coal oil?
+##
+query 33: Hello. I have been a small eater my entire life, but always had difficulties eating. I’ve never looked at myself as having an eating disorder, but during the last year I came onto other thoughts when I went on a scale and saw a tiny bit of weight loss even when I felt I was eating more. That was earlier this year. For the last while I’ve had extremely difficulties eating. One meal a day is struggle enough. I want to gain weight and I want to eat. I’m a size 8, but sometimes even that is slightly big. I have never looked at myself as fat and always wanted to gain weight but never really had a desire to eat unless I’m super hungry or feel like I need to eat to avoid passing out. My stomach tells me to eat, but my brain informs me that I don’t need food and therefore I don’t eat. At my worst I feel nauseous just the tought of eating. I am super worried about this. Is there any vitamins or some sort of medication that can get me to eat even just a little bit more? Thanks.
+summarized question 33:

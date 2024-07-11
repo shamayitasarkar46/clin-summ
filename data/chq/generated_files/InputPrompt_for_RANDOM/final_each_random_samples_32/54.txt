@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 1: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 2: SUBJECT: Treatment required MESSAGE: I m 37 years old and i m suffer from poor hunger,loss of appetite and and no desire to eat. I have only some anxietic condition and some heart burn problem. Kindly suggest something for me to solve my problem.
+summarized question 2: What are the treatments for anxiety, heartburn, and loss of appetite?
+##
+query 3: SUBJECT: gluten free status of Tolterodine Tartrate ER 4mg MESSAGE: You list starch as one of the ingredients. What is the source of the starch? Is this medication gluten free? Is it safe for someone with Celiac Disease to take?
+summarized question 3: What are the ingredients of Tolterodine Tartrate ER 4mg and is it gluten free?
+##
+query 4: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 4: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 5: SUBJECT: Pancreatitis Cancer MESSAGE: My Grandfather on my mothers side died of pancreatic cancer  and my mother also  i am the only daughter ,but also have 3 brothers is it more likely that i will have of chance of having this form of cancer that my brothers. My mom was only 57 when we lost her . I am now 51 and worry if i'm more likely to suffer with this cancer than my brothers.
+summarized question 5: What is the risk of developing  pancreatic cancer and how is it inherited?
+##
+query 6: SUBJECT: Progressive Supernuclear Palsy MESSAGE: What  is the best thing to do for my Dad who we r sure has psp!  Who r the best dr to treat this cease.  We believe my uncle had pep also   He recently passed away ,  I want to give my dad the best treatment available
+summarized question 6: What are the treatments for progressive supranuclear palsy and how can I find physician(s) who specialize in it?
+##
+query 7: SUBJECT: fever in babies MESSAGE: My 9 month old has a fever of 103.5. What can I do to bring down her fever, and should I take her to the ER if her fever is this high?
+summarized question 7: What are the treatments for fever in an infant and when should we go to the ER?
+##
+query 8: Melanoma.  The doctor wants my father to take interferon Alfa-2b They did the surgery it was on his feet  know they want him to take the biological therapy he is very scared I just want some more info please can u get me info ASAP thank u
+summarized question 8: Where can I find information about interferon alfa-2B therapy for melanoma?
+##
+query 9: hypothyroidism.  My doctor started me on levothyroxene 5oMCG. for 5mths.How do I know if this is  the rite dosage? Do not want to cause myself any harm by overdosing
+summarized question 9: What is the normal dosage of levothyroxine for hypothyroidism?
+##
+query 10: SUBJECT: athrtics MESSAGE: My right shoulder is getting pain and my right hand is not moving up and back freely.  Doctor explained me that it is pediathratic problem.  I have done some pschyotharapi treatment. Mr doctor advised me that there in no medicine and regular exercise required. What is the next stage I want to do.  Please explain.
+summarized question 10: What are the treatments for shoulder pain and loss of hand movements?
+##
+query 11: SUBJECT: meadicine for itiching MESSAGE: my face is itiching too much. and iam using deetol soap ....... but not feeling well is there any medicine
+summarized question 11: What are the treatments for itchy skin?
+##
+query 12: thyroid panel prep.  Do I need to prepare in any specific way for the thyroid panel?  Do I need to fast?  I have been taking a very low dose of Lithium nightly.  How long do I need to stay off of it before having the panel done?
+summarized question 12: What preparations are required for a thyroid panel test?
+##
+query 13: MESSAGE: I will love to try diet I need. To lose weight
+summarized question 13: Where can I get help with a weight-loss diet?
+##
+query 14: SUBJECT: severe unprovoked vulvodynia MESSAGE: Where can I purchase topical gabapentin cream?  Do I need a prescription?
+summarized question 14: Where can I purchase topical gabapentin cream and do I need a prescription?
+##
+query 15: What are the causes of rib cage pain? And and the remedy
+summarized question 15: What are the causes and treatments for rib cage pain?
+##
+query 16: SUBJECT: Research assignment MESSAGE: Hi, I am a grade 12 student who is doing a research assignment on neurological disorders. Do you believe that there will ever be a bonafide cure for Multiple Sclerosis? If so, what kind of time frame would put on this cure?
+summarized question 16: Can multiple sclerosis be cured?
+##
+query 17: I would like to know what exactly causes the kidd virus. I was diagnosed with anti kidd jk5 in 2009. I have had 4miscarriages since then. The latest one this past April 30th. I have seven live births with no problems dur ing my pregnancies. Please help me to understand. I am looking forward to hearing from you. Thank you for your time.
+summarized question 17: What iare anti-Kidd antibodies and how can they efeect pregnancy?
+##
+query 18: SUBJECT: Responsible for the Research on stem cells and tissue regeneration MESSAGE: Dear colleague Good day, my name is [NAME], 48, doctor; I was affected by a bladder cancer where the removal of the organ was needed. I read about the work of his lab and I wonder if there is interest or any possibility of using pluripotent stem cells redo a piece of fabric of my bladder, for so I can do a transplant with acellular matrix and repopulate this matrix with these modified stem cells . I'm using bricker, which depress me, I lost my self esteem, lost quality of life and already thought to suicide. Until that came the hope that transplantation of acellular matrix.  I am looking forward to answer, anxious and carefully.   [NAME] CRM88878  I just can not understand the difficulty in finding a laboratory or institution that can solve this problem as the peritoneal layer of the bladder peritoneum is I already own, the inner layer is smooth muscle, which can also be acquired via endoscopic biopsy of the stomach or a arterial tissue and the layer It is coated internally by internal polymorph or transitional epithelium which can be acquired from another organ. It would just replicate small pieces so that after implanted in the acellular scaffold covered.
+summarized question 18: What is the latest research on using pluripotent stem cells and acellular matrix for  bladder regeneration?
+##
+query 19: erection problems.  how to get rid of erections?
+summarized question 19: What are the treatments for erection problems?
+##
+query 20: SUBJECT: Diabetis MESSAGE: Can I use Novolin instead of Novolog? Is there any difference?
+summarized question 20: What is the difference between Novolin and Novolog and are they interchangeable?
+##
+query 21: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 21: What is the effect of dexamethasone on cortisol levels?
+##
+query 22: SUBJECT: Radiation Therapy MESSAGE: I have foot drop symptoms. I think radiation cause them last year. My left foot is numb tingling and inflaming. please help and call my cell phone for more comments :[CONTACT]
+summarized question 22: What are the symptoms of foot drop, and what are the treatments for it?
+##
+query 23: hearing loss due to Alports Disease. If hearing loss is due to Alports Disease, is the hearing loss the same degree of both ears?
+summarized question 23: Where can I find information on hearing loss and Alports disease?
+##
+query 24: sarcoidosis.  One thing no physician has been able to tell me is whether or not fatigue--ongoing--is a part of this disease. I was diagnosed in 2006, and have noted a lessening of energy, endurance. If this is a possible side effect, I have not found it in any info on this. Please add to your information if this is a viable issue. Thanks so much! [NAME]
+summarized question 24: Is fatigue a symptom of sarcoidosis?
+##
+query 25: Epididymis.  Why does it hurt when if I don't finish my ejaculation or when I use the restroom and take a stool  or leave a stool which ever it is my balls sometimes hurt.
+summarized question 25: What are the causes of testicular pain?
+##
+query 26: My name is [NAME] and i am 45 years old and come from [LOCATION]. I got involved in a shock cerebral (Brain stroke in Cerebellum) and took apoplexy cerebral. I did a surgery for placing shunt. After my surgery i lost my body balance to some extent. Now i am trying to improve my condition with physiotherapy, swimming and etc. My doctor says the shunt is not necessary longer. I found your name between scientists which are involved in research on brain stroke so my request is if you could advice me with new methods for curing my problem. I can come to [LOCATION] if needed to do further therapy for my problem. I would be very thankful of your help
+summarized question 26: What are the treatments and recovery for cerebellar stroke?
+##
+query 27: SUBJECT: morphine withdrawal symptoms MESSAGE: I was taking 600 mgm ms contin over a long period - of course I didnt start on that high dose but over 20 years I ended up there. I weaned myself off last year, and when I finally got to zero I started having these leg spasms, is this from the morphine? I can stop them taking 15 mgm ms contin daily which irritates me to to no end, I do NOT want to take the stuff! BUT, if I don't take it I get the spasms and end up sitting up all nite and sometimes during the day with them. I get them in my arms sometimes as well as both legs, and my legs jump a lot! My limbs feel kind of numb when it is going to start, so I know it is coming. What can I do? Is this ever going to stop? Thanks for your help.....[NAME]
+summarized question 27: What are symptoms of morphine withdrawal and how are they treated?
+##
+query 28: Breast cancer at 84.  My mother was just diagnost with breast cancer. She is 84 years old, her tumor started in the milk duct and is small in size, their is a mass as well in the same breast. He is scheduled for a lumpectomy to remove both. Because of age we would like suggestions on treatment options after surgery.
+summarized question 28: What are the treatment options after breast cancer surgery in elderly?
+##
+query 29: "SUBJECT: BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium a MESSAGE: Hello, I want to purchase from you a remedy. I have Multiple Sclerosis, and there is much talk in the media about ""C. perfringens, Type B"" being a trigger for Multiple Sclerosis. Here is a link of the news http://www.bbc.com/news/health-25925658. I would like to purchase this product ""BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid"".  Or could you kindly recommend a remedy that will address this bacteria?  And email me how I should purchase and the total cost including the shipping so I can order it. I'm eager for your reply and thank you Kindly. Below are all my details: [NAME] [LOCATION] [CONTACT] [EMAIL]"
+summarized question 29: Where can I purchase BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid and how much does it cost?
+##
+query 30: SUBJECT: EPI 747 MESSAGE: hi  My name is [NAME] My son, His age 4 month discovered it leigh disease infected from the mother side. and we have  full family history with the leigh disease.  my Daughter she lived for 7 years with the same disease, we have her Hospital reports, it is confirmed leigh Disease.  Kindly, if there is any hope for my son with EPI743 treatment, and we are appreciate to accept him in the treatment study.  i have a full reports for my son and the MRI. and all of it under your request.    Hope get your help ASAP because he is in the first stage. and we have a we are all hope he will be better.  Best Regards  [NAME]
+summarized question 30: Is EPI743 an effective treatment for leigh syndrome?
+##
+query 31: SUBJECT: Shortness of breath MESSAGE: Thank you for your tip on being short of breath upon doing simple chores around the house.  I have done what you told me, breath through nose then let it out through pursed lips.  Works for me, but I'm constantly out of breath my doctor checked my heart and lungs with his stethoscope and says all is fine.  However I do suffer from hypertension and high blood pressure, and take medication for it.  I'm 71 years old and would like to know if losing a bit of weight and walking would help me further, I need to toughen up my muscles because I tire kind of too easily, makes me feel like I'm lazy which I am not used to, I need to be doing things all the time.  I'm a kitty cat caregiver and take in strays and look after them so you can imagine the work required, litter boxes to lift, bowls of water, food bags, vet care and just a lot of running around doing this and that for the kitties.  Any suggestion from you would be appreciated.
+summarized question 31: Can weight loss and exercise help alleviate shortness of breath?
+##
+query 32: Factor 12 defeincy. I have factor 12 defiency, my GP has told me it is linked to aboriginal/ TSI heritage, is this correct ?    Thanks [NAME]
+summarized question 32: Is factor 12 deficiency linked to aboriginal heritage?
+##
+query 33: I am seeking information regarding wandering/lazy eye correction. I have suffered from this condition since I was a child. Please forward any pertinent information. Thank you.
+summarized question 33:

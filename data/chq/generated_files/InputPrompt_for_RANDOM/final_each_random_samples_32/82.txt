@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: Questions (see in comment box) on ""Vistaril"" MESSAGE: I have a few Qs related to ""Vistaril"": 1. Is ""Vistaril"" a gluten-free product? 2. If not, is it because some of the raw materials in its ingredients that is gluten related? 3. If yes to Q1, is it a ""Certified"" gluten-free product and what kind of certification it has? 4. For capsule form, does it contain any kind of starch? If it does, what starch is it? 5.  Can you email to me a list of the ingredients in this drug? Thank you very much!"
+summarized question 1: What are the ingredients of vistaril and is it gluten and starch free?
+##
+query 2: SUBJECT: inversion of long arm chromasome7 MESSAGE: My son has been diagnosed with inversion of long arm chromasome 7 and down syndrome . please could you give me information on the chromasome 7 please because our doctors have not yet mentioned it
+summarized question 2: Where can I find information on chromosome 7?
+##
+query 3: SUBJECT: prestigious place in USA for treatment to Common peroneal nerve dysfunction MESSAGE: Hello, I have foot drop for damage to the common peroneal nerve, caused by surgery on knee in November 2012.Please which is the most prestigious institution or place in USA for treatment or surgery of this type of injury. thanks a lot
+summarized question 3: How can I find physician(s) who specialize in Common peroneal nerve dysfunction?
+##
+query 4: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 4: How can I find a doctor to perform tubal ligation?
+##
+query 5: SUBJECT: Pituitary gland/high level Vitamin D MESSAGE: My sister has a high level of Vitamin D in her system/blood work.  Her specialist cannot find the cause.   Would there be any connection with her pituitary?   Had her thyroid gland removed 3 years ago, and cancer in breast/removed cancer and had radiation/cured 2 years ago.
+summarized question 5: What are the causes of high vitamin D levels?
+##
+query 6: SUBJECT: Can I safely take prednisone and levaquin the same day several hours apart? MESSAGE: can I safely take levaquin and prednisone the same day not at the same time several hours apart?
+summarized question 6: Are there drug interactions between prednisone and levaquin?
+##
+query 7: SUBJECT: Carbon Monoxide MESSAGE: Once you are exposed to Carbon Monoxide and the source of the leak is found and resolved (i.e., source is Furnace and shut off by the Gas Company), and the air is clear, is it still necessary to have the oxygen treatments and/or blood tests, or, do the levels in your body go back to normal afterwards.  I understand that there could be long term effects based on the term of the exposure, but, if you do not lose consciousness, are the treatments still necessary?  Should someone still have oxygen treatment, blood-work, CT scans, heart/lung scans if the problem has been resolved and air is clear?  It has been over 48 hours since the exposure.
+summarized question 7: When are the tests and treatments for carbon monoxide exposure necessary?
+##
+query 8: solve the erectio problem.  sir, some time my penis erect and some time it does not work . So please help me . My contect nomber is [CONTACT]
+summarized question 8: What are the treatments for erectile dysfunction?
+##
+query 9: SUBJECT: Serum Creatinine MESSAGE: My serum creatinine level is 1.1. I am 36 years old and having kidney stone . My question is , will the kidney stone affect the serum creatinine result?
+summarized question 9: Can a kidney stone affect the serum creatinine result?
+##
+query 10: types or kinds of sickle cell. Pls i want to know the possibility of two people who are AS getting a baby who will be AS! AA! OR  SS!. And what are the types of sickle cell. E.g. AS
+summarized question 10: What are the types of sickle cell anemia and how is it inherited?
+##
+query 11: SUBJECT: Before I get married MESSAGE: Can this help when I marry the Girl I'mWith ( In vitro) her family has something cAlled Pheochromocytoma Paraganglioma only her brother and father have it. She is just a carrier. Will you think In vitro might prevent it if we have kids?
+summarized question 11: How is Pheochromocytoma Paraganglioma inherited?
+##
+query 12: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My daughter was recently diagnosed with a CTNNB1 mutation and there are only 4 published cases.   Can you tell me where I may be able to find more information
+summarized question 12: Where can I find information about CTNNB1 mutation?
+##
+query 13: "SUBJECT: How is ""elderly"" defined in cautionarys regarding dosage. MESSAGE: Lower dosages of various medications are recommended for ""the elderly.""  Please define that age for me.  Thank you."
+summarized question 13: "How is ""elderly"" defined in drug precautions regarding dosage?"
+##
+query 14: SUBJECT: MRSA MESSAGE: I am 44 with have Cystic Fibrosis and have MRSA in my lungs.  Should I be concerned that it is contagious when dating?
+summarized question 14: Is MRSA contagious, and how is it spread?
+##
+query 15: SUBJECT: Hair loss Information Required MESSAGE: Can you provide something to help grow my hair back? I need my hair back as im the spitting double of Dr evil with no hair.
+summarized question 15: What are the treatments for hair loss?
+##
+query 16: MESSAGE: Is it okay to drink alcohol in moderation when taking Ampicillin.  I was told it negates any medical effect of the drug
+summarized question 16: Can I drink alcohol while taking Amoxicillin?
+##
+query 17: SUBJECT: Gluten Free Product? MESSAGE: HI, I was just wondering the source of the MALTODEXTRIN (UNII: 7CVR7L4A2D) in your product DEXTROAMPHETAMINE SULFATE- dextroamphetamine sulfate tablet NDC Code(s): 0555-0952-02, 0555-0953-02 . I was prescribed this medication and just wanted to make sure it was sourced from corn or something besides wheat because I am allergic to gluten!
+summarized question 17: What are the ingredients of dextroamphetamine sulfate and is it gluten free?
+##
+query 18: SUBJECT: NIFEDIPINE MESSAGE: Hi, i have been taking nifedipine for about 5 years but only take it in the winter. I take it to treat my raynauds syndrome. During winter when i take the nifedipine i have regular nose bleeds that last up to 20 mins, i want to find out if this relates to the medication i am taking. Thanks for any help you can provide
+summarized question 18: Are nosebleeds a side effect of nifedipine?
+##
+query 19: SUBJECT: Chromosome 14 MESSAGE: My son has a deletion on Chromosome 14.  It has been discovered that this is also present in myself.  My son has also been diagnosed with cerebral palsy and the pediatrician says that since I am well with no apparent defects the deletion is not relevant to his mobility or slow development.  Is this correct? As investigation of missing chromosome 14 brings up a lot of worrying results?  I have attached the letter. I would appreciate your comments or help on what questions I should ask. Many Thanks.
+summarized question 19: Is chromosome 14 involved in cerebral palsy and other disorders?
+##
+query 20: SUBJECT: Skin grafts for covering up scars MESSAGE: I was in a motorcycle accident a couple of years ago. I had a cut on the bridge of my nose @ 3/4 long. I had it stitched up at the hospital. As a result I have a scar there. I was wondering if skin graft surgery. Will help cover up my scar. Thanks
+summarized question 20: What options are available for scar repair?
+##
+query 21: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 21: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 22: spina bifida; vertbral fusion;syrinx tethered cord. can u help for treatment of these problem
+summarized question 22: What are the treatments for spina bifida, vertebral fusion, and syrinx tethered cord?
+##
+query 23: SUBJECT: The stratum corneum removed MESSAGE: I would like to obtain a medical opinion stating the risks of removing the stratum corneum on a human foot during a pedicure.  I work for the State of Michigan and we are trying to get cheese grater styled blades banded from the practice of cosmetology to protect the health, safety and welfare of Michigan citizens.  If the stratum corneum needs to be removed it is believe that that should be done by a medical doctor and not at the discretion of a cosmetologist who only receives 400 hours of schooling.
+summarized question 23: What are the risks of stratum corneum removal on the foot during a pedicure?
+##
+query 24: MESSAGE: I have numbness/tingling in my lower right arm from elbow to my fingers. A EMG has shown nothing abnormal. I have had this for a long time, I need help.
+summarized question 24: Where can I find information and treatment for numbness and tingling in lower right arm?
+##
+query 25: SUBJECT: suggest diet MESSAGE: age 66.married.male.weight73kgs.bp120/80 no tablets used for bp,no blood sugar fasting 90 after meals120 i am a vegetarian,i am observing a gradual weight gain    how to control it   what is suggested food?
+summarized question 25: What are sucessful weight loss diets for vegetarians?
+##
+query 26: SUBJECT: voids to avoid with ebstien-barr virus in the liver MESSAGE: In pain after I eat...wondering if I am eating wrong foods. I have been diagnosed with this and had cat scan with and without dye and it shows a clump of blood vessels infected with the virus....
+summarized question 26: What foods to  avoid with epstein barr virus and abdominal pain?
+##
+query 27: Achondroplasia research.  Hello, We are students from [LOCATION] and we are doing a biology project of genetic diseases. We chose Achondroplasia as our disease to research. We have a few question and we are hoping you could answer them. Our questions are, can you tell if your child will have Achondroplasia when you are pregnant? When do people usually come in when they think something isn't right with their child? what are the worse cases of Achondroplasia you've ever seen? Thank you in advance. sincerely, [NAME]
+summarized question 27: Where can I find information on achondroplasia, including prenatal diagnosis and prognosis?
+##
+query 28: Hi, Fırst of all thanks for valuable information whıch you Published on your web sıte. http://www.cdc.gov/measles/about/complications.html I couldnt find any ınformatıon on web that ıs related early ages.. When my son 6 months old (when he was baby)  he had measles and he hadnt had vaccacine when he was ill. I saw that if you had measles you have possıbılıty for SSPE that is 4 to 20 out of 100.000 case...But I want to know (it ıs very ımportant for me) if you had measles when your son stıll baby,what is the risk.. Please help me to know the facts...Please Write me the worth case.. I want to know just truth.. Thanks, Best Regards [NAME]
+summarized question 28: What percent of babies who contracted measles will eventually develop SSPE?
+##
+query 29: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am writing on behalf of my friend that is reading us in copy but doesn't speak english as good as me. His name is: [NAME] He was born in Italy, on [DATE] He lives in Milan, Italy. He is affected by HCV Genotype IIIA with a cirrhosis of the liver, in evolution, and his present desease does not permit to be attactd by regular medicines/therapies. (platelet minus of 50.000) He has a prescription, for Sovaldi treatment, from an italian doctor and he is ready to come to US or other country to get it also from an American Doctor, but the cost of such treatment is impossible for him. In italy the medicine is not available. He is followed by [LOCATION], one of the top italian hospital. His doctor is [NAME], that is ready to talk with you whenever needed. [NAME], suggested by his doctor, is interested to become one of your patient as a case study. [NAME] would like to enter into the research/trial program, in subject, with you in order not to pay the cost of Sovaldi that he cannot afford. According to his doctor his treatment should go on for 6 month with a conjunction of Sovaldi and Ribavirina. All my info you can find them below, and for [NAME] the email is the one in copy ([CONTACT]). You can send both to me directly and cc him or viceversa. Anyhow i will have to make the translation!!! In case, hopefully not, the treatment will not work, he is ready to change treatment with eventually other new products you are testing  and or new association. Looking forward in hearing from you soon. sincerely [NAME] [CONTACT]
+summarized question 29: Are there clinical trials for patients with Hepatitis C genotype 3A?
+##
+query 30: MESSAGE: My 3yrs old boy found my bleach at the laundry and I suspect he swallowed a bit of it. How do I treat this pls.
+summarized question 30: What are the treatments for bleach poisoning?
+##
+query 31: "SUBJECT: Alzheimer's disease MESSAGE: This may sound strange, but unfortunately our family, my wife's dad, are dealing with the ugly disease of Alzheimers. To make this short, is there any way that we can challenge him to do things, or attempt to even ""get off the couch"", because he seems to respond to that type of activity. Fortunately my wife is able to spend a great deal of time with her mom and dad, but he seems to perk up when I see him at times and ""not baby him"" like the rest of the family. Thanks much."
+summarized question 31: What are stimulating activities for Alzheimer's patients?
+##
+query 32: SUBJECT: Amlodipine MESSAGE: I am taking Amlodipine and it has caused my pause rate to be very high. Is there a weaning process when you stop taking Amlodipine and start atenolol?   I am taking 5 mg of amlodipine and will be taking 50 mg of atenolol?
+summarized question 32: How do I switch from Amlodipine to atenolol?
+##
+query 33: SUBJECT: Carbon dioxide. MESSAGE: What can happen if your level of carbon dioxide in your blood is up to 50? What things can starting changing in your body if it reaches over 50.
+summarized question 33:

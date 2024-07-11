@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: growth on the neck MESSAGE: can drug remove growth on the neck? and in how many months?
+summarized question 1: What are the treatments for neck lumps or neck tumors?
+##
+query 2: SUBJECT: low WBC issue MESSAGE: respected sir,                i humbly want to say  you thanx for making this website. i am [NAME] from [LOCATION] and i want to help myself by you please help me sir i will greatful to yo(sorry sir my English is not so good)      masturbation is my hobby its my taboo really sir now i am tired i want to change myself please sir give me some suggestions ....   this is bad habit in my life but i am also a bright student since last year .............. .......... .......... i am crying... sorry ...... please help me sir plzz rply me in my id.. and wish me luck     i know you have a golden heart ....
+summarized question 2: What are techniques to stop masturbating?
+##
+query 3: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: Please help me with my brother with locked-in syndrome in [LOCATION] for 3 years.Somebody please help. God bless .[NAME] [CONTACT]
+summarized question 3: What are the treatments and support for locked-in syndrome?
+##
+query 4: SUBJECT: Arthritis on elderly MESSAGE: Is there something available, in English or Spanish, about Phisiotherapy specific for ankle arthritis? Just to know something more. There is a case in my Family and it is being followed by both a phisician and a phisiotherapist. My e-mail is [CONTACT]. Thanks. [NAME].
+summarized question 4: Where can I find information on physical therapy for ankle arthritis?
+##
+query 5: "SUBJECT: Complex Regional Pain Syndrome (CRPS) or Regional Sympathetic Dystrophy (RSD) MESSAGE: I have searched your pages and website for information on this medical condition but found nothing. I know there's not a lot of research on this but I'm pretty certain that my father had it in his legs and now I do to. Is there any evidence this condition is genetic or is it an ""Unknown at this time""?  Thanks"
+summarized question 5: What causes Complex regional pain syndrome?
+##
+query 6: SUBJECT: dry maculare tetinal degeneration MESSAGE: my grandfather had lens implants, now he has dry macular retinal degeneration.  he can hardly see!  searching for help!
+summarized question 6: What are the treatments for dry macular retinal degeneration?
+##
+query 7: SUBJECT: treatment of parkinson MESSAGE: I AM HAVING PARKINSON FOR LAST 8 YEARS. SO FAR IT WAS ONLY SOME, SHAKING MY RIGHT HAND.NOW IT IS ON INCREASE. I AM 84, AND HAVING SKIN PROBLEM.I AM SCARED OF INCREASING DOSAGE, AS IT SEEMS TO POSSIBLY AFFECT SKIN PROBLEM. PLS SUGGEST ANY CARE I NEED TO TAKE.I WOULD BE GRATEFUL , FOR YOUR KIND ADVISE.
+summarized question 7: What are the latest treatments for Parkinsons disease?
+##
+query 8: SUBJECT: I need help ? MESSAGE: I have few questions and needed some help from you guys, I have a really serious problem about me and the stress I have been through for a long time, and I couldn't do anything to get rid off what I'm really in a bad feelings. And I'm really having and hard time searching and try to get rid off my pimples , I've been have these probably every since when I was 15 years old . I do not know what kind or where I can find , something that could help me, something that could work , because there's alot of products . And I'm not sure which kind could fit my skins to remove my pimples. . Please help, I'm having a serious hard time having these. Its really embarrassing, that's why I always wear long sleeve to cover it every single day, 24/7. I'm really appreciate if you guys have tine to contact me and talk about. Another thing, my question is , how can I get rid of my pimples on my upper arms and my back. Also I really don't know what kind pimples do I have on my skin. Please help me , so I wouldn't be having so many stress about my skins.
+summarized question 8: What are the treatments for pimples?
+##
+query 9: SUBJECT: Please send me information on the treatement of hypertension and diabetes. MESSAGE:  What causes hypertension and diabetes?
+summarized question 9: What causes hypertension and diabetes and what are the treatments for them?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: chronic hypersensitivity pneumonitis. could this condition be caused by memory foam mattress'.?
+summarized question 10: What causes chronic hypersensitivity pneumonitis?
+##
+query 11: SUBJECT: ks MESSAGE: hi doctor my name is [NAME] m from [LOCATION] its almost a 2yrs i m not getting pregnant.. i have done few tests of my husband the sperm count is nil and i have done molecular biology karyotyping test and its a klinefelter syndrome. is dere any chance of getting pregnant? is dere any treatment for this ?please kindly help me.....if u need more details i would send u d reports( sir pls help me)
+summarized question 11: What are the treatments for low sperm count caused by klinefelter syndrome?
+##
+query 12: SUBJECT: permanent cure for Nystagmus MESSAGE: For me from birth shaking of eyes disorder is there & in family nobody is having this kind of issuse. Pls. Tell me if any curable option for this disease.
+summarized question 12: What are the treatments for nystagmus and can it be cured?
+##
+query 13: factors two and five together. My brother is getting tested for factor five because his daughter was tested and said to have factors two and five.Two is said to come from her mother. My question is if my brother has factor should I and my five children and grandchildren be tested? Thank you. [NAME]
+summarized question 13: What is the inheritance pattern of Factor five?
+##
+query 14: SUBJECT: severe unprovoked vulvodynia MESSAGE: Where can I purchase topical gabapentin cream?  Do I need a prescription?
+summarized question 14: Where can I purchase topical gabapentin cream and do I need a prescription?
+##
+query 15: SUBJECT: Undesecnded testis MESSAGE: Hello Sir  I am a young man of age 27  I was born with a problem of descended testis  to this age  I have always experience one of them go down to the real position at times  and then run back to the abdomen  but of recent it stopped going down  Please Sir I will like to know what my situation is and is there a remedy for it ? Thanks an i wait for your reply
+summarized question 15: What are the treatments for undescended testicles?
+##
+query 16: SUBJECT: Múltiple Misscarriage MESSAGE: I had 4 misscarriage before I had my healthy daugther. I had another misscarriage a month ago. The Kareotipe for the fetus show genetic problems. Trisomy 8 and 15. Im 39 years old. Is the first time that I know the reason for the lost. I had the Kareotipe for me and my husband and there is no problem. The infertility Dr told me that I have progesterone problems Because I dont know the reason for the four misscarriage I am scared thinking the reason for all the lost babies is for genetic causes. I want another baby. What are the chances of having a baby with genetic problems?
+summarized question 16: After a miscarriage of a fetus with trisomy 8 and 15, what are the chances of a successful pregnancy?
+##
+query 17: SUBJECT: tongue and throat MESSAGE: hi, i'm having some difficulties with tongue and throat infection... i contacted my doctor three times already, at first he gave me Dactarine to put it on my tongue. and yesterday once again i visited him and i told him the medication you gave me does not work, and my infection is getting worst, he wrote a recipe for me to get terbinafine 250mg tablet. i'm using them but then today i wake up and read some of the thrush information that you guys provide and you say 'when having thrush it is not good to have any atibiotic but that is what he's giving me and he didn't run any tests on me yet. please tell me what should i do next ?
+summarized question 17: Where can I find information on throat infections, including diagnosis and treatment?
+##
+query 18: I need help with a rare disorder Hello, As I stated I need help with a rare disorder. I have tested   positive for lupus then - negative I have tests   positive for a blood clotting disorder then - negative I have tested positive for Brain Vasculitus then brian Vasculopathy? I have tested positive for a Brain infection then not.  I don't know what to think.  I need a special testing center
+summarized question 18: Where can I receive comprehensive testing for difficult to diagnose symptoms?
+##
+query 19: MESSAGE: Sometime during March I overdosed on Benadryl. I got all the symptoms but survived without medical treatment. I am just curious as to if any damage happened.  Like Neurological.
+summarized question 19: What is the prognosis for benadryl toxicity?
+##
+query 20: SUBJECT: Urgent Enquiry MESSAGE: Hi,  I wish to enquire about what other non-invasive alternatives are there in diagnosing a brain injury other than an invasive mri,ct or pet scan?  Patient has a family history of cancer and is afraid of being exposed to radiation, and is also fitted with metal discs to her neck and spine after she developed scoliosis and osteoporosis. She lives in [LOCATION].  Your urgent reply would be much appreciated.   [NAME].
+summarized question 20: How is brain injury diagnosed, especially non-imaging techniques?
+##
+query 21: Melanoma.  The doctor wants my father to take interferon Alfa-2b They did the surgery it was on his feet  know they want him to take the biological therapy he is very scared I just want some more info please can u get me info ASAP thank u
+summarized question 21: Where can I find information about interferon alfa-2B therapy for melanoma?
+##
+query 22: SUBJECT: rectal prolapse MESSAGE: my rectum is stretched out and I need information mailed to me about surgical options. My address is [LOCATION]
+summarized question 22: Where can I find information on rectal prolapse surgery?
+##
+query 23: ClinicalTrials.gov - Question - general information. I was diagnosised with mucha haberman, and I need to find someone who can treat it, I live in [LOCATION]. and I need some help
+summarized question 23: How can I find physician(s) or hospital(s) who specialize in mucha habermann disease?
+##
+query 24: SUBJECT: Kidney failure 3rd stage MESSAGE: What foods do I eat? and if I drink lots of water will that help? Is there a book that I can get to understand this disease?
+summarized question 24: Where can I find information on stage three kidney failure and what are the nutritional guidelines for it?
+##
+query 25: SUBJECT: Parkinson's Disease MESSAGE: Has etanercept been used to assist sufferers of Parkinson's Disease?  If so, how successful was this? Thank you
+summarized question 25: Is etanercept a treatment for Parkinson's disease, and how did it perform?
+##
+query 26: SUBJECT: about thalassemia treatment MESSAGE: sir,my friend is suffering from thalassemia ,in that majorly red blood anemia,white blood anemia and the blood is comming out from mouth when she got cough .her condition is very severe .in her body the red ,white blood cells are abscent .so that blood transfusion is doing for every 16-20days.then in the recent days the blood also comming out from mouth please tell me where can i get the treatment for this disease .we can travel around the world for treatment please reply me as soon as possible. thank you sir.
+summarized question 26: What are the treatments for thalassemia?
+##
+query 27: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 27: What are the treatments for flatulance?
+##
+query 28: SUBJECT: menkes syndrome /kinky hair syndrome MESSAGE: My daughter has menkes syndrome and would like to know how to go about. Thx
+summarized question 28: Where can I get information and help for Menkes syndrome / kinky hair syndrome?
+##
+query 29: SUBJECT: Cardiomegaly with chronic chest pain MESSAGE: With cardiomegaly chest pain will the heart muscle continue to thicken? Most all the doctors have given up trying to find the cause of his pain.  It has changed his life, he enjoys work and spending time outdoors and now he can't.
+summarized question 29: What  are the causes  and treatments of chronic chest pain with cardiomegaly?
+##
+query 30: SUBJECT: tongue problem MESSAGE: I can speak every thing I have mistake some word like r,n I can n't speak.this is my problem .every person tell me..please give me suggestion..
+summarized question 30: What are the treatments for speech disorders?
+##
+query 31: About Aarskog Syndrome. hi my name is [NAME] i am 21 this year and was wondering if it is connected with server  Astigmatism as i got it in my left eye. I have a mild form of As, i have the wide peek eyes and rugby shaped and missing DNA which they have discovered in MRI scans. I was diagnosed when i was born but it still seems to be in research as we speak and ever since i turned 18 i have been doing my own research and finding others around by connecting with them on Facebook. I live in the [LOCATION] and found out there are four people that have Aarskog syndrome. thank you for your time
+summarized question 31: Is Astigmatism related to Aarskog Syndrome?
+##
+query 32: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am working with a Hep C   patient who needs treatment but cannot afford Tx. How can I help her get in touch with a recruiting study? There are no numbers or ways to contact a recruiting study. Sincerely, [NAME]
+summarized question 32: Where can I find clinical trials on hepatitis C?
+##
+query 33: Can IBS be cured with the patent Medicines      say Mebverine or others as prescribed the      Doctor.       Does Probiotics are helpful in controlling       the IBS. Some says Peeper Mint can also be       suitable. These are few general questions       as regards IBS and not personal.
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: RE: RX MESSAGE: I am taking Metafolic Plus caplet I know this helps memory of the brain.  What else does it help the brain with?
+summarized question 1: What remedies improve memory?
+##
+query 2: SUBJECT: NDC# for Injection, Testosterone Cypionate, 1mg MESSAGE: I am trying to find the NDC# for the above-mentioned injection. There is a new HCPCS code J1071 ([DATE]), the code is still new and no ones knows how to bill the insurance yet. With NDC# we will be able to figure out how the injection is packaged. Thank you for your help!
+summarized question 2: What is the NDC code for 1 mg Testosterone Cypionate injection?
+##
+query 3: SUBJECT: obese daughter MESSAGE: i'm a mother of 5 children. My son has leukemia who is the youngest. My daughter is 12yrs old and is obese. i dont know where to turn but i need some professional help. my daughter has always suffered  with weight issues. while i deal with my 11yr old son at [LOCATION] im so scared of loosing my daughter. Shes already been suicidal and her grades are so bad. please i need help. you can contact me anyt time
+summarized question 3: What resources are available for overweight children with suicidal behavior?
+##
+query 4: Anorexia Project. Hi!  My name is [NAME] and I attend [LOCATION].  I am in eighth grade.  I am doing a year-long service project in which I research anorexia nervosa and learn as much as I can about the causes, the effects, and the risks.  As part of my project I would like to interview an individual from MedicinePlus to learn more. If you could have someone contact me regarding my interview via email, my email is [CONTACT]. 1)Where in America is anorexia most common? 2)When did anorexia become a problem in the United States? 3)Why is anorexia so prevalent in the United States compared to other countries? 4)What are the earliest signs of someone having anorexia? 5)What are some causes of anorexia?6)      About how many people are diagnosed with anorexia each year?(in America) 7)How do you mentally treat someone for anorexia?8)    Do anorexia patients know that what they are doing is unhealthy 9)Can anorexia be genetic? If yes, how often is it genetic related? 10)How often do anorexia victims also struggle with other eating disorders? 11)What year was anorexia most common, or does the percentage keep getting higher? 12)Are there certain sports that cause people to become anorexic? 13)Why is anorexia more common in girls than in guys? 14)Who are some individual(s) that have spoken nationally/worldwide about anorexia? 15)What is one(or more) way that ANAD tries to help solve the problem of anorexia?Thank-you so much for your time and effort! ~[NAME]
+summarized question 4: Where can I find information on anorexia nervosa?
+##
+query 5: SUBJECT: dark spot MESSAGE: i had a black spot on my skin face which was formed due to pimple by ithcing on it. this was formed one year before and i dont use any creams for it or i have not contacted any doctors for it but now want to remove it as soon as possible, i am from hyderbad.what to do?
+summarized question 5: Where can I get help with a facial dark spot in Hyderabad?
+##
+query 6: SUBJECT: Optic nerve artrophy MESSAGE: Good afternoon,  I am [NAME] from [LOCATION]. For my nephew is optic nerve artrophy about 2-3 years. He is 8 years old. One eye is dead now, other eye he can see about 20 percentage. No one doctor can`t help him in [LOCATION] (Europe).  Could You view his health history and to give the opinion about my nephew health situation and You will have proposition how we can help him.  I would be very grateful for Your.  Best regards,  [NAME] from [LOCATION].
+summarized question 6: What are treatments for optic nerve atrophy, and how can I find physician(s) in Europe who specialize in it?
+##
+query 7: SUBJECT: Shingles MESSAGE: I am recovering from shingles. I am on antiviral medication. This is my second week with shingles. I have not experience any draining with my sores which are currently on the right side of my face close to my right eyebrow. My question is this: My husband is having surgery tomorrow, Can I go to the hospital with my husband?
+summarized question 7: When is shingles contagious?
+##
+query 8: SUBJECT: severe unprovoked vulvodynia MESSAGE: Where can I purchase topical gabapentin cream?  Do I need a prescription?
+summarized question 8: Where can I purchase topical gabapentin cream and do I need a prescription?
+##
+query 9: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 9: What are the treatments and prognosis for a child with AML?
+##
+query 10: Hip replacement surgery My mother is 76 y.o. and having a lot of pain in her left hip joint.She was told that she needs a new joint. She also have a Parkinson disease (main symptom at this time is tremor in a left wrist). I would like to know if NIH providing hip replacement surgery for the patients like her, clinical trials?  Thank you.
+summarized question 10: Are there clinical trials for hip replacement with Parkinson's disease?
+##
+query 11: genetic condition passed from mother. I am looking for the name of a genetic condition passed on from the mother. Female children are carriers, but only male children are symptomatic. It is often mistaken for a milk protein allergy, causes excessive spitting up and hiccups, and rounded teeth. Often male children do not make it to their 1st birthday. I have lost two boys, and am about to have a third, i desperately need to find the name of this condition. Please help, my childs life depends on it. My doctors say they do not know what to test for or how to proceed without a name.
+summarized question 11: What genetic condition causes excessive spitting up, hiccups, and rounded teeth?
+##
+query 12: "Femoral Neuropathy.  I have a rare case of Femoral Neuropathy that my Neurologist calls a ""Medical Mystery"". I desperately need help! I was told I need a research specialist but have been unable to find help.  Could you PLEASE help with resources to find a specialist."
+summarized question 12: How can I find physician(s) who specialize in femoral neuropathy?
+##
+query 13: bile.  because reason vomit bile?
+summarized question 13: What causes vomiting bile?
+##
+query 14: SUBJECT: X-OUT WASH-IN TREATMENT- benzoyl peroxide gel MESSAGE: Can you please tell me if the product X-OUT WASH-IN TREATMENT- benzoyl peroxide gel would contain any animal, dairy, insect, seafood or human by-products? Also would it contain any honey? Thank you for your help in researching this information for me. Make it a great day! Best Regards, [NAME] [CONTACT]
+summarized question 14: What are the active and inactive ingredients of X-OUT WASH-IN TREATMENT- benzoyl peroxide gel?
+##
+query 15: SUBJECT: Luque rod spinal fusion and reclast MESSAGE: My luque rod fusion was done in 1991 and I am going to have reclast infusion for osteoporosis [DATE]. Is there any info on anyone with existing spinal fusion having reclast? I am 36 years old with no broken bones.
+summarized question 15: Are Reclast infusions contraindicated for those with spinal fusion?
+##
+query 16: Re: 16p-13.11 duplication of genes. Dear all, I am a health professional and have recently assessed a 9 year old boy on my caseload whose mother reported that he has been diagnosed with 16p-13.11 duplication of genes.  I have never come across it and when I looked on the internet I could not find anything coherent.  I have been in contact with the paediatrician who used to be in charge of that child but she is unfortunately on long term sick.  Would you be able to give me some information on this condition with key features please? Are there behavioural, coordination, sensory difficulties, etc...that can be associated with it?
+summarized question 16: Where can I find information on 16p-13.11 duplication, including symptoms?
+##
+query 17: SUBJECT: Asking about Hairy cell leukemia MESSAGE: I get report for my father from hospital it is saying that he have Hairy cell leukemia i am here to ask if this dissease dangerous and there is treatment for it  Also if The one who have it will live for long or not ?  My father age is 55  We discover the dissease by blood test
+summarized question 17: Where can I find information on hairy cell leukemia, including treatment and prognosis?
+##
+query 18: SUBJECT: what to eat MESSAGE: I have very bad diarrhea for last two months. Doctors have not found what causing it. It reserve watery.I need to know what I can eat. And is lactase milk and yougar is ok are not?
+summarized question 18: What foods should I eat when I have diarrhea?
+##
+query 19: SUBJECT: MMR second dosage by mistake MESSAGE: my daughter got the MMR vaccination at 1 year old, then she got a second dosage by mistake after two weeks froim the first one. is this dangerous to her> Is there anything I can do?
+summarized question 19: Is an extra dose of MMR vaccine harmful?
+##
+query 20: kindly tell me the medicine of hymen bleeding . I am from [LOCATION] . I lost my hymen and bleed now my marriage is near in 2 months and I am very depressed because in [LOCATION] if tha woman not bleed on first night of marriage then the husband give divorce I am very upset plz plz plz tell me the medicine name which I use on first night of marriage and bleed I am very thankfull to u plz tell me *** This message has been sent using QMobile ***
+summarized question 20: Is there a medication that can cause bleeding during sex?
+##
+query 21: "SUBJECT: IV Ringers lactate MESSAGE: I received ""slushy"" Ringers Lactate from our supplier due to the bitter cold in Wisconsin. If I allow these fluids to thaw at room temperature will I be able to use them for IV therapy."
+summarized question 21: Can  ringers lactate be used after freezing?
+##
+query 22: Tailbone trauma - aftercare  I read the article, but what if the person hasn't falling or been bumped?  What could cause this?
+summarized question 22: What causes tailbone injury?
+##
+query 23: SUBJECT: Operation for Pectus Excavatum MESSAGE: Dear Medical Doctors,  Good day!  We are a resident of [LOCATION] (previously affected with super typhoon Haiyan). We have noticed with our nephew who is 16 yrs old now that his breast is not normal the same with the other nephew that we have having the same age. As we start to consult our physician's in [LOCATION], they told us that it is just normal, however, we are worried because as we can it is a symptom of Pectus Excavatum. We want to know from you the details what to do if we want our nephew to undergo this kind of operation to correct the ribs in his breast (pectus excavatum)?  Hope to hear from you. Thank you very much.   [NAME]
+summarized question 23: Whare can I find information on surgery for Pectus Excavatum?
+##
+query 24: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 24: What are the treatments for arm and neck pain?
+##
+query 25: SUBJECT: Theophyline MESSAGE: I have been taking this drug since 1994.  Now my PCP will not prescribe it and has sent me to a pulmonary specialist who will also not prescribe it.  She wants me to take more expensive drugs such as Advair Diskus. Neither doctor has performed a serum Theophyline level.  The pulmonologist performed a PFt and ordered a methachlorine test which I cancelled.  I don't have asthma I have bronchitis.  Both doctors told me that it was extremely dangerous to take this drug for this long of a period.  I have had no problems with it.  Now that I have stopped taking it I don't feel as well as I did with it.  My questions are is it dangerous to take Theophyline long term? Should they have stopped the drug suddenly Like they did?  Please help me.  Thanks, [NAME] (I am 57 years old)
+summarized question 25: Are there adverse effects of long term Theophylline use, and how should Theophylline be stopped?
+##
+query 26: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: i have hereditary cerebellar ataxia..can I find a cure from your side..plz reply.its my second msg
+summarized question 26: What are the treatments for hereditary cerebellar ataxia?
+##
+query 27: SUBJECT: reason for denial of script MESSAGE: my dr.wrote a script for lipoderm patch l,s 5% for my neuropathy.  I wish to know why it was denied and if there is a generic I could get
+summarized question 27: Is there a generic version of lidoderm?
+##
+query 28: about Glucosamine Sulphate Will Glucosamine Sulphate affect Kidney?   Will it increase the Potassium content in a person?
+summarized question 28: What are the side effects of glucosamine sulphate?
+##
+query 29: SUBJECT: sacral nerve stimulation MESSAGE: How do I search for Instututions-doctors that perform sacral nerve stimulation procedures for fecal incontinence. I need the procedure, and I want to go to the place with the most experience.fecal incontinence
+summarized question 29: How can I find physician(s) or hospital(s) who specialize in sacral nerve stimulation for fecal incontinence?
+##
+query 30: SUBJECT: New drug, want are side affect/and how does help you. MESSAGE: My drs. have  me on lisinopril 10mgs. and metroprolol 25mgs. and Amlodipine5mgs. i do have high B/P the highest is been 150/90 regular most time 140/85 why so many drugs.What does each one do for me. Do i really needs 3 drugs. Thank You
+summarized question 30: Are lisinopril, metoprolol and Amlodipine taken together for high blood pressure, and what does each one do?
+##
+query 31: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 diabetes we want to know if there're any natural approach to improve her glucose levels sensitive. All the  antidiabetic medicines they have prescribes made sicker. Now they've prescribed her Glipize and cause her feet to be weak and skinny. Please help! Thanks
+summarized question 31: What natural/alternative therapies are available for type 2 diabetes?
+##
+query 32: Physicians who specialize in Androgen insensitivity. Hello,I'm looking for a physician(s) who specialize in androgen insensitivity.  I came across your site on the Internet.  It has a page on the subject -http://www.ncbi.nlm.nih.gov/sites/ga?disorder=Androgen%20Insensitivity%20Syndrome - but I wasn't able to find a link to any physicians who specialize in this after I clicked on the Physician Directory link.  Any suggestions?Thanks in advance,[NAME]
+summarized question 32: How can I find physician(s) who specialize in androgen insensitivity?
+##
+query 33: SUBJECT: lithtrypsy complications. MESSAGE: lithotripsy performed 1986, [LOCATION], [NAME] hostile &defensive that it caused PMR &Giant Cell arteritis. Onset of autoimmune disease between 4 &8 hrs. later. Never worked again (Head &Neck surgeon). Still battling hypertension, arteritis, Inflammatory myositis (biopsy USC, [NAME]). Most Drs. know squat about autoimmune diseases &the trigger. Your info only
+summarized question 33:

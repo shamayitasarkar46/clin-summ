@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: broken veins in legs.  is vein surgery for mostly cosmetic reasons recommended any dangers serious side effects
+summarized question 1: What are the complications of varicose vein surgery?
+##
+query 2: SUBJECT: Health innformation MESSAGE: Please. Advise what can inhibit and disassemble genetic tau. Aggregation.  I suffer from a rare tau aggregation illness called pallido ponto nigral degeneration
+summarized question 2: Where can I find information about pallido ponto nigral degeneration, including treatments?
+##
+query 3: My husband and I have a four month old baby boy. He, like all other babies like to scratch their faces and heads with their finger nails! We were wondering if it would be ok or dangerous to use Extra Strength Benadryl Gel on his face and head when he's asleep? It looks really bad on his face. We don't know what else to do for it to go away! Please email me back as soon as possible! Thank you, Mr. & Mrs. [NAME]
+summarized question 3: Can Benadryl gel or something else be used for scratches on baby’s face?
+##
+query 4: SUBJECT: ctscan see through mesh from hernia repair ? MESSAGE: I have mesh that repaired a hernia on my lower abdomen. Now I need a ctscan. Will the ct scan see through the mesh ??????
+summarized question 4: Will surgical mesh show up or interfere in a CT scan?
+##
+query 5: SUBJECT: re  methotrexate  oral tabs MESSAGE: Is there any risk to other individuals giving personal to someone on this medication? for example :On  close contact with body fluids
+summarized question 5: Can methotrexate be transmitted via bodily fluid or skin contact?
+##
+query 6: SUBJECT: HELP TO LOCATE DRUG MESSAGE: Received instructions from the FDA in using this site to find an anti-depressant that DOES NOT contain soy in any ingredient.  No product found.  PLEASE HELP ME!!!!
+summarized question 6: What anti-depressant fdrugs do not contain soy as an inactive ingredient?
+##
+query 7: ClinicalTrials.gov - Question - specific study.  I was told by my family doctor, that I have total alopecia, I feel it was related to a hair color that I used in 2012, but seems there are no studies about chemical exposure from the coloring to prove my point of total hair loss, not sure about any study being done in this regard, mine was not a painless hair loss, I had burns to my scalp. thanks for any information, or help. Sincerely, [NAME]
+summarized question 7: Could chemical burns cause total alopecia and what are the treatments for it?
+##
+query 8: SUBJECT: Ear Infection Treatment MESSAGE: I was cleaning my ear with a pointed metal and mistakenly it got stock into my ear and I started seeing some blood from my ear,Since than I have being some pains in my ear and can I can be hearing some echo sound in my ear. I would be very glad to know the best medication for my ear treatment.
+summarized question 8: What are the treatments for punctured eardrum?
+##
+query 9: SUBJECT: Cervical Cancer MESSAGE: Can a long term untreated bladder infection aid in the cause of cervical cancer? And can the fact that my mom has cervical cancer aid in my chance of getting cervical cancer?
+summarized question 9: What causes cervical cancer, and is it hereditary?
+##
+query 10: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 10: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 11: printed materials on osteoporosis.  Is there any way you can please mail me literature on osteoporosis, I was just diagnosed. Thank you, [NAME] [LOCATION] [LOCATION] [LOCATION] [LOCATION]
+summarized question 11: Where can I find information on osteoporosis?
+##
+query 12: SUBJECT: Treatment, Paralysis MESSAGE: I have one left side leg is paralysis last 24 years, my other parts of the body is well, it is possible my leg will good for treatment, if possible how can i do the treatment and where ? THANKS
+summarized question 12: What are the treatments for leg paralysis?
+##
+query 13: Customer Service Request. Doing a genealogy search, I have been contacted by a person from the same ancestral line as myself, we are decendants of the [NAME] ancestral line and she told me that anderson tawil syndrome runs through our [NAME] line, What does it look like? I understand that it changes the face features. This 82 year old great grandma would like to know more about this.   Many thanks,
+summarized question 13: Where can I find information on andersen tawil syndrome?
+##
+query 14: SUBJECT: Kidney Failures MESSAGE: If u have a GFR of 20.16 does that mean 20 or 2 I know. U can't give advice but could u tell me what stage that might put me in
+summarized question 14: What are the stages of chronic kidney disease based on GFR results?
+##
+query 15: GERD.  I'm a 72 year old female, and have diverticulosis,gastritis, and esophagitis.  I tried to see three different doctors today, but all were booked.  I honestly don't know what to do.  It hurts in my chest, and I can hardly talk.
+summarized question 15: How to treat chest pain potentially associated with  diverticulosis, gastritis, and esophagitis?
+##
+query 16: SUBJECT: Bedlam MESSAGE: This pesticide was used to get rid of bed bugs where I live. It was sprayed in areas I had to sleep in, sleep sofa. I wasn't told about it and slept through 4 applications over a 10 week period. I have one lung and severe COPD. Should this have been used knowing about my respiratory issues>
+summarized question 16: What are the side effects of bedlam insecticide?
+##
+query 17: SUBJECT: RKS have a 6 month old baby.. MESSAGE: Hi everyone, I am a mum of 6 months old boy who was diagnosed with Cerebral palsy (Hypotonia/Hypotonic form) in relation with Pallister-Killian syndrome. Also he has got mixed form of hydrocephalus There is no epiactivity. Our neurologist has suggested to go through Vojta method/ Bobat therapy.  Please could you let me know your experience with these methods ( if any).. I will be very grateful for any info about it as I do to have enough information to operate with. Also, any thoughts about transcranial direct-current stimulation, occupational therapy or Feldenkrais? Please please please if you can share your experience - it would be absolutely priceless.  Thank you in advance,  Best Regards,  [NAME]
+summarized question 17: Where can I find information on treatments for cerebral palsy, and specifically the vojta method and bobath therapy?
+##
+query 18: SUBJECT: Homeostasis and hypothermia (mainly about hypothermia) MESSAGE: What is Homeostasis? Why is homeostasis so important? What technology do doctors use to cure hypothermia? What is the effectiveness of the technology? How is that technology effective to the economy and environmentally?
+summarized question 18: What is homeostasis and what are the treatments for hypothermia?
+##
+query 19: My Brother named [NAME] Has Multiple tumors in brain and spine. after gone through 3 major surgeries he can not walk properly as he has 3 tumors still in brain and spine. and after surgery his right eyesight has been lost and he can not hear. Is there any research done by your sight and found medicines which can remove his remaining tumors. Please give me suggestion regarding this matter. I can provide all the necessary medical reports if you need.
+summarized question 19: What are the treatments for brain tumors and spinal tumors?
+##
+query 20: "SUBJECT: VD MESSAGE: A lot of yrs. ago I went to my Dr. because I had blister like bumps on the inside of the vagina. He squeezed all of them and I have always wondered if my husband had given me some kind of veneral disease. They came back and I squeezed them myself. They had runny stuff in them. I ask the dr. what they were and he only said this ""oh nothing to worry about, some women just get these."" Was this some kind of VD do you think.? thank you for a reply. We are divorced now and he has passed away. [NAME]"
+summarized question 20: Could blister-like bumps on the inside of the vagina be indicative of veneral disease?
+##
+query 21: Does high Thyroid level (31.13) interfere with recovery I just had double knee replacement on 01/15/2014. I take Levothyroxin 137mg dailey for my thyroid condition.  I take no other meds on a regular basis except for the normal pain meds prescribed during my recovery. During my recovery, I never felt comfortable and free of pain. I finally asked for a blood test and discovered my TSH level at 31.13.  My question is, will a high TSH level interfere with healing and recovery of muscle tissue and bones?  I am now taking a higher dose of Levthyroxin, can I expect a longer than normal recovery period due to a high TSH level?  Thank You, [NAME]
+summarized question 21: Can high TSH levels or Levothyroxine impact muscle tissue recovery?
+##
+query 22: SUBJECT: diaphragmatic hernia in fetus MESSAGE: Hi .in first pregnancy I had a fetus with diaphragmatic hernia and I had to abort him. Now I decide to pregnant , which kind of care I should do that my fetus doesn't involve whith diaphragmatic hernia . Do I need any regime, any supplements? My husband and I did the genetic test and it was normal.  Thank you so much I am from iran
+summarized question 22: What causes fetal diaphragmatic hernia, and what can be done to prevent it?
+##
+query 23: SUBJECT: dark spot MESSAGE: i had a black spot on my skin face which was formed due to pimple by ithcing on it. this was formed one year before and i dont use any creams for it or i have not contacted any doctors for it but now want to remove it as soon as possible, i am from hyderbad.what to do?
+summarized question 23: Where can I get help with a facial dark spot in Hyderabad?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have had epilepsy for 26 years and my seizures have never been under control. I started the Modified Atkins Diet a couple of weeks ago, but I am having serious issues and hope you might have an answer. My seizures have tripled in these 2 weeks than what have been in years. Does this diet take a lot of time for this not to happen? or Does this diet not work for everyone? Please help me.
+summarized question 24: What is the success rate of the modified Atkins diet for epilepsy?
+##
+query 25: SUBJECT: ball and socket joint MESSAGE: sir, with due respect I would like to state that there is a pain in my ball and socket joint . I didn't feel and pain in normal or lower position as I up my hard there is a huge site of pain in my ball and socket joint. please prescribe a medicine for the cure .
+summarized question 25: What are the treatments for joint pain?
+##
+query 26: SUBJECT: Homozygout MTHFR A1298C Health Issues and long term prognosis? MESSAGE: What is your position on Homozygout MTHFR A1298C Health Issues and long term prognosis?
+summarized question 26: What is the prognosis for someone with homozygous MTHFR A1298C?
+##
+query 27: MESSAGE: what is the latest news on tennitis, or ringing in the ear, I am 75 years old and have had ringing in the ear since my mid 5os. Thank you.
+summarized question 27: What is the latest research on tinnitis?
+##
+query 28: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: Dear Sir My name is [NAME]   age 44 yers old  I approaching you with much hope after reading the news online about  breakthrough in Thalassamia major treatment. I have one son name [NAME] Date of birth  [DATE].Now 5 year 2 month. As per his reports attached and analysis of   my report and My wife's ( [NAME]) report [NAME]  Hematologist   ( [LOCATION] ) My Son [NAME] is Thalassamic  Intermedia . whene we Report at 2015 shows Hb only 4 we had blood transfusion done  at Djibouti. Doctor here said the Hb level cme down due to spleen enlargemnt which was due to some infection in body. So doctor here prescribed  Antibiotic for 7 days.After having anti biotics The fever came down and now My son is ok .Even though I need a permanent solution treatment fo my son  by Lentin  Globin B305  drug I request you to mail me  possible solution permanent treatment
+summarized question 28: What are the latest treatments for Thalassamic Intermedia?
+##
+query 29: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 29: Can epilepsy be cured?
+##
+query 30: ClinicalTrials.gov - Question - general information.  My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.
+summarized question 30: What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?
+##
+query 31: SUBJECT: NF2 MESSAGE: Dear Sir/Mam  My name is [NAME] from [LOCATION] 28 years old. From my childhood I am suffering from Neurofibromatosis (Type 2). Last 1 year i am consulting with local dermatologist but being it is a genetic neurological disorder they not show any scope.     In this situation my family is planning for my marriage. So I am need of suggestion  1)    Whether is it prevent my child from cause and effect  2)    Can it control by spreading more     Please consider and revert back.     Regards  [NAME]  [CONTACT]
+summarized question 31: How is neurofibromatosis type 2 inherited  and what are the treatments for it?
+##
+query 32: solve the erectio problem.  sir, some time my penis erect and some time it does not work . So please help me . My contect nomber is [CONTACT]
+summarized question 32: What are the treatments for erectile dysfunction?
+##
+query 33: my mother passed away Sunday from Sepsis-Bowel Perforation and I needed to know what it is. She wasn’t sick till the night before after she ate supper. She said her stomace was hurting. She feel the next moning and hit her head. She was ice cold with alittle sweat on her neck. Please, explain this to me.
+summarized question 33:

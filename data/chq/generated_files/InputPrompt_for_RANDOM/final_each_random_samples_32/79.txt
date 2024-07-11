@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: Snhl MESSAGE: I am searching for sensorial hearing loss cure. My daughter is one and half months now. Please help me
+summarized question 1: What are the treatments for sensorineural hearing loss?
+##
+query 2: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: My 5 yr old Grandson has Tourette's, his Dad, my son also has it. His 7 yr old brother picks his arms and leaves scars, Is there anything we can do? He has been to A Neurologists once, and he said to keep records of the 6 yr old and to come back in 6 mo, or sooner if things get worse.
+summarized question 2: What are the symptoms of tourette's syndrome and their treatments?
+##
+query 3: SUBJECT: MLC MESSAGE: My son is patient of MLC, can we plan to another baby. What is the % of 2nd baby would be MLC or NOT.
+summarized question 3: How is Megalencephalic leukoencephalopathy with subcortical cysts (MLC) inherited?
+##
+query 4: SUBJECT: Azithromycin Oral Suspension Stability/Storage MESSAGE: I am a pharmacy technician, and I work at an in-patient pharmacy. We carry Azithomycin 100mg/5mL Oral Suspension. We have been having some technicians putting the Reconstituted Suspension into our fridge. Our fridge is kept at a pretty steady 5* Celsius temperature. I know that the lower range of the stability is at 5*C. Is it a problem to keep it that cold? Should the suspension be kept out of the fridge?
+summarized question 4: How should Azithomycin Oral Suspension be stored?
+##
+query 5: SUBJECT: nf 1 MESSAGE: Hi, my name is [NAME]. I have nf1 and have the benign tumors in my back and neck. I have also had problems with my health, and was wondering about one specific thing. I had to have a full hysterectomy done because of endometriosis and large cysts about 5 years ago. Now about 3 weeks ago I had to have emergency surgery because my bowels and colon were badly tangled and twisted due to scar tissue, I also had endometriosis on them to, plus more large cysts. So now I was hoping you could tell me if all that could be caused from the nf. I thank you very much for your time.
+summarized question 5: Are endometriosis and cysts possible complications of NF1?
+##
+query 6: SUBJECT: safe cold medicine to take with Graves disease MESSAGE: I have a runny nose and headache and have Graves. What is a safe cold medicine to take over the counter?
+summarized question 6: What cold medicines are safe to take with Graves disease?
+##
+query 7: SUBJECT: glucosmine sulfate caplets MESSAGE: Question: when they are out of date...LOTF39460 EXP JA 2013.  Is there any real harm to contining to take these calets?
+summarized question 7: Is it harmful to take expired glucosmine sulfate caplets?
+##
+query 8: SUBJECT: Removal of ovaries/uterus MESSAGE: Could you discuss reasons why a woman would not have both ovaries &uterus removed once menopausal?  Or why she should?
+summarized question 8: What are the risks and benefits of having ovaries and uterus removed after menopuase?
+##
+query 9: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 9: What are the treatments for kidney stones?
+##
+query 10: Customer Service Request. Dear Sir/Madame, I have a rare genetic disease called Pallido Ponto Nigral Degeneration which is caused by an N279k mutation on exon 10 chromosome 17 and I was wondering if gene therapy could be an option for me.  Please email me at [CONTACT] to let me know. Thank you, [NAME]
+summarized question 10: Is gene therapy available for Pallido Ponto Nigral Degeneration?
+##
+query 11: "SUBJECT: BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium a MESSAGE: Hello, I want to purchase from you a remedy. I have Multiple Sclerosis, and there is much talk in the media about ""C. perfringens, Type B"" being a trigger for Multiple Sclerosis. Here is a link of the news http://www.bbc.com/news/health-25925658. I would like to purchase this product ""BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid"".  Or could you kindly recommend a remedy that will address this bacteria?  And email me how I should purchase and the total cost including the shipping so I can order it. I'm eager for your reply and thank you Kindly. Below are all my details: [NAME] [LOCATION] [CONTACT] [EMAIL]"
+summarized question 11: Where can I purchase BAC (echinacea angustifolia, hydrastis canadensis, lomatium myrrha, nasturtium aquaticum, propolis,) liquid and how much does it cost?
+##
+query 12: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 12: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 13: SUBJECT: Low Platelet Count MESSAGE: hello i am facing low platelet count in my blood ( PTI ) and am taking the therapy ( 1 Pill Prednisone 2mg Morning -  MyFortic 2 Pills Morning - 2 Pills Night )  i want to ask [NAME] MD, Professor of Medicine if removing the spleen will cause anything or if there any side effects when removing it.  and what is the cause of this ( PTI )  Been in this 4 months  and my platelet count are ( 70 000 - 140 000 - 65 000 - 90 000 ) didnt reach the normal count. is this therapy good and will it help?  i just need some answers please.  waiting to hear from you soon  sincerely, [NAME]
+summarized question 13: What are the causes and best treatments for low platelet counts?
+##
+query 14: SUBJECT: Blood in cough MESSAGE: before some time i vomit. and blood came in cough with vomit.  what to do . it happens 4-5 times.  when i ask to doc reply that its throat infection.  please advice home remedy for this.
+summarized question 14: What are the treatments for coughing up blood?
+##
+query 15: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 15: What are the treatments for mouth ulcers?
+##
+query 16: SUBJECT: my left hand has not been moving like it should MESSAGE: I have had three neck surgeries, and now my left hand no longer works.  My arm itself seems to be having more pain;the pain will go up into my neck and my upper back. I do not know what to do or where to go.  I am a 61 year old woman, Please let me know what to do.
+summarized question 16: What are the treatments for arm and neck pain?
+##
+query 17: SUBJECT: Tamoxifen MESSAGE: I have been taking Tamoxifen for a little over 4 years I have had many side effects, discharge, hot flashes, dizziness and for the last 6 months bone pain. If I go off Tamoxifen, how long does it normally take for side effects to disappear? (I am 74 years old, active)
+summarized question 17: How long do side effects of Tamoifen last after stopping the drug?
+##
+query 18: SUBJECT: Need glucosamine sulfate not containing shellfish meats MESSAGE: Can you please help me? I have been taking a glucosamine sulfate product with MSM for my arthritis. My nutritionist warned me I could develop a shellfish allergy if it is made from the shellfish meat. The customer service of the product that I am taking confirmed their product is made from the shellfish meat of 3 crustaceans. Can you direct me to how I can find this product not made from the meats, but the shells instead. (I don't want the vegetarian version because it is so hard on the stomach). I appreciate your help.
+summarized question 18: What glucosamine sulfate is manufactured only from shellfish shells?
+##
+query 19: cant use site.  I want to find a doctor who specializes in burning mouth syndrome and that could be in many specialities, I cannot understand how to do this on your website.
+summarized question 19: How can I find physician(s) who specialize in burning mouth syndrome?
+##
+query 20: What can I use when I feel my bladder is sore when I urinate my bladder just burn and its awkward for me its the second time now what should I use or take? Please I need your help
+summarized question 20: "What drugs are there to relieve ""burning bladder"" on urination?"
+##
+query 21: SUBJECT: Mefloquine HCl MESSAGE: My daughter's pediatrician prescribed 1/4 of a 250mg tablet once a week. Based on insurance I could only get 4 tablet for a 30 day supply. The pediatrician thought the remaining 3/4 of the tablet must be discarded once it was exposed to air, but the pharmacist had not heard this. I read through your literature on the drug and also did not see this warning. Can we use the remaining 3/4 of the tablet on additional weeks as long as it is kept at the correct storing specifications? Thank you for your time!
+summarized question 21: What are the storage requirements for Mefloquine HCL?
+##
+query 22: MESSAGE: Greetings: Iam [NAME], from [LOCATION]. I would like to know some of the Medications to Treat Coronary Artery Blockage. I will be grateful if you could let me know. Best Regards, [NAME]. [LOCATION]. [DATE]
+summarized question 22: What are the drug treatments for coronary artery blockage?
+##
+query 23: SUBJECT: allopurinol and diuretics MESSAGE: I am presently taking 200mg Allopurinol daily for the treatment of Gout.  My feet swell.  How dangerous is it to take a diuretic.
+summarized question 23: Can a diuretic be taken with Allopurinol?
+##
+query 24: SUBJECT: varicella  shingles MESSAGE: How can I determine whether or not I've had chicken pox.  If there is a test for it, what are the results of the tests I need to know that will tell me whether or not I have had chicken pox?  I want to know this to determine if I should have shingles vaccine  (Zostavax) Thank you.
+summarized question 24: How do i find out if i had chickenpox?
+##
+query 25: chromosome 20 reattachment. Results of my amniocentesis states that a part of chromosome 20 broke then reattached itself to the same chromosome in a funny way.  They are unable to determine what gene if any has been affected.  Are you aware of any similar situations, and if so, what symptoms should I expect my baby to have?  Is there anyone else you suggest I contact for further information?
+summarized question 25: Where can I find information on disorders caused by chromosome 20 abnormalities?
+##
+query 26: SUBJECT: Airborne contact dermatitis from methylchloroisothiazolinone in wall paint. Abol MESSAGE: Hello,  I've read this article (http://www.ncbi.nlm.nih.gov/pubmed/10750849) because I have a dermatis caused by Airborne contact from methylchloroisothiazolinone in wall paint. I knwo since 1 year that I have allergie of methylchloroisothiazolinone but I didn't know it could be airborne so afte rmy husband had paint the bedroom I have begin to have dermatis, eczema and I look after the cause so I heard about airborne contact dermatitis  from methylchloroisothiazolinone in wall paint. I want to know how many times the properties of methylchloroisothiazolinone are in the wall paint ? It is enough to aerate the room and how many time ? Or should we remove the paint on ceiling, wall and painted cabinet ? I read your article about  inactivation by sodium bisulfite, how can we do that ? thanks a lot for your help because none give me answer at hospital about these questions. excuse me for my english!! Best regards,
+summarized question 26: What are the treatments for contact dermatitis from methylchloroisothiazolinone in paint?
+##
+query 27: SUBJECT: concussions and long term head trauma  from abuse Ii MESSAGE: I was a victim from an abusive relationship, both verbal and physical. During this time I received substantial injuries to my head. Slight concussions led to full-fledged concussions, losing the ability to talk very well, then think very well, and a subdural hematoma, on the left side, bled down inside my head to behind my left eye, which made it unable to move. Along with an intense headache and drinking a lot of coffee, the neurosurgeon didn't have to do brain surgery,  as my eye finally moved!Battered Women's told me to get out of the area a stay gone if I wanted to stay alive. So I did! Speech Therapy helped considerably, the story goes on.  Anyway, I hear and read a lot about concussions and head trauma for football players,  young and old,  and wonder if any studies have ever been done for women?   A few years ago,  I had a partial stroke,  but enough to set me back a bit.  But this time I know what I need to do to help fix my head,  again.
+summarized question 27: What is the latest research on concussions and head trauma in women?
+##
+query 28: bone growth.  i want to grow my bones so please help throw which medicine will b use full please help me please
+summarized question 28: Which medicine will help to grow my bones?
+##
+query 29: SUBJECT: Hematoma following basal cell carcinoma MESSAGE: Is this common after surgery.  What is the cause?
+summarized question 29: What causes hematoma after surgery?
+##
+query 30: SUBJECT: SPECIFY COMPONENTS MESSAGE: COENZYME Q10(100-mg). WHAT ARE THE COMPONENTS OF THIS MEDICINE? IS IT USEABLE FOR MUSLIMS?
+summarized question 30: What are the ingredients of coenzyme q10?
+##
+query 31: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who have been diagnosed with the mecp2 gene mutation and yesterday my neurologist was also commenting on the possibility of ppm-x I am very concerned that no-one in this field can he me. I have been seen durastic changes that have no changes like any of the other characteristics that have been reported.I am desperate to keep them safe and comfortable for the rest of life and could realy use help.  [NAME]   [CONTACT] please help me with any information it would be appreciated more than you know.
+summarized question 31: Where can I find information on mecp2 gene mutation and ppm-x syndrome?
+##
+query 32: Spinal Cord.  My Brother is 58 years old have spinal cord problem his both legs he cannot move them wheelchair user his legs are very heavy as he had urinaire infection after the other now the test comes positive and the infection still going cannot clear so his Doctor cannot give him any treatment for his main problem (Spinal cord) I want to help him what he should do I want to get advice please baging you for help and advice, many thank you
+summarized question 32: What are the treatments for urinary tract infection?
+##
+query 33: SUBJECT: Low Potassium. MESSAGE: I have been taking Melitonion to help me sleep. My PC has prescribed 20 meq of potassium for low potassium level.  He has since increased it to 40 MEQ as my potassium level is still under the normal levels. Should I stop taking the Melitonin to help me get to sleep at night.
+summarized question 33:

@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: i am a male 60 yrs old; i have nf and conjestive heart failure is there a possibility that one is offsetting the other? because i am having unexplained problems i know this is alot to ask but any information would be helpful; thank you
+summarized question 1: Does neurofibromatosis affect congestive heart failure?
+##
+query 2: SUBJECT: Low Red Blood Cell Count MESSAGE: If a patient's Red Blood Cell Count becomes low because of a 3-month medicine regimen, will the RBC normally increase back to normal when the intake of prescribed drug ceases? Thank you. [NAME]
+summarized question 2: Will a low red blood count return to normal after the responsible medication is stopped?
+##
+query 3: migraine. I want to know the treatment for FHM type of migrain . I had observed the all symptoms which are same as provided in information and additionally my father and my younger sister face the acidity problem too. they feel relief after vomiting so both of them do the same by drinking warm water containing salt.
+summarized question 3: What are the treatments for familial hemiplegic migraine?
+##
+query 4: SUBJECT: Arthritis MESSAGE: Is the medication Trimethoprim/ sulfamethozle useful in arthritis.?         Thank you
+summarized question 4: Is Trimethoprim / sulfamethazole indicated for arthritis?
+##
+query 5: SUBJECT: sleep apnea MESSAGE: I was diagnosed with sleep apnea (prolly had it for 5 years) and I have swelling issues caused from that (it has been ruled out from everything else so the doctor thinks).  I just got my cPap machine.  I was wondering how long will it take for the swelling to go away.  Thank you!
+summarized question 5: How long does swelling from sleep apnea take to heal?
+##
+query 6: Good morning I would like to ask something from you guys.i have a big problem of bloating and now its 2 years I have this problem and I try to buy some medication but it doesn't help me. And this thing its worse special during the night when I am sleeping cause I am always taking out the smelling air special when I am sleeping please guys can you assist me and I feel uncormfotable. Because its worse. I will appreciate it for your help. [NAME] [cid:image001.png@01D08E1E.47E509A0] Tel:         [CONTACT] Fax:        [CONTACT] Mobile  [CONTACT] Email:     [CONTACT]> [CONTACT] [CONTACT] In the interest of environment-think before you print! ________________________________________ [CONTACT] This message and any attachments are confidential and intended solely for the addressee.  The following link will display the full disclaimer: [CONTACT] The following link displays the list of Directors: [CONTACT] ________________________________________
+summarized question 6: What are the treatments for bloating and flatulence at night?
+##
+query 7: please can chronic myeloid leukemia (CML) be cure completely. waiting for your response. thanks
+summarized question 7: What are the treatments for chronic myeloid leukemia?
+##
+query 8: Hello, Im sorry about my mom, she has black her mounth, neck and arms, her skin is changed in color black, she has diabetes, she inyects insuline. Can you reccomend me something please?    Sent from my MetroPCS 4G Android device
+summarized question 8: What treatments are available for diabetic skin darkening?
+##
+query 9: SUBJECT: safe cold medicine to take with Graves disease MESSAGE: I have a runny nose and headache and have Graves. What is a safe cold medicine to take over the counter?
+summarized question 9: What cold medicines are safe to take with Graves disease?
+##
+query 10: Aortic Valve Replacement surgery.  Is Minimally Invasive Surgery (MIAVR, not TAVR) any less effective, or riskier than the Conventional Method where the breast bone is split? Can the surgeon do as good a job if the MIAVR procedure is used?
+summarized question 10: How does MIAVR compare to TAVR in effectiveness and risk?
+##
+query 11: SUBJECT: Knee Microfracture Surgery MESSAGE: Hi.  Please give me a general answer as to what can happen after Microfracture Surgery if no physical therapy is prescribed and I was allowed to walk with no crutches for an entire week.  I had the surgery one month ago and still have not started P.T.  I was unaware of this procedure going in.  I thought that I was only having a meniscus tear repaired.
+summarized question 11: What are rehabilitation guidelines for Knee Microfracture Surgery?
+##
+query 12: Question. do you know what genetic abnormality causes lipoamide Dehydrogenase Deficiency (E3)?
+summarized question 12: What is the genetic cause of Lipoamide Dehydrogenase Deficiency?
+##
+query 13: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am working with a Hep C   patient who needs treatment but cannot afford Tx. How can I help her get in touch with a recruiting study? There are no numbers or ways to contact a recruiting study. Sincerely, [NAME]
+summarized question 13: Where can I find clinical trials on hepatitis C?
+##
+query 14: SUBJECT: What is the difference? MESSAGE: Which medication is more potent for pain relief? Acetaminophen-COD #3 or Acetaminophen-COD #4?
+summarized question 14: What is the difference between Acetaminophen-COD #3 and Acetaminophen-COD #4 and is one more potent than the other?
+##
+query 15: heritary angioedema. Injecting white bloods cells into a person with this issue...??? Help...?
+summarized question 15: What are the treatments for hereditary angioedema?
+##
+query 16: SUBJECT: still very sore under my middle rib cage and little swollen MESSAGE: any suggestions for this discomfort ? sore and swollen from auto accident was wearing seat belt.
+summarized question 16: What are the treatments for rib pain and swelling after car accident?
+##
+query 17: SUBJECT: abetalipoproteimemia MESSAGE: hi, I would like to know if there is any support for those suffering with abetalipoproteinemia? I am not diagnosed but have had many test that indicate I am suffering with this, keen to learn how to get it diagnosed and how to manage, many thanks
+summarized question 17: Where can I find information on abetalipoproteinemia, including diagnosis and treatment?
+##
+query 18: MESSAGE: I want more information on Hypertension and fibromyalgia, I seem to be getting only topics on diabetes and I do not have this.   I enjoy reading the current info.  thanks [NAME]
+summarized question 18: Where can I find information on hypertension and fibromyalgia?
+##
+query 19: MESSAGE: Hantavirus virus if the urine and feces are old droppings-5 years better and never cleaned. Can the virus still be passed from old droppings and maybe dried urine that cant be seen? [CONTACT]
+summarized question 19: Can hantavirus be spread by old droppings and urine?
+##
+query 20: "SUBJECT: Vamousse head lice treatment labe claims MESSAGE: To the best of my knowledge, any head lice treatment that claims to ""Kill"" lice and/or eggs is considered by FDA to be a drug claim and therefore needs to contain an FDA-registered pediculicide (kills lice) or an FDA-approved ovicide (kills eggs).  Otherwise the product is considered to be misbranded and a ""new drug"" requiring appropriate testing.  The ""Vamousse"" head lice treatment claims ""Kills 100% lice and eggs"" and does not conform.  In addition, the claim ""kills 100%"" is in violation of FTC rulings which prohibit claiming ""100%"".  This company has also introduced a Head Lice Prevention product which is also in violation of FTC rulings (see FTC vs Lornamead).  I think that you should research these issues and publish your findings.  Thank you."
+summarized question 20: Does Vamoose head lice treatment conform to FDA and FTC labeling guidelines?
+##
+query 21: SUBJECT: Bruxism MESSAGE: I understand that bruxism may be a result of tension or anxiety, but why that particular release? Why don't people clench their fists during sleep, or kick, or any number of activities? In other words, why is the jaw the most common location?
+summarized question 21: What are the causes of bruxism?
+##
+query 22: SUBJECT: lupus an info on the diseise MESSAGE: Need all up date on lupus an send by mail informations on this subject..please i need more information to see if what i am exprienceing is in fact related to lupus ...thank you.
+summarized question 22: Where can I find the latest information on lupus?
+##
+query 23: loss of ear pressure.  Is it possible to lose ear pressure more in one ear than another and can it repair itself.
+summarized question 23: What are the causes of loss of ear pressure and can it heal itself?
+##
+query 24: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: will dalfampridine be effective for people with spinal musclar atrophy. is this a possibility in the future
+summarized question 24: Is dalfampridine an effective treatment for spinal muscular atrophy?
+##
+query 25: SUBJECT: Lichen Planus yrs MESSAGE: Help help help. I have Lichen Planus and I think at times I might go crazy from the itching. I had once before about 22 yrs ago and it went away after a cycle or two of Prednisone. This time it has been over 15yrs and keeps on. It will not go away. I can not take prednisone any more!!!! It makes me mean. I need some kind of help. I use steroid creams and shots and they ease the lesions and the itching, but after a while it gets really bad again. I a at my wits end. It is all over my feet ankles legs and wrists arms back and butt. help me please!!!!!!!!
+summarized question 25: What are non-steriod treatments for lichen planus?
+##
+query 26: SUBJECT: Pyloric Stenosis MESSAGE: Good day, I had pyloric when I was a baby - I am now 44 years old.  I have always suffered with stomach problems, leaky gut etc.  Is it at all possible that this is a related cause of pyloric long term?  I was the 1st baby girl to have this operation in [LOCATION] in [DATE].
+summarized question 26: What is the long-term prognosis and complications of pyloric stenosis?
+##
+query 27: leg swelling.  my mother 57 age his leg swelling from last 6 months. i shown to good doctors all reports are ok. but doctors ask mother to exercise Raise your legs above your heart while lying down.please i required more knoledge please help me
+summarized question 27: Where can I find information on leg swelling and treatments?
+##
+query 28: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 28: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 29: SUBJECT: Asthma MESSAGE: I have been treated for breast cancer and had chemotherapy and readiation.  I am on many drugs but since stopping treatment I have now presented as having asthma.  I take Letrozole. 2.5 to block any estrogen in my body as my tumor was estrogen positive. What type of drugs impact asthma symptoms?   Please advise
+summarized question 29: Where can I find information on drug-induced asthma?
+##
+query 30: SUBJECT: Rubella MESSAGE: My grandson (4 yrs old) has contracted Rubella.  I know for sure he has had at least one of the vaccines.  They are living in Mexico right now.  Should we be worried?
+summarized question 30: What is the prognosis of rubella in a child?
+##
+query 31: PAEDIATRIC AND GEATATIONAL NUTRITION.  I want detail information about pediatric and gestational nutrition.
+summarized question 31: Where can I find detailed information about pediatric and gestational nutrition?
+##
+query 32: "SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: We are 4 generations of a family with similar traits in the males in each of those generations, My dad is 92 (still healthy, sharp as always but always suffered from functional disabilities) and the youngest is 2 1/2, with very significant developmental delays. My son (his father, aged 30) was diagnosed with ADD and central auditory processing disorder (at Yale) but I am now sure he has fragile x (facial features, low IQ, math inability, etc). In my generation, there is one male, my half-brother, who also has ADD (w/o hyperactivity) and intellectual deficits. I know fragile X does not pass through father to son; is there any other explanation? We have not had genetic testing, but think there might be some clinical benefit to researching our family genes for understanding of the links between these 4 males, 4 generations. What would be the best way to proceed? Is there anyone out there looking at familial/longetudnal fragile X or other disorders that might be interested in our ""story""?"
+summarized question 32: Are there any researchers interested in testing a family with ADD and low IQ for fragile X?
+##
+query 33: hello doctor  my frnd is suffered with  chronic myelogenous leukemia (cml) (age 47)..she is treated with a medicine  called Gleevec since 4 months ..doctor said took blood test for every week ..the problem is  platelet count rapidly decreased week by week ...last blood report shows platelet count as 90000,now her count droped to 750000..what should we do...plz help me..
+summarized question 33:

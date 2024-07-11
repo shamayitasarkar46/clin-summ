@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: Good evening. My name is [NAME] , I am from Bosnia and Herzegovina. I'm 18 years old. I wear a cochlear implant ,hearing aid,  for 14 years. I wear it because have totally lost ability to hear. When i was eleven months old I had a fever therefor I used garamycin , but the doctors gave me too much of it so they burned my hearing nerve. I would like to know if there is any way to give me back my hearing ability without using any kind of help?     Yours faithfuly , [NAME].
+summarized question 1: What are the treatments for deafness caused by gentamicin?
+##
+query 2: "SUBJECT: bathing MESSAGE: Can I go in tub , pool or shower while wearing the lidocaine patch?  If not, can I take off the patch (2or 3), and put a new one on in a different area for the remainder of the 12 hr. ""on"" period"
+summarized question 2: Can the lidocaine patch get wet or be replaced after getting wet?
+##
+query 3: irregular bowl movements.  problems in bathroom.   is affecting my work/ and or sex life
+summarized question 3: What are the treatments for irregular bowel movements?
+##
+query 4: MESSAGE: My Aunt is on the following meds and is having pain not relieved by Tylenol.  Could she take Motrin along with these meds.   Aggrenox 25-200 Amlodipine 10 mg Simvastatin 20  levothyroxine 50 Mcg Oxybutynin.carb/comevo Sertraline
+summarized question 4: What drugs can interact with Motrin?
+##
+query 5: SUBJECT: Congestive Heart Failure MESSAGE: Why is my daily fluid intake limited to 2 liters?  What is so special about 2 liters as opposed to any other amount?
+summarized question 5: What is the recommended daily fluid restriction for Congestive Heart Failure?
+##
+query 6: Pupil Dilation.  How often can a pupil dilation or eye fundus can be performed? For example is there a problem if I had one last week and then to have another this week? I appreciate your quick answer.  Thank you
+summarized question 6: How often can pupil dilation be performed?
+##
+query 7: SUBJECT: gluten free status of Tolterodine Tartrate ER 4mg MESSAGE: You list starch as one of the ingredients. What is the source of the starch? Is this medication gluten free? Is it safe for someone with Celiac Disease to take?
+summarized question 7: What are the ingredients of Tolterodine Tartrate ER 4mg and is it gluten free?
+##
+query 8: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 8: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 9: SUBJECT: erection problems MESSAGE: I am 32 yrs. old , 5.6 ft. and 68 kg wt.,  married and have a son of two years. Since last few months , I experience erection related problems during intercourse. When aroused, I get normal erection but it does nt continue for long. I don’t smoke and very rarely drink. I do exercise also. I masturbate 4-5 times a week because my testicles experience pain if I don’t ejaculate after any intimacies or getting very aroused. When pain starts, if I ejaculate by masturbating, It is relieved.  I do have night erections which I find generally in the mornings. Out of tension, once I tried Sildenafil tablet also for erection. Please tell me if I am suffering from any erection related problems or any other problems. Is masturbation a cause for these?  Kindly guide me. I have not visited any doctor yet.
+summarized question 9: Can masturbation cause erectile dysfunction?
+##
+query 10: I was wondering if you guys could give me details and information on the first diagnoses on Retinoblastoma? Like the the year it was discovered, who discovered it, what did that person first think about it? I am just looking for a reliable source for a genetic research paper I am typing. [NAME]
+summarized question 10: Where can I get historical information on the first diagnoses of Retinoblastoma?
+##
+query 11: Hi, I cannot find informatión about Antennatal corticoids Therapy, for lung maturation in diabetics after 34 weeks pregnancy. Can you help me.
+summarized question 11: Where can I find information on antenatal corticosteroids for lung maturation in diabetics after 34 weeks of pregnancy?
+##
+query 12: SUBJECT: chemical reactions to meds. MESSAGE: What is the clinical name for people who have chemical reactions to medications? Is there a cure?  Thanks
+summarized question 12: What are the treatments for drug reactions?
+##
+query 13: SUBJECT: Demand MESSAGE: I have read on your website about the perirenal abscess. My mother is in the situation stipulated here http://www.nlm.nih.gov/medlineplus/ency/article/001274.htm I would really appreciate a recommendation as to where she could treat (a doctor, a clinic, a hospital, etc.). The Dr/Drs who wrote the article is/are professional and i think they could give me a hand.
+summarized question 13: Where can I find information on perirenal abscess, and how can I find physician(s) or hospital(s) who specialize in it?
+##
+query 14: SUBJECT: affects from being molested MESSAGE: I was molested by my father when I was a child (over 45 years ago).  I've been working on recovery the past couple of years (the memories surfaced in 2010).  As part of my recovery, I'm exploring how being sodomized by my father may have damaged my rectum and surrounding areas.    What kinds of physical damage would have been done by a 22 year old male sodomizing a 5 year old boy?    I'm looking to see if that caused tears in the rectum that would have lead to having to have 9 surgeries as an adult to repair them.  I don't think they just happened.  thanks in advance.
+summarized question 14: Where can I find information on rectal damage caused by anal sex?
+##
+query 15: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am 48 years of age..i have had shingles  since i was just 7years..i have had them over 50 times  in my life  . I am also allergic to penicillin and valtrex..most antibiotics  and most pain pills  . I have now began having seizures for last year and half  . I have had testing  done. .waiting  on some results right now  . Any suggestions
+summarized question 15: What is the latest research on treatment for shingles?
+##
+query 16: Phobia: fear of taxidermy.  Hello, I was wondering if there was a name for the fear of taxidermy? I often find myself having the symptoms this website describes when in the presence of something I fear deeply.
+summarized question 16: Where can I find information on fear of taxidermy?
+##
+query 17: SUBJECT: Drugs MESSAGE: What drugs should I avoid as I have CMT periphical neuropathy.  Thank you.
+summarized question 17: What drugs should people with Charcot-Marie-Tooth disease (CMT) avoid?
+##
+query 18: Does either of these help with skin keloids? What would help keloids?
+summarized question 18: What are the treatments for skin keloids?
+##
+query 19: SUBJECT: Operation for Pectus Excavatum MESSAGE: Dear Medical Doctors,  Good day!  We are a resident of [LOCATION] (previously affected with super typhoon Haiyan). We have noticed with our nephew who is 16 yrs old now that his breast is not normal the same with the other nephew that we have having the same age. As we start to consult our physician's in [LOCATION], they told us that it is just normal, however, we are worried because as we can it is a symptom of Pectus Excavatum. We want to know from you the details what to do if we want our nephew to undergo this kind of operation to correct the ribs in his breast (pectus excavatum)?  Hope to hear from you. Thank you very much.   [NAME]
+summarized question 19: Whare can I find information on surgery for Pectus Excavatum?
+##
+query 20: SUBJECT: Positive MRSA by PCR MESSAGE: What does a positive MRSA by PCR mean?  Can I still have my surgery?  Am I contagious?
+summarized question 20: What does a positive MRSA by PCR mean, am I contagious, and can I have surgery?
+##
+query 21: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have garlic cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 21: What are the treatments for tarlov cysts, especially in the thoracic spine?
+##
+query 22: Customer Service Request. I am looking for a company/research facility that can do genetic testing on the UGT group of genes.  Does such a place exist?  How would I go about getting this type of testing done?
+summarized question 22: Where can I find information on genetic testing for UGT abnormalities?
+##
+query 23: SUBJECT: pitting edema MESSAGE: s it normal for the skin on my legs to have pitting edema even though my legs are not swollen it is there weather they are or not. I feel like my legs are made of playdough. LOL. but seriously I have rheumatoid arthritis,vasculitis,fibromyalgia.and idiopathic urticaria.
+summarized question 23: What causes pitting edema?
+##
+query 24: SUBJECT: C2657+2_2657+3INSA MESSAGE: My daughter has been diagnosed with CF and this is one of her gene mutation ( the other one is deltaf508. I am trying to find out information about this gene mutation as I believe it is quite rare and my consultant has very little information on it. I would be very grateful if you can provide any information on this gene mutation.
+summarized question 24: Where can I find information on gene mutations in cystic fibrosis?
+##
+query 25: SUBJECT: Need information abouot Folgard OS MESSAGE: Need information about Folgard OS. I am in U.S.A. but that wasn't listed as a choice of countries!
+summarized question 25: Where can I find information on folgard OS in USA?
+##
+query 26: SUBJECT: GERD MESSAGE: in reviewing some meds that treat GERD, i dont see much difference between Prilosec,Nexium,Tagament and Zantac. It is said that Prilosec and Nexium are proton pump inhibitors and Zantac and Tagamet H2 blockers. Their definitions of action are the the same that they reduce the amount of stomach acid.Are their really any big differences in these 4 medicnes?
+summarized question 26: What are the differences between GERD medications Prilosec, Nexium, Tagament, and Zantac?
+##
+query 27: SUBJECT: suggest diet MESSAGE: age 66.married.male.weight73kgs.bp120/80 no tablets used for bp,no blood sugar fasting 90 after meals120 i am a vegetarian,i am observing a gradual weight gain    how to control it   what is suggested food?
+summarized question 27: What are sucessful weight loss diets for vegetarians?
+##
+query 28: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11 are in thoracic of spine I had one at S2 drained in 09  I have noticed there are several names for the cyst and not much on location of mine. Have become painful any time I must use arms in motion many does don't have clue if I show up at er.  I have Fibromyalgia and Cfs but indecision to not take pain meds has limited my function when cyst become symptomatic I hear non operable Dr geranium is Dr but rarely get help on pain or referrel
+summarized question 28: What are tarlov cysts of the spine and how are they treated?
+##
+query 29: SUBJECT: bowel movement MESSAGE: for the second time today I have seen matter moving as in swimming on the surface of the water after a loose bowel movement.  the first was small but today it was a larger chair or elongated mass that was moving on the surface of the still toilet water.   I thought I was seeing things the first time but this time I am sure.    what is this?
+summarized question 29: How are moving specimens in a loose bowel movement identified and treated?
+##
+query 30: SUBJECT: I would live to know a little question please MESSAGE: Can a doctor answer my little question, looking forward to your kind response!  I just want to know something about milking,  I am 24 years old virgin and when I press my nipples, some sort of white fluid is coming out of my nipples. I live in a remote area, Should I see a doctor or is it normal to milk while pressing nipples.. I have never taken any serious medications before, so why am I milking..?? Or is it a hormonal disorder if so why? Really need your answer or advice on this, is it a life threatening symptom? I am really fearful..   Looking forward to hearing from you,   Thank you so much for reading my email.. Blessings, [NAME]
+summarized question 30: What are the causes of nipple discharge?
+##
+query 31: SUBJECT: contents of barium sulfate solution MESSAGE: I have your Readi-Cat 2 barium sulfate solution.  21% w/v, 2.0% w/w.  I need to know of this contains any gluten or dairy.  Also, do you know if it contains any salicylates or anything similar to aspirin?
+summarized question 31: What are the ingredients of Readi-Cat 2 barium sulfate solution, and is it gluten and dairy free?
+##
+query 32: about Glucosamine Sulphate Will Glucosamine Sulphate affect Kidney?   Will it increase the Potassium content in a person?
+summarized question 32: What are the side effects of glucosamine sulphate?
+##
+query 33: i am 28 height 170 cm ,58 kg tropical area living.my eyes are infected when i watch to a plain surface i can see something moving like a narrow tubes before my eyes.it seems partially burned like half burned worms and i am also seeing something glittering in front of my eyes i checked ASO it is 230 (normal value is 200)i am lean and no increase in body weight for the last 8 years. how can you help me
+summarized question 33:

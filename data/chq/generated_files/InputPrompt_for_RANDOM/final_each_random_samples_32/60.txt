@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: SUBJECT: RUSSEL SILVER SYNDROME MESSAGE: I want to know about RUSSEL SILVER SYNDROME If I ask you my little son nine month old but he look like very little I don't know anything about this symptoms please send me all information. my address [CONTACT].
+summarized question 1: Where can I find information on russell-silver syndrome?
+##
+query 2: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 2: What are the treatments for scoliosis pain?
+##
+query 3: Does high Thyroid level (31.13) interfere with recovery I just had double knee replacement on 01/15/2014. I take Levothyroxin 137mg dailey for my thyroid condition.  I take no other meds on a regular basis except for the normal pain meds prescribed during my recovery. During my recovery, I never felt comfortable and free of pain. I finally asked for a blood test and discovered my TSH level at 31.13.  My question is, will a high TSH level interfere with healing and recovery of muscle tissue and bones?  I am now taking a higher dose of Levthyroxin, can I expect a longer than normal recovery period due to a high TSH level?  Thank You, [NAME]
+summarized question 3: Can high TSH levels or Levothyroxine impact muscle tissue recovery?
+##
+query 4: MESSAGE: I m 33 year old. I m having hand and leg tremors for sometime. Is there any permanent treatment for this. I had visited doctor, they told its a Parkinson desease and cannot be cured permanently. Could you please provide me 2nd opinion on this
+summarized question 4: What are the causes and treatments for tremors in 33 year-old?
+##
+query 5: i wanted info on anhedonia... your web site is -well, i have never seen a better done website in 20 years!!! -in one word: your Organization reeks *Quality*. [NAME], 73, [LOCATION]
+summarized question 5: Where can I find information on anhedonia?
+##
+query 6: Dear Doc, I am now turning 40years in November and all my life I have desired miserably for a divine intervention to restore my smell sense so that I can fully appreciate and participate in this one life on earth. I truly wish to be a part of your research if need be because the disorder had greatly affected my life. If you already have medical drugs to cure and restore my smell sense kindly give information on how I can acquire to benefit from this. I pray that God the Creator gracefully grants me favour with this so that I can enjoy the beauty of His creation in this world, with respect to smell, before I depart to continue with Him in heaven. Cheers for now as I wait to hear from you. [NAME], Ms. Smell disorder (anosmia) patient /sufferer, writing from [LOCATION]. Cell: [CONTACT], [CONTACT].
+summarized question 6: What are the treatments for anosmia?
+##
+query 7: In Vitro Fertilization Hi. I am interested to have In vitro Fertilization (Test Tube Baby). May I know the risk and the cost. Thanks
+summarized question 7: What are the risks of in vitro fertilization and how much does it cost?
+##
+query 8: SUBJECT: Leg pain MESSAGE: I am diabetic since last 18 years and present it is 6.6 and morning it varies from 110 to 135 and afternoon and from 125 to 175.I regularly take medicine. swimming, exercise &Yoga for 1.5 Hours in the morning &1.5 Hours in the evening but recently the  pain has started in the legs and Dr. has suggested stiloz-50.I also take Kerala juice/Methi seeds &it is water in the morning. Is this due to diabetes or any excess exercise?
+summarized question 8: What are the causes of leg pain?
+##
+query 9: SUBJECT: Arthritis on elderly MESSAGE: Is there something available, in English or Spanish, about Phisiotherapy specific for ankle arthritis? Just to know something more. There is a case in my Family and it is being followed by both a phisician and a phisiotherapist. My e-mail is [CONTACT]. Thanks. [NAME].
+summarized question 9: Where can I find information on physical therapy for ankle arthritis?
+##
+query 10: Good morning I would like to ask something from you guys.i have a big problem of bloating and now its 2 years I have this problem and I try to buy some medication but it doesn't help me. And this thing its worse special during the night when I am sleeping cause I am always taking out the smelling air special when I am sleeping please guys can you assist me and I feel uncormfotable. Because its worse. I will appreciate it for your help. [NAME] [cid:image001.png@01D08E1E.47E509A0] Tel:         [CONTACT] Fax:        [CONTACT] Mobile  [CONTACT] Email:     [CONTACT]> [CONTACT] [CONTACT] In the interest of environment-think before you print! ________________________________________ [CONTACT] This message and any attachments are confidential and intended solely for the addressee.  The following link will display the full disclaimer: [CONTACT] The following link displays the list of Directors: [CONTACT] ________________________________________
+summarized question 10: What are the treatments for bloating and flatulence at night?
+##
+query 11: SUBJECT: Janumet XR 50mg/1000mg- 1 daily MESSAGE: Doctor prescribed for type 2 diabetes w/Metformin 500 mg 2 times daily. Pharmacy refused to fill stating overdose of Metformin. Who is right &what is maximum daily dosage of Metformin? Pharmacy is a non-public pharmacy for a major city employer plan provided for employees only.
+summarized question 11: What is the maximum dosage of metformin?
+##
+query 12: SUBJECT: meloxicam MESSAGE: Does this have to be taken everyday for it to work?  Can I just take it as needed or does it have to build up in my system....
+summarized question 12: How should meloxicam be used?
+##
+query 13: MESSAGE: My father has undergone braincancer operation and radiation Also.His left side hand and leg is very weak he cant hold a glass nor he cant walk .if he try to walk he falls down.pls suggest treatment for hand and his leg.we will d very gratefull for u.contact [CONTACT] from [LOCATION] u.
+summarized question 13: What are treatment options for recovery of limb use after a brain cancer operation?
+##
+query 14: MESSAGE: What is the best way to naturally treat a 7 yr old boy with ADHD? Without prescription medicine?
+summarized question 14: What are the non-drug treatments for ADHD?
+##
+query 15: SUBJECT: permanent cure for Nystagmus MESSAGE: For me from birth shaking of eyes disorder is there & in family nobody is having this kind of issuse. Pls. Tell me if any curable option for this disease.
+summarized question 15: What are the treatments for nystagmus and can it be cured?
+##
+query 16: SUBJECT: Retina MESSAGE: I wonder of new research and testing on macular degeneration and the opportunity to be part of this process. I am 48 years old and have macular degeneration, I'm blind right eye and very sad because my disease is getting worse in the left eye. Cordially ask them your attention
+summarized question 16: Where can I find clinical trials for macular degeneration?
+##
+query 17: Interested in research regarding Arimidex and the pros and cons of taking it following lumpectomy and radiation for breast cancer.  Are there research results of recent research?  The possible side effects are worrying - I make decisions for my 47 year old daughter with Down Syndrome-trying to do what is best.  She has taken Anastrozole for a year now.
+summarized question 17: What is the the latest research on Arimidex, and the benefits and side effects of the drug?
+##
+query 18: "Good day doctor.... My name is [NAME] from Nigeria in West Africa. Please I'll appreciate so much if you will reach me urgently with any advice that can be valuable to a total cure of the diabetes that I came down with since the year 2008... at ""[CONTACT]"" . I'll be eagerly waiting for your response soonest, please.... Thanks for your anticipated corporation. [NAME]"
+summarized question 18: What are the treatments for diabetes and can it be reversed?
+##
+query 19: "SUBJECT: Morgellon Disease MESSAGE: It appears as if I have had this horrible disease for many, many years and it is getting worst.  I am trying to find a physician or specialist in the South Carolina area who can treat me for this medical/mental disease.  It seems as if this disease has ""NO"" complete treatment and it is more least a disability!"
+summarized question 19: What are the treatments for Morgellon Disease, and how can I find physician(s) in South Carolina who specialize in it?
+##
+query 20: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: Dear sir/ madam. I am a patient suffering from Friedreich's ataxia and i heard there was a medicine for it. In 2009 and since we are looking for the medicine kindly help on this and I have DNA report could You please help us on this as there are two people respective age 22 years and 24 years suffering from it. Looking for your help on this ASAP and please let us know when the medicine will be there in market and attaching two files for your reference
+summarized question 20: What are the treatments for friedreich's ataxia?
+##
+query 21: SUBJECT: Bedlam MESSAGE: This pesticide was used to get rid of bed bugs where I live. It was sprayed in areas I had to sleep in, sleep sofa. I wasn't told about it and slept through 4 applications over a 10 week period. I have one lung and severe COPD. Should this have been used knowing about my respiratory issues>
+summarized question 21: What are the side effects of bedlam insecticide?
+##
+query 22: SUBJECT: know more about MESSAGE: My Daughter have Distal renal tubular acidosis. we are from Mexico, and we ae woundering if can send to us more infomation. maybe you can reccommend to us a association???? i don?t know
+summarized question 22: Where can I find information on distal renal tubular acidosis?
+##
+query 23: DNA. I know (or think I know) that random mutations can change human DNA. Can environment change DNA?
+summarized question 23: What are the effects of environmental factors on DNA?
+##
+query 24: Dear Sirs, Please instruct me what the correct dose of medication: *BRONCOMAR MAXIMUM- dextromethorphan hydrobromide and guaifenesin liquid,* because: In the *labeling* says: Adults and children 12 years over 10 ml (2 tsp) every 6 hours Children 6 to under 12 years old 5 ml (1 tsp) every 6 hours And in the *insert* specifies: Adults and children 12 years over 10 ml (2 tsp) every 4 hours Children 6 to under 12 years old 5 ml (1 tsp) every 4 hours Waiting for your prompt response. *[NAME]* [PROFESSION] *[CONTACT]* [CONTACT]
+summarized question 24: What are the recommended dosages for BRONCOMAR MAXIMUM-dextromethorphan hydrobromide and guaifenesin liquid?
+##
+query 25: MESSAGE: I would like to thank you for the valuable information on the subject. I am suffering from acute pain in my right knee for the last two years. I had undergone several treatment in Allopathy, Ayurveda, Homeopathy, Acu-Puncture, Physio-Therapy etc. But the results have been slow. I would be happy if you can suggest me some idea to get over the problem. I am 61 years old. The orthopaedician I consulted, advised me to go for an MRI scan and he told me that I should undergo a surgery. Many people advised me against it considering my age. What is your advice?
+summarized question 25: What are the risks of knee surgery in an older person?
+##
+query 26: SUBJECT: sodium intake MESSAGE: My mother is 96 years old and generally in good health.  I keep her on a low sodium diet and wonder if I'm not allowing enough sodium in her diet.  What is the lowest amount she should have per day?  Thank you.
+summarized question 26: What is the minimum required sodium intake per day in elderly?
+##
+query 27: SUBJECT: Do Shrimp Allergies Subside Over Time MESSAGE: I used to eat shrimp all the time but suddenly developed an allergy to it when I turned 24. I went to an allergist and I definitely tested positive for shrimp allergy (all other shellfish like lobster, crab, etc. oddly was negative).  Are food allergies that develop later in life like this known to disappear over time? I'm just wondering if there's a safe way to test it if I'm too lazy/poor to go see an allergist again. It's been 8 years since I was diagnosed.  I'm not asking for a recommendation to my personal case but was just wondering the answer to my first question above.  Thanks
+summarized question 27: Is it possible for a shrimp allergy to go away?
+##
+query 28: SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.
+summarized question 28: Does diabetes affect bowel movements?
+##
+query 29: SUBJECT: Bleeding Gums MESSAGE: My brother has denture the lower denture hurts his gum and it makes it bleed and his gum is sore were he has a hard time to chew anything. He needs to know what can he do for it?
+summarized question 29: What are the treatments for bleeding gums under dentures?
+##
+query 30: SUBJECT: AML Cancer for one and half year old girl MESSAGE: Hi, One and half year girl found AML Cancer with test and she is under chemotheraphy in  [LOCATION].  Please let me know second opinion how it would be in future. My Mobile No: [CONTACT]
+summarized question 30: What are the treatments and prognosis for a child with AML?
+##
+query 31: SUBJECT: Purpura MESSAGE: My brother has purpura disease since 2003. kindly gude us with the correct medicine and if you know any good doctor then please let us know.  Thank You
+summarized question 31: What are the treatments for purpura and how can I find physician(s) who specialize in it?
+##
+query 32: SUBJECT: canadida of the esophagus MESSAGE: I cannot locate any information on this condition: causes, symptoms, treatment, etc. I have had it in the past and suspect that I have it again. I would like to research this condition, but internet search only comes up with cancer. I realize that my case is not addressed in your reply. I am simply seeking general information.
+summarized question 32: Where can I find information on candida of the esophagus, including causes, symptoms, and treatment?
+##
+query 33: Someone I know discovered she had TB in the past (unknowingly).  I don’t know if she had TB disease or a TB infection.  She believes she caught it from her aunt who worked as a dietician at a TB sanitarium.  The aunt DID NOT have TB.  Is this even possible?  Thanks very much.
+summarized question 33:

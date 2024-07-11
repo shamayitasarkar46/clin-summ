@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: ClinicalTrials.gov - Question - specific study.  I have hcv 3a,my doctor prescribed  sovaldi  ribavirin (24 weeks)I am looking for trials using the same medication.
+summarized question 1: Where can I find clinical trials for HCV genotype 3 using sovaldi ribavirin?
+##
+query 2: SUBJECT: Glucosamine with PRGF treatment MESSAGE: I have just finished my third session of PRGF treatmet(Plasma rich in growth factors) for osteoarthritis/condropathia in my knee. Would it be recommendable to also take glucosamine, or would it be counterindicative?  If so, is there any specific type or combination of glucosamine that would be best for me? I am a 65 year old male, very active especialy playing tennis and skiing, activities which I hope to eturn to very soon. hank you for any information you can provide.  [NAME], Valencia Spain
+summarized question 2: Are there any contraindications to taking glucosamine in addition to PRGF treatment for knee osteoarthritis and chondropathia?
+##
+query 3: Dear sir, I was affected on trichoepithilioma in my nose on 12yrs.i consult the multiple doctorand skin specialists.but no one can do cure that
+summarized question 3: What are the treatments for trichoepithilioma?
+##
+query 4: SUBJECT: Cervical Cancer MESSAGE: Can a long term untreated bladder infection aid in the cause of cervical cancer? And can the fact that my mom has cervical cancer aid in my chance of getting cervical cancer?
+summarized question 4: What causes cervical cancer, and is it hereditary?
+##
+query 5: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I do have relative smoker in past diagnose with COPD I would like to see how can I find treatment .76 years old not any other health problem. He is on oxygen now. please Email me.at [CONTACT]        thank you
+summarized question 5: What are the treatments for COPD?
+##
+query 6: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 6: How is post-polio syndrome diagnosed?
+##
+query 7: SUBJECT: sudden pain in heart MESSAGE: I need to know for what its happening ? because i am very scared what may happen
+summarized question 7: What causes sudden chest pain and what are the treatments?
+##
+query 8: SUBJECT: possible metoclopramide side effects MESSAGE: I started taking thismedication 3/27/14, two tablets by mouth twice daily. I have now developed mouth sores on the inside of my lower lip (almost at the bottom). Could these be a side of effect of this medicine?
+summarized question 8: Are mouth sores a side effect of metoclopramide?
+##
+query 9: SUBJECT: hypothyroidism MESSAGE: Can you please send me as much information as possible on &quot;hypothyroidism&quot;. I was recently diagnosed with the disease and I am struggling to figure out what it is and how I got it. My name and address is: [NAME] [LOCATION] [CONTACT] Thank you in advance for your help!!!
+summarized question 9: Where can I find information on hypothyroidism and its causes?
+##
+query 10: Shakiness.  I have acquired a symptom of extreme internal body shaking. Sometimes I canyon even speak right or use a pen. A doctor yesterday asked if I had a recent thyroid checkup. I see my thyroid doc the end of March.  Usually they say my T4 levels are low. I'm confused when it comes to what levels the thyroid should be.  I also have chronic fibromyalgia.  Seems that is blamed on for a lot of my problems.  Thank you for this site.
+summarized question 10: What are normal thyroid levels, and can thyroid problems cause body tremors?
+##
+query 11: SUBJECT: Insomnia (special case) MESSAGE: Hi, Im 40 years old male. I was suffering from social anxiety since I was child.  Last year, I decided to go to a psychologist. She advised me to practice meditation, mindfulness and CBT as well.  She explained to me the great positive impact of the meditation, mindfulness on the brain activity (neuroplasticity). Since then, I've been practicing these techniques. The result was awesome. I no longer suffer from my social anxiety and my life has completely changed to the positive side. No more worry, stress, anxiety, etc.  But at the same time, I started to suffer from chronic insomnia until now. Of course, Im always in touch with my psychiatrist who has prescribed me the necessary and still following me up. Even tough, my insomnia doesn't improved.  Unfortunately, nobody can determine the real cause of my insomnia.  If I know the cause, I'll do my best to find the key to resolve this problem.  According to my mentioned story, can you help me to find the real cause of my insomnia?   Thank you, Your answer is very appreciable and important to me.   [NAME].
+summarized question 11: What are causes of and treatment for chronic insomnia?
+##
+query 12: genetic beriberi. Is it true that wet and dry beriberi usually occur in the same patient?
+summarized question 12: Can wet beriberi and dry beriberi occur in the same person?
+##
+query 13: SUBJECT: blocked ear drum MESSAGE: got a head cold and now left ear drum has bean blocked for three weeks now.taking amoxicillin trihydrate three times a day also apo-mometasone spray once a day. its bean five days now on medication and not any better
+summarized question 13: How long does it take for antibiotics to clear up a blocked ear?
+##
+query 14: SUBJECT: Obesity Questions MESSAGE: Hello. My name is [NAME] and I am a junior in high school. I am currently doing a research topic on obesity and was wondering if you would be able to answer a few questions. It would be greatly appreciated if you could! Thank you! 1)What/Who is to blame for obesity? 2)Do you think putting  a tax on junk food will reduce the amount of obese people? Why or why not? 3)How can we prevent obesity? 4)What are the benefits of getting 30 minutes of exercise daily and eating healthy? 5)Should the government be more involved in the help to stop obesity? Why or why not? 6)What is the number one thing we should eat less of/ cut out of our diets? (such as, fats, carbs, sugars,etc)  Thank you for your time!
+summarized question 14: Where can I find information on obesity, including causes, prevention, and treatments?
+##
+query 15: SUBJECT: Diabetes Type 2 MESSAGE: I test before going to bed and the reading is 94 but when I test again in the morning, the reading is 165.  How can I lower it?  I eat dinner around 8PM and nothing until the next morning.
+summarized question 15: What affects glucose levels at night, and how can I lower it?
+##
+query 16: SUBJECT: Fomepizole Mixing MESSAGE: Hi, Can you tell me if there are any special mixing precautions associated with Fomepizole.  I am wondering specifically about any contact precautions or if any protective gear needs to be worn when mixing. Thank you
+summarized question 16: Are there any precautions for mixing or administering Fomepizole?
+##
+query 17: SUBJECT: Letrozole MESSAGE: Can u please advise me what year Letrozole  was first used in the market. As I was not given this tablet after Breast surgery in 2007 and my tumour grew again. I had gone through the Menopause in 1990 so was not offered Tamoxin.
+summarized question 17: When was Letrozole approved for use?
+##
+query 18: I have been suffering from lichen planus since last four years. Some time it reduces the red sign and sometime it increases  and I cannot take spicy food or hot food. Could you please suggest the remedies. I had consulted the dermatologist also .He gave me some ointment named as clone taxol for applying towards the read area. Awaiting your valuable advise I this behalf. With kind regards. Sent from my iPad
+summarized question 18: What are the treatments for lichen planus?
+##
+query 19: SUBJECT: Tubal Ligation MESSAGE: Looking for a doctor to perform tubal ligation. I am a 30 year old woman with 3 children, 2 boys and 1 girl. I don't want anymore children, I feel as though I have more then enough and don't want anymore. I do not want to depend on other forms of birth control. I am to afraid that they can become unreliable. I am currently in a relationship which both him and I do not want any more children.
+summarized question 19: How can I find a doctor to perform tubal ligation?
+##
+query 20: SUBJECT: Left hip replacement surgery MESSAGE: In  [DATE], I had a total left hip replacement surgery, during that surgery, my femur was broken.  Two weeks later, there was a a revision fine due to possible infection in that same left hip. Today is [DATE] and my question is what should I be expected to be doing? I still rely on my walker, I am 54 years young and I suffer from Chronic Osteoarthritis in my lower extremities which is the reason for hip replacement at such an earlier age.
+summarized question 20: What is the recovery time and expected activities for hip replacement surgery and a broken femur?
+##
+query 21: SUBJECT: •Radical neck dissection MESSAGE: Hi, I had this surgery 10 years ago as a result of thyroid cancer and have had a lot of problems with my rights side neck and shoulder exactly as you described in your article.  Can you recommend any treatment?  When I mentioned it to my surgeon post surgery he did not think it had anything to do with the operation.  I had the SCM muscle removed as well as the parathyroids, total thyroid removal, artery, &12 lymph nodes.
+summarized question 21: Can you recommend any treatment for neck and shoulder problems following radical neck dissection for thyroid cancer?
+##
+query 22: SUBJECT: generlized tonic clonic seizure MESSAGE: If a person is not got any seizure attack for five years from last episode, it will be treated as cured or otherwise. kindly let me know after how many days/years it will be treated as cured.
+summarized question 22: Can epilepsy be cured?
+##
+query 23: Second opinion for hemifacial microsomnia. I am a 34 female born with hemifacial miscrosomnia. I have had multiple surgeries but yet I feel I am not where I would like to be. I have been treated through the military because I can not afford a second opinion from an outside source. I lack tissue, muscle and fat on the right side of my face as well as a definite under developed right mandible. I know I would never be perfect, but I would love a chance to be able to walk down the street without people staring and I for one time in my life feel some what normal. Can you please help
+summarized question 23: How can I find physician(s) or hospital(s) who specialize in hemifacial microsomnia?
+##
+query 24: SUBJECT: Details about Caustic Soda Poison MESSAGE: Hello, i'm writing from Mauritius and my name is [NAME]. A member of my family swallowed a poison which is name caustic soda. He is actually in the hospital suffering a lot. Is there any suggestion please to help him to be better or to relieve his pain?
+summarized question 24: What are the treatments for caustic soda poisoning?
+##
+query 25: MESSAGE: I want more information on Hypertension and fibromyalgia, I seem to be getting only topics on diabetes and I do not have this.   I enjoy reading the current info.  thanks [NAME]
+summarized question 25: Where can I find information on hypertension and fibromyalgia?
+##
+query 26: SUBJECT: are coleus and caladiums poisonous to pets MESSAGE: Are these two plants considered poisonous to pets?  The vet said to call you and check about this.
+summarized question 26: Are coleus and caladiums poisonous to pets?
+##
+query 27: SUBJECT: My girlfriend suffers from scoliosis MESSAGE: She cries in pain and can't sleep at night do to this I believe it's the most common based on age because she wasn't born with it and I just wanna know how I should go about it  she's been to a doctor but they say with the surgery there's only a 50/50 chance of survival that's just what she told me but I really wish there's something I can do to help or something we can prevent the pain any type of help would be termendusly appreciated! She has had it for a whole now maybe a few months or so and she says the pain is increase wich is why I worry.
+summarized question 27: What are the treatments for scoliosis pain?
+##
+query 28: MESSAGE: My urea is showing 40.IS IT DANGEROUS ? IF IT IS DANGEROUS. NOW WHAT I  HAVE TO DO. MY URIC ACID IS ALSO SHOWING 2.7. IS IT DANGEROUS AND HOW I WILL COVER IT UP. [NAME]
+summarized question 28: What are the normal ranges for urea and uric acid, and what are the treatments for high levels of urea and uric acid?
+##
+query 29: SUBJECT: sideeffects from tecfedera MESSAGE: Hello, My name is [NAME]. I started taking Tecfedera sometime in April. As prescribed started with the 1/2 dose, and immediately had the flushing, swelling of my lips and nose. I called my Dr. he said it's not uncommon take an aspirin with every dose. I did, and  it seemed to lessen. I started the full dose. Everyday I took the pill, my pain increased! After a few weeks, the pain I usually had in flair ups, had now multiplied to an intolerable level! I stopped the Tecfedra. Unfortunately the pain did not! Until today, my pain level is at it maximum. Nothing I've taken such as Percocet, oxycodone etc. will not relieve it!! I've also since developed frequent  sweating and cellulitis on my left thigh and abdomen! Has anyone else had these problems? PLEASE! If so, tell me what they did to stop them! Sincerely, [NAME] cell [CONTACT]
+summarized question 29: What are the side effects of tecfidera?
+##
+query 30: "SUBJECT: cosmetic leg shortening surgery MESSAGE: Hi,  I am a tall girl(5'8""), who wants to undergo leg shortening sugery of 2 inches for cosmetic purpose. It would be good if I can get more information about it. I would like to know the cost of this surgery, the recovery time and the risks associated with it. How long should I stay in the hospital?  Thanks and regards"
+summarized question 30: Where can I find information on leg shortening surgery, including risks, cost, and recovery time?
+##
+query 31: SUBJECT: Letrozole MESSAGE: Since taking Letrozole the last 4.6 months, I now have a 4 cm. csyst in front of my right ovary that must be removed.  Why am I prescribed a drug that is also prescribed for young women trying to conceive.  I am post menopausal and had early stage breast cancer in 2010.  Now, that I am ending my 5 year run with this drug, I have adverse affects with a cysts.  Is a cysts an egg that was not fertilized from the Follupian Tubes.  I cannot understand this logic of giving me this drug?
+summarized question 31: What are the uses and side effects of letrozole in postmenopausal women?
+##
+query 32: SUBJECT: acute constipation MESSAGE: Sir, 1. I wish to know if severe constipation/non clearence of bowels is also related to Diabetes in old age people. 2. Request if you may provide any medical paper associated to my query.
+summarized question 32: Does diabetes affect bowel movements?
+##
+query 33: 8 month old child suffering from constant vomiting what could be the medicine used for treatment
+summarized question 33:

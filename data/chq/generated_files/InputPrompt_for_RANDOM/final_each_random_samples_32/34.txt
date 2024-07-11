@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: "SUBJECT: physical activity MESSAGE: I am a woman aged 59 and had triple heart bypass in 2010. I am 5' 1"" and almost 14st in weight so fairly overweight. And I have very swollen ankles which ive had for probably at least 20 years. Diuretics dont seem to solve it. Ive had to take on part time work now as the government say i have to as im under pension age, working 4 hours a day, and it involves standing as its shop work. Should i really avoid this type of work as it means so much standing? Im very unfit, too weak and breathless to climb stairs. I suffer regular severe back ache standing for a time and my legs ache badly. I cant climb stairs as i get breathless and my legs are too weak. I dont smoke and dont drink alcohol frequently."
+summarized question 1: What work is recommended for a physically unfit person?
+##
+query 2: SUBJECT: After Rectal Prolapse! MESSAGE: My boyfriend had surgery on his rectum because It came out of him It's been a few years! Is It normal for him to stick his finger up his anus to go to the bathroom?
+summarized question 2: What are potential complications after rectal prolapse surgery?
+##
+query 3: SUBJECT: duchenne. MESSAGE: My name is [NAME] from Morocco I am 27 years old. I have muscular dystrophy disease category duchenne. Are there any effective treatment for this disease
+summarized question 3: What are the treatments for duchenne muscular dystrophy?
+##
+query 4: SUBJECT: Scabbies/ treatment area MESSAGE: My husband and I had scabie . I used it in my vaginal area.  I don't know how to treat The reaction I'm having. I think I have burned the delicate tissue in that area.  What can I do to treat the reaction. Please help any suggestions?
+summarized question 4: How is sgenital cabies treated?
+##
+query 5: SUBJECT: NIFEDIPINE MESSAGE: Hi, i have been taking nifedipine for about 5 years but only take it in the winter. I take it to treat my raynauds syndrome. During winter when i take the nifedipine i have regular nose bleeds that last up to 20 mins, i want to find out if this relates to the medication i am taking. Thanks for any help you can provide
+summarized question 5: Are nosebleeds a side effect of nifedipine?
+##
+query 6: SUBJECT: tick bites MESSAGE: my husband was diagnosed with Rocky Mountain Spotted fever about 6 1/2 years ago.  Then about 1 1/2 years ago he was diagnosed with Lyme Disease.  With him having had both what damage if any to his body could possibly happen.  He has had alot of medical problems since.  Now has been diagnosed with type II diabetes.
+summarized question 6: What is the prognosis for Rocky Mountain Spotted fever and lyme disease?
+##
+query 7: SUBJECT: gluten free MESSAGE: Can you tell me if this drug is gluten free. Pms-Hydrochlorothiazide thank you [NAME]
+summarized question 7: What are the ingredients of Pms-Hydrochlorothiazide and it is gluten free?
+##
+query 8: SUBJECT: Mental Health (Anxiety) interview MESSAGE: I would like to interview someone by email in order to obtain information over Generalized Anxiety Disorder for a Newsletter project in my Abnormal Psychology Class at [LOCATION]. Thank you very much
+summarized question 8: Where can I find information on generalized anxiety disorder?
+##
+query 9: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 9: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 10: SUBJECT: Medical Diagnosis of Asbestosis MESSAGE: My doctors hint that I have asbestosis but do not say I have asbestosis.  All the medical information that I have read from the CDC, Medlin and NIH all say that the symptoms presented are related to a high level of asbestos.  Why won't the doctor say it?
+summarized question 10: How is asbestosis diagnosed?
+##
+query 11: SUBJECT: help me MESSAGE: 24-year-old male. Wilson's illness severe stem cell therapy can be done? Please help us. Stem cell therapy is fit? We finance. Mongolia to treat this disease physicians, hospitals, nursing there.
+summarized question 11: Is stem cell therapy a treatment for Wilson's disease, and how can I find physician(s) or hospital(s) in Mongolia who specialize in it?
+##
+query 12: Ostiogenesis Imperfecta. Is it possible to take out whatever causes this disease out of a persons gene to stop this in my family.
+summarized question 12: How is Osteogenesis imperfecta inherited and is it possible to stop it?
+##
+query 13: I have a faculty member looking for some very specific information and I've had no luck using our resources. Her question is: How long after receiving dexamethasone (20 ml) via an IV does the cortisol level drop? She is studying this as it applies to breast cancer treatments. Any help you can provide would be greatly appreciated! thanks, [NAME] [NAME], [PROFESSION] [LOCATION] [LOCATION] [CONTACT]
+summarized question 13: What is the effect of dexamethasone on cortisol levels?
+##
+query 14: SUBJECT: Diabetes Type 2 MESSAGE: I test before going to bed and the reading is 94 but when I test again in the morning, the reading is 165.  How can I lower it?  I eat dinner around 8PM and nothing until the next morning.
+summarized question 14: What affects glucose levels at night, and how can I lower it?
+##
+query 15: SUBJECT: Small intestine completely removed MESSAGE: One of my family members has a serious health issue in which his small bowel has been removed completely, due to gangarin. Could you please help and advise accordingly.
+summarized question 15: What are the prognosis and care instructions after small bowel resection?
+##
+query 16: MESSAGE: Hantavirus virus if the urine and feces are old droppings-5 years better and never cleaned. Can the virus still be passed from old droppings and maybe dried urine that cant be seen? [CONTACT]
+summarized question 16: Can hantavirus be spread by old droppings and urine?
+##
+query 17: My mom is 82 years old suffering from anixity and depression for the last 10 years was dianosed early on set deminita 3 years ago. Do yall have a office in [LOCATION] NC? Can you recommend someone. she has seretona syndrome and nonething helps her.
+summarized question 17: Where can I find information on early onset dementia, and how can I find physician(s) who specialize in it in North Carolina?
+##
+query 18: NUT tumor in spine. My brother had a tumor in his cheek, which was surgically removed. He is still undergoing radiations. After dissecting the tumor, they noticed it had something to do with the chromosones. His tumor was rare. Last week they discovered very small tumors in his spine. They concluded the cancer has evolved in his bones. In [LOCATION] ([LOCATION]) they said only 2 cases of this cancer are known worldwide. They've given him 8 months!4 Months ago he was just fine. I'm looking for any information that can help him!
+summarized question 18: "Where can I get information and help for ""NUT tumor"" in the spine?"
+##
+query 19: MESSAGE: Sometime during March I overdosed on Benadryl. I got all the symptoms but survived without medical treatment. I am just curious as to if any damage happened.  Like Neurological.
+summarized question 19: What is the prognosis for benadryl toxicity?
+##
+query 20: SUBJECT: Abnormal Growth MESSAGE: I have a 11 year old grandson that does not seem to be growing normally with his age group. He has 4 other brothers & sisters 3 girls and one brother that except for the oldest {girl} all seem to be having normal growth. The 11 I am referring to is very short and stumpy 5-7 inches shorter than his friends.His father is pretty short and stumpy also. The other brother seems to have normal growth. Is there any answer to this, he is having a hard time emotionally at school.
+summarized question 20: How is delayed growth diagnosed, and what are treatments for it?
+##
+query 21: SUBJECT: dry mouth MESSAGE: My doctor does not know of a medication that can be used in the mouth for dry mouth. Through research, I think the medication is there, I just can't find the name of it for him to prescribe forme. Can you help me. I'm using the across the counter Biotene but would like something that works a little better.
+summarized question 21: Are there any medicines for dry mouth?
+##
+query 22: Wolff Parkinson White- slow heart rate. Your article is very illuminating but does not refer to the rarer slow rate WPW which my husband has. Where can I find this information?
+summarized question 22: Where can i find information on Wolff Parkinson White syndrome with bradycardia?
+##
+query 23: SUBJECT: oxygen therapy MESSAGE: I have copd and just recieved prescription for oxygen.  It reads like this.....2 L/M nocturnal & w/exertion....I understand the nocturnal but not sure what w/exertion means, I think it is saying to use o2 while exerting my self but do not use o2 under normal conditions, is this correct.
+summarized question 23: What does w/exertion mean on a prescription for oxygen?
+##
+query 24: SUBJECT: Pancreatitis Cancer MESSAGE: My Grandfather on my mothers side died of pancreatic cancer  and my mother also  i am the only daughter ,but also have 3 brothers is it more likely that i will have of chance of having this form of cancer that my brothers. My mom was only 57 when we lost her . I am now 51 and worry if i'm more likely to suffer with this cancer than my brothers.
+summarized question 24: What is the risk of developing  pancreatic cancer and how is it inherited?
+##
+query 25: SUBJECT: Kidney disease diet MESSAGE: My aunty has a kidney disease, and wants to use a product that contains aloe. Is that ok?
+summarized question 25: Is aloe contraindicated for patients with kidney disease?
+##
+query 26: who makes bromocriptine i am wondering what company makes the drug bromocriptine, i need it for a mass i have on my pituitary gland and the cost just keeps raising. i cannot ever buy a full prescription because of the price and i was told if i get a hold of the maker of the drug sometimes they offer coupons or something to help me afford the medicine. if i buy 10 pills in which i have to take 2 times a day it costs me 78.00. and that is how i have to buy them.  thanks.
+summarized question 26: Who manufactures bromocriptine?
+##
+query 27: ClinicalTrials.gov - Suggestion.  Can you tell me if there is a battery pack that could be used in power outage events. We live in a rural setting and often have power outages during the general hours of sleep? Please advise if any known means of switching c-pap to this method.
+summarized question 27: Is there is a c-pap battery pack that could be used in power outage events?
+##
+query 28: SUBJECT: generic estradiol patch MESSAGE: I now use Estradiol(climara)td Patch 1s 0.0375. It causes a rash under the ring of adhesive, which the Vivelle Dot Patches 8's 0.0375m I used previously, and was not generic, did not.  Is there another generic estradiol patch, gel, or cream I could use?
+summarized question 28: What generic options are avilable for estradiol in patch, gel, or cream form?
+##
+query 29: Hello - I suspect my son has Cushing's Syndrome. His recent U-Creatinine Excretion 24 hr urine test showed 21.6H nnol/d. The lab range for normal is 7.0-17.0. I suspect this may be the result of muscle waste. Can you please tell me what this measure means in terms of the scale of the result - what does this difference represent and what can be expected as a result. Also how can we determine whether it is muscle waste that is the issue? Please help
+summarized question 29: How do I interpret the high results of a creatinine 24 hour urine test and how is muscle waste diagnosed?
+##
+query 30: SUBJECT: Feeling pain MESSAGE: Dear all,  Last week I did operation of hammorhoide and day by day I am getting worse I mean not feeling well.although my anus is outside and not going in so kindly requesting you to furnish me the good idea in Order to prevent my pain.  Thanks
+summarized question 30: What are the treatments for pain after hemorrhoidectomy?
+##
+query 31: SUBJECT: ClinicalTrials.gov - General Complaint MESSAGE: I am suffering from demylination sensorimotor neuropathy and need help. I am willing to try anything. Cell# [CONTACT]. [NAME]
+summarized question 31: What are the treatments for demyelinating sensorimotor neuropathy?
+##
+query 32: SUBJECT: Radiation Therapy MESSAGE: I have foot drop symptoms. I think radiation cause them last year. My left foot is numb tingling and inflaming. please help and call my cell phone for more comments :[CONTACT]
+summarized question 32: What are the symptoms of foot drop, and what are the treatments for it?
+##
+query 33: My daughter had brain surgery and has recovered much better than the surgeon expected.  My question is that since her surgery the flap has separated from her skull and there is a gap with just skin covering it.  Please let me know if this is unsual.  She is very worried about it and says that it hurts.
+summarized question 33:

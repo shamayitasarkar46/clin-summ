@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: MESSAGE: I want more information on Hypertension and fibromyalgia, I seem to be getting only topics on diabetes and I do not have this.   I enjoy reading the current info.  thanks [NAME]
+summarized question 1: Where can I find information on hypertension and fibromyalgia?
+##
+query 2: SUBJECT: New Hep C Virus Treatments MESSAGE: In 2006-2007, at the VAMC in [LOCATION], i went through the HEP C Treatment using Ribavirin and Interferon. My viral load was undetectable immediately at the BOT. I stayed on the treatment faithfully and painfully for a4 months; when at the EOT my viral load was still indictable. I was considered a success. When i came back after 6 months for a checkup, it was found my HCV had relapsed. Now I want to know what treatments are now available to me. I hear of these new wonder cures that have been approved in the past year and i want to be retreated. Please send me all the info you have on these new treatments while i wait here and die at age 45. I was exposed with the HCV virus from a tattoo while in the armed forces overseas.
+summarized question 2: What new treatments are available for recurrent hepatitis C?
+##
+query 3: SUBJECT: Serum Creatinine MESSAGE: My serum creatinine level is 1.1. I am 36 years old and having kidney stone . My question is , will the kidney stone affect the serum creatinine result?
+summarized question 3: Can a kidney stone affect the serum creatinine result?
+##
+query 4: In Vitro Fertilization Hi. I am interested to have In vitro Fertilization (Test Tube Baby). May I know the risk and the cost. Thanks
+summarized question 4: What are the risks of in vitro fertilization and how much does it cost?
+##
+query 5: "SUBJECT: Questions (see in comment box) on ""Vistaril"" MESSAGE: I have a few Qs related to ""Vistaril"": 1. Is ""Vistaril"" a gluten-free product? 2. If not, is it because some of the raw materials in its ingredients that is gluten related? 3. If yes to Q1, is it a ""Certified"" gluten-free product and what kind of certification it has? 4. For capsule form, does it contain any kind of starch? If it does, what starch is it? 5.  Can you email to me a list of the ingredients in this drug? Thank you very much!"
+summarized question 5: What are the ingredients of vistaril and is it gluten and starch free?
+##
+query 6: SUBJECT: ingredients MESSAGE: I would like to know if zolmitriptan tablets and zolmitriptan orally disintegrating tablets contain any wheat, rye or barley gluten. Thank you, [NAME]
+summarized question 6: Do zolmitriptan tablets or zolmitriptan orally disintegrating tablets contain any wheat, rye or barley gluten?
+##
+query 7: SUBJECT: LGMD MESSAGE: Dear Sir, i would like to bring your kind attention to a serious matter that my Mother has been suffering from LGMD so i would like to request you for any possible assistance regarding the treatment of this disease.  my email id is [CONTACT]
+summarized question 7: What are the treatments for LGMD?
+##
+query 8: pierre robins syndrome. Good Morning, Just a query for you regarding the above. Is it true to saythis is caused by an abnormal chromezone and is carried by the mother and transferred to boys only. This is supposed to happen 1 in 4. The male does not carry the jene. I would appreciate your expert information please.
+summarized question 8: What are the inheritance patterns for pierre robins syndrome?
+##
+query 9: SUBJECT: imitrex to be prescriped to 72 year old woman MESSAGE: I was in hospital for pancretitis.  On the 2nd day I was doing ok but came down with a migraine headache.  I have not had one in 2 years. but have the imitrex  tab.  which I did not have in the hospital  They gave me Toradol injection and it worked.  but they told me I should not take imitex as an older person.  I plan to go to my internist.  but decide to ask this question.   thanks
+summarized question 9: Is imitrex contraindicated in the elderly?
+##
+query 10: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and findings. I have this problem, my father, my daughter and son and granddaughter also have this mutation.  HYPOMATURATION TYPE, IIA2 I have 2 other daughters and a grandson that does not have this... Does this mean they could be carriers of it? [NAME] [LOCATION]
+summarized question 10: How is hypomaturation type IIA2 inherited?
+##
+query 11: ClinicalTrials.gov - Question - general information.  My granddaughter was born with Klippel-Tranaunay Syndrome...There is very little information about this.  We are looking for the current research and treatments available.  She is 5 months old now and her leg seems to be most affected.  We want to get her help as soon as possible to address the symptoms and treat her condition.
+summarized question 11: What is the latest research on klippel-trenaunay syndrome, and what are the treatments for it?
+##
+query 12: SUBJECT: More info needed on polio MESSAGE: If it was possible to get polio and not have symptoms, wouldn't it be possible to get post-polio syndrome today? How would you get tested? I think this information is needed on your site. Thank you.
+summarized question 12: How is post-polio syndrome diagnosed?
+##
+query 13: SUBJECT: DailyMed Feedback MESSAGE: sir, HELP ME OVERCOME INCESSANT FLATULENCE I am suffering from the above for a year now. Please help me have medical solutions. Thank you
+summarized question 13: What are the treatments for flatulance?
+##
+query 14: Diet Plan for patients having both cholesterol and diabetes.  Dear Sir/Madam, Could you send me a diet plan for patients suffering from both Cholesterol and Diabetes? It is for someone close to me. I don't want it in carbohydrates/ protein numerical data form, just what all foods they can eat (their amounts / combination). If possible could you also send it in Malayalam?
+summarized question 14: What is a good diet plan for high cholesterol and diabetes?
+##
+query 15: SUBJECT: Amputed finger MESSAGE: SIr; my 4 yrs old daughter left hand ring finger was crushed in fatal door closure... expert plastic surgeons were consulted and it was finally decided to remove the dead balck portion of finger  and sealed it; now i wish to know to knw wht best treatement I can get for her... she is having pain as her finger/hand  is still in plaster...... I need expert opinions ; pl help ////  regards [NAME]  Father [CONTACT]
+summarized question 15: What is the treatment and prognosis for a crushed finger on a child?
+##
+query 16: Dear Madam, I Am [NAME], From [LOCATION],  My Daughter [NAME] 6 year old ,She has has Osteogenesis imperfecta , When She Was 8 Month Old recurrent fractures are started  in long bone of hand &Leg till age of 2 year 6 month , She has Blue Sclera, number of Factures are approx 36  . In the Starting diagnosis of age we have given her Inj Pemidronate for 3 times after 2 month cycle dose, No Clinical Examination done for this , BMD Test are Showing Stronger after age 3 year , now as per BMD test bone density is in normal range. Now Baby [NAME] is not having any fractures from last 3 1/2 year. Now We have Planned for Second Issue &2 Month Of pregnancy are completed , so we want to do genetic Test for knowing the type of OI , or  examine chromosome, Please Let Me know about  the kind of test we need to do and details for that. &Please Let us know How We Can DO test for this regards
+summarized question 16: Where can I get information on genetic testing for Osteogenesis imperfecta, including where it is available?
+##
+query 17: SUBJECT: Thyroid Cancer MESSAGE: thyroid cancer . please send all data regarding surgery, issues after the surgery possible outcomes to the surgery.
+summarized question 17: Where can I find information on surgery for thyroid cancer, including recovery and prognosis?
+##
+query 18: SUBJECT: autonomic and arthritis . MESSAGE: Hi there , i have a few questions about autonomic disorders combined with arthritis ? My girlfriend has arthritis and autonomic disorder. I am really worried about her and want to help her, is there any new medications out there for treatment of autonomic disorder ? Also her autonomic disorder effects her heart lungs and blood pressure , is this condition fatal ? How long does someone live with this condition ?
+summarized question 18: Where can I find information on autonomic disorder, including symptoms, treatment, and prognosis?
+##
+query 19: Vitamins.  Can I take zinc and zinc citrate at the same time?
+summarized question 19: Can zinc and zinc citrate be taken together?
+##
+query 20: SUBJECT: Negative Interaction MESSAGE: My question is the following : is there any negative interaction between Ginkgo and Pycnogenol. Thank very much for your attention.
+summarized question 20: Are there drug interactions between ginkgo and pycnogenol?
+##
+query 21: SUBJECT: Is Balsalazide a steroid? MESSAGE: Is Balsalazide a steroid? I have been on it doe close to 2 years now, your information states 6-8 weeks.  Will this do any damage to my other organs?  Was on Asacol prier to Balsalazide 750mg each X9 per day.  Is this safe? I cannot seem to lose any weight no matter how much I try. I exercise 5-6 days a week for 30 minutes, watch what I eat.
+summarized question 21: Where can I find information on balsalazide, including dosage, side effects, and drug class?
+##
+query 22: ClinicalTrials.gov - Question - general information. Is there any information out there regarding people who have both, Charcot Marie Tooth Disease and Parkinson's ? My husband has both. Not too much info. In [LOCATION] about these two diseases together. However, as a care giver, this is a tough one! Any studies genetically or otherwise on these two together? Thanks, [NAME]
+summarized question 22: Where can I find information on  Charcot Marie Tooth Disease with Parkinson's disease?
+##
+query 23: SUBJECT: Best Disease MESSAGE: There are 38 members of our family that have Best Disease. All members of the [NAME] family. Most of us live in [LOCATION].
+summarized question 23: Where can I find information on Best disease, including inheritance patterns?
+##
+query 24: SUBJECT: Tetanus immunity MESSAGE: How long after Tetanus vaccine administration does a patient have immunity? I have not been able to find this information on CDC site.
+summarized question 24: How long does the tetanus vaccine last?
+##
+query 25: SUBJECT: peripheral neuropathy + multiples sclerosis MESSAGE: I was diagnosed with per.neuropathy (mild nerve pain to sole of feet)  1989 in 2006 I decided to have a bunion operation (1 ft only) after the operation I had severe nerve pain everywhere face hands both feet then I was then 2009 diagnosed with M.S. after MRI scan (no lumber puncture) Do u think I shld have been advised not to have had the bunion operation. I wld  really like to know. Thanks
+summarized question 25: Can surgical bunion removal exacerbate neuropathic pain and/or cause multiple sclerosis?
+##
+query 26: SUBJECT: After Rectal Prolapse! MESSAGE: My boyfriend had surgery on his rectum because It came out of him It's been a few years! Is It normal for him to stick his finger up his anus to go to the bathroom?
+summarized question 26: What are potential complications after rectal prolapse surgery?
+##
+query 27: SUBJECT: treatment Information Serratia marcescens MESSAGE: Good afternoon, I would like to ask please inform me which treatment or medication should be applied when you have contracted the bacteria Serratia marcescens in a leg wound that does not heal and always with abscesses, inflammation of areas that are filled with pus, has been applied gentamicin and do not see the improvement, in addition to other antibiotics. Thanks [CONTACT]
+summarized question 27: What drugs/treatments are available for Serratia marcescens wound infections?
+##
+query 28: I have painful sores around my genitals..what could  be..i realy need an answer urgently or to talk to one of your consultants
+summarized question 28: What causes genital sores?
+##
+query 29: SUBJECT: taking oxycodone 5mg MESSAGE: what will happen to me if my doctors just stop my oxycodone 5mg 2 every 4 hours and iv been on it for three ahalf weeks? and how do i have them wean me off slowly?
+summarized question 29: How do I stop taking oxycodone?
+##
+query 30: SUBJECT: uncontrollable jerking movements MESSAGE: When I am exercising hard, the left side of my body will start to do strange things. When lifting weights overhead, my left upper lift will jerk up into sort of a sneer.  When doing core work, my left arm will start jerking so hard that it's impossible to hold onto anything. The jerking stops after the exercise ends; but my left arm feels worn out.  No pain. A few months ago, my left leg completely lost any strength for weeks. It first appeared when I was just trying to do a squat with a plastic pipe in my hand. Eventually was able to work strength back. Again - no pain.  Should I be alarmed?
+summarized question 30: What causes jerking movements during exercise?
+##
+query 31: SUBJECT: percutaneous nephrolithotomy MESSAGE: I am trying to get travel insurance and the insurance company don't recognise the condition by this name or nephrostomy is there a name that would be recognised by the insurance company? Thanking you.
+summarized question 31: What are other names for percutaneous nephrolithotomy or nephrostomy?
+##
+query 32: SUBJECT: enlarge prostate MESSAGE: Hi, I have some questions about enlarge prostate. My bf has that and he tried different pills and now his been on just 1 type of pill which are SANDOZ-ALFUZOSIN...hes been on them for over 2 years i think...but his sex drive has decrease...and so i was wondering if he has surgery will his sex drive increase again or it would there be still a chance of that side effect? He has talked to his dr. but that doesnt seem to help much. So i was wondering if you have any suggestions because i would like for this situation to change if thats at all possible.  Please let me know what your opinion are. thank-you
+summarized question 32: What are the treatments for enlarged prostate, and how do they affect sex drive?
+##
+query 33: Hello, My sister suffers from obsessive-compulsive disorder for more than ten years And I want to know why the symptoms of obsessive-compulsive disorder increase during the menstrual period for this she is  very afraid and use contraceptive pills a monthly to prevent the menstrual cycle and is used this way since 5 years The first question is why the symptoms of obsessive-compulsive disorder increase during menstruation? The second question Are there any side effects as a result of the use of pills a month? I hope to help me found the answers because her conditions is very bad and please told me what we can do to help her. thank you very much and thank you for your time.
+summarized question 33:

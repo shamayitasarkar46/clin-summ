@@ -1,0 +1,100 @@
+summarize the patient health query into one question of 15 words or less, using the provided examples to guide word choice 
+
+query 1: hepatitus A blood test.  how long does it take for the lab to determine the result
+summarized question 1: How long does it take to get a hepatitus A blood test result?
+##
+query 2: SUBJECT: breast feeding MESSAGE: need information in different languages about breast feeding. Follows the WHO recommendation to promote breast feeding.
+summarized question 2: Where can I get information in different languages about breast feeding, specifically the WHO recommendation to promote breast feeding?
+##
+query 3: SUBJECT: adrenoleukodystrophy MESSAGE: A child I have been asked to work with has been diagnosed with this condition.I am so far unable to find info pertaining to this illness. Can you help??
+summarized question 3: Where can I find information on adrenoleukodystrophy?
+##
+query 4: SUBJECT: EAR LOBE CREASES MESSAGE: Are ear lobe creases always heart disease and 100% heart attack pending? What are other causes? I'm 56 have pierced ears but haven't wore earrings in years. In the last 7 years I rarely eat meat and when I do it's chicken or fish maybe beef every 5 years or so and its maybe a hamburger lean. If you do have arteriosclerosis is there anyway to reverse it?
+summarized question 4: Are earlobe creases always associated with heart disease / arteriosclerosis and could arteriosclerosis be reversed?
+##
+query 5: SUBJECT: theoretical question MESSAGE: How much time you can spend at most before a cerebral aneurysm will cause death? Sorry I'm using translator because I speak and write in Spanish if they were so kind to send me the answer to [CONTACT] Thanks.
+summarized question 5: What is the prognosis of cerebral aneurysm?
+##
+query 6: Hello, my name is [NAME] and i am a student at [LOCATION] here in [LOCATION]. I am composing a research report on SIDS and i was hoping you could help me with some information. I was particularly interested in learning weather parents should be worried about cribs death and if you could direct me to some resources on that, or even allow me to interview you. Thank you for your time. If you have anything else that might help me, i would really appreciate it. You can email me at [CONTACT] or contact me by my phone at [CONTACT]. Thanks again.
+summarized question 6: Where can I find information on SIDS?
+##
+query 7: SUBJECT: about thalassemia treatment MESSAGE: sir,my friend is suffering from thalassemia ,in that majorly red blood anemia,white blood anemia and the blood is comming out from mouth when she got cough .her condition is very severe .in her body the red ,white blood cells are abscent .so that blood transfusion is doing for every 16-20days.then in the recent days the blood also comming out from mouth please tell me where can i get the treatment for this disease .we can travel around the world for treatment please reply me as soon as possible. thank you sir.
+summarized question 7: What are the treatments for thalassemia?
+##
+query 8: SUBJECT: Thoracic outlet syndrome MESSAGE: I was diagnose with TOS in my left shoulder was told surgery would help my problem. physical therapy did not help tired of the numbness in pain in hand just wondering if the stats our good percentage wise for surgery results Dr.[NAME] is my surgeon
+summarized question 8: What are the success rate and prognosis for thoracic outlet syndrome surgery?
+##
+query 9: SUBJECT: How appendix problems affect people in the genetic family? MESSAGE: How appendix problems affect people in the genetic family?
+summarized question 9: Can appendicitis run in the family?
+##
+query 10: SUBJECT: Strabismus Lazy Eye MESSAGE: I am someone who is out to get information about the developments in strabismus lazy eye correction. I will need information about all of the therapy that is possible involving the adult stem cell research therapy that will make certain the brain will be fully retrained with this after the surgery has been done, & this real important! [CONTACT]
+summarized question 10: What are the treatments for strabismus, including stem cell therapies?
+##
+query 11: SUBJECT: [NAME] Brazilian with PMD MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pelizaeus-Merzbacher leukodystrophy, we would like to know more new treatments, new techniques, since we know very little about the disease in Brazil. [NAME]
+summarized question 11: What new treatments are available for Pelizaeus-Merzbacher leukodystrophy?
+##
+query 12: SUBJECT: suggest diet MESSAGE: age 66.married.male.weight73kgs.bp120/80 no tablets used for bp,no blood sugar fasting 90 after meals120 i am a vegetarian,i am observing a gradual weight gain    how to control it   what is suggested food?
+summarized question 12: What are sucessful weight loss diets for vegetarians?
+##
+query 13: MESSAGE: I had the  lap band but I just gain the weight back. can I still have the bypass done ?
+summarized question 13: Can gastric/GI bypass surgery for weight loss be done after failed lap band surgery?
+##
+query 14: SUBJECT: Cardiomegaly with chronic chest pain MESSAGE: With cardiomegaly chest pain will the heart muscle continue to thicken? Most all the doctors have given up trying to find the cause of his pain.  It has changed his life, he enjoys work and spending time outdoors and now he can't.
+summarized question 14: What  are the causes  and treatments of chronic chest pain with cardiomegaly?
+##
+query 15: SUBJECT: Skin Rash (Petechiae?) MESSAGE: Yesterday I noticed a large cluster of pinprick red spots underneath my chin (not on my neck). Recently I have been self induced vomiting. I know that Petechiae can be caused by vomiting but would this cause it to be underneath the chin??
+summarized question 15: Can vomiting cause petechiae on the chin?
+##
+query 16: SUBJECT: PERIDONTITIS LEFT UNTREATED EFFECTS MESSAGE: Hi, If periodontitis is left untreated for approx 7 months will it have any affect on the condition as I need to travel.  A dentist has told me I have mod-advanced periodontitis with gum pockets of 5-9mm and bone loss 20-50>% with restorations and caries.  I have all my teeth at this stage, some are loose.  If I leave it for this amount of time is it likely to worsen at all and what could I expect?  On the other hand if I seek treatment immediately will help in any way.  Hope to hear from you.  Thanks kindly [NAME]
+summarized question 16: What is the prognosis for untreated periodontitis?
+##
+query 17: SUBJECT: Hair loss (men) on legs/feet as one ages MESSAGE: I have observed hair loss on lower extremities on males. Is this poor blood circulation? Any advice?
+summarized question 17: Where can I find information on hair loss on the lower extremities in men, including causes and treatment?
+##
+query 18: SUBJECT: Serum Creatinine MESSAGE: My serum creatinine level is 1.1. I am 36 years old and having kidney stone . My question is , will the kidney stone affect the serum creatinine result?
+summarized question 18: Can a kidney stone affect the serum creatinine result?
+##
+query 19: SUBJECT: Enquiry MESSAGE: i have stone in my ureter. So can i eat eag. And what should i do for remove stone
+summarized question 19: What are the treatments for kidney stones?
+##
+query 20: SUBJECT: my 28 year old daughter has been sick for 5 years. and it is very hard for her.. MESSAGE: I need to find support for my daughter, she been sick for  5 years.. and has lost several jobs. and had several sugeries.. she has diegestive issues.. and cannot eat without getting sick.
+summarized question 20: Where can I find support groups for people with digestive disorders?
+##
+query 21: I have an hernia I would love to take care off it ASAP I was wondering if you guys could help me . Thanks
+summarized question 21: What are the treatments for hernia?
+##
+query 22: MESSAGE: dear sir, my name is [NAME] from India. actually sir my sister is 27 year old accouding to doctor she is a anemia pasent. loss of blood.plz sir any drug for anti anemia.plzzzzzzzzzzzz sir
+summarized question 22: What are the treatments for anemia?
+##
+query 23: CITROBACTOR FREUNDII.  Does ciprofaxin work well? Is there a better drug if so what.
+summarized question 23: What are the treatments for citrobacter freundii infection?
+##
+query 24: care giving for parents My mother has been diagnosed with Alzheimer's, my father is not of the greatest health either and is the main caregiver for my mother. My question is where do we start with attempting to help our parents w/ the care giving and what sort of financial options are there out there for people on fixed incomes.
+summarized question 24: What resources are available  for Alzheimer's caregivers?
+##
+query 25: SUBJECT: Jaundice MESSAGE: Can older infants get jaundice? What is the age range?
+summarized question 25: Can older infants get jaundice?
+##
+query 26: SUBJECT: Macular Degeneration MESSAGE:  Can you tell me who can answer the Question: Is being farsighted and advantage over being near sighted when it comes to Macular Degeneration? Thanks [NAME]
+summarized question 26: Is farsightedness or nearsightedness a risk factor for macular degeneration?
+##
+query 27: SUBJECT: Is finasteride a medication for life? MESSAGE: Hi, I have been taking this medication for the last 7 years.I asked my family doctor,since I have difficulty in my sexual desire or intercourse,if I can stop taking it.She said that is for life. My psa in normal 0,71.What you suggest? Thank you for your replay.
+summarized question 27: Are there alternative treatments to finasteride for enlarged prostate?
+##
+query 28: SUBJECT: fibroid tumors MESSAGE: I have had a hysterectomy and now I have fibroid tumors on my spinal column, what could be causing them? Please Help
+summarized question 28: What causes fibroid tumors on the spine?
+##
+query 29: "SUBJECT: Questions on albinism MESSAGE: Hello my name is [NAME] and I'm hoping you can help me. When i was born my doctor diagnosed me with albinism. I have color in my hair (brown) and in my eyes (hazel) they do not shake. My skin is fair but my markings are visible. It is not one solid fair white on all of me. I apparently have 3 different levels. most of my body is covered by level 1 pigmentation (the fairest) i have level 2 on some as well and a small patch of my arm of level (3) it basically looks like a huge birthmark that goes from my right side of the body to the left.  When I was born the doctors still didn't know much about Albinism and I""m hoping to learn more myself. For instance what type this would fall under... I hope you can help. Sincerely, [NAME]"
+summarized question 29: Where can I find information on albinism?
+##
+query 30: SUBJECT: Responsible for the Research on stem cells and tissue regeneration MESSAGE: Dear colleague Good day, my name is [NAME], 48, doctor; I was affected by a bladder cancer where the removal of the organ was needed. I read about the work of his lab and I wonder if there is interest or any possibility of using pluripotent stem cells redo a piece of fabric of my bladder, for so I can do a transplant with acellular matrix and repopulate this matrix with these modified stem cells . I'm using bricker, which depress me, I lost my self esteem, lost quality of life and already thought to suicide. Until that came the hope that transplantation of acellular matrix.  I am looking forward to answer, anxious and carefully.   [NAME] CRM88878  I just can not understand the difficulty in finding a laboratory or institution that can solve this problem as the peritoneal layer of the bladder peritoneum is I already own, the inner layer is smooth muscle, which can also be acquired via endoscopic biopsy of the stomach or a arterial tissue and the layer It is coated internally by internal polymorph or transitional epithelium which can be acquired from another organ. It would just replicate small pieces so that after implanted in the acellular scaffold covered.
+summarized question 30: What is the latest research on using pluripotent stem cells and acellular matrix for  bladder regeneration?
+##
+query 31: SUBJECT: how to remove my mouth ulcer/canker MESSAGE: Hello dear Dr, i am  an afghan student in [LOCATION], the mouth ulcer problem is the worst problem in my lifetime, even three or four times the ulcer grow up in the mouth during of a month. even i can not eat or drink, even though i take care of my mouth every day, so i wish you to consult me about of removing of these ulcer forever. thank you so much
+summarized question 31: What are the treatments for mouth ulcers?
+##
+query 32: Factor 12 defeincy. I have factor 12 defiency, my GP has told me it is linked to aboriginal/ TSI heritage, is this correct ?    Thanks [NAME]
+summarized question 32: Is factor 12 deficiency linked to aboriginal heritage?
+##
+query 33: SUBJECT: Alpha 1 normal ranges. MESSAGE: Hi I was wondering if you could help me. I am a student in which I have to complete a case study on a patient with severe COPD. The patient's alpha 1 ant-trips sin level is 1.33. I am aware the normal ranges is 0.075-0.15g/L. Does this mean this patient has the genetic disease? Thanking You [NAME]
+summarized question 33:
