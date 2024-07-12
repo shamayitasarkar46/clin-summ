@@ -1,8 +1,8 @@
 Name: Shamayita Sarkar (student of University of Calcutta)
 - **Internship** from 15.06.2024 to 15.07.2024
 - **Supervisor**: Prof. Niloy Ganguly (Department of Computer Science and Engineering, IIT Kharagpur)
-- Title: **Exploring ICL Strategies in Patient Questions Summarization**
-- Here we have focused only on the Patient Questions portion from `chq`(Consumer/Patient Health Query) dataset of `data/` folder and implemented ICL(In-context Learning) examples for each of the 150 test samples. The ICL examples are taken from the training set(`data/chq/train.jsonl`) for each of 150 test samples(`data/chq/test.jsonl`). Examples are taken in the order of 1,2,4,8,16(i.e. 2^x where x = 0,1,2,....) and in two different methods, these examples are selected: Random & Similar.
+- Title: **Exploring In-context Learning in Patient Questions Summarization**
+- Here we have focused only on the Patient Questions portion from `chq`(Consumer/Patient Health Query) dataset of `data/` folder and selected ICL(In-context Learning) examples for each of the 150 test samples. The ICL examples are taken from the training set(`data/chq/train.jsonl`) for each of 150 test samples(`data/chq/test.jsonl`). Examples are taken in the order of 1,2,4,8,16(i.e. 2^x where x = 0,1,2,....) and in two different methods, these examples are selected: Random & Similar.
 - Also, the ROUGE-L scores are evaluated for the Generated summaries of both Similar and Random samples.
   
 
@@ -29,15 +29,6 @@ In addition to proprietary models GPT-3.5 and GPT-4, we adapt the following open
 ## Code
 
 ### Set-up
-
-1. Use these commands to set up a conda environment:
-```
-conda env create -f env.yml
-conda activate clin-summ 
-```
-2. In `src/constants.py`, create your own project directory `DIR_PROJECT` outside this repository which will contain input data, trained models, and generated output.
-3. Move input data from this repo to `DIR_PROJECT`, i.e. `mv data/ DIR_PROJECT`
-4. (optional) To add your own dataset, follow the format of example datasets `opi`, `chq`, and `d2n` in `DIR_PROJECT/data/`
 
 
 ### Usage
