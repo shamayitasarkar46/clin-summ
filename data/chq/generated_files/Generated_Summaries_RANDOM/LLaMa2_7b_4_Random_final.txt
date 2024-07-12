@@ -1,0 +1,599 @@
+What are the treatment options for a lower lip birthmark?
+##
+query 6: SUBJECT: 23 surgeries and counting......lower lip birthmark, have tried all options out the there and guess what still have it
++++++++++++++++++++++++++++++
+What are the treatments for chronic renal disease?
+##
+query 6: I have a question about the treatment of a patient with a rare disease called "Congenital Adrenal Hyperplasia". I am a medical
++++++++++++++++++++++++++++++
+What is the effect of Rogam on the baby of an RH- person?
+##
+query 6: SUBJECT: I am a 26 year old female who has been diagnosed with a rare disease called Cushing's
++++++++++++++++++++++++++++++
+Is hydroxychloroquine safe for rheumatoid arthritis?
+##
+query 6: SUBJECT: I have a question about the use of the drug, Zoloft. I have been taking it
++++++++++++++++++++++++++++++
+How can I find out if my multiple autoimmune reactions (MARs) are related to gadolinium toxicity?
+##
+query 6: SUBJECT: Cystic Fibrosis MESSAGE:
++++++++++++++++++++++++++++++
+What are the symptoms of myclonus, and what are the treatments for it?
+##
+query 6: SUBJECT: [NAME] MESSAGE: [NAME] is a 65 year old female with a
++++++++++++++++++++++++++++++
+What is causing my symptoms?
+##
+query 6: I have a question about the use of the term "cold" in the context of the common cold.  I have heard that the common cold is not caused by a virus
++++++++++++++++++++++++++++++
+What is the treatment for non-alcoholic fatty liver disease?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have on
++++++++++++++++++++++++++++++
+How long should I quarantine after a positive COVID-19 test?
+##
+query 6: SUBJECT: covid-19 MESSAGE: I have covid-19 and I am wondering if I can go to
++++++++++++++++++++++++++++++
+What are the causes of flu-like symptoms that last longer than 13 days?
+##
+query 6: SUBJECT: HIV MESSAGE: I have been diagnosed with HIV and I am very scared.
++++++++++++++++++++++++++++++
+What is the treatment for a rash on the back and arms?
+##
+query 6: SUBJECT: MESSAGE: I have a 10 year old son who has been diagnosed with ADHD. He is on R
++++++++++++++++++++++++++++++
+Where can I find information on covid-19, including mortality rates?
+##
+query 6: I have a question about the coronavirus. I have a friend who is a nurse and she is very worried about
++++++++++++++++++++++++++++++
+What are the effects of taking testosterone injections with Sudafed?
+##
+query 6: I have a question about the use of the term "suspected" in the context of a medical diagnosis. I have a
++++++++++++++++++++++++++++++
+When should I start a new round of antibiotics?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the clinical trials.
++++++++++++++++++++++++++++++
+What are the side effects of stopping olanzapine?
+##
+query 6: SUBJECT: I have been taking 100mg of Cymbalta for 2 years. I have been having a lot of problems
++++++++++++++++++++++++++++++
+What are the recommendations for quarantine after exposure to covid-19?
+##
+query 6: SUBJECT: I have a question about the vaccine MESSAGE: I have a question about the vaccine
++++++++++++++++++++++++++++++
+What is sinus rhythm?
+##
+query 6: SUBJECT: I have a question about my blood pressure.  I have been on a low dose of lisinopril for about 10 years.  I
++++++++++++++++++++++++++++++
+What are the treatments for forminal stenosis?
+##
+query 6: MESSAGE: I have been diagnosed with a rare form of cancer called Adenoid Cystic Carcinoma. I have been told that
++++++++++++++++++++++++++++++
+What is the relationship between heart disease and knee pain?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the study you are conducting on
++++++++++++++++++++++++++++++
+Is there an increased risk of infiltration, dislodgement, or phlebitis in a stroke patient with a peripheral intravenous catheter insertion in the affected extremity?
+##
+query 6:
++++++++++++++++++++++++++++++
+What is a good blood glucose level?
+##
+query 6: SUBJECT: Diabetes MESSAGE: I have been diagnosed with diabetes.  I have been on the diet for a few months and
++++++++++++++++++++++++++++++
+What is the best treatment for scrotum swelling and scarring from water retention?
+##
+query 6: SUBJECT: I have a question about the use of the drug, Zoloft.  I have been taking it
++++++++++++++++++++++++++++++
+What is the treatment for constant vomiting in an 8 month old child?
+##
+query 6: SUBJECT: 200 mg of lithium carbonate MESSAGE: I have been taking 200
++++++++++++++++++++++++++++++
+What are the side effects of water pills?
+##
+query 6: SUBJECT: HOW TO GET RID OF A BURNT TONGUE MESSAGE: I HAVE A BURNT TONGUE AND
++++++++++++++++++++++++++++++
+What are the causes of postmenopausal bleeding?
+##
+query 6: SUBJECT: I have a question about the use of the drug, Ciprofloxacin. MESSAGE: I have a
++++++++++++++++++++++++++++++
+What are the treatments for myofibroma?
+##
+query 6: SUBJECT: "MESSAGE: I have a question about the medication, Zoloft. I have been taking it for about 10
++++++++++++++++++++++++++++++
+What are the best treatments for gout?
+##
+query 6: SUBJECT: Â MESSAGE: Â I have a question about the use of the drug Â Celebrex. Â
++++++++++++++++++++++++++++++
+Can IBS be cured?
+##
+query 6: SUBJECT: 200mg of Zoloft MESSAGE: I have been taking 200mg of Zoloft for about 10
++++++++++++++++++++++++++++++
+What are the treatments for thalassemia?
+##
+query 6: SUBJECT: I have a question about the treatment of a rare disease called "Congenital Adrenal Hyperplasia" MESSAGE: I
++++++++++++++++++++++++++++++
+What are the treatments for fibroids in pregnant women?
+##
+query 6: SUBJECT: I have a question about my son. MESSAGE: My son is 10 years old and has been having a
++++++++++++++++++++++++++++++
+What is the treatment for nerve tear in the leg?
+##
+query 6: SUBJECT: I have a question about the use of the drug, Ciprofloxacin. MESSAGE: I have a
++++++++++++++++++++++++++++++
+What are the treatments for hypertension?
+##
+query 6: SUBJECT: I have been diagnosed with a rare form of cancer called "Cutaneous T-Cell Lymphoma" and have been told that I
++++++++++++++++++++++++++++++
+What is the frequency of congenital ptosis in children?
+##
+query 6: SUBJECT: Pain MESSAGE: I have a question about pain. I have a friend who has a lot of pain in her legs.
++++++++++++++++++++++++++++++
+What are the treatments for a flap of skin that has separated from the skull?
+##
+query 6: I am a 60 year old male. I have been diagnosed with a large benign tumor on my
++++++++++++++++++++++++++++++
+What can be done to help a 20-year-old with GID find a life?
+##
+query 6: MESSAGE: I have a question about the use of the term "cure" in the context of
++++++++++++++++++++++++++++++
+What are the side effects of itraconazole?
+##
+query 6: I have a question about the use of the drug, Zoloft.  I have been on it for about 10 years.  I have
++++++++++++++++++++++++++++++
+What are the treatments for anorexia?
+##
+query 6: SUBJECT: I have a question about the use of the drug, Ciprofloxacin. I have been taking it for 10
++++++++++++++++++++++++++++++
+What is the inheritance pattern of Factor five?
+##
+query 6: SUBJECT: I have a question about my son's blood test results. MESSAGE: My son had a blood test done and the results were:
++++++++++++++++++++++++++++++
+What vaccinations should I get before traveling to Manila and Thailand?
+##
+query 6: SUBJECT: I have a question about the flu shot. MESSAGE: I have a question about the flu shot.
++++++++++++++++++++++++++++++
+Are there tests to determine if someone is taking flomax?
+##
+query 6: SUBJECT: 100mg of Cymbalta MESSAGE: I have been taking 100mg of C
++++++++++++++++++++++++++++++
+What are the risks of taking tasigna while pregnant?
+##
+query 6: SUBJECT: Help for my diagnose MESSAGE: I have been diagnosed with SCA3. I was wondering if Med
++++++++++++++++++++++++++++++
+What are the treatments for gastroesophageal reflux disease?
+##
+query 6: I have a question about the use of the term "syndrome" in medicine.  I have a friend who is
++++++++++++++++++++++++++++++
+Is it safe to take Relora if I have a seizure disorder?
+##
+query 6: I have a question about the use of the drug, Lyrica. I have been taking it for about 10 months
++++++++++++++++++++++++++++++
+What is the cause of irregular menstruation?
+##
+query 6: SUBJECT: Hair loss MESSAGE: I have been losing my hair for the past 10 years.  I have been to a dermatologist
++++++++++++++++++++++++++++++
+What are the causes of eye infections?
+##
+query 6: SUBJECT: 2012 MESSAGE: I am a 20 year old female. I have been having a lot of pain in my lower
++++++++++++++++++++++++++++++
+What are the causes of and treatments for nystagmus?
+##
+query 6: SUBJECT: 2016-01-28 12:00:00 MESSAGE: I have
++++++++++++++++++++++++++++++
+How long will recovery from a detached cruciate ligament in the left knee take?
+##
+query 6: SUBJECT: I have a detached cruciate ligament in my left knee. If I submit to
++++++++++++++++++++++++++++++
+What are the treatments for patchy skin and dullness?
+##
+query 6: I have a 10 year old son who has been diagnosed with ADHD.  He is on Ritalin and it is not
++++++++++++++++++++++++++++++
+Is it safe to play football with a stent in the carotid artery?
+##
+query 6: SUBJECT: 2012 MESSAGE: I have a question about the 2012 presidential
++++++++++++++++++++++++++++++
+What is sepsis-bowel perforation?
+##
+query 6: SUBJECT: What is the best way to treat a patient with a broken arm? MESSAGE: I am a student at the University of Texas at
++++++++++++++++++++++++++++++
+What is the best parent training class?
+##
+query 6: SUBJECT: I have a question about my son.  He is 10 years old and has been diagnosed with ADHD.  He is on medication and
++++++++++++++++++++++++++++++
+What is the treatment for a friable colon?
+##
+query 6: SUBJECT: 20 years old male MESSAGE: I have been having a problem with my right testicle for the past 2 years. I have
++++++++++++++++++++++++++++++
+What are the treatments for pill capsule camera for GI issues test?
+##
+query 6: SUBJECT: I have a question about the use of the term "syndrome" MESSAGE: I have a question
++++++++++++++++++++++++++++++
+What is the treatment for wandering/lazy eye?
+##
+query 6: SUBJECT: HOW TO GET A COPY OF MY MEDICAL RECORDS MESSAGE: I HAVE BEEN
++++++++++++++++++++++++++++++
+What should I do if my friend's platelet count is decreasing?
+##
+query 6: I have a question about the treatment of a patient with a chronic myelogenous leukemia (CML). I have
++++++++++++++++++++++++++++++
+What is Alzheimer's disease?
+##
+query 6: I have a question about the treatment of a patient with a rare disease. I am a medical student and I am doing a research on a rare disease called "Cong
++++++++++++++++++++++++++++++
+What are the causes of and treatments for 20/40 vision in one eye and 20/25 vision in the other?
+##
+query 6: SUBJECT: 20/20 vision MESS
++++++++++++++++++++++++++++++
+What are the treatments for elbow reconstruction?
+##
+query 6: SUBJECT: 2012 MESSAGE: I am a 2012 graduate of the University of Texas at Austin. I am
++++++++++++++++++++++++++++++
+How much of each ingredient is in the C-IBS Formulation?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been taking a medication
++++++++++++++++++++++++++++++
+Is it possible to catch TB from someone who does not have TB?
+##
+query 6: SUBJECT: 2016-01-29 16:52:00 MESSAGE:
++++++++++++++++++++++++++++++
+What are the treatments for Barr syndrome?
+##
+query 6: SUBJECT: HIV MESSAGE: I am a 25 year old male. I have been diagnosed with HIV. I have been taking
++++++++++++++++++++++++++++++
+What are the treatments for constipation?
+##
+query 6: SUBJECT: Cystic Fibrosis MESSAGE: I have a 10 year old son who has cystic fibrosis. He
++++++++++++++++++++++++++++++
+What are the treatments for obsessive-compulsive disorder?
+##
+query 6: I have a question about the treatment of a patient with a rare disease called "Congenital Adrenal Hyperplasia"
++++++++++++++++++++++++++++++
+What are the risks of getting a lap band after having an acid reflux surgery?
+##
+query 6: SUBJECT: 2017-06-27 16:22:02
++++++++++++++++++++++++++++++
+Can Malarone turn your tongue black?
+##
+query 6: SUBJECT: 2016-01-20 10:59:58 MESSAGE: I have a question about the treatment
++++++++++++++++++++++++++++++
+What are the side effects of co q10 and cider vinegar for blood pressure treatment?
+##
+query 6: SUBJECT: 2000 MESSAGE: I have been taking 2000 m
++++++++++++++++++++++++++++++
+What are the treatments for frontotemporal dementia?
+##
+query 6: SUBJECT: My name is [NAME] and I am a 25 year old female. I have been diagnosed with a rare form
++++++++++++++++++++++++++++++
+What is Lewy Body Disease?
+##
+query 6: I have a question about the treatment of a patient with a rare disease called "Cutaneous Lymphangiomatosis". I am a medical student and I
++++++++++++++++++++++++++++++
+What are the symptoms of cardiomyopathy?
+##
+query 6: SUBJECT: 30 yr old male MESSAGE: I am 30 yr old male. I have been having a problem
++++++++++++++++++++++++++++++
+Can you get herpes in other places besides the genitals and mouth?
+##
+query 6: I have a question about the treatment of a patient with a large, painful, and infected ingrown toenail.  I
++++++++++++++++++++++++++++++
+What is the recommended age for nerve conduction testing for a baby with Erb's palsy?
+##
+query 6: SUBJECT: Surgery MESSAGE: I have a question about surgery. I have
++++++++++++++++++++++++++++++
+What are the treatments for abdominal adhesions?
+##
+query 6: SUBJECT: MESSAGE: I am a 50 year old female who has been diagnosed with a 2cm tumor in my
++++++++++++++++++++++++++++++
+What are the treatments for stitches?
+##
+query 6: SUBJECT: I have a question about my son's ear. MESSAGE: My son has a hole in his ear. It is not a hole in
++++++++++++++++++++++++++++++
+What are the treatments for rheumatic mitral valve regurgitation?
+##
+query 6: SUBJECT: MESSAGE: I have been diagnosed with a rare form of cancer called Ewing's sarcom
++++++++++++++++++++++++++++++
+What are the symptoms of pulmonary embolism?
+##
+query 6: SUBJECT: MESSAGE: I have a question about the treatment of a patient with a large tumor in the right lung. The patient is
++++++++++++++++++++++++++++++
+What is the treatment for a burn scar on the stomach?
+##
+query 6: SUBJECT: I have a 11 year old grandson that does not seem to be growing normally with his age group. He has
++++++++++++++++++++++++++++++
+What is the treatment for Torch infection?
+##
+query 6: SUBJECT:  MESSAGE: I have a question about a patient who has been diagnosed with a rare disease called "Congenital Adrenal
++++++++++++++++++++++++++++++
+What is the best way to diagnose a TBI?
+##
+query 6: SUBJECT: Question about the use of antibiotics MESSAGE: I have a question about the use of antibiotics.  I
++++++++++++++++++++++++++++++
+What are the side effects of melatonin?
+##
+query 6: SUBJECT: Sleeping MESSAGE: I have been taking Melitonion to help me sleep. My PC has prescribed 20 meq
++++++++++++++++++++++++++++++
+What are the treatments for MMR vaccination?
+##
+query 6: SUBJECT: MESSAGE: I have a question about the treatment of a skin cancer. I have a small basal cell carcinoma on my
++++++++++++++++++++++++++++++
+How long does it take for the effects of sildenafil to wear off?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the study
++++++++++++++++++++++++++++++
+What happens if carbon dioxide levels are too high?
+##
+query 6: SUBJECT: Carbon dioxide. MESSAGE: What can happen if your level of carbon dioxide in your blood is up to
++++++++++++++++++++++++++++++
+What is the normal range for alpha 1 antitripsin?
+##
+query 6: SUBJECT: Cystic Fibrosis MESSAGE: I am a student in which I have to complete a case study on
++++++++++++++++++++++++++++++
+What are the treatments for torn tendons?
+##
+query 6: SUBJECT: stomach pain MESSAGE: I have been having stomach pain for about 2 weeks now. I have been to the doctor and
++++++++++++++++++++++++++++++
+What are the treatments for intestinal obstruction without surgery?
+##
+query 6: SUBJECT: 2015 MESSAGE: I am a 2015 graduate of the University of California,
++++++++++++++++++++++++++++++
+Is it possible to close a stoma?
+##
+query 6: MESSAGE: I have been diagnosed with bladder cancer and in [DATE] surgery radical cystoprostatectomy with bilateral PLND
++++++++++++++++++++++++++++++
+What are the side effects of Lyrica?
+##
+query 6: SUBJECT: HIV MESSAGE: I am 25 years old and I have been diagnosed with HIV. I have been taking Atripla
++++++++++++++++++++++++++++++
+What are the complications of lithotripsy?
+##
+query 6: SUBJECT: [NAME] MESSAGE: I am a 65 year old male who has been diagnosed with [DISEASE]
++++++++++++++++++++++++++++++
+What is the mechanism of action of Lofexidine?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information. MESSAGE: I have a question about Lofexidine
++++++++++++++++++++++++++++++
+What is Raynauds Syndrome?
+##
+query 6: SUBJECT: I have a question about the use of the drug, Ciprofloxacin. MESSAGE: I have a question about the
++++++++++++++++++++++++++++++
+What are the side effects of sertraline?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Suggestion MESSAGE: I have been diagnosed with chronic hypersensitivity pneum
++++++++++++++++++++++++++++++
+What is the best treatment for Glanzmann's thrombastinia?
+##
+query 6: SUBJECT: Sleep disorder MESSAGE: I have a sleep disorder. I have been diagnosed with sleep
++++++++++++++++++++++++++++++
+Is the medication Esterified Estrogens, Methyltestosterone gluten free?
+##
+query 6: SUBJECT: MESSAGE: I have been taking the medication for 10 years and I have
++++++++++++++++++++++++++++++
+Will my head grow to average size?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am a 52 year old female who has been diagnosed with a
++++++++++++++++++++++++++++++
+What can be done to help a patient who has lost the ability to taste and smell?
+##
+query 6: SUBJECT: 100% Disability MESSAGE: I am 67 years old and have been
++++++++++++++++++++++++++++++
+Why is my blood thickening as I age?
+##
+query 6: SUBJECT: 2012-01-18 15:50:09 MESSAGE: I have been diagnosed with
++++++++++++++++++++++++++++++
+How long does it take to develop testicular cancer? Is it curable? Will it affect fertility?
+##
+query 6: SUBJECT: 2000 MESSAGE: I had a 2000 m
++++++++++++++++++++++++++++++
+Is it safe for me to babysit my grandkids if I have a fever?
+##
+query 6: SUBJECT: MESSAGE: I have a question about the new vaccine for the flu.
++++++++++++++++++++++++++++++
+What can cause breathlessness?
+##
+query 6: "SUBJECT: CANCER. MESSAGE: I am 77  , nown case of dibetes 2 & BP both under control with
++++++++++++++++++++++++++++++
+What is the best treatment for loss of taste?
+##
+query 6: SUBJECT: MESSAGE: I have been taking 100mg of Cymbalta for 10 years.  I have been on
++++++++++++++++++++++++++++++
+What are the treatments for meniscus tears?
+##
+query 6: I have a question about my 10 year old son. He has been having a lot of pain in his left leg. He has been complaining of
++++++++++++++++++++++++++++++
+How can I be completely rid of a tapeworm infection?
+##
+query 6: I am a 28 year old female who has been diagnosed with a rare form of cancer called Ewing's sarcoma
++++++++++++++++++++++++++++++
+Is there any evidence based treatment for AML M1?
+##
+query 6: MESSAGE: I have a question about this page http://ghr.nlm.nih.gov/condition/down-syndrome
++++++++++++++++++++++++++++++
+What are the treatment options for a herniated disk?
+##
+query 6: SUBJECT: Quary about PSA tests MESSAGE: My grand father have examined PSA test value is 0.430 ng
++++++++++++++++++++++++++++++
+How can I be cured of herpes simplex virus?
+##
+query 6: SUBJECT: [NAME] MESSAGE: I am a 52 year old male. I have been diagnosed with a heart murmur
++++++++++++++++++++++++++++++
+What are the treatments for pulsatile tinnitus?
+##
+query 6: SUBJECT: Inherited Ricketts MESSAGE: Mother has inherited ricketts. Passing A child but not B child.
++++++++++++++++++++++++++++++
+What are the causes of diabetes and neuropathy?
+##
+query 6: "SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: I'm a 7
++++++++++++++++++++++++++++++
+Should I have an ultrasound on my left shoulder?
+##
+query 6: SUBJECT: I have a question about my son. He is 10 years old and has been having a lot of problems with his stomach
++++++++++++++++++++++++++++++
+What are the latest treatments for primary biliary cirrhosis?
+##
+query 6: SUBJECT: I have a question about my health MESSAGE: I have a question about my health. I am 21
++++++++++++++++++++++++++++++
+What are the symptoms of post-concussion syndrome, and what are the symptoms of occipital/trigeminal neuralgia?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question
++++++++++++++++++++++++++++++
+What are the treatments for atopic eczema?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a rare form of cancer
++++++++++++++++++++++++++++++
+Can a surgeon remove only the right lobe of the prostate?
+##
+query 6: I have a question about the use of the drug "Cipro".  I have been taking it for 2 weeks now and I
++++++++++++++++++++++++++++++
+What is sarcoidosis?
+##
+query 6: SUBJECT: Sleeping MESSAGE: I have a question about sleeping. I have a problem with sleeping. I have a hard time falling asleep and stay
++++++++++++++++++++++++++++++
+What are the best medications for treating diarrhea?
+##
+query 6: SUBJECT: 2000 MESSAGE: I have been taking 2000 mg of vitamin C for the
++++++++++++++++++++++++++++++
+What are the treatments for rheumatoid arthritis?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - general information.  I am looking for a doctor who can help me
++++++++++++++++++++++++++++++
+What are the treatments for xeroderma pigmentosum?
+##
+query 6: SUBJECT: Cerebellar Ataxia MESSAGE: I have been diagnosed with cerebellar ataxia
++++++++++++++++++++++++++++++
+How can I be treated for vitiligo?
+##
+query 6: MESSAGE: I have a question about the use of the drug, Ciprofloxacin. I have been taking it for 2 weeks
++++++++++++++++++++++++++++++
+What are the effects of chromium, cyanide, copper, nickel, and lead on the human body?
+##
+query 6: SUBJECT: I have a question MESSAGE: I have a question about the heart
++++++++++++++++++++++++++++++
+What is fish odor syndrome?
+##
+query 6: SUBJECT: HIV MESSAGE: I am a 28 year old male. I have been diagnosed with HIV. I have been on medication for
++++++++++++++++++++++++++++++
+Can I be tested for trimethylaminuria?
+##
+query 6: SUBJECT: I have a question about the use of the drug, Zoloft. I have been taking it for about 10 years. I have
++++++++++++++++++++++++++++++
+What is the latest research on collagenous gastritis?
+##
+query 6: SUBJECT: 2017-06-21 15:50:37 MESSAGE: I have been
++++++++++++++++++++++++++++++
+Is it possible to use umbilical cord blood to treat ALS?
+##
+query 6: SUBJECT: I have a question about my son's condition. MESSAGE: My son is 10 years old and has
++++++++++++++++++++++++++++++
+Is there a registry for children with uncomfortable hair syndrome?
+##
+query 6: MESSAGE: I am a 50 year old male. I have been diagnosed with a rare genetic disorder called C
++++++++++++++++++++++++++++++
+Why did the bladder slip out of the sling?
+##
+query 6: "SUBJECT: 2008-08-18 15:12:00 MESSAGE: I
++++++++++++++++++++++++++++++
+What are the new treatments for stiff person syndrome?
+##
+query 6: MESSAGE: I have been diagnosed with a rare disease called "Congenital Hypothyroidism" and I am currently on thy
++++++++++++++++++++++++++++++
+What are the causes and treatments for folliculitis?
+##
+query 6: MESSAGE: I have a question about the use of the drug, Zoloft. I have been taking it for about 10 years
++++++++++++++++++++++++++++++
+What are the treatments for kidney failure?
+##
+query 6: SUBJECT: I have a question about the use of antibiotics. I have a 10 year old son who has been on antibiotics
++++++++++++++++++++++++++++++
+What is congenital adrenal hyperplasia and what are the symptoms?
+##
+query 6: MESSAGE: I am a 24 year old female who has been diagnosed with a brain tumor. I
++++++++++++++++++++++++++++++
+How can I get back to work and my normal life?
+##
+query 6: SUBJECT: 10 year old boy with a history of seizures MESSAGE: I have a 10 year old boy with a
++++++++++++++++++++++++++++++
+Where can I find information on Klinefelter's syndrome?
+##
+query 6: SUBJECT: Question MESSAGE: I have a question about the treatment of a patient with a rare disease. I am a student in
++++++++++++++++++++++++++++++
+What are the treatments for inguinal hernia?
+##
+query 6: SUBJECT: MESSAGE: I have a question about the article "What is a Cochlear Implant?" I am a 50
++++++++++++++++++++++++++++++
+Where can I find information on 22q12q13 duplication?
+##
+query 6: SUBJECT: I have a question about the treatment of a 10 year old boy with a brain tumor.
++++++++++++++++++++++++++++++
+What are the treatments for lichen sclerosis?
+##
+query 6: SUBJECT: 2017 MESSAGE: I have been diagnosed with a 2017. I have been told that
++++++++++++++++++++++++++++++
+What can be done for a patient with Crohn's disease?
+##
+query 6: SUBJECT: I have a question about my son.  He is 10 years old and has been having problems with his stomach
++++++++++++++++++++++++++++++
+What is achondroplasia, and what are the treatments for it?
+##
+query 6: SUBJECT: I have a question about my son's condition MESSAGE: My son is 10 years old and
++++++++++++++++++++++++++++++
+What are the benefits of liposuction for lymphedema?
+##
+query 6: SUBJECT: [NAME] MESSAGE: I am a 16 year old male and I have a question about my pen
++++++++++++++++++++++++++++++
+Is there a connection between ankylosing spondylitis and osteoarthritis?
+##
+query 6: MESSAGE: I have been diagnosed with a rare form of cancer called Ewing's sarcom
++++++++++++++++++++++++++++++
+Where can I find information on familial dysautonomia?
+##
+query 6: SUBJECT: 2012-05-16 16:06:07 MESSAGE: I have
++++++++++++++++++++++++++++++
+What are the genetic factors for mental illness?
+##
+query 6: SUBJECT: [NAME] MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION], which has the Pel
++++++++++++++++++++++++++++++
+What are the causes of elephantiasis nostras verrucosa?
+##
+query 6: SUBJECT: 2012 MESSAGE: I have been diagnosed with 2012. I have
++++++++++++++++++++++++++++++
+What can I do to lower my copper levels?
+##
+query 6: I have a question about the use of the drug, Zoloft. I have been taking it for about 10 years. I have been diagnosed
++++++++++++++++++++++++++++++
+What is Hirschsprung's Disease in adults?
+##
+query 6: SUBJECT: 2000-2001 flu vaccine MESSAGE: I have a question about the
++++++++++++++++++++++++++++++
+What are the causes of hair loss?
+##
+query 6: SUBJECT: 1000000000000000000000000000000
++++++++++++++++++++++++++++++
+What is the latest research on XLCSNB?
+##
+query 6: SUBJECT: question about ingredients MESSAGE: I am currently taking 20mg generic Adderall immediate release from your company. Does
++++++++++++++++++++++++++++++
+How can I donate cord blood stem cells for my autistic son?
+##
+query 6: SUBJECT: Pain in my left leg MESSAGE: I have been having pain in my left leg for about 2 weeks now
++++++++++++++++++++++++++++++
+What are the treatments for endophtlamitis?
+##
+query 6: I am a 45 year old female who has been diagnosed with a rare form of cancer called Ewing's Sarcoma. I have
++++++++++++++++++++++++++++++
+Is it normal to develop hives after taking amoxicillin?
+##
+query 6: SUBJECT: 2016-05-16 15:17:00 MESSAGE: I
++++++++++++++++++++++++++++++
+What can I do if I am allergic to chocolate and green tea?
+##
+query 6: SUBJECT: MESSAGE: I have a question about the treatment of a patient with a rare disease.  I am
++++++++++++++++++++++++++++++
+What are the treatments for Klebsiella pneumoniae infection?
+##
+query 6: I have been diagnosed with a rare form of cancer called "Carcinoma Explectatum". I have been told that
++++++++++++++++++++++++++++++
+What is the latest research on Metachromatic leukodystrophy?
+##
+query 6: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am looking for a clinical
