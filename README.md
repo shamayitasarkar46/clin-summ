@@ -27,8 +27,7 @@ In addition to proprietary models GPT-3.5 and GPT-4, we adapt the following open
 - [Llama-2](https://huggingface.co/meta-llama/Llama-2-7b-hf)
 
 ## Code
-
-### Set-up
+All the code files are available in `src/code_files` folder
 
 
 ### Usage
