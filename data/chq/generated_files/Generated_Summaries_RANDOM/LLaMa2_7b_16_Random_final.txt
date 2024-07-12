@@ -1,0 +1,599 @@
+What are the treatments for a lower lip birthmark?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a rare form of cancer
++++++++++++++++++++++++++++++
+Is magnesium silicofluoride treatment of moth infestation harmful to people with chronic renal disease?
+##
+query 18: SUBJECT: 2000-2001 MESS
++++++++++++++++++++++++++++++
+What are the effects of Rhogam on the baby of an Rh- person?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am a 50
++++++++++++++++++++++++++++++
+What are the side effects of hydroxychloroquine for rheumatoid arthritis?
+##
+query 18: SUBJECT: I have a question about my son's ear. MESSAGE:
++++++++++++++++++++++++++++++
+Is there a relationship between gadolinium toxicity and MCS?
+##
+query 18: SUBJECT: 2014 MESSAGE: I have a question about the 2014 flu vacc
++++++++++++++++++++++++++++++
+What are the causes of and treatments for myclonus, acute respiratory distress syndrome, and sleep apnea?
+##
+query 18: SUBJECT: 100% pure honey MESS
++++++++++++++++++++++++++++++
+What are the treatments for multiple chemical sensitivity?
+##
+query 18: SUBJECT: I have a question about the treatment of a rare disease called "Cutaneous Lupus Erythematosus" MESS
++++++++++++++++++++++++++++++
+What are the benefits of drinking coffee?
+##
+query 18: SUBJECT: 1000 mg of vitamin C MESSAGE: I have been taking 1000 mg of vitamin C
++++++++++++++++++++++++++++++
+How long does it take to recover from COVID-19?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have been diagnosed with a rare form of
++++++++++++++++++++++++++++++
+What are the causes of flu-like symptoms that last longer than 13 days?
+##
+query 18: SUBJECT: 2014-03-17 16:57:07
++++++++++++++++++++++++++++++
+What are the treatments for shingles?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a 10 year old son who has been diagn
++++++++++++++++++++++++++++++
+Why does the United States have a higher mortality rate from Covid-19 than other countries?
+##
+query 18: SUBJECT: 100% cotton MESSAGE: I have a question about 1
++++++++++++++++++++++++++++++
+What are the side effects of testosterone injections?
+##
+query 18: SUBJECT: Cystic Fibrosis MESSAGE: I have a 10 year old son who has been diagnosed with C
++++++++++++++++++++++++++++++
+When should you start a new round of antibiotics?
+##
+query 18: SUBJECT: 2nd degree burns MESSAGE: I have a 2nd degree burn on my left leg.  I have
++++++++++++++++++++++++++++++
+What are the side effects of stopping olanzapine?
+##
+query 18: SUBJECT: Sleeping disorder MESSAGE: I have a sleeping disorder. I have been taking Ambien for 10
++++++++++++++++++++++++++++++
+What are the recommendations for quarantine after exposure to two positive COVID-19 cases?
+##
+query 18: SUBJECT: Pain in the left side of the chest MESSAGE: I have been experiencing
++++++++++++++++++++++++++++++
+What is sinus rhythm?
+##
+query 18: SUBJECT: 2014-02-11 12:06:00 MESSAGE: I have been diagnosed with a rare
++++++++++++++++++++++++++++++
+What are the treatments for forminal stenosis?
+##
+query 18: SUBJECT: Question MESSAGE: I have been diagnosed with a rare disease called [NAME] and I am looking for a doctor who special
++++++++++++++++++++++++++++++
+What are the treatments for knee pain?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the clinical trials.  I
++++++++++++++++++++++++++++++
+Is there an increased risk of infiltration, dislodgement, or phlebitis in a stroke patient with a peripheral intravenous catheter insertion in the affected extremity?
+##
+query 18: 
++++++++++++++++++++++++++++++
+What is a good blood glucose level?
+##
+query 18: MESSAGE: I have a question about the treatment of a patient with a brain tumor.  I have been told that the patient has a tumor
++++++++++++++++++++++++++++++
+What are the treatments for scrotum swelling and scarring from water retention?
+##
+query 18: SUBJECT: 2013-01-23 12:58:26
++++++++++++++++++++++++++++++
+What are the treatments for vomiting in children?
+##
+query 18: SUBJECT: 2013 MESSAGE: I am 20 years old and I have been diagnosed with a rare disease called C
++++++++++++++++++++++++++++++
+What electrolyte do you need to watch when someone is on a water pill?
+##
+query 18: SUBJECT: 2014-01-01 16:10:06 GMT
++++++++++++++++++++++++++++++
+Why am I bleeding after menopause?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the clinical trials. I have
++++++++++++++++++++++++++++++
+What are the treatments for myofibroma?
+##
+query 18: SUBJECT: I have a question about the drug, [DRUG NAME] MESSAGE: I have a question about the drug, [DR
++++++++++++++++++++++++++++++
+What are the causes of and treatments for knee pain after knee replacement surgery?
+##
+query 18: SUBJECT: 2009-2010 Flu Shot MESSAGE: I am
++++++++++++++++++++++++++++++
+What are the treatments for irritable bowel syndrome?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a rare form
++++++++++++++++++++++++++++++
+What are the treatments for anemia?
+##
+query 18: SUBJECT: 2000 mg of vitamin c MESSAGE: I have been taking 2000 mg of vitamin c
++++++++++++++++++++++++++++++
+What are the treatment options for fibroids in pregnant women?
+##
+query 18: SUBJECT: HIV MESSAGE: I have been diagnosed with HIV and I am on medication. I have been
++++++++++++++++++++++++++++++
+What are the treatments for nerve damage in the legs?
+##
+query 18: SUBJECT: MESSAGE: I have been diagnosed with a rare disease called Cushing's Disease.  I have been
++++++++++++++++++++++++++++++
+What are the treatments for hypertension?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a [AGE] and a [AGE] boys who
++++++++++++++++++++++++++++++
+What are the causes and treatments of ptosis?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a rare disease called "C
++++++++++++++++++++++++++++++
+What are the treatments for a flap of skin that has separated from the skull?
+##
+query 18: SUBJECT: 2015-03-19 10:50:00
++++++++++++++++++++++++++++++
+What are the treatments for GID?
+##
+query 18: SUBJECT: 20 year old male MESSAGE: I am a 20 year old male. I have been having a problem with my testicles
++++++++++++++++++++++++++++++
+What are the side effects of itraconazole and what are the risks of congestive heart failure?
+##
+query 18: SUBJECT: 2014-2015 Flu Vaccine
++++++++++++++++++++++++++++++
+What are the treatments for anorexia nervosa?
+##
+query 18: SUBJECT: I have a question about my son's medication. MESSAGE: My son is 12 years old and has
++++++++++++++++++++++++++++++
+What are the treatments for factor V Leiden?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a rare disease called "C
++++++++++++++++++++++++++++++
+What vaccinations should I get before traveling to Manila and Thailand?
+##
+query 18: SUBJECT: 2014-2015 Flu Vaccine MESSAGE: I am
++++++++++++++++++++++++++++++
+NO OUTPUT. ERROR
+##
+query 18: 
++++++++++++++++++++++++++++++
+What are the risks of taking tasigna while pregnant?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a
++++++++++++++++++++++++++++++
+What are the treatments for gastroesophageal reflux disease?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years
++++++++++++++++++++++++++++++
+Is it safe to take Relora if I have a seizure disorder?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with
++++++++++++++++++++++++++++++
+What are the causes of irregular menstrual cycles?
+##
+query 18: SUBJECT: 200mg of 5-HTP MESSAGE: I have been taking 200mg of
++++++++++++++++++++++++++++++
+What are the causes and treatments for eye floaters?
+##
+query 18: SUBJECT: Pain in the back of the head MESSAGE: I have been having pain in the back of my head for about 2
++++++++++++++++++++++++++++++
+What are the treatments for nystagmus?
+##
+query 18: SUBJECT: 'low levels of 10 lipids may predict dementia' MESSAGE: I am a trained scientist who's
++++++++++++++++++++++++++++++
+How long will recovery from cruciate ligament reconstruction surgery take?
+##
+query 18: SUBJECT: 100% pure honey MESSAGE: I am a 52 year old male. I
++++++++++++++++++++++++++++++
+What are the treatments for patchy skin?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a relative that have onset of type 2 di
++++++++++++++++++++++++++++++
+Can I play football with a stent in my neck?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a 10 year old son who has
++++++++++++++++++++++++++++++
+What is sepsis-bowel perforation?
+##
+query 18: SUBJECT: 2012-06-19 14:52:04 MESSAGE: I have a
++++++++++++++++++++++++++++++
+What are the treatments for oppositional defiant disorder and ADHD?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been taking 1
++++++++++++++++++++++++++++++
+What are the treatments for friable back passage?
+##
+query 18: SUBJECT: 2015 MESSAGE: I have a question about the 2015 flu vaccine.  I have
++++++++++++++++++++++++++++++
+What is the procedure for a pill capsule camera for GI issues?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have been diagnosed with a rare
++++++++++++++++++++++++++++++
+What are the treatments for wandering/lazy eye?
+##
+query 18: SUBJECT: 20mg generic Adderall MESSAGE: I am currently taking 20mg generic Adderall
++++++++++++++++++++++++++++++
+What are the treatments for chronic myelogenous leukemia?
+##
+query 18: SUBJECT: 2008-09-19 12:00:00 MESSAGE
++++++++++++++++++++++++++++++
+What are the treatments for Alzheimer's disease?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I am 55 years old and have been
++++++++++++++++++++++++++++++
+What are the treatments for 20/40 vision in one eye and 20/25 vision in the other?
+##
+query 18: SUBJECT: 20/200 vision MESSAGE
++++++++++++++++++++++++++++++
+What is the treatment for elbow reconstruction?
+##
+query 18: SUBJECT: 200mg of aspirin daily MESSAGE: I am 62 years old and have been taking 20
++++++++++++++++++++++++++++++
+How much of each ingredient is in the C-IBS Formulation?
+##
+query 18: SUBJECT: 2000 mg of vitamin C MESSAGE: I have been taking 20
++++++++++++++++++++++++++++++
+What are the treatments for tuberculosis?
+##
+query 18: SUBJECT: 100% Disability MESSAGE: I have been on disability for 10 years.  I have been diagn
++++++++++++++++++++++++++++++
+What are the treatments for Barr syndrome and Crohn's disease?
+##
+query 18: SUBJECT: HIV MESSAGE: I am a 45 year old male. I have been diagnosed with
++++++++++++++++++++++++++++++
+How do you give an enema?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am 52 years old. How current are your studies and find
++++++++++++++++++++++++++++++
+NO OUTPUT. ERROR
+##
+query 18: 
++++++++++++++++++++++++++++++
+What are the treatments for acid reflux and what are the complications of surgery to treat it?
+##
+query 18: I have a question about my son.  He is 12 years old and has been
++++++++++++++++++++++++++++++
+What are the side effects of malarone?
+##
+query 18: SUBJECT: 23andme MESSAGE: I have been trying to get my results from 23andme for a couple of months now
++++++++++++++++++++++++++++++
+What are the side effects of coq10 and cider vinegar for blood pressure?
+##
+query 18: SUBJECT: 2012-01-18 15:00:0
++++++++++++++++++++++++++++++
+Where can I find information on Frontotemporal dementia - temporal variant?
+##
+query 18: SUBJECT: 2014-03-19 16:00:00 MESS
++++++++++++++++++++++++++++++
+What are the symptoms of Lewy body disease?
+##
+query 18: SUBJECT: 2013-06-19 16:00:00 MESSAGE: I have been diagn
++++++++++++++++++++++++++++++
+What are the causes of cardiomyopathy?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a rare disease called "
++++++++++++++++++++++++++++++
+Can herpes be acquired in the arm or leg, and can dental professionals who have acquired the virus in their hands be immune to further contraction of the virus?
+##
+query 18: SUBJECT: 20
++++++++++++++++++++++++++++++
+What is the recommended age for nerve conduction test for Erb's palsy?
+##
+query 18: SUBJECT: 2000 mg of vitamin C MESSAGE: I have been taking
++++++++++++++++++++++++++++++
+What are the treatments for abdominal adhesions?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the clinical trials
++++++++++++++++++++++++++++++
+How can I get my 17-month-old to keep a bandage on his finger?
+##
+query 18: SUBJECT: I have a question about my son's condition. MESSAGE: My son is
++++++++++++++++++++++++++++++
+What are the treatments for mitral valve regurgitation?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a rare disease
++++++++++++++++++++++++++++++
+What causes blood clots and vomiting blood?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am looking for any treatments that have been found to work
++++++++++++++++++++++++++++++
+What are the treatments for stomach burns?
+##
+query 18: SUBJECT: 2000 mg of vitamin C MESSAGE: I have been taking 2000 mg of
++++++++++++++++++++++++++++++
+What are the treatments for torch infection?
+##
+query 18: SUBJECT: Ãºlcera bucal por efectos de la radio terapia MESSAGE: What should I do if I have a
++++++++++++++++++++++++++++++
+What is the best imaging modality for detecting brain injury?
+##
+query 18: SUBJECT: 1000 mg of vitamin C MESSAGE: I have been taking 1000 m
++++++++++++++++++++++++++++++
+What are the treatments for low potassium?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am a 55 year old female who has been
++++++++++++++++++++++++++++++
+What are the risks of getting a second dose of MMR vaccine?
+##
+query 18: SUBJECT: 2nd dose of MMR vaccine MESSAGE: My daughter got the MMR
++++++++++++++++++++++++++++++
+How long does it take for sildenafil to wear off?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I'm 33 years old and
++++++++++++++++++++++++++++++
+What are the effects of carbon dioxide in the blood?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am a 60 year old female who
++++++++++++++++++++++++++++++
+What does a high alpha 1 antitrypsin level mean?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a 16 year old
++++++++++++++++++++++++++++++
+What are the symptoms of a torn tendon, and how can they be treated?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed
++++++++++++++++++++++++++++++
+What are the treatments for intestinal obstruction?
+##
+query 18: SUBJECT: Ãºlcera bucal por efectos de la radio terapia MESSAGE: What should I do if I have
++++++++++++++++++++++++++++++
+What are the treatments for bladder cancer?
+##
+query 18: SUBJECT: 2015 MESSAGE: I have been diagnosed with a rare form of cancer called "Merkel Cell Carcin
++++++++++++++++++++++++++++++
+Can I take Lyrica if I have bipolar disorder?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with bip
++++++++++++++++++++++++++++++
+What are the complications of lithotripsy?
+##
+query 18: SUBJECT: MESSAGE: I have a question about the use of the drug, [NAME] in the treatment of [DISEASE
++++++++++++++++++++++++++++++
+Where can I find information about Lofexidine?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about Lofexidine.
++++++++++++++++++++++++++++++
+What causes Raynaud's syndrome?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am keen to know about stem cell bio-engineering technology
++++++++++++++++++++++++++++++
+What are the side effects of sertraline?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have tarlov cyst disease but most 11
++++++++++++++++++++++++++++++
+What are the treatments for Glanzmann's thrombastinia?
+##
+query 18: SUBJECT: MESSAGE: I have a question about the treatment of a patient with a fractured femur
++++++++++++++++++++++++++++++
+Is the medication Esterified Estrogens, Methyltestosterone gluten free?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have
++++++++++++++++++++++++++++++
+What is the treatment for a small head?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have a question about the study.  I have a 1
++++++++++++++++++++++++++++++
+What are the treatments for loss of taste and smell?
+##
+query 18: SUBJECT: Re: [NAME] MESSAGE: I have been taking [MEDICATION] for a few years now and I have
++++++++++++++++++++++++++++++
+What are the causes of thick blood?
+##
+query 18: SUBJECT: Ãºlcera bucal MESSAGE: What should I do if I have a cold sore? and treatments I use
++++++++++++++++++++++++++++++
+What are the treatments for testicular cancer?
+##
+query 18: SUBJECT: 2016-09-29 14:52:04 MESSAGE: I have a question about
++++++++++++++++++++++++++++++
+What are the symptoms of a cold?
+##
+query 18: SUBJECT: 2013-03-28 16:27:00 MESSAGE: I have a question about the
++++++++++++++++++++++++++++++
+What are the causes of breathlessness?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the ClinicalTrials.gov website
++++++++++++++++++++++++++++++
+What are the treatments for loss of taste?
+##
+query 18: SUBJECT: 2013-08-27 15:16:20 MESSAGE: I have been diagnosed
++++++++++++++++++++++++++++++
+What are the treatments for meniscus tear?
+##
+query 18: SUBJECT: 2009-2010 Flu Season MESSAGE: I have a question about the 200
++++++++++++++++++++++++++++++
+What are the treatments for tapeworm infection?
+##
+query 18: SUBJECT: HIV MESSAGE: I am a 40 year old male. I have been having a lot of pain in my
++++++++++++++++++++++++++++++
+Can ayurvedic treatment be used to treat AML?
+##
+query 18: SUBJECT: 2014-2015 flu vaccine MESSAGE: I am a 65 year old
++++++++++++++++++++++++++++++
+What are the options for surgical treatment of a herniated disk?
+##
+query 18: SUBJECT: [NAME] MESSAGE: [NAME] is a Brazilian, [LOCATION] resident in [LOCATION
++++++++++++++++++++++++++++++
+What are the treatments for herpes simplex virus?
+##
+query 18: SUBJECT: I have a question about the use of the drug, Ciprofloxacin. MESSAGE: I have a
++++++++++++++++++++++++++++++
+What are the treatments for pulsatile tinnitus?
+##
+query 18: SUBJECT: 2009-2010 Flu Vaccine MESSAGE: I am a 55
++++++++++++++++++++++++++++++
+What are the causes of diabetes and neuropathy?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been taking a medication for
++++++++++++++++++++++++++++++
+Should I have an ultrasound on my left shoulder?
+##
+query 18: SUBJECT: 46,X,dir dup(X)(q13-q26) MESSAGE: Hi I am from
++++++++++++++++++++++++++++++
+What are the latest treatments for primary biliary cirrhosis?
+##
+query 18: SUBJECT: Pain in the back of the head MESSAGE: I have a pain in the back of my head.
++++++++++++++++++++++++++++++
+What are the treatments for post concussion syndrome and occipital/trigeminal neuralgia?
+##
+query 18: SUBJECT: MESSAGE: I have been diagnosed with a rare disease called "
++++++++++++++++++++++++++++++
+What are the treatments for atopic eczema?
+##
+query 18: SUBJECT: HIV MESSAGE: I have been diagnosed with HIV and I am currently on medication. I have been told
++++++++++++++++++++++++++++++
+What are the treatments for prostate cancer?
+##
+query 18: SUBJECT: 2017 MESSAGE: I have been diagnosed with a 1.5 cm tumor in my right kidney.
++++++++++++++++++++++++++++++
+What are the causes and treatments for sarcoidosis?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a rare disease called
++++++++++++++++++++++++++++++
+What are the treatments for diarrhea?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a 10 year old son who has been
++++++++++++++++++++++++++++++
+What are the treatments for rheumatoid arthritis?
+##
+query 18: SUBJECT: 2009-2010 Flu Vaccine MESSAGE: I am a
++++++++++++++++++++++++++++++
+What are the treatments for xeroderma pigmentosum type C?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about
++++++++++++++++++++++++++++++
+What are the treatments for vitiligo?
+##
+query 18: SUBJECT: 2012-06-22 15:52:29 MESSAGE: I have a question about
++++++++++++++++++++++++++++++
+What are the effects of chromium, cyanide, copper, nickel, and lead on the human body?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESS
++++++++++++++++++++++++++++++
+Where can I find information on fish odor syndrome?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am a 65 year old male with a
++++++++++++++++++++++++++++++
+What is trimethylaminuria and what are the treatments?
+##
+query 18: SUBJECT: 2008-2009 H1N1 Flu MESSAGE: I have been sick for
++++++++++++++++++++++++++++++
+What are the treatments for collageneous gastritis?
+##
+query 18: SUBJECT: 2013-05-16 16:19:37 MESSAGE: I
++++++++++++++++++++++++++++++
+Can cord blood be used to treat ALS?
+##
+query 18: SUBJECT: 2014-01-29 16:05:06 MESSAGE: I have been diagnosed
++++++++++++++++++++++++++++++
+Is there a registry for uncomfortable hair syndrome?
+##
+query 18: SUBJECT: 100% pure organic coconut oil MESSAGE: I have been using coconut oil for a
++++++++++++++++++++++++++++++
+Why did my bladder slip out of the sling after bladder sling surgery?
+##
+query 18: SUBJECT: 2014-05-21 17:57
++++++++++++++++++++++++++++++
+How can I find out about the latest treatments for stiff person syndrome?
+##
+query 18: SUBJECT: Question MESSAGE: I have a question about the study. I have a 10 year old son
++++++++++++++++++++++++++++++
+What are the treatments for folliculitis?
+##
+query 18: SUBJECT: Treatment for Nodular Goiter MESSAGE: Hi,  I'm suffering from nodular goiter. The size
++++++++++++++++++++++++++++++
+What are the treatments for kidney failure?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the clinical trials.  I
++++++++++++++++++++++++++++++
+What is congenital adrenal hyperplasia?
+##
+query 18: SUBJECT: I have been diagnosed with a rare disease called CREST syndrome.  I have been on prednisone for 1
++++++++++++++++++++++++++++++
+What are the treatments for rheumatoid arthritis?
+##
+query 18: SUBJECT: 2015-03-18 12:37:28 MESSAGE
++++++++++++++++++++++++++++++
+What are the treatments for Klinefelter syndrome?
+##
+query 18: SUBJECT: 2014-01-23 14:16:19 MESSAGE: I have
++++++++++++++++++++++++++++++
+Where can I find a surgeon to remove abdominal adhesions and mesh from a previous inguinal hernia repair?
+##
+query 18: SUBJECT: 100% pure organic coconut
++++++++++++++++++++++++++++++
+What are the treatments for 22q12q13 duplication?
+##
+query 18: SUBJECT: 22q12q13 duplication MESSAGE: I would like to find out
++++++++++++++++++++++++++++++
+What are the treatments for lichen sclerosis?
+##
+query 18: SUBJECT: Cystic Fibrosis MESSAGE: I have a 16 year old son who has CF.  He
++++++++++++++++++++++++++++++
+What are the treatments for Crohn's disease?
+##
+query 18: SUBJECT: [NAME] MESSAGE: I am a 28 year old female who has been diagnosed with a rare form of cancer
++++++++++++++++++++++++++++++
+What are the treatments for achandroplasia?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am a 50 year old female who has been
++++++++++++++++++++++++++++++
+What are the treatments for chronic lymphedema?
+##
+query 18: SUBJECT: Cystic Fibrosis MESSAGE: I am a 16 year old girl who has cystic
++++++++++++++++++++++++++++++
+Can osteoarthritis of the wrist occur in ankylosing spondylitis?
+##
+query 18: SUBJECT: Cystic Fibrosis MESSAGE: I have a 10
++++++++++++++++++++++++++++++
+Where can I find information on familial dysautonomia?
+##
+query 18: SUBJECT: 2012 MESSAGE: I am a 62 year old male. I have been diagnosed with
++++++++++++++++++++++++++++++
+Where can I find a DNA test for mental illness?
+##
+query 18: SUBJECT:  MESSAGE:  I have been diagnosed with a rare form of cancer called  Ewing's sarcoma.
++++++++++++++++++++++++++++++
+What are the treatments for elephantiasis nostras verrucosa?
+##
+query 18: SUBJECT: 2012-01-26 15:26:04 -
++++++++++++++++++++++++++++++
+What are the causes of low copper levels?
+##
+query 18: SUBJECT: 2000 mg of vitamin C MESSAGE: I have been taking 2000 mg of vitamin
++++++++++++++++++++++++++++++
+What is Hirschsprung's disease?
+##
+query 18: SUBJECT: 100% disabled veteran MESSAGE: I am a 100% disabled veteran. I have been diagnosed
++++++++++++++++++++++++++++++
+What are the treatments for baldness?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have a question about the clinical trials. I have a
++++++++++++++++++++++++++++++
+What is the latest research on XLCSNB?
+##
+query 18: SUBJECT: Hydrosis MESSAGE: Help w/extreme sweating on head and chest. Sometimes feet cold rest body sweating
++++++++++++++++++++++++++++++
+Where can I find information on cord blood stem cells?
+##
+query 18: SUBJECT: 100% pure hemp oil MESSAGE: I am looking for a 100% pure hemp oil.
++++++++++++++++++++++++++++++
+What are the risks of surgery in a surgical suite with poor air circulation?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - specific study MESSAGE: I have been diagn
++++++++++++++++++++++++++++++
+What are the side effects of Amoxicillin and Clavulanate potassium?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have
++++++++++++++++++++++++++++++
+What are the ingredients in the smoothies?
+##
+query 18: SUBJECT: 200mg of lithium carbonate MESSAGE: I have been taking 200mg of l
++++++++++++++++++++++++++++++
+Is ertanpenem safe to use in patients with seizures?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I am a 55 year old
++++++++++++++++++++++++++++++
+What is the treatment for metachromatic leukodystrophy?
+##
+query 18: SUBJECT: ClinicalTrials.gov - Question - general information MESSAGE: I have been diagnosed with a
