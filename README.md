@@ -4,7 +4,7 @@ Name: Shamayita Sarkar (student of University of Calcutta)
 - Title: **Exploring In-context Learning in Patient Questions Summarization**
 - Here we have focused only on the Patient Questions portion from `chq`(Consumer/Patient Health Query) dataset of `data/` folder and selected ICL(In-context Learning) examples for each of the 150 test samples. The ICL examples are taken from the training set(`data/chq/train.jsonl`) for each of 150 test samples(`data/chq/test.jsonl`). Examples are taken in the order of 1,2,4,8,16(i.e. 2^x where x = 0,1,2,....) and in two different methods, these examples are selected: Random & Similar.
 - Also, the ROUGE-L scores are evaluated for the Generated summaries of both Similar and Random samples.
-  
+-  The code files are stored in `src/code_files` folder and Generated txt files are stored in `data/chq/generated_files` folder
 
 
 # Clinical Text Summarization by Adapting LLMs | Nature Medicine
