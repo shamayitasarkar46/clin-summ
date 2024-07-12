@@ -7,4 +7,3 @@ This folder contains all the code files used in reproducing output summaries bas
 6. The Output summaries are stored in folder `data/chq/generated_files/Generated_Summaries_SIMILAR` and `data/chq/generated_files/Generated_Summaries_RANDOM` respectively.
 7. Finally, the ROUGE scores are evaluated for each of the generated summaries & the performance evaluation is compared with that of Original Clinsumm Codebase.
 8. The ROUGE score evaluation file is stored in `src/code_files/ROUGE_evaluation_final.ipynb`
-
