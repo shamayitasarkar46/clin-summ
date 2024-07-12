@@ -8,13 +8,11 @@ Name: Shamayita Sarkar (student of University of Calcutta)
 
 
 # Clinical Text Summarization by Adapting LLMs | Nature Medicine
-
 Official implementation from Stanford University<br>
 - <b> Title: </b>[Adapted Large Language Models Can Outperform Medical Experts in Clinical Text Summarization](https://arxiv.org/pdf/2309.07430.pdf)<br>
 - <b>Authors: </b>[Dave Van Veen](https://davevanveen.com/), Cara Van Uden, Louis Blankemeier, Jean-Benoit Delbrouck, Asad Aali, Christian Bluethgen, Anuj Pareek, Malgorzata Polacin, Eduardo Pontes Reis, Anna Seehofnerova Nidhi Rohatgi, Poonam Hosamani, William Collins, Neera Ahuja, Curtis P. Langlotz, Jason Hom, Sergios Gatidis, John Pauly, Akshay S. Chaudhari 
 - <b>Contact: </b>{vanveen} [at] stanford [dot] edu<br>
 
-<img src='data/overview.png'/>
 
 
 ## Datasets
@@ -30,21 +28,6 @@ In addition to proprietary models GPT-3.5 and GPT-4, we adapt the following open
 All the code files are available in `src/code_files` folder
 
 
-### Usage
-
-Below is a description of relevant scripts:
-
-- `./main.sh`: Fine-tune open-source models, query, and compute metrics
-- `python api/main.py`: Query OpenAI models and compute metrics
-    - first enter information for your Azure deployment in `src/constants.py` via `RESOURCE` and `API_KEY`
-- `python src/gen_faiss_idx.py`: (new datasets only) Determine set of nearest neighbors training examples for each sample. Alternatively you can sample training examples at random.
-- `src/UMLSScorer.py`: Class definition for the MEDCON metric. To implement, follow these steps:
-    1) Acquire approval for a [UMLS license](https://www.nlm.nih.gov/research/umls/index.html)
-    2) Follow the [UMLS download instructions](https://github.com/Georgetown-IR-Lab/QuickUMLS)
-    3) Adapt the provided script, `src/UMLSScorer.py`
-    4) Call using the following two lines:
-        - `scorer = UMLSScorer()`
-        - `medcon_score = scorer(string1, string2)`
 
 ## Citation
 
