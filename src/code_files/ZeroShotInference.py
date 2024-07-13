@@ -32,7 +32,7 @@ system_message = """You are an expert medical professional.
 #llm_names = ["LLM 1", "LLM 2", "LLM 3"]
 
 api_keys = ["EMPTY"]
-endpoint_urls = ["https://bff6-130-75-152-24.ngrok-free.app/"] #mistral,llama
+endpoint_urls = ["https://bff6-130-75-152-24.ngrok-free.app/"] #mistral,llama        #Replace this with relevant URL
 llm_names = []
 
 for api_key, endpoint_url in zip(api_keys, endpoint_urls):
@@ -122,9 +122,6 @@ txt_files.sort(key=extract_number)
 
 
 
-
-
-
 for txt_file in txt_files:
 # Iterate over each file in the directory
             try:
@@ -133,7 +130,6 @@ for txt_file in txt_files:
                     max_tokens = 50
                     top_p = 0.8
                     temp = 0.1
-                #llamam tokenizer on user_query.........max_tokens=56+len(obtained from llama tokenizer)
             
                     tmp_list = compare_llm_outputs(user_query,top_p, max_tokens,temp)
                     
