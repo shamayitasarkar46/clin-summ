@@ -32,7 +32,7 @@ system_message = """You are an expert medical professional.
 #llm_names = ["LLM 1", "LLM 2", "LLM 3"]
 
 api_keys = ["EMPTY"]
-endpoint_urls = ["https://bff6-130-75-152-24.ngrok-free.app/"] #mistral,llama        #Replace this with relevant URL
+endpoint_urls = ["YOUR_END_POINT_URL"] #mistral,llama        #Replace this with your endpoint URL
 llm_names = []
 
 for api_key, endpoint_url in zip(api_keys, endpoint_urls):
